@@ -1,0 +1,119 @@
+Thalassemia
+Thalassemia
+Thalassemia
+Classifications and external resources
+ICD-10
+D56.
+ICD-9
+282.4
+Thalassemia (American English) or thalassaemia (British English) is an inherited disease of the red blood cells. In thalassemia, the genetic defect results in reduced rate of synthesis of normal globin chains (c.f. hemoglobinopathy, which is a structural change in a globin chain leading to instability or abnormal oxygen transport). The blood cells are vulnerable to mechanical injury and die easily. Blood transfusions on a regular basis (two to three week intervals) are used by many patients to cope with the disease and maintain a healthier lifestyle than living with no treatment; bone marrow transplants can be performed if the transfusion's main side effect - build-up of iron - itself begins to be a problem. A bone marrow transplant requires careful matching to avoid rejection and further complications.
+The disease's geographical association with the Mediterranean sea was responsible for its naming: Thalassa is Greek for the sea, Haima is Greek for blood. Thalassemia occurs in all populations and ethnic groups, however the prevalence differs among different populations.
+Contents
+1 Classification
+2 Prevalence
+2.1 Alpha (?) thalassemias
+2.2 Beta (?) thalassemias
+2.3 Delta (?) thalassemia
+2.4 In combination with other hemoglobinopathies
+3 Treatment and complications
+3.1 Thalassemia Major and Intermedia
+3.2 Thalassemia Minor
+4 Thalassemia prevention and management
+5 Benefits
+6 Famous people
+7 References
+8 External links
+[edit]
+Classification
+The thalassemias are classified according to which chain of the globin molecule is affected: in ? thalassemia, the production of ? globin is deficient, while in ? thalassemia the production of ? globin is defective. Thalassemia produces a deficiency of ? or ? globin, unlike sickle-cell disease which produces a specific mutant form of ? globin.
+[edit]
+Prevalence
+The estimated prevalence is 16% in people from Cyprus, 3-14% in Thailand, and 3-8 % in populations from India, Pakistan, Bangladesh, and China.There are also prevalances in people from Latin America,Carribean descent,and people bordering countries in the Mediterranean(i.e. Spain) A lower prevalence has been reported from black people in Africa (0.9%) and northern Europe (0.1%).(4)
+[edit]
+Alpha (?) thalassemias
+The alpha thalassemias involve the genes HBA1 (Mendelian Inheritance in Man (OMIM) 141800) and HBA2 (Mendelian Inheritance in Man (OMIM) 141850), inherited in a Mendelian recessive fashion. It is also connected to the deletion of the 16p chromosome. ? thalassemias result in excess ? chain production in adults and excess ? chains in newborns. The excess ? chains form unstable tetramers that have abnormal oxygen dissociation curves.
+There are four genetic loci for ? globin. The more of these loci that are deleted or affected by mutation, the more severe will be the manifestations of the disease:
+If all four loci are affected, the fetus cannot live once outside the uterus: most such infants are dead at birth with hydrops fetalis, and those who are born alive die shortly after birth. They are edematous and have little circulating hemoglobin, and the hemoglobin that is present is all tetrameric ? chains (hemoglobin Barts). Usually, this involves homozygous inheritance of an alpha thalassemia trait, type 1.
+If three loci are affected, Hemoglobin H disease results. Two unstable hemoglobins are present in the blood, both hemoglobin Barts (tetrameric ? chains) and hemoglobin H (tetrameric ? chains). There is a microcytic hypochromic anemia with target cells and Heinz bodies (precipitated Hb H) on the peripheral blood smear. The disease may first be noticed in childhood or in early adult life, when the anemia and splenomegaly are noted. This is usually due to compound heterozygous inheritance of alpha thalassemia type 1 and type 2 traits.
+If two of the four ? loci are affected, alpha thalassemia trait, type 1 results. Two ? loci permit nearly normal erythropoiesis, though there is a mild microcytic hypochromic anemia. There is a high prevalence (about 30%) of deletion of one of the two ? loci on chromosomes of people of recent African origin, and so the inheritance of two such chromosomes is not uncommon. The disease in this form can be mistaken for iron deficiency anemia and treated inappropriately with iron. Two modes of alpha thalassemia trait, type 1 has been noted. One involves cis deletion of two alpha loci on the same chromosome; another involves trans deletion of allelelic genes on homologous chromosomes (no. 16).
+If one of the four ? loci is affected, alpha minor or alpha+ thalassemia trait or alpha thalassemia trait, type 2 results and there is minimal effect. Three ?-globin loci are enough to permit normal hemoglobin production, and there is no anemia or hypochromia in these people. They have been called ? thalassemia carriers.
+[edit]
+Beta (?) thalassemias
+Beta thalassemia (also known as Cooley's Anemia) is due to mutations in the HBB gene on chromosome 11 (Mendelian Inheritance in Man (OMIM) 141900), also inherited in a Mendelian recessive fashion. In ? thalassemia, excess ? chains are produced, but these do not form tetramers: rather, they bind to the red blood cell membranes producing membrane damage, and at high concentrations have the tendency to form toxic aggregates. The severity of the damage depends on the nature of the mutation. Some mutations (?o) prevent any formation of ? chains; others (?+) allow some ? chain formation to occur. Recently, increasing reports suggest that up to 5% of patients with beta-thalassemias produce fetal hemoglobin (HbF), and use of hydroxyurea also has a tendency to increase the production of HbF, by as yet unexplained mechanisms.
+Any given individual has two ? globin alleles:
+If both have thalassemia mutations, a severe microcytic, hypochromic anemia called ? thalassemia major or Cooley's anemia results. Untreated, this results in death before age twenty: treatment consists of periodic blood transfusion; splenectomy if splenomegaly is present, and treatment of transfusion-caused iron overload. Cure is possible by bone marrow transplantation.
+If only one ? globin allele bears a mutation, ? thalassemia minor results (sometimes referred to as ? thalassemia trait). This is a mild anemia with microcytosis. Symptoms include weakness and fatigue - in most cases ? thalassemia minor may be asymptomatic and many people may be unaware they have this disorder. Detection usually involves counting the mean corpuscular volume (size of red blood cells) and noticing a slightly decreased mean volume than normal.
+Thalassemia intermedia is a condition intermediate between the major and minor forms. Sufferers can often manage a normal life but may need occasional transfusions e.g. at times of illness or pregnancy. This really depends on the severity of their anemia.
+The actual genetic cause of ? thalassemias are actually very diverse and a number of different mutations can cause reduced or absent ? globin synthesis. Usually, superscripts 0 and + are added to ? to indicate complete absence, and deficient synthesis of ? globins respectively.
+Mainly there are two forms of genetic defects which produce ? thalassemias:
+Nondeletion forms: These defects generally involve a single base substitution or small deletion or inserts near or upstream of the ? globin gene. Most commonly, mutations occur in the promoter regions preceding the beta-globin genes. Less often, abnormal splice variants are believed to contribute to the disease.
+Deletion forms: Deletions of different sizes involving the ? globin gene produce different syndromes such as (?o) or hereditary persistence of fetal hemoglobin syndromes.
+[edit]
+Delta (?) thalassemia
+As well as alpha and beta chains being present in hemoglobin about 3% of adult hemoglobin is made of alpha and delta chains. The gene for delta chains is very close to the gene for beta hemoglobin and damage to this gene can also affect the beta chain gene, thus delta thalassemia is usually very similar in effect to Beta thalassemia.
+[edit]
+In combination with other hemoglobinopathies
+Thalassemia can co-exist with other hemoglobinopathies. The most common of these are:
+hemoglobin E/thalassemia: common in Cambodia, Thailand, and parts of India; clinically similar to ? thalassemia major or thalassemia intermedia.
+hemoglobin S/thalassemia, common in African and Mediterranean populations; clinically similar to sickle cell anemia, with the additional feature of splenomegaly
+hemoglobin C/thalassemia: common in Mediterranean and African populations, hemoglobin C/?o thalassemia causes a moderately severe hemolytic anemia with splenomegaly; hemoglobin C/?+ thalassemia produces a milder disease.
+[edit]
+Treatment and complications
+Anyone with thalassemia should consult a properly qualified hematologist.
+Thalassemias may co-exist with other deficiencies such as folic acid (or folate, a B-complex vitamin) and iron deficiency (only in Thalassemia Minor).
+[edit]
+Thalassemia Major and Intermedia
+Thalassemia Major patients receive frequent blood transfusions that lead to iron overload. Iron chelation treatment is necessary to prevent iron overload damage to the internal organs in patients with Thalassemia Major. Because of recent advances in iron chelation treatments, patients with Thalassemia Major can live long lives if they have access to proper treatment. Popular chelators include deferoxamine and deferiprone. Of the two, deferoxamine is preferred; it is associated with fewer side-effects.[1]
+The most common complaint by patients is that it is difficult to comply with the intravenous chelation treatments because they are painful and inconvenient. The oral chelator deferasirox (marketed as Exjade) was recently approved for use in some countries and may offer some hope with compliance.
+Untreated thalassemia Major eventually leads to death usually by heart failure, therefore birth screening is very important.
+In recent years, bone marrow transplant has shown promise with some patients of thalassemia major. Successful transplant can eliminate the patients dependencies in transfusions.
+All Thalassemia patients are prone to health complications that involve the spleen (which is often enlarged and frequently removed) and gall stones. These complications are mostly prevalent to thalassemia Major and Intermedia patients.
+Thalassemia Intermedia patients vary a lot in their treatment needs depending on the severity of their anemia.
+[edit]
+Thalassemia Minor
+Contrary to popular belief, Thalassemia Minor patients should not avoid iron-rich foods by default. A serum ferritin test can determine what their iron levels are and guide them to further treatment if necessary. Thalassemia Minor, although not life threatening on its own, can affect quality of life due to the effects of a mild to moderate anemia. Studies have shown that thalassemia Minor often coexists with other diseases such as asthma[2], and even bipolar disorder[3].
+[edit]
+Thalassemia prevention and management
+? and ? thalassemia are often inherited in an autosomal recessive fashion although this is not always the case. Reports of dominantly inherited ? and ? thalassemias have been reported the first of which was in an Irish family who had a two deletions of 4 and 11 bp in exon 3 interrupted by an insertion of 5 bp in the ?-globin gene. For the autosomal recessive forms of the disease both parents must be carriers in order for a child to be affected. If both parents carry a hemoglobinopathy trait, there is a 25% chance with each pregnancy for an affected child. Genetic counseling and genetic testing is recommended for families that carry a thalassemia trait.
+There are an estimated 60-80 million people in the world who carry the beta thalassemia trait alone. This is a very rough estimate and the actual number of thalassemia Major patients is unknown due to the prevalence of thalassemia in less developed countries in the Middle East and Asia. Countries such as India, Pakistan and Iran are seeing a large increase of thalassemia patients due to lack of genetic counseling and screening. There is growing concern that thalassemia may become a very serious problem in the next 50 years, one that will burden the world's blood bank supplies and the health system in general. There are an estimated 1,000 people living with Thalassemia Major in the United States and an unknown number of carriers. Because of the rarity of the disease in countries with little knowledge of thalassemia, access to proper treatment and diagnosis can be difficult.
+As with other genetically acquired disorders, aggressive birth screening and genetic counseling is recommended.
+A screening policy exists on both sides of the island of Cyprus to reduce the incidence of thalassemia, which since the program's implementation in the 1970s (which also includes pre-natal screening and abortion) has reduced the number of children born with the hereditary blood disease from 1 out of every 158 births to almost zero.[4]
+[edit]
+Benefits
+Being a carrier of the disease may confer a degree of protection against malaria, and is quite common among people from Italian or Greek origin, and also in some African and Indian regions. This is probably by making the red blood cells more susceptible to the less lethal species Plasmodium vivax, simultaneously making the host RBC environment unsuitable for the merozoites of the lethal strain Plasmodium falciparum. This is believed to be a selective survival advantage for patients with the various thalassemia traits. In that respect it resembles another genetic disorder, sickle-cell disease.
+Epidemiological evidence from Kenya suggests another reason: protection against severe anemia may be the advantage.[5].
+People diagnosed with heterozygous (carrier) Beta-Thalassemia have some protection against coronary heart disease.
+[edit]
+Famous people
+Former professional tennis player Pete Sampras is known to be a Thalassemia minor patient.
+Former professional football (soccer) player Zinedine Zidane is known to be a Thalassemia minor patient.
+Rabbi Kohan Shalomim Y. Halahawi, Founder of the African Hebrew Israelite Community Ha' Yisrayli Torah Brith Yahad, and Doctor of Electro-homeopathic Medicine MD(AM), Edenic-Light Natural Medicine Research Foundation, is known to have Thalassemia B+.
+[edit]
+References
+? Maggio A, D'Amico G, et al. (2002). "Deferiprone versus deferoxamine in patients with thalassemia major: a randomized clinical trial". Blood Cells Mol Dis 28 (2): 196–208. PMID 12064916.
+? Palma-Carlos AG, Palma-Carlos ML, Costa AC (2005). ""Minor" hemoglobinopathies: a risk factor for asthma". Allerg Immunol (Paris) 37 (5): 177–82.
+? Brodie BB (2005). "Heterozygous ?-thalassaemia as a susceptibility factor in mood disorders: excessive prevalence in bipolar patients". Clin Pract Epidemiol Mental Health 1: 6. DOI:10.1186/1745-0179-1-6.
+? Leung NT, Lau TK, Chung TKH (2005). "Thalassemia screening in pregnancy". Curr Opinion in Ob Gyn 17: 129–34.
+? Wambua S, Mwangi TW, Kortok M, Uyoga SM, Macharia AW, Mwacharo JK, Weatherall DJ, Snow RW, Marsh K, Williams TN (2006). "The effect of ?+-Thalassaemia on the Incidence of Malaria and other diseases in children living on the coast of Kenya". PLoS Med 3(5): e158..
+[edit]
+External links
+Mendelian Inheritance in Man (OMIM) 141900 (beta-thalassemia), Mendelian Inheritance in Man (OMIM) 141800 (alpha-thalassemia)
+Cooley's Anemia Foundation Leading the fight against thalassemia
+Northern Comprehensive Thalassemia Center: Provides information about the disease and related matters.
+Thalassemia Free Pakistan, A private charity foundation providing research material, and support for thalassemic patients and their families
+Thalassemia Overview (Latest Research)
+Thalassemia Patients and Friends: Message board for those affected.
+Thalforum.com - Thalassemia Community Forum: Thalassemia Discussion Forum for Thalassemia Patients, Families and Care-givers.
+Thalassemia Foundation of Canada:
+Hemoglobal A fully registered Canadian charity providing medical aid to Sri Lankan children with thalassemia.
+Thalassemia Support Foundation Helping Patients Find Hop
+Health science - Medicine - Hematology
+Hematological malignancy and White blood cells
+Lymphoid: Lymphocytic leukemia (ALL, CLL) | Lymphoma (Hodgkin's disease, NHL) | LPD | Myeloma (Multiple myeloma, Extramedullary plasmacytoma)
+Myeloid: Myelogenous leukemia (AML, CML) | MPD (Essential thrombocytosis, Polycythemia) | MDS | Myelofibrosis | Neutropenia
+Red blood cells
+Anemia | Hemochromatosis | Sickle-cell disease | Thalassemia | Hemolysis | Aplastic anemia | G6PD Deficiency | Hereditary spherocytosis | Hereditary elliptocytosis | Other hemoglobinopathies
+Coagulation and Platelets
+Thrombosis | Deep vein thrombosis | Pulmonary embolism | Hemophilia | ITP | TTP | DIC
+Retrieved from "http://localhost../../../art/a/o/t.html"
+This text comes from Wikipedia the free encyclopedia. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. For a complete list of contributors for a given article, visit the corresponding entry on the English Wikipedia and click on "History" . For more details about the license of an image, visit the corresponding entry on the English Wikipedia and click on the picture.
