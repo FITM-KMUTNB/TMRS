@@ -1,0 +1,470 @@
+cancer|NN cancer|NN cancer|NN external resource|NN normal cell|NN damage repair|NN eliminate apoptosis|NN
+cancer|NN cell|NN avoid apoptosis|NN continue multiply unregulate manner|NN medlineplus|NN c04 cancer|NN class|NN disease|NN disorder|NN characterize uncontrol division|NN cell|NN ability|NN cell|NN invade tissue|NN direct growth|NN adjacent tissue|NN invasion|NN implantation|NN distant site|NN metastasis|NN
+define stage|NN cancer|NN cell|NN transport bloodstream|NN lymphatic system|NN
+cancer|NN affect people|NN age|NN risk|NN tend increase age|NN due fact|NN dna|NN damage|NN become apparent age dna|NN
+principal cause|NN death|NN develop country|NN
+type|NN cancer|NN
+severity|NP symptom|NN depend site|NN character|NN malignancy|NN metastasis|NN
+definitive diagnosis|NN usually require histologic examination|NN tissue|NN pathologist|NN
+tissue|NN obtain biopsy|NN surgery|NN
+cancer|NN treate cure specific type|NN location|NN stage|NN
+diagnose cancer|NN usually treate combination|NN surgery|NN chemotherapy|NN radiotherapy|NN
+research|NN develop treatment|NN becom specific type|NN cancer|NN pathology|NN
+drug|NN target|NN specific cancer|NN exist cancer|NN
+untreate cancer|NN eventually cause illness|NN death|NN alway case|NN
+unregulate growth|NN characterize cancer|NN cause damage|NN dna|NN result mutation|NN gene|NN encode protein|NN control cell|NN division|NN
+mutation|NN event|NN require transform normal cell|NN malignant cell|NN
+mutation|NN cause chemical|NN physical agent|NN call carcinogen|NN close exposure|NN radioactive material|NN certain viruse|NN insert dna|NN human genome|NN
+mutation|NN occur spontaneously pass generation|NN result|NN mutation|NN germ|NN line|NN
+carcinogen|NN appear work pathway|NN affect level|NN transcription|NN certain gene|NN cause genetic mutation|NN
+form|NN cancer|NN associate exposure|NN environmental factor|NN tobacco|NN smoke|NN radiation|NN alcohol|NN certain viruse|NN
+risk|NN factor|NN avoid reduce known way|NN entirely avoid disease|NN
+content|NN history|NN nomenclature|NN classification|NN adult|NN cancer|NN childhood|NN cancer|NN cause|NN pathophysiology|NN origin|NN cancer|NN molecular biology|NN morphology|NN lifestyle|NN factor|NN epidemiology|NN prevention|NN diet|NN cancer|NN chemoprevention agent|NN genetic test|NN cancer|NN sign|NN symptom|NN biopsy|NN screen|NN treatment|NN cancer|NN surgery|NN monoclonal antibody|NN therapy|NN radiation|NN therapy|NN suppression|NN control|NN treatment|NN trial|NN cancer|NN vaccine|NN complementary alternative medicine|NN cope cancer|NN social impact|NN cancer|NN research|NN see reference|NN external link|NN professional research|NN support|NN advocacy|NN edit|NN history|NN today greek term|NN carcinoma|NN medical term|NN malignant tumor|NN derive epithelial cell|NN
+celsus|NP translate latin cancer|NN mean|NN crab|NN
+galen|NP use onco describe tumour|NN root|NN modern word|NN oncology|NN
+breast|NN cancer|NN mastectomy|NN specimen|NN top|NN
+cancerous tumour|NN pale yellow|NN resemble figure|NN crab|NN give disease|NN name|NN
+hippocrates|NP describe kind|NN cancer|NN
+call benign tumour|NN greek|NN swell|NN malignant tumour|NN greek|NN crab|NN crayfish|NN
+name|NN probably come appearance|NN cut|NN surface|NN solid malignant tumour|NN roundish hard center|NN surround pointy projection|NN vaguely resemble shape|NN crab|NN see photo|NN
+later ad suffix|NN greek|NN swell|NN give name|NN carcinoma|NN
+greek tradition|NN open body|NN hippocrate|NN describe made draw|NN outwardly visible tumor|NN skin|NN nose|NN breast|NN
+treatment|NN base humor theory|NN bodily fluid|NN black yellow bile|NN blood|NN phlegm|NN
+patient|NN treatment|NN consist diet|NN blood-let|NN laxative|NN
+century|NN discover cancer|NN occur anywhere body|NN humor-theory|NN base treatment|NN remain popular century|NN discovery|NN cell|NN
+treatment|NN remain century|NN became acceptable doctor|NN dissect body|NN discover cause|NN death|NN
+german professor|NN wilhelm|NP fabry|NP believe breast|NN cancer|NN cause milk|NN clot|NN mammary duct|NN
+dutch professor|NN francois|NP de|NP la|NP boe|NP follower|NN descartes|NP believe disease|NN outcome|NN chemical process|NN acidic lymph|NN fluid|NN cause|NN cancer|NN
+contemporary nicolae|NN believe cancer|NN poison|NN slowly spread conclude contagious
+widespread use|NN microscope|NN century|NN discover cancer|NN poison|NN spread|NN primary tumor|NN lymph|NN node|NN site|NN metastasis|NN
+use|NN surgery|NN treat cancer|NN poor result|NN due problem|NN hygiene|NN
+renown scottish surgeon|NN alexander|NP monro|NP saw breast|NN tumor|NN patient|NN survive surgery|NN year|NN
+century|NN improve surgical hygiene|NN survival|NN statistics|NN went surgical removal|NN tumor|NN became primary treatment|NN cancer|NN
+exception|NN william|NP coley|NP late felt rate|NN cure|NN surgery|NN higher asepsis|NN inject bacteria|NN tumor|NN mix result|NN cancer|NN treatment|NN became dependent individual art|NN surgeon|NN remove tumor|NN
+period|NN idea|NN body|NN made various tissue|NN turn|NN made cell|NN laid rest humor-theory|NN chemical imbalance|NN body|NN
+age|NN cellular pathology|NN born
+marie|NP curie|NP pierre|NP curie|NP discover radiation|NN end|NN century|NN stumble effective non-surgical cancer|NN treatment|NN
+radiation|NN came sign|NN multi-disciplinary approache|NN cancer|NN treatment|NN
+surgeon|NN longer operate|NN isolation|NN work together hospital|NN help patient|NN
+complication|NN communication|NN brought along necessity|NN patient|NN treatment|NN hospital|NN facility|NN home|NN create parallel process|NN compil patient data|NN hospital|NN file|NN turn|NN led statistical patient|NN study|NN
+cancer|NN patient|NN treatment|NN study|NN restrict individual physician|NN practice|NN world|NN war|NN medical research|NN center|NN discover large international difference|NN disease|NN incidence|NN
+insight|NN drove national public health|NN body|NN make possible compile health|NN data|NN practise|NN hospital|NN process|NN country|NN today
+japanese medical community|NN observe bone|NN marrow|NN bomb|NN victim|NN hiroshima|NP nagasaki|NP completely destroy
+conclude disease bone|NN marrow|NN destroy radiation|NN led discovery|NN bone|NN marrow|NN transplant|NN
+wwiy|NN trend|NN cancer|NN treatment|NN improve micro-level|NN exist treatment|NN method|NN standardize globalize way|NN find cure|NN epidemiology|NN international partnership|NN
+edit|NN nomenclature|NN classification|NN follow closely relate term|NN use designate abnormal growth|NN scientific designation|NN cancerous disease|NN
+group|NN contain large number|NN different disease|NN
+benign malignant
+cancer|NN widely use word|NN usually understood synonymous malignant neoplasm|NN
+occasionally use instead carcinoma|NN sub-group|NN malignant neoplasm|NN
+overwhelm popularity|NN relative|NN neoplasia|NN use frequently instead neoplasia|NN even scientist|NN physician|NN especially discuss neoplastic disease|NN group|NN
+tumor medical language|NN simply mean swell lump|NN neoplastic inflammatory
+common language|NN synonymous benign malignant
+inaccurate neoplasm|NN usually form example|NN carcinoma|NN
+disturbance|NN associate neoplasm|NN relate invasion|NN primary secondary metastatic tumour|NN
+disturbance|NN hormonal neurological biochemical otherwise clinical
+classify type|NN cell|NN resemble tumor|NN therefore tissue|NN presume origin|NN tumor|NN
+follow general category|NN usually accept malignant tumor|NN derive epithelial cell|NN
+group|NN represent common cancer|NN common form|NN breast|NN prostate|NN lung|NN colon|NN cancer|NN
+malignant tumor|NN derive blood|NN bone|NN marrow|NN cell|NN malignant tumor|NN derive connective tissue|NN mesenchymal cell|NN tumor derive mesothelial cell|NN line peritoneum|NN pleura|NN
+tumor|NN derive glia|NN common type|NN brain|NN cell|NN germinoma|NN derive germ|NN cell|NN normally found testicle|NN ovary|NN malignant tumor|NN derive placenta|NN tumor|NN usually name use latin greek root|NN organ|NN prefix|NN above category|NN name|NN suffix|NN
+instance|NN malignant tumor|NN liver|NN cell|NN call malignant tumor|NN fat cell|NN call
+common cancer|NN english organ|NN name|NN use
+instance|NN common type|NN breast|NN cancer|NN call carcinoma|NN breast|NN ductal carcinoma|NN
+adjective|NN ductal|NN refer appearance|NN cancer|NN microscope|NN resemble normal breast|NN duct|NN
+name use -oma suffix|NN
+instance|NN benign tumor|NN smooth muscle|NN uterus|NN call common name|NN frequent tumor|NN fibroid
+nomenclature|NN somewhat inconsistent malignant tumor|NN growth|NN suffix|NN name|NN eg lymphoma|NN melanoma|NN
+edit|NN adult|NN cancer|NN usa|NP develop country|NN cancer|NN presently responsible death|NN
+yearly basis|NN population|NN diagnose cancer|NN
+statistics|NN adult|NN united|NP states|NP vary substantially country|NN male female|NN common cause|NN death|NN common cause|NN death|NN prostate|NN cancer|NN lung|NN cancer|NN breast|NN cancer|NN lung|NN cancer|NN lung|NN cancer|NN prostate|NN cancer|NN lung|NN cancer|NN breast|NN cancer|NN colorectal cancer|NN colorectal cancer|NN colorectal cancer|NN colorectal cancer|NN bladder|NN cancer|NN pancreatic cancer|NN endometrial cancer|NN ovarian cancer|NN cutaneous melanoma|NN non-hodgkin|NP lymphoma|NN pancreatic cancer|NN edit|NN childhood|NN cancer|NN cancer|NN occur young children|NN adolescent|NN rare
+study|NN conclude cancer|NN especially upward trend|NN
+age|NN peak|NN incidence|NN cancer|NN children|NN occur year|NN life|NN
+usually common infant|NN malignancy|NN follow central nervous system|NN cancer|NN neuroblastoma|NN
+remainder|NN consist tumor|NN lymphoma|NN arise muscle|NN retinoblastoma|NN sarcoma|NN
+female male infant|NN essentially overal cancer|NN incidence|NN rate|NN white infant|NN substantially higher cancer|NN rate|NN black infant|NN cancer|NN type|NN
+relative survival|NN infant|NN good wilm tumor|NN retinoblastoma|NN fairly good type|NN cancer|NN
+edit|NN cause|NN pathophysiology|NN edit|NN origin|NN cancer|NN cell|NN division|NN cell|NN proliferation|NN physiological process|NN occur tissue|NN circumstance|NN
+normally balance|NN proliferation|NN program cell|NN death|NN tightly regulate ensure integrity|NN organ|NN tissue|NN
+mutation|NN dna|NN lead|NN cancer|NN disrupt orderly process|NN
+uncontrol rapid proliferation|NN cell|NN lead benign tumor|NN malignant tumor|NN cancer|NN
+spread part|NN body|NN invade tissue|NN rarely threat|NN life|NN extrinsically compress vital structure|NN
+invade organ|NN spread distant location|NN become life-threaten
+type|NN cancer|NN non-humans|NP found contageous parasitic cancer|NN sarcoma|NN affect dog|NN
+closest known analog|NN human|NN individual|NN caught cancer|NN hide|NN organ|NN transplant|NN study|NN find type|NN cancer|NN dog|NN contagious
+edit molecular biology|NN cause series|NN mutation|NN
+mutation|NN alter behavior|NN cell|NN somewhat
+mean initiation|NN generation|NN cancer|NN process|NN derangement|NN rate|NN cell|NN division|NN due damage|NN dna|NN
+cancer|NN ultimately disease|NN gene|NN
+order|NN cell|NN start divide uncontrollably gene|NN regulate cell|NN growth|NN damage
+gene|NN promote cell|NN growth|NN mitosis|NN process|NN cell|NN division|NN tumor|NN suppressor|NN gene|NN discourage cell|NN growth|NN temporarily halt|NN cell|NN division|NN order|NN carry dna|NN repair|NN
+typically series|NN mutation|NN gene|NN require normal cell|NN transform cancer|NN cell|NN
+promote cell|NN growth|NN variety|NN way|NN
+produce hormone|NN chemical messenger|NN cell|NN encourage mitosis|NN effect|NN depend signal|NN transduction|NN receive tissue|NN cell|NN
+responsible signal|NN transduction|NN system|NN signal|NN receptor|NN cell|NN tissue|NN control sensitivity|NN hormone|NN
+produce involve transcription|NN dna|NN protein|NN synthesis|NN create protein|NN enzyme|NN responsible produce product|NN biochemical cell|NN use|NN interact
+mutation|NN proto-oncogene|NN modify expression|NN function|NN increase amount|NN activity|NN product|NN protein|NN
+happen become oncogene|NN cell|NN higher chance|NN divide excessively uncontrollably
+chance|NN cancer|NN reduce remove genome|NN critical growth|NN repair|NN homeostasis|NN body|NN
+become mutate signal|NN growth|NN become excessive
+suppressor|NN gene|NN code|NN anti-proliferation signal|NN protein|NN suppress mitosis|NN cell|NN growth|NN
+generally tumor|NN transcription|NN factor|NN activate cellular stress|NN dna|NN damage|NN
+dna|NN damage|NN cause presence|NN free-float genetic material|NN well sign|NN trigger enzyme|NN pathway|NN lead activation|NN tumor|NN suppressor|NN gene|NN
+function|NN gene|NN arrest progression|NN cell|NN cycle|NN order|NN carry dna|NN repair|NN prevent mutation|NN pass daughter|NN cell|NN
+tumor|NN include protein|NN transcription|NN factor|NN activate cellular stressor|NN hypoxia|NN ultraviolet radiation|NN damage|NN
+nearly cancer|NN possibly involve alteration|NN tumor|NN suppressor|NN function|NN poorly understood
+clear function|NN nuclear role|NN transcription|NN factor|NN cytoplasmic role|NN cell|NN cycle|NN division|NN regulation|NN apoptosis|NN
+warburg|NP effect|NN preferential use|NN glycolyisis|NN energy|NN sustain cancer|NN growth|NN show regulate shift|NN respiratory glycolytic pathway|NN
+synthesis|NN cytochrome|NN recognize downstream mediator|NN effect|NN
+critical regulate cytochrome|NN oxidase|NN complex|NN mitochondria|NN disrupt sco2 gene|NN
+regulation|NN sco2|NN mitochondrial respiration|NN provide possible explanation|NN warburg|NP effect|NN
+mutation|NN damage tumor|NN suppressor|NN gene|NN signal|NN pathway|NN activate switch
+invariable consequence|NN dna|NN repair|NN hinder inhibit dna|NN damage|NN accumulate repair|NN inevitably lead cancer|NN
+general mutation|NN type|NN gene|NN require cancer|NN occur
+example|NN mutation|NN limit oncogene|NN suppress normal mitosis|NN control|NN tumor|NN suppressor|NN gene|NN hypothesise knudson hypothesis|NN
+mutation|NN tumor|NN suppressor|NN gene|NN cause cancer|NN due presence|NN backup|NN gene|NN duplicate function|NN
+mutate oncogene|NN tumor|NN suppressor|NN gene|NN damage signal|NN cell|NN growth|NN overwhelm signal|NN regulate cell|NN growth|NN quickly spiral control|NN
+gene|NN regulate process|NN prevent damage|NN gene|NN rate|NN mutation|NN increase|NN get older dna|NN damage|NN form feedback|NN loop|NN
+hit|NN model|NN recently challeng investigator|NN
+inactivation|NP allele|NN tumor|NN suppressor|NN gene|NN sufficient cause
+phenomenon|NN call demonstrate number|NN experimental approache|NN
+cause usually later age|NN onset|NN compare hit|NN process|NN
+usually oncogene|NN dominant contain mutation|NN mutate tumor|NN recessive contain mutation|NN
+cell|NN copy|NN gene|NN parent|NN case|NN gain|NN function|NN mutation|NN copy|NN particular proto-oncogene|NN make gene|NN true oncogene|NN usually loss|NN function|NN mutation|NN need happen copy|NN tumor|NN suppressor|NN gene|NN render gene|NN completely
+case|NN exist loss|NN function|NN copy|NN tumor|NN suppressor|NN gene|NN render copy|NN
+phenomenon|NN call dominant negative effect|NN observe mutation|NN
+mutation|NN tumor|NN suppressor|NN gene|NN pass generation|NN merely cell|NN offspr|NN cause increase likelihood|NN cancer|NN inherit
+member|NN family|NN increase incidence|NN decrease latency|NN multiple tumor|NN
+mode|NN inheritance|NN mutant|NN tumor|NN suppressor|NN affect member|NN inherit defective copy|NN parent|NN normal copy|NN
+mutation|NN tumor|NN suppressor|NN gene|NN act|NN recessive manner|NN exception|NN loss|NN normal copy|NN create cancer|NN phenotype|NN
+instance|NN individual|NN heterozygous mutation|NN victim|NN syndrome|NN heterozygous rb|NP mutation|NN develop retinoblastoma|NN
+similarly mutation|NN gene|NN link colon|NN cancer|NN polyp|NN colon|NN young mutation|NN brca1|NN lead|NN early onset|NN breast|NN cancer|NN
+cancer|NN pathology|NN ultimately due accumulation|NN dna|NN mutation|NN negatively effect|NN expression|NN tumour|NN suppressor|NN protein|NN positively effect|NN expression|NN protein|NN drive cell|NN cycle|NN
+substance|NN cause mutation|NN known mutagen|NN cause|NN cancer|NN known carcinogen|NN
+particular substance|NN link specific type|NN cancer|NN
+tobacco|NN smoke|NN associate lung|NN cancer|NN
+prolong exposure|NN radiation|NN particularly ultraviolet radiation|NN sun|NN lead melanoma|NN skin|NN malignancy|NN
+breath|NN asbesto|NN fiber|NN associate
+general term|NN chemical|NN call free radical|NN known cause mutation|NN
+type|NN mutation|NN cause chronic inflammation|NN neutrophil|NN granulocyte|NN secrete free radical|NN damage|NN dna|NN
+chromosomal philadelphia|NP chromosome|NN special type|NN mutation|NN involve exchange|NN different chromosome|NN
+mutagen|NN carcinogen|NN carcinogen|NN mutagen
+example|NN carcinogen|NN mutagen include alcohol|NN estrogen|NN
+thought promote cancer|NN stimulate effect|NN rate|NN cell|NN mitosis|NN
+faster rate|NN mitosis|NN increasingly leave opportunity|NN repair|NN enzyme|NN repair damage dna|NN dna|NN replication|NN increase likelihood|NN genetic mistake|NN
+mistake|NN made mitosis|NN lead daughter|NN cell|NN receive wrong number|NN chromosome|NN lead aneuploidy|NN lead cancer|NN
+furthermore cancer|NN originate viral infection|NN especially true animal|NN bird|NN human|NN viruse|NN responsible human cancer|NN worldwide
+main viruse|NN associate human cancer|NN human papillomavirus|NN hepatitis|NN virus|NN virus|NN human t-lymphotropic|NN virus|NN
+experimental epidemiological data|NN imply causative role|NN viruse|NN appear second|NN important risk|NN factor|NN cancer|NN development|NN human|NN exceed tobacco|NN usage|NN
+mode|NN tumor|NN divide
+acutely transform viruse|NN viral particle|NN carry gene|NN encode overactive oncogene|NN call v-onc|NN infect cell|NN transform soon express
+contrast|NN slowly-transform viruse|NN virus|NN genome|NN insert especially viral genome|NN insertion|NN obligatory part|NN retroviruse|NN proto-oncogene|NN host|NN genome|NN
+viral promoter|NN transcription|NN regulation|NN element|NN turn|NN cause|NN overexpression|NN proto-oncogene|NN turn|NN induce uncontrol cellular proliferation|NN
+viral genome|NN insertion|NN specific proto-oncogene chance|NN insertion|NN proto-oncogene|NN low viruse|NN long tumor|NN latency|NN compare acutely-transform viruse|NN carry viral-oncogene|NN
+impossible tell initial cause|NN specific cancer|NN
+help|NN molecular biological technique|NN possible characterize mutation|NN chromosomal aberration|NN tumor|NN rapid progress|NN made field|NN predict prognosis|NN base spectrum|NN mutation|NN case|NN
+example|NN tumor|NN defective gene|NN
+mutation|NN associate poor prognosis|NN tumor|NN cell|NN likely go apoptosis|NN program cell|NN death|NN damage therapy|NN
+mutation|NN remove additional barrier|NN extend number|NN time|NN cell|NN divide
+mutation|NN enable tumor|NN grow new blood|NN vessel|NN provide nutrient|NN spread|NN part|NN body|NN
+tumor cell|NN distinct property|NN evade apoptosis|NN unlimit growth|NN potential|NN due overabundance|NN self-sufficiency|NN growth|NN factor|NN insensitivity|NN anti-growth factor|NN increase cell|NN division|NN rate|NN alter ability|NN differentiate ability|NN contact|NN inhibition|NN ability|NN invade neighbour tissue|NN ability|NN build metastase|NN distant site|NN ability|NN promote blood|NN vessel|NN growth|NN angiogenesis|NN cell|NN degenerate tumor|NN cell|NN usually acquire property|NN descendant|NN cell|NN select build
+process|NN call clonal evolution|NN
+step|NN development|NN tumor|NN cell|NN usually small change|NN dna|NN point|NN mutation|NN lead genetic instability|NN cell|NN
+instability|NN increase point|NN cell|NN lose whole chromosome|NN multiple copy|NN
+dna|NN methylation|NN pattern|NN cell|NN change|NN activate deactivate gene|NN usual regulation|NN
+cell|NN divide high rate|NN show higher risk|NN becom tumor|NN cell|NN divide example|NN neuron|NN
+edit|NN morphology|NN tissue|NN organize continuous spectrum|NN normal cancer|NN
+cancer|NN tissue|NN distinctive appearance|NN microscope|NN
+distinguish trait|NN large number|NN divide cell|NN variation|NN nuclear size|NN shape|NN variation|NN cell|NN size|NN shape|NN loss|NN specialize cell|NN feature|NN loss|NN normal tissue|NN organization|NN poorly define tumor|NN boundary|NN
+molecular method|NN characterise specific marker|NN tumor|NN cell|NN aid diagnosis|NN prognosis|NN
+biopsy|NN microscopical examination|NN distinguish malignancy|NN hyperplasia|NN refer tissue|NN growth|NN base excessive rate|NN cell|NN division|NN lead larger usual number|NN cell|NN normal orderly arrangement|NN cell|NN tissue|NN
+process|NN consider reversible
+normal tissue|NN response|NN irritate stimulus|NN example|NN callus|NN
+abnormal type|NN excessive cell|NN proliferation|NN characterize loss|NN normal tissue|NN arrangement|NN cell|NN structure|NN
+cell|NN revert normal behavior|NN occasionally gradually become malignant
+severe case|NN dysplasia|NN refer carcinoma|NN
+latin|NN term|NN mean|NN place|NN carcinoma|NN situ|NN refer uncontrol growth|NN cell|NN remain original location|NN show propensity|NN invade tissue|NN
+nevertheless carcinoma|NN situ|NN develop invasive malignancy|NN usually remove surgically possible
+edit|NN form|NN cancer|NN sporadic basis|NN heredity|NN
+number|NN recognise syndrome|NN cancer|NN hereditary component|NN defective tumor|NN suppressor|NN allele|NN
+example|NN certain inherit mutation|NN gene|NN associate elevate risk|NN breast|NN cancer|NN ovarian cancer|NN tumor|NN various endocrine organ|NN multiple endocrine neoplasia|NN men|NN type|NN syndrome|NN various breast|NN cancer|NN sarcoma|NN brain|NN due mutation|NN turcot|NN syndrome|NN brain|NN colonic polyposis|NN adenomatous polyposis|NN inherit mutation|NN gene|NN lead early onset|NN colon|NN carcinoma|NN
+retinoblastoma young children|NN inherit cancer|NN edit|NN lifestyle|NN factor|NN incidence|NN lung|NN cancer|NN highly correlate smoke|NN
+consistent find|NN decade|NN research|NN strong association|NN tobacco|NN use|NN cancer|NN site|NN
+epidemiological study|NN confirm association|NN
+further support|NN come fact|NN lung|NN cancer|NN death|NN rate|NN united|NP states|NP mirror smoke|NN pattern|NN increase|NN smoke|NN follow dramatic increase|NN lung|NN cancer|NN death|NN rate|NN recently decrease smoke|NN follow decrease|NN lung|NN cancer|NN death|NN rate|NN men|NN
+lifestyle|NN choice|NN cause|NN cancer|NN tobacco|NN diet|NN exercise|NN alcohol|NN tan|NN choice|NN certain sexually transmit disease|NN major risk|NN
+cancer|NN relate known lifestyle|NN factor|NN
+grow body|NN research|NN correlate cancer|NN incidence|NN lower level|NN melatonin|NN produce body|NN people|NN spend time|NN bright-light condition|NN happen typically well-lit nighttime|NN environment|NN develop country|NN
+effect|NN compound people|NN sleep hour|NN people|NN work night|NN group|NN known higher cancer|NN rate|NN
+edit|NN epidemiology|NN cancer|NN epidemiology|NN study|NN incidence|NN cancer|NN way|NN infer possible trend|NN cause|NN
+cause|NN cancer|NN identify british surgeon|NN pott|NP discover cancer|NN scrotum|NN common disease|NN chimney|NN sweep|NN
+work|NN individual physician|NN led various insight|NN physician|NN start work together make firmer conclusion|NN
+found paper|NN discipline|NN work|NN janet|NP publish comparative study|NN breast|NN cancer|NN case|NN control|NN patient|NN background|NN lifestyle|NN british ministry|NN health|NN
+ground-break work|NN cancer|NN epidemiology|NN carry richard|NP doll|NN austin|NP bradford|NP hill|NP publish lung|NN cancer|NN cause|NN death|NN relation|NN smoke|NN
+report|NN mortality|NN british doctor|NN follow otherwise known british doctor|NN study|NN
+richard|NP doll|NN left london|NP medical research|NN center|NN mrc|NP start oxford|NP unit|NN cancer|NN epidemiology|NN
+use|NN computer|NN unit|NN compile large amount|NN cancer|NN data|NN
+modern epidemiological method|NN closely link current concept|NN disease|NN public health|NN policy|NN
+past year|NN great effort|NN spent gather|NN data|NN medical practise|NN hospital|NN provincial state|NN even country|NN boundary|NN way|NN study interdependence|NN environmental cultural factor|NN cancer|NN incidence|NN
+biggest problem|NN face cancer|NN epidemiology|NN today chang concept|NN cancer|NN incidence|NN
+example|NN breast|NN cancer|NN tumor|NN slow growth|NN rate|NN found mammogram|NN year|NN tumor|NN found noteworthy lump|NN year|NN specific growth|NN factor|NN affect particular patient|NN case|NN
+diagnostic tool|NN improve direct impact|NN epidemiological data|NN
+western country|NN usa|NP uk|NP cancer|NN overtake cardiovascular disease|NN lead cause|NN death|NN
+world|NN country|NN cancer|NN incidence|NN measure appear lower likely higher death|NN rate|NN due infectious disease|NN injury|NN
+increase control|NN malaria|NN tuberculosis|NN world|NN country|NN incidence|NN cancer|NN expect rise term epidemiologic transition|NN epidemiological terminology|NN
+cancer|NN epidemiology|NN closely mirror risk|NN factor|NN spread|NN various country|NN
+carcinoma|NN liver|NN cancer|NN rare west|NN main cancer|NN china|NP neighboring|NP country|NN likely due|NN endemic presence|NN hepatitis|NN population|NN
+similarly tobacco|NN smoke|NN becom common various world|NN country|NN lung|NN cancer|NN incidence|NN increase parallel fashion|NN
+edit|NN prevention|NN cancer|NN prevention|NN define active measure|NN decrease incidence|NN cancer|NN
+accomplish avoid carcinogen|NN alter metabolism|NN pursue lifestyle|NN diet|NN modify cancer-cause factor|NN medical intervention|NN treatment|NN pre-malignant lesion|NN
+promise|NN cancer|NN prevention|NN come observational epidemiologic study|NN show association|NN life|NN style|NN factor|NN environmental exposure|NN specific cancer|NN
+evidence|NN emerge randomize control trial|NN design test|NN intervention|NN suggest epidemiologic study|NN well lead|NN base laboratory|NN research|NN actually result|NN reduce cancer|NN incidence|NN mortality|NN
+example|NN cancer|NN risk|NN include alcohol|NN consumption|NN associate increase risk|NN oral esophageal|NN breast|NN cancer|NN smoke|NN women|NN lung|NN cancer|NN smoke men|NN physical inactivity|NN associate increase risk|NN colon|NN breast|NN possibly cancer|NN overweight associate colon|NN breast|NN endometrial possibly cancer|NN
+base evidence|NN thought avoid excessive alcohol|NN consumption|NN physically active maintain recommend body|NN weight|NN contribute reduction|NN risk|NN certain cancer|NN compare tobacco|NN exposure|NN magnitude|NN effect|NN modest small strength|NN evidence|NN weaker
+lifestyle|NN environmental factor|NN known affect cancer|NN risk|NN beneficially detrimentally include certain sexually transmit disease|NN use|NN exogenous hormone|NN exposure|NN ionize radiation|NN ultraviolet radiation|NN certain occupational chemical exposure|NN infectious agent|NN
+see alcohol|NN cancer|NN topic|NN
+edit|NN diet|NN cancer|NN consensus|NN diet|NN cancer|NN obesity|NN increase risk|NN develop cancer|NN
+particular dietary practice|NN explain difference|NN cancer|NN incidence|NN different country|NN eg gastric cancer|NN common japan|NP colon|NN cancer|NN common united|NP states|NP
+study|NN show immigrant|NN develop risk|NN new country|NN suggest link|NN diet|NN cancer|NN genetic basis|NN
+citation|NN need frequent report|NN particular substance|NN food|NN beneficial detrimental effect|NN cancer|NN risk|NN establish link|NN cancer|NN
+report|NN base study|NN culture cell|NN media|NN animal|NN
+public health|NN recommendation|NN made basis|NN study|NN validate observational occasionally prospective interventional|NN trial|NN human|NN
+case|NN beta-carotene|NN provide example|NN necessity|NN randomize clinical trial|NN
+epidemiologist study diet|NN serum|NN level|NN observe high level|NN beta-carotene|NN precursor|NN vitamin|NN associate protective effect|NN reduce risk|NN cancer|NN
+effect|NN particularly strong lung|NN cancer|NN
+hypothesis|NN led series|NN large randomize trial|NN conduct finland|NP united|NP states|NP study|NN
+study|NN provide 80000 smoker|NN smoker|NN daily supplement|NN beta-carotene|NN placebo|NN
+expectation|NN test|NN found benefit|NN supplementation|NN reduce lung|NN cancer|NN incidence|NN mortality|NN
+fact|NN risk|NN lung|NN cancer|NN slightly significantly increase beta-carotene|NN lead early termination|NN study|NN randomize clinical trial|NN drawback|NN cancer|NN prevention|NN particularly deficiency|NN thought major contributor|NN cancer|NN
+involve huge number|NN people|NN take year|NN complete therefore extremely expensive complicate therefore
+addition|NN randomize clinical trial|NN usually test single dose|NN
+alternative|NN likely useful shorter intervention|NN trial|NN focuse endpoint|NN relate cancer|NN dna|NN damage|NN
+trial|NN test variety|NN dose|NN people|NN determine level|NN intake|NN better concentration|NN blood|NN keep dna|NN damage|NN minimum|NN
+edit chemoprevention|NN agent|NN daily use|NN tamoxifen|NN selective estrogen|NN receptor|NN modulator|NN typically year|NN demonstrate reduce risk|NN develop breast|NN cancer|NN high-risk women|NN
+acid|NN show reduce risk|NN second|NN primary tumor|NN patient|NN primary head|NN neck|NN cancer|NN
+finasteride 5-alpha|NN inhibitor|NN show lower risk|NN prostate|NN cancer|NN
+example|NN drug|NN show promise|NN chemoprevention|NN include inhibitor|NN inhibit cyclooxygenase enzyme|NN involve synthesis|NN proinflammatory prostaglandin|NN
+edit genetic test|NN genetic test|NN high-risk individual|NN enhance surveillance|NN surgery|NN test positive available certain genetic mutation|NN
+edit cancer|NN cancer|NN initially recognize sign|NN symptom|NN appear screen|NN
+lead|NN definitive diagnosis|NN usually require opinion|NN pathologist|NN
+edit|NN sign|NN symptom|NN roughly cancer|NN symptom|NN divide group|NN local symptom|NN unusual lump|NN swell tumor|NN bleed pain|NN ulceration|NN
+compression|NN surround tissue|NN cause symptom|NN jaundice|NN
+symptom|NN metastasis|NN spread enlarge lymph|NN node|NN cough|NN hemoptysis|NN enlarge liver|NN bone|NN pain|NN fracture|NN affect bone|NN neurological symptom|NN
+advance cancer|NN cause pain|NN symptom|NN
+systemic symptom|NN weight|NN loss|NN poor appetite|NN cachexia|NN wast excessive sweate|NN night|NN sweat|NN specific paraneoplastic|NN phenomena|NN ie specific condition|NN due active cancer|NN thrombosis|NN hormonal change|NN
+single item|NN above list|NN cause variety|NN condition|NN list|NN refer differential diagnosis|NN
+cancer|NN common uncommon cause|NN item|NN
+edit|NN biopsy|NN cancer|NN suspect variety|NN reason|NN definitive diagnosis|NN malignancy|NN confirm histological examination|NN cancerous cell|NN pathologist|NN
+tissue|NN obtain biopsy|NN surgery|NN
+biopsy|NN skin|NN breast|NN liver|NN doctor|NN office|NN
+biopsies|NP organ|NN perform anesthesia|NN require surgery|NN operate|NN room|NN
+tissue|NN diagnosis|NN indicate type|NN cell|NN proliferate histological grade|NN feature|NN tumor|NN
+together information|NN useful evaluate prognosis|NN patient|NN choose best treatment|NN
+immunohistochemistry|NN provide information|NN future behavior|NN cancer|NN prognosis|NN best treatment|NN
+edit|NN screen|NN cancer|NN screen|NN attempt|NN detect unsuspect cancer|NN population|NN
+screen|NN test|NN suitable large number|NN healthy people|NN relatively affordable safe noninvasive|NN procedure|NN acceptably low rate|NN false positive result|NN
+sign|NN cancer|NN detect definitive invasive follow|NN test|NN perform confirm diagnosis|NN
+screen|NN cancer|NN lead earlier diagnosis|NN
+early diagnosis|NN lead extend life|NN
+number|NN different screen|NN test|NN develop
+breast|NN cancer|NN screen|NN breast|NN self-examination|NN
+screen|NN regular mammogram|NN detect tumor even earlier self-examination|NN country|NN use systematically screen|NN middle-age women|NN
+cancer|NN detect occult|NN blood|NN test|NN colonoscopy|NN reduce colon|NN cancer|NN incidence|NN mortality|NN presumably detection|NN removal|NN pre-malignant polyp|NN
+similarly cervical cytology|NN test|NN use pap smear|NN lead identification|NN excision|NN precancerous lesion|NN
+time|NN test|NN follow dramatic reduction|NN cervical cancer|NN incidence|NN mortality|NN
+self-examination|NN recommend men|NN begine age|NN year|NN detect testicular cancer|NN
+cancer|NN screen digital rectal exam|NN prostate|NN specific antigen|NN psa|NP blood|NN test|NN
+screen|NN cancer|NN controversial case|NN known test|NN actually save live|NN
+controversy|NN arise clear benefit|NN screen|NN outweigh risk|NN follow-up diagnostic test|NN cancer|NN treatment|NN
+example|NN screen|NN prostate|NN cancer|NN psa|NP test|NN detect small cancer|NN become life|NN threaten detect lead treatment|NN
+situation|NN call put men|NN risk|NN complication|NN unnecessary treatment|NN surgery|NN radiation|NN
+follow procedure|NN use diagnose prostate|NN cancer|NN prostate|NN biopsy|NN cause side|NN effect|NN bleed infection|NN
+cancer|NN treatment|NN cause incontinence|NN inability|NN control|NN urine|NN flow|NN dysfunction|NN erection|NN inadequate intercourse|NN
+similarly breast|NN cancer|NN recently criticism|NN breast|NN screen|NN program|NN country|NN cause problem|NN solve
+screen|NN women|NN general population|NN result large number|NN women|NN false positive result|NN require extensive follow-up|NN investigation|NN exclude cancer|NN lead high number-to-treat|NN number-to-screen|NN prevent catch single case|NN breast|NN cancer|NN early
+cervical cancer|NN screen|NN pap smear|NN best cost-benefit profile|NN form|NN cancer|NN screen|NN public health|NN perspective|NN cancer|NN clear risk|NN factor|NN sexual contact|NN natural progression|NN cervical cancer|NN normally spread slowly number|NN year|NN therefore give time|NN screen|NN program|NN catch early
+moreover test|NN easy perform relatively cheap
+reason|NN important benefit|NN risk|NN diagnostic procedure|NN treatment|NN taken account|NN consider undertake cancer|NN screen|NN
+use|NN medical image|NN search|NN cancer|NN people|NN clear symptom|NN similarly mare problem|NN
+significant risk|NN detection|NN recently call incidentaloma|NN benign lesion|NN interpret malignancy|NN subject potentially dangerous investigation|NN
+canine cancer|NN detection|NN show promise|NN early stage|NN research|NN
+edit|NN treatment|NN cancer|NN cancer|NN treate surgery|NN chemotherapy|NN radiation|NN therapy|NN monoclonal antibody|NN therapy|NN method|NN
+choice|NN therapy|NN depend location|NN grade|NN tumor|NN stage|NN disease|NN well general state|NN patient|NN performance|NN status|NN
+number|NN experimental cancer|NN treatment|NN development|NN
+complete removal|NN cancer|NN damage|NN rest|NN body|NN goal|NN treatment|NN
+sometime accomplish surgery|NN propensity|NN cancer|NN invade adjacent tissue|NN spread distant site|NN microscopic metastasis|NN limit effectiveness|NN
+effectiveness|NN chemotherapy|NN limit toxicity|NN tissue|NN body|NN
+radiation|NN cause damage|NN normal tissue|NN
+cancer|NN refer class|NN disease|NN unlikely ever single cure|NN cancer|NN single treatment|NN infectious disease|NN
+edit|NN surgery|NN theory|NN cancer|NN cure entirely remove surgery|NN alway possible
+cancer|NN metastasize site|NN body|NN prior surgery|NN complete surgical excision|NN usually impossible
+example|NN surgical procedure|NN cancer|NN include mastectomy|NN breast|NN cancer|NN prostatectomy|NN prostate|NN cancer|NN
+goal|NN surgery|NN removal|NN tumor|NN entire organ|NN
+single cancer|NN cell|NN invisible nake eye|NN regrow new tumor|NN process|NN call recurrence|NN
+reason|NN pathologist|NN examine surgical specimen|NN determine margin|NN healthy tissue|NN present decrease chance|NN microscopic cancer|NN cell|NN left patient|NN
+addition|NN removal|NN primary tumor|NN surgery|NN necessary stage|NN eg determine extent|NN disease|NN metastasize regional lymph|NN node|NN
+major determinant|NN prognosis|NN need|NN adjuvant therapy|NN
+occasionally surgery|NN necessary control symptom|NN spinal cord|NN compression|NN bowel|NN obstruction|NN
+refer palliative treatment|NN
+edit see history|NN cancer|NN chemotherapy|NN chemotherapy|NN treatment|NN cancer|NN drug|NN drug|NN destroy cancer|NN cell|NN
+interfere cell|NN division|NN various possible way|NN eg duplication|NN dna|NN separation|NN newly form chromosome|NN
+form|NN chemotherapy|NN target|NN rapidly divide cell|NN specific cancer|NN cell|NN
+chemotherapy|NN potential|NN harm healthy tissue|NN especially tissue|NN high replacement|NN rate|NN eg intestinal line|NN
+cell|NN usually repair chemotherapy|NN
+drug|NN work better together alone drug|NN give time|NN
+call combination|NN chemotherapy|NN chemotherapy|NN regimen|NN give combination|NN
+treatment|NN leukaemia|NN lymphoma|NN require use|NN chemotherapy|NN total body|NN irradiation|NN
+treatment|NN bone|NN marrow|NN body ability|NN recover repopulate blood|NN
+reason|NN bone|NN marrow|NN peripheral blood|NN stem|NN cell|NN harvest|NN carry ablative part|NN therapy|NN enable rescue|NN treatment|NN give
+known transplantation|NN
+alternatively bone|NN marrow|NN transplant match|NN donor|NN
+edit monoclonal antibody|NN therapy|NN immunotherapy|NN use|NN immune mechanism|NN
+use various form|NN cancer|NN breast|NN cancer|NN gemtuzumab ozogamicinmylotarg|NN
+agent|NN monoclonal antibody|NN direct protein|NN characteristic cell|NN cancer|NN question|NN cytokine|NN modulate immune system|NN response|NN
+edit contemporary method|NN generate non-specific immune response|NN tumour|NN include bcg|NP superficial bladder|NN cancer|NN use|NN interferon|NN interleukin|NN
+vaccine|NN generate non-specific immune response|NN subject|NN intensive research|NN number|NN tumour|NN notably malignant melanoma|NN renal cell|NN carcinoma|NN
+edit|NN radiation|NN therapy|NN radiation|NN therapy|NN call radiotherapy|NN x-ray|NN therapy|NN irradiation|NN use|NN ionize radiation|NN kill cancer|NN cell|NN shrink|NN
+radiation|NN therapy|NN administer externally external beam|NN radiotherapy|NN internally
+effect|NN radiation|NN therapy|NN localise confine region|NN treate
+radiation|NN therapy|NN injure destroy cell|NN area|NN treate target|NN tissue|NN damage genetic material|NN make impossible cell|NN continue grow divide
+radiation|NN damage|NN cancer|NN cell|NN normal cell|NN normal cell|NN recover effect|NN radiation|NN function|NN properly
+goal|NN radiation|NN therapy|NN damage|NN cancer|NN cell|NN possible limit harm|NN nearby healthy tissue|NN
+give fraction|NN allow healthy tissue|NN recover fraction|NN
+radiation|NN therapy|NN use treat type|NN solid tumor|NN cancer|NN brain|NN breast|NN cervix|NN larynx|NN lung|NN pancrea|NN prostate|NN skin|NN stomach|NN uterus|NN soft tissue|NN
+radiation|NN use treat lymphoma|NN
+radiation|NN dose|NN site|NN depend number|NN factor|NN radiosensitivity|NN cancer|NN type|NN tissue|NN organ|NN nearby damage radiation|NN
+form|NN treatment|NN radiation|NN therapy|NN side|NN effect|NN
+edit suppression|NN growth|NN cancer|NN inhibit provide block certain hormone|NN
+common example|NN hormone-sensitive tumor|NN include certain type|NN breast|NN prostate|NN cancer|NN
+remove block estrogen testosterone|NN important additional treatment|NN
+edit control|NN control|NN symptom|NN cancer|NN typically thought treatment|NN direct cancer|NN important determinant|NN quality|NN life|NN cancer|NN patient|NN play important role|NN decision|NN patient|NN able undergo treatment|NN
+practice doctor|NN therapeutic skill|NN control|NN pain|NN nausea|NN vomit|NN diarrhea|NN common problem|NN cancer|NN patient|NN multidisciplinary specialty|NN palliative care|NN arisen specifically response|NN symptom|NN control|NN need|NN group|NN patient|NN
+pain|NN medication|NN morphine|NN oxycodone|NN antiemetics|NN drug|NN suppress nausea|NN vomit|NN commonly use patient|NN cancer-relate symptom|NN
+chronic pain|NN due cancer|NN alway associate continue tissue|NN damage|NN due disease|NN process|NN treatment|NN ie surgery|NN radiation|NN chemotherapy|NN
+alway role|NN environmental factor|NN affective disturbance|NN genesis|NN pain|NN usually predominant etiologic|NN factor|NN patient|NN cancer|NN pain|NN
+furthermore patient|NN severe pain|NN associate cancer|NN near end|NN live|NN palliative therapy|NN require
+issue|NN social stigma|NN use opioid|NN work|NN functional status|NN health|NN care|NN consumption|NN likely important overal case|NN management|NN
+typical strategy|NN cancer|NN pain|NN management|NN get patient|NN comfortable possible use opioid|NN medication|NN surgery|NN physical measure|NN
+edit|NN treatment|NN trial|NN clinical trial|NN call research|NN study|NN test|NN new treatment|NN people|NN cancer|NN
+goal|NN research|NN find better way|NN treat cancer|NN help|NN cancer|NN patient|NN
+clinical trial|NN test type|NN treatment|NN new drug|NN new approache|NN surgery|NN radiation|NN therapy|NN new combination|NN treatment|NN new method|NN gene|NN therapy|NN
+clinical trial|NN final stage|NN long careful cancer|NN research|NN process|NN
+search|NN new treatment|NN begin laboratory|NN scientist|NN develop test new idea|NN
+approach|NN seem promise step|NN test treatment|NN animal|NN see affect cancer|NN live|NN harmful effect|NN
+course|NN treatment|NN work|NN well lab|NN animal|NN alway work well people|NN
+study|NN cancer|NN patient|NN find promise treatment|NN safe effective
+patient|NN take part|NN help personally treatment|NN receive
+get up-to-date care|NN cancer|NN expert|NN receive new treatment|NN test best available standard|NN treatment|NN cancer|NN
+course|NN guarantee|NN new treatment|NN test standard treatment|NN produce good result|NN
+new treatment|NN unknown risk|NN new treatment|NN prove effective effective standard treatment|NN study|NN patient|NN receive benefit
+edit|NN cancer|NN vaccine|NN considerable research|NN effort|NN devote development|NN vaccine|NN prevent infection|NN oncogenic infectious agent|NN well mount immune response|NN cancer-specific epitope|NN potential venue|NN gene|NN therapy|NN individual|NN genetic mutation|NN polymorphism|NN put high risk|NN cancer|NN
+october|NP researcher|NN found experimental vaccine|NN hpv|NP type|NN successful prevent infection|NN type|NN hpv|NP able prevent majority|NN cervical cancer|NN case|NN
+edit complementary alternative medicine|NN complementary alternative medicine|NN cam|NN treatment|NN diverse group|NN medical health|NN care|NN system|NN practice|NN product|NN presently consider effective standard|NN conventional medicine|NN
+conventional medical practitioner|NN describe treatment|NN method|NN complement|NN conventional treatment|NN provide comfort|NN lift spirit|NN patient|NN offer alternative|NN use instead conventional treatment|NN hope|NN cure cancer|NN
+complementary measure|NN include prayer|NN psychological approache|NN image|NN meditation|NN aid|NN pain|NN relief|NN improve mood|NN
+benefit|NN approache|NN scientifically proven therefore face|NN
+complementary approache|NN include traditional medicine|NN traditional chinese medicine|NN
+wide range|NN alternative treatment|NN offer cancer|NN century|NN
+appeal|NN alternative cure|NN arise daunt risk|NN cost|NN potential side|NN effect|NN conventional treatment|NN limit prospect|NN cure|NN
+proponent|NN therapy|NN unable unwil demonstrate effectiveness|NN conventional criteria|NN
+alternative treatment|NN include special diet|NN dietary supplement|NN eg grape|NN diet|NN cabbage|NN diet|NN therapy|NN electromagnetic therapy|NN electrical device|NN eg specially formulate compound|NN eg remedy|NN unconventional use|NN conventional drug|NN eg insulin|NN purge|NN enema|NN physical manipulation|NN body|NN various herb|NN herbal preparation|NN
+alternative treatment|NN ineffective dangerous
+use modality|NN sole treatment|NN potentially fatal condition|NN cancer|NN generally recommend majority|NN medical professional|NN
+ralph|NP moss|NP report|NN source|NN information|NN cam|NN conventional cancer|NN treatment|NN biologically base alternative medicine|NN point|NN view|NN detail report|NN variety|NN cancer|NN type|NN
+edit cope cancer|NN local organization|NN offer variety|NN practical support|NN service|NN people|NN cancer|NN
+support|NN take form|NN support|NN group|NN advice|NN financial assistance|NN transportation|NN treatment|NN film|NN information|NN cancer|NN
+organization|NN local health|NN care|NN provider|NN area|NN hospital|NN resource|NN service|NN available
+people|NN reluctant seek study|NN show talk reduce stress|NN help people|NN mentally physically
+provide emotional support|NN cancer|NN patient|NN help better understand illness|NN
+different type|NN counsel|NN include individual group|NN family|NN self-help|NN sometime call peer|NN bereavement|NN sexuality|NN
+governmental charitable organization|NN establish help patient|NN cope cancer|NN
+organization|NN involve cancer|NN prevention|NN cancer|NN treatment|NN cancer|NN research|NN
+example|NN include american cancer|NN society|NN lance|NP armstrong|NP foundation|NN bc|NP cancer|NN agency|NN macmillan|NP cancer|NN relief|NN terry|NP fox|NP foundation|NN cancer|NN research|NN uk|NP cancer|NN research|NN foundation|NN canadian cancer|NN society|NN international agency|NN research|NN cancer|NN cancer|NN council|NN australia|NP national cancer|NN institute|NN
+edit social impact|NN refer c-word cancer|NN reputation|NN deadly disease|NN citation|NN need
+certainly apply certain particular type|NN truth|NN historical connotation|NN cancer|NN increasingly overturn advance|NN medical care|NN
+type|NN cancer|NN prognosis|NN substantially better disease|NN heart|NN failure|NN stroke|NN
+progressive disseminate malignant disease|NN substantial impact|NN cancer|NN patient|NN quality|NN life|NN cancer|NN treatment|NN chemotherapy|NN severe side-effect|NN
+advance stage|NN cancer|NN patient|NN need extensive care|NN affect family|NN member|NN friend|NN
+care|NN solution|NN include permanent respite|NN hospice|NN nurse|NN
+edit|NN cancer|NN research|NN cancer|NN research|NN intense scientific effort|NN understand disease|NN process|NN discover possible therapy|NN
+understand|NN cancer|NN greatly increase decade|NN century|NN radically new therapy|NN discover
+therapy|NN became available late significant impact|NN treatment|NN type|NN cancer|NN currently active research|NN area|NN
+constitute use|NN agent|NN specific deregulate protein|NN cancer|NN cell|NN
+small molecule|NN tyrosine|NN kinase|NN inhibitor|NN gefitinib monoclonal antibody|NN proven major step|NN treatment|NN
+therapy|NN involve small peptidic|NN structure|NN home device|NN bind cell|NN surface|NN receptor|NN affect extracellular matrix|NN surround tumor|NN
+attach peptide|NN eg
+eventually kill cancer|NN cell|NN nuclide decay|NN vicinity|NN cell|NN supra|NN radiation|NN therapy|NN
+especially bind motif|NN great interest|NN lead enhance tumor|NN specificity|NN avidity|NN
+edit see american cancer|NN society|NN alcohol|NN cancer|NN oncology|NN list|NN oncology-relate term|NN american association|NN cancer|NN research|NN european organisation|NN research|NN treatment|NN cancer|NN edit|NN reference|NN
+ralph|NP w|NP
+moss|NP phd|NN galen|NN cancer|NN ancient physician|NN view disease|NN speech|NN
+marilyn|NP yalom history|NN breast|NN publisher|NN new|NP york|NP alfred|NP
+knopf|NP isbn|NP
+murray|NP t|NP ward|NP e|NP samuels|NP rc|NP feuer|NN thun|NP
+cancer|NN statistics|NN
+ca|NP cancer|NN j|NP
+dalmasso|NP p|NP g|NP l|NP maule|NP mm|NN pearce|NP n|NP f|NP c|NP
+temporal trend|NN incidence|NN childhood|NN lymphoma|NN solid tumor|NN north-west|NN italy|NP
+report|NN childhood|NN cancer|NN registry|NN piedmont|NP
+agha|NP m|NP b|NP greenberg|NP m|NP greenberg|NP c|NP barr|NP r|NP mclaughlin|NP jr|NP
+incidence|NN trend|NN projection|NN childhood|NN cancer|NN ontario|NP
+int j|NP cancer|NN
+matoba|NP s|NP kang|NP j|NP w|NP wragg|NP boehm|NP m|NP o|NP hurley|NN p|NP bunz|NP f|NP p|NP
+regulate mitochondrial respiration|NN
+fodde|NP r|NP r|NP
+cancer|NN biology|NN
+matter|NN dosage|NN
+zur h|NP
+viruse|NN human cancer|NN
+update|NN cancer|NN united|NP states|NP
+american council|NN science|NN health|NN
+cancer|NN number|NN killer|NN november|NP
+bbc|NP new|NN online
+lung|NN cancer|NN american women|NN fact|NN
+national cancer|NN institute|NN question|NN answer|NN beta|NN trial|NN
+national institute|NN health|NN
+harper|NP dm|NN franco|NP el|NP wheeler|NP c|NP ferris|NP dg|NP jenkins|NP d|NP zahaf|NP t|NP b|NP p|NP de|NP ns|NP cm|NN teixeira|NP j|NP mm|NN korn|NP ap|NP w|NP g|NP
+efficacy|NP bivalent|NN virus-like|NN particle|NN vaccine|NN prevention|NN infection|NN human papillomavirus|NN type|NN young women|NN randomise control trial|NN
+forbes|NP directory|NN website|NN review|NN access oct|NP
+medical search|NN service|NN option|NN access oct|NP general reference|NN basic science|NN oncology|NN
+hill|NP rp|NP et|NP al|NP ed|NN ed2005|NN
+principle|NN cancer|NN biology|NN
+kleinsmith|NP lj|NP
+pearson|NP benjamin|NP cummings|NP
+special message|NN cancer|NN patient|NN seek alternative treatment|NN
+parkin|NP d|NP bray|NP f|NP j|NP p|NP
+global cancer|NN statistics|NN
+ca|NP cancer|NN j|NP
+text|NN edit|NN external link|NN edit professional research|NN american cancer|NN society|NN american cancer|NN society|NN resource|NN clinical trial|NN look clinical trial|NN find open trial|NN
+american cancer|NN society|NN treatment|NN decision|NN tool|NN tool|NN help patient|NN make inform decision|NN
+american association|NN cancer|NN research|NN non-profit organization|NN support advance|NN knowledge|NN cause|NN diagnosis|NN treatment|NN prevention|NN cancer|NN
+world|NN health|NN organisation|NN cancer|NN site|NN review|NN worldwide strategy|NN prevention|NN treatment|NN cancer|NN
+world|NN health|NN organization|NN fact|NN sheet|NN cancer|NN national cancer|NN institute|NN government|NN agency|NN responsible conduct support research|NN train|NN health|NN information|NN dissemination|NN program|NN respect|NN cause|NN diagnosis|NN prevention|NN treatment|NN cancer|NN rehabilitation|NN cancer|NN continue care|NN cancer|NN patient|NN family|NN cancer|NN patient|NN
+national comprehensive cancer|NN network|NN free guideline|NN professional|NN page|NN quality|NN information|NN patient|NN type|NN cancer|NN institute|NN cancer|NN research|NN world|NN foremost independent cancer|NN research|NN organisation|NN base united|NP kingdom|NP
+european organization|NN research|NN treatment|NN cancer|NN
+european non-profit organization|NN set execute clinical trial|NN
+international society|NN biological therapy|NN cancer|NN society|NN medical professional|NN commit investigate develop utilize biological biological therapy|NN treatment|NN malignant disease|NN
+national cancer|NN institute|NN canada|NP canadian research|NN organization|NN devote advance cancer|NN control|NN
+cancer|NN fact|NN figure|NN united|NP states|NP cancer|NN statistics|NN canadian cancer|NN statistics|NN publication|NN report|NN cancer|NN incidence|NN mortality|NN canada|NP analyze gender|NN age|NN provinceterritory|NN
+cancer|NN medicine|NN edition|NN new scientist|NN
+want know cancer|NN
+new scientist|NN
+diet|NN nutrition|NN prevention|NN chronic disease|NN cancer|NN joint whofao|NN expert|NN consultation|NN
+virtual cancer|NN centre|NN information|NN resource|NN latest cancerous disease|NN new|NN professional|NN oncology|NN radiation|NN oncology|NN care|NN
+edit|NN support|NN advocacy|NN cancer|NN multimedia|NN guide|NN cancer|NN biology|NN cold spring|NN harbor|NN laboratory|NN information|NN cancer|NN database|NN local community|NN support|NN group|NN
+cancer|NN guide|NN cancer|NN american cancer|NN society|NN patient|NN advocate|NN group|NN action|NN cancer|NN northern|NP ireland|NP cancer|NN charity|NN provide screen|NN support|NN canadian|NN cancer|NN society|NN information|NN type|NN cancer|NN way|NN reduce risk|NN
+support|NN people|NN live cancer|NN
+advocate healthy public policy|NN
+american association|NN cancer|NN research|NN patient advocacy|NN leukemia|NN society|NN cancer|NN medlineplus|NN provide link|NN new|NN general site|NN diagnosis|NN treatment|NN alternative therapy|NN clinical trial|NN research|NN relate issue|NN organization|NN topics|NN live|NN cancer|NN
+link|NN pre-formulate searche|NN medlinepubm database|NN recent research|NN article|NN
+cancer|NN research|NN uk|NP cancer|NN resource|NN up-to-date information|NN people|NN professional general interest|NN cancer|NN health|NN
+cancer|NN council|NN australia|NP national non-government cancer|NN control|NN organisation|NN involve research|NN information|NN prevention|NN patient|NN treatment|NN support|NN
+sydney|NP children|NN hospital|NN centre|NN cancer|NN blood|NN disorder|NN offer|NN information|NN childhood|NN cancer|NN treatment|NN option|NN support|NN
+acor association|NN cancer|NN online resource|NN unique collection|NN online community|NN design provide timely accurate information|NN supportive environment|NN
+offer access|NN mail|NN list|NN provide support|NN information|NN community|NN affect cancer|NN relate disorder|NN
+cancer|NN career|NN cancer|NN career|NN online resource|NN work women|NN employer|NN
+english|NN spanish tumor|NN relate structure|NN cancer|NN oncology|NN edit|NN benign|NN premalignant situ|NN topography|NN anus|NN bladder bone|NN brain|NN breast|NN cervix duodenum esophagus eye|NN gallbladder liver|NN larynx lung|NN mouth|NN pancrea prostate kidney|NN ovary skin|NN stomach|NN testicle morphology|NN papillomacarcinoma|NN choriocarcinoma soft tissue|NN sarcoma|NN melanoma metastasis leiomyomaleiomyosarcoma mesothelioma osteomaosteosarcoma glioma treatment|NN surgery|NN chemotherapy radiation|NN therapy|NN immunotherapy experimental cancer|NN treatment|NN relate structure|NN dysplasia neoplasia polyp misc|NN suppressor|NN genesoncogene|NN staginggrade carcinogen research|NN phenomenon|NN icd-o list|NN oncology-relate term|NN
+artj2html text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

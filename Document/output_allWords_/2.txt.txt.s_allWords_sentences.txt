@@ -1,0 +1,172 @@
+disease|NN disease|NN disease|NN external resource|NN icd-9|NN 272800|NN 12916|NN emedicine|NN disease|NN abbreviate known gangliosidosis|NN genetic disorder|NN fatal common variant|NN known tay-sach disease|NN
+inherit autosomal recessive pattern|NN
+disease|NN occur harmful quantity|NN fatty acid|NN derivative|NN call ganglioside|NN accumulate nerve|NN cell|NN brain|NN
+present lipid|NN component|NN cellular membrane|NN ganglioside gm2|NN implicate disease|NN especially common nervous tissue|NN brain|NN
+disease|NN name british ophthalmologist|NN warren|NP tay|NP describe red spot|NN retina|NN eye|NN american neurologist|NN bernard|NP sachs|NP describe cellular change|NN tay-sach|NN note increase prevalence|NN eastern european jewish ashkenazy population|NN
+suggest asymptomatic carrier|NN defective version|NN hexa|NN normal gene|NN selective advantage|NN proven
+research|NN late century|NN demonstrate disease|NN cause mutation|NN hexa gene|NN chromosome|NN
+large number|NN hexa mutation|NN discover new report
+mutation|NN reach significant frequency|NN population|NN
+french canadian|NN southeastern quebec|NP cajun|NN southern louisiana|NP carrier|NN frequency|NN similar ashkenazy jew|NN carry different mutation|NN
+hexa mutation|NN rare occur genetically isolate population|NN
+disease|NN potentially occur inheritance|NN unrelate mutation|NN hexa gene|NN parent|NN
+content|NN symptom|NN pathogenesis|NN test|NN prevention|NN therapy|NN epidemiology|NN reference|NN external link|NN edit symptom|NN classify variant|NN form|NN base time|NN onset|NN neurological symptom|NN variant|NN form|NN reflect diversity|NN mutation|NN base|NN
+patient|NN tay-sachs|NP cherry-r spot|NN easily observable physician|NN use ophthalmoscope|NN back|NN eye|NN retina|NN
+red spot|NN area|NN retina|NN accentuate ganglioside|NN surround retinal ganglion|NN cell|NN neuron|NN central nervous system|NN
+choroidal circulation|NN show red|NN region|NN fovea|NN retinal ganglion|NN cell|NN normally push aside increase visual acuity|NN
+cherry-r spot|NN normal part|NN retina|NN seen
+microscopic analysis|NN neuron|NN show distend excess storage|NN ganglioside|NN
+infant|NN disease|NN appear develop normally month|NN life|NN
+nerve|NN cell|NN become distend ganglioside|NN relentless deterioration|NN mental physical ability|NN occur
+child|NN become blind deaf unable swallow
+muscle|NN begin atrophy|NN paralysis|NN set|NN
+death|NN usually occur age|NN
+juvenile tsd|NN
+extremely rare juvenile|NN disease|NN usually present children|NN year|NN age|NN
+develop cognitive motor|NN speech|NN swallow difficulty|NN unsteadiness|NN gait|NN spasticity|NN
+patient|NN juvenile|NN usually die year|NN tsd|NN
+rare form|NN disorder|NN known adult|NN disease|NN late onset|NN disease|NN occur patient|NN early
+frequently misdiagnose usually non-fatal
+characterize unsteadiness|NN gait|NN progressive neurological deterioration|NN
+symptom|NN lot|NN present|NN adolescence|NN early adulthood|NN include speech|NN difficulty|NN swallow difficulty|NN dysphagia|NN unsteadiness|NN gait|NN spasticity|NN cognitive decline|NN psychiatric illness|NN particularly psychosis|NN
+patient|NN frequently become wheelchair-bound adulthood|NN live full adult|NN live|NN psychiatric physical difficulty|NN accommodate
+psychiatric symptom|NN seizure|NN control medication|NN edit|NN pathogenesis|NN condition|NN cause insufficient activity|NN enzyme|NN call biodegradation|NN fatty acid|NN derivative|NN known ganglioside|NN
+hexasaminidase|NP vital hydrolytic|NN enzyme|NN found lysosome|NN break lipid|NN
+hexasaminidase|NP longer function|NN properly lipid|NN accumulate brain|NN cause|NN problem|NN
+made biodegrade rapidly early life|NN brain|NN develop
+patient|NN carrier|NN disease|NN identify simple blood|NN test|NN measure|NN activity|NN
+recessive genetic disorder|NN mean|NN parent|NN carrier|NN order|NN give birth|NN affect child|NN
+even chance|NN pregnancy|NN child|NN
+monitor|NN pregnancy|NN available
+hydrolysis|NP gm2-ganglioside|NP require protein|NN
+subunit|NN hexosaminidase|NN small glycolipid|NN transport|NN protein|NN gm2 activator|NN protein|NN act substrate|NN specific cofactor|NN enzyme|NN
+deficiency|NN protein|NN lead storage|NN ganglioside|NN primarily lysosome|NN neuronal cell|NN
+disease|NN along gm2-gangliosidosis|NN disease|NN occur genetic mutation|NN inherit parent|NN inhibit process|NN
+tay-sach mutation|NN appear affect functional element|NN protein|NN
+instead cause incorrect fold|NN assembly|NN enzyme|NN intracellular transport|NN disable disease|NN result|NN mutation|NN chromosome|NN hexa gene|NN encod alpha-subunit|NN lysosomal enzyme|NN
+mutation|NN identify date|NN hexa gene|NN new mutation|NN report
+mutation|NN include base|NN pair|NN insertion|NN deletion|NN splice|NN site|NN mutation|NN point|NN mutation|NN complex pattern|NN
+mutation|NN alter protein|NN product|NN inhibit function|NN enzyme|NN manner|NN
+recent year|NN population|NN study|NN pedigree|NN analysis|NN show mutation|NN arise spread small founder|NN population|NN
+example|NN base|NN pair|NN insertion|NN exon|NN 1278instatc|NN result|NN alter read|NN frame|NN hexa gene|NN
+mutation|NN prevalent mutation|NN ashkenazy jewish population|NN lead infantile form|NN disease|NN mutation|NN occur cajun|NN population|NN southern louisana|NN american ethnic group|NN isolate year|NN linguistic difference|NN
+researcher|NN speculate enter population|NN jewish merchant|NN family|NN assimilate cajun|NN society|NN
+unrelate mutation|NN long sequence|NN deletion|NN occur similar frequency|NN family|NN french canadian ancestry|NN pathological effect|NN
+ashkenazy jewish population|NN french canadian population|NN grew rapidly small founder|NN group|NN remain isolate surround population|NN geographic cultural language|NN barrier|NN
+early day|NN research|NN mutation|NN population|NN believe identical
+researcher|NN claim prolific jewish ancestor|NN introduce mutation|NN french canadian population|NN
+theory|NN became known jewish fur|NN trader|NN hypothesis|NN researcher|NN population|NN genetics|NN
+subsequent research|NN demonstrate mutation|NN unrelate pedigree|NN analysis|NN trace french canadian mutation|NN found family|NN live southern quebec|NP late century|NN disease|NN potentially result inheritance|NN unrelate mutation|NN hexa gene|NN parent|NN
+classic infantile tsd|NN result|NN child|NN inherit mutation|NN parent|NN completely inactivate biodegradation|NN ganglioside|NN
+late onset|NN form|NN disease|NN occur diverse mutation|NN base|NN
+patient|NN technically heterozygote different hexa mutation|NN inactivate alter|NN inhibit enzyme|NN activity|NN way|NN
+patient|NN copy|NN hexa gene|NN enable activity|NN later onset|NN form|NN disease|NN occur
+edit|NN test|NN prevention|NN screen|NN disease|NN great success|NN emerge field|NN genetic counsel|NN diagnosis|NN
+jewish community|NN outside israel|NP embrace cause|NN genetic screen|NN
+success|NN disease|NN lead|NN israel|NP become country|NN offer free genetic screen|NN counsel|NN couple|NN
+israel|NP become lead center|NN research|NN genetic disease|NN
+jewish arabpalestinian population|NN israel|NP contain ethnic religious minority|NN group|NN initial success|NN disease|NN lead|NN development|NN screen|NN program|NN disease|NN
+genetic screen|NN carrier|NN disease|NN possible inexpensive enzyme|NN assay|NN test|NN available
+detect lower level|NN enzyme|NN serum|NN
+develop enzyme|NN assay|NN test|NN accurate genetic test|NN base polymerase|NN chain|NN reaction|NN pcr|NP technique|NN cost|NN effective broader use|NN allow screen|NN disease|NN rare population|NN
+pcr|NP test|NN effective ancestry|NN parent|NN known allow proper selection|NN genetic marker|NN
+genetic counselor|NN work couple|NN plan conceive child|NN assess risk|NN factor|NN base ancestry|NN determine test|NN method|NN appropriate
+test|NN quite effective eliminate occurrence|NN ashkenazy jew|NN
+baby|NN born tay-sach|NN north|NP america|NP none born jewish family|NN
+israel|NP child|NN born tay-sach|NN preliminary result|NN early indicate born disease|NN
+approache|NN use prevent reduce incidence|NN disease|NN ashkenazy jewish population|NN diagnosis|NN selective abortion|NN
+parent|NN identify carrier|NN prenatal genetic test|NN determine fetus|NN inherit defective copy|NN gene|NN parent|NN
+couple|NN terminate pregnancy|NN eliminate risk|NN tay-sach|NN selective abortion|NN raise ethical issue|NN family|NN mate|NN selection|NN
+orthodox jewish circle|NN organization|NN yeshorim|NN carry anonymous screen|NN program|NN couple|NN likely conceive child|NN tay-sach|NN genetic disorder|NN avoid marriage|NN
+stone|NN dartmouth|NP college|NN describe approach|NN
+orthodox jewish high school|NN student|NN give blood|NN test|NN determine tay-sach gene|NN
+instead receive direct result|NN carrier|NN status|NN person|NN give six-digit identification|NN number|NN
+couple|NN call hotline|NN carrier|NN deem incompatible
+individual|NN told carrier|NN directly avoid possibility|NN stigmatization|NN discrimination|NN
+information|NN release carrier|NN potentially become community|NN
+anonymous test|NN eliminate stigma|NN decrease rate|NN homozygosity|NN population|NN
+stone|NN note|NN approach|NN effective confine population|NN orthodox jew|NN effective general population|NN genetic diagnosis|NN
+retrieve mother|NN egg|NN fertilization|NN conceive child|NN womb|NN possible test embryo|NN prior implantation|NN
+healthy embryo|NN select transfer|NN mother|NN womb|NN
+addition|NN disease|NN pgd|NN use prevent cystic fibrosis|NN sickle|NN cell|NN huntington|NP disease|NN genetic disorder|NN method|NN expensive
+require invasive medical technology|NN financial mean|NN couple|NN
+edit|NN therapy|NN currently cure|NN treatment|NN
+even best care|NN children|NN tsd die|NN age|NN progress|NN tsd|NN slow treate
+edit|NN epidemiology|NN historically eastern european people|NN jewish descent|NN ashkenazy jew|NN high incidence|NN tay-sach|NN lipid storage|NN disease|NN
+documentation|NN tay-sach|NN jewish population|NN reache back century|NN europe|NP
+united|NP states|NP ashkenazy jew|NN recessive carrier|NN
+french canadian|NN cajun|NN community|NN louisiana|NP occurrence|NN similar ashkenazy jew|NN
+irish american|NN chance|NN person|NN carrier|NN
+general population|NN incidence|NN carrier|NN continue controversy|NN individual|NN carrier|NN copy|NN gene|NN actually develop disease|NN selective advantage|NN
+classic case|NN advantage|NN sickle|NN cell|NN researcher|NN argue evolutionary benefit|NN heterozygote|NN tay-sach|NN well
+different theory|NN propose explain high frequency|NN tay-sach carrier|NN ashkenazy jewish population|NN advantage|NN tuberculosis|NN resistance|NN
+tay-sach carrier|NN serve form|NN protection|NN tuberculosis|NN
+prevalence|NN european jewish population|NN high part|NN jew|NN force live ghetto|NN
+statistical study|NN demonstrate grandparent|NN tay-sach carrier|NN likely carrier|NN dy proportionally cause|NN heterozygote advantage|NN higher intelligence|NN
+theory|NN attribute gregory|NP cochran|NP propose tay-sach|NN lipid storage|NN disease|NN prevalent ashkenazy jew|NN enhance growth|NN promote higher intelligence|NN present carrier|NN form|NN provide selective advantage|NN time|NN ashkenazy jew|NN restrict intellectual occupation|NN see ashkenazy intelligence|NN
+reproductive compensation|NN
+parent|NN lose child|NN disease|NN tend compensate additional children|NN replace increase incidence|NN recessive disease|NN founder|NN effect|NN
+hypothesis|NN state high incidence|NN 1278instatc mutation|NN result|NN genetic drift|NN amplify high frequency|NN exist chance|NN early founder|NN population|NN
+disease|NN autosomal|NN recessive genetic disorder|NN enzyme|NN assay|NN test|NN prior polymerase|NN chain|NN reaction|NN test|NN method|NN intensely study model|NN disease|NN
+researcher|NN theory|NN advantage|NN fail find evidence|NN human population|NN
+unaware diversity|NN tay-sach mutation|NN base|NN
+complete genome|NN sequence researcher|NN unaware extent|NN polymorphism|NN
+contribution|NN evolution|NN genetic drift|NN oppose natural selection|NN fully appreciate
+dna|NN sequence|NN technique|NN use pcr|NP apply genetic disorder|NN human population|NN
+broad genetic study|NN ashkenazy population|NN relate genetic disease|NN demonstrate ashkenazy jew|NN descendant|NN small founder|NN population|NN gone additional population|NN bottleneck|NN
+study|NN correlate well historical information|NN ashkenazy jew|NN
+preponderence|NN recent study|NN support founder|NN effect|NN theory|NN edit|NN reference|NN
+national institute|NN neurological disorder|NN stroke|NN
+disease|NN information|NN page|NN
+retrieve july|NP
+moe|NP md|NN paul|NP g|NP tim|NP
+md|NN phd|NN
+muscular disorder|NN current diagnosis|NN treatment|NN
+pi|NN gm|NP clarke|NP jt|NP callahan|NP pm|NN
+tay-sach disease|NN present catatonic schizophrenia|NN diagnostic treatment|NN issue|NN
+journal|NN clinical psychiatry|NN
+gm|NP zeng|NP gianutsos|NP j|NP cm|NN
+tay-sach disease|NN phenotypic characterization|NN genotypic|NN correlation|NN affect patient|NN
+genetics|NN medicine|NN
+biochemical consequence|NN mutation|NN cause gm2 gangliosidose|NN
+tel|NP aviv|NP university|NN department|NN human genetics|NN unit|NN
+human genetics|NN disease|NN database|NN
+retrieve july|NP
+keats|NP b|NP
+j|NP elston|NP r|NP
+c|NP andermann|NP e|NP
+pedigree|NN discriminant analysis|NN french canadian tay-sach|NN family|NN
+genetic epidemiology|NN
+stoller|NP david|NP
+genetic screen|NN enigma|NN selective abortion|NN
+journal|NN law|NN health|NN
+tay-sach disease|NN
+retrieve august|NP
+genetic diagnosis|NN
+tay|NP sachs|NP disease|NN information|NN page|NN
+tel|NP aviv|NP university|NN department|NN human genetics|NN unit|NN
+human genetics|NN disease|NN database|NN
+retrieve july|NP
+spyropoulos|NP b|NP davidson|NP j|NP lowden|NP ja|NP
+advantage|NN tay-sach carrier|NN
+american journal|NN human genetics|NN
+gregory|NP cochran|NP jason|NP hardy|NP henry|NP harpending|NP
+natural history|NN ashkenazy intellignece|NN
+retrieve jan|NP
+koeslag|NP jh|NP schach|NP sr|NP
+disease|NN role|NN reproductive compensation|NN maintenance|NN ethnic variation|NN incidence|NN recessive disease|NN
+annal|NN human genetics|NN
+risch|NP n|NP tang|NN h|NP katzenstein|NP h|NP j|NP
+geographic distribution|NN disease|NN mutation|NN ashkenazy jewish population|NN support genetic drift|NN selection|NN
+american journal|NN human genetics|NN
+frisch|NP colombo|NP r|NP e|NP m|NP goldman|NP b|NP l|NP
+origin|NN spread|NN 1278instatc mutation|NN cause disease|NN ashkenazy jew|NN genetic drift|NN robust parsimonious hypothesis|NN
+human genetics|NN
+slatkin|NP m|NP
+population-genetic test|NN founder|NN effect|NN implication|NN ashkenazy jewish disease|NN
+american journal|NN human genetics|NN
+edit external link|NN national ally disease|NN association|NN disease|NN information|NN page|NN nlm|NP taysachsdisease|NP
+arta10html text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

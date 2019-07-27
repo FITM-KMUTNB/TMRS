@@ -1,0 +1,88 @@
+meningitis|NN meningitis|NN meningitis|NN external resource|NN
+320-322|NN medlineplus|NN med2613|NN meningitis|NN inflammation|NN meninge|NN cause bacteria|NN viral infection|NN elsewhere body|NN spread blood|NN cerebrospinal fluid|NN csf|NP
+cause|NN meningitis|NN fungal certain non-infectious|NN rarer
+meningitis|NN distinguish condition|NN encephalitis|NN inflammation|NN brain|NN
+meningitis|NN affect age|NN group|NN newborn elderly specific cause|NN different
+typical sign|NN symptom|NN meningitis|NN include fever|NN headache|NN stiff neck|NN vomit
+common cause|NN meningitis|NN viral bacterial meningitis|NN serious indee life-threaten therefore suspect meningitis|NN prompt medical evaluation|NN
+content|NN symptom|NN complication|NN associate feature|NN diagnosis|NN csf|NP analysis|NN bacterial meningitis|NN treatment|NN specific treatment|NN viral meningitis|NN increase intracranial pressure|NN vaccination|NN history|NN african meningitis|NN belt|NN see further read reference|NN external link|NN edit symptom|NN symptom|NN meningitis|NN sudden high fever|NN drowsiness|NN confusion|NN severe unrelent headache|NN stiff neck|NN intolerance|NN bright light|NN sound|NN twitch convulsion|NN delirium|NN particularly children|NN rash|NN small irregular purple|NN red spot|NN body|NN indicate meningitis|NN
+nausea|NN vomit|NN occur
+occur patient|NN
+sign|NN include sign|NN sign|NN
+commonly test sensitivity|NN specificity|NN kernig|NN brudzinskis|NN test|NN uncertain
+symptom|NN infant|NN month|NN high fever|NN irritability|NN particularly handle difficulty|NN awaken|NN drowsiness|NN difficulty|NN feed stiff neck|NN bulge soft spot|NN top|NN head|NN rigidity|NN pathognomonic sign|NN irritation|NN present neck|NN resistant passive flexion|NN
+sign|NN elicit patient|NN ly supine hip|NN knee|NN flex
+irritation|NN present pain|NN elicit knee|NN passively extend
+sign|NN elicit patient|NN ly supine hip|NN knee|NN flex
+irritation|NN present pain|NN elicit neck|NN passively flex
+important clue|NN meningitis|NN diffuse rash present|NN trunk|NN lower extremity|NN mucous|NN membrane|NN occasionally palm|NN sole|NN
+edit|NN complication|NN increase intracranial pressure|NN known potentially fatal complication|NN bacterial meningitis|NN
+main sign|NN increase intracranial pressure|NN alter state|NN consciousness|NN vary lethargy|NN confusion|NN coma|NN
+case|NN present csf|NP open|NN pressure|NN
+sign|NN increase icp|NP addition|NN headache|NN vomit|NN include cranial nerve|NN posture|NN reflex|NN hypertension|NN respiration|NN
+fatal complication|NN icp|NP brain|NN present case|NN
+edit associate feature|NN arthritis|NN bacterial infection|NN joint|NN occur case|NN bacterial meningitis|NN case|NN meningitis|NN edit|NN diagnosis|NN diagnosis|NN meningitis|NN well specific etiology|NN important laboratory|NN test|NN take time|NN
+bacterial meningitis|NN urgent issue|NN treatment|NN usually institute definite diagnosis|NN made
+patient|NN suspect meningitis|NN blood|NN culture|NN drawn antibiotics|NN start immediately
+diagnosis|NN meningitis|NN carry examination|NN csf|NP lumbar|NN puncture|NN lp|NN
+patient|NN recent head|NN trauma|NN immunocompromise known malignant cns|NP focal neurologic deficit|NN alter consciousness|NN ct|NN mry|NN perform lp|NN order|NN avoid potentially fatal brain|NN procedure|NN
+otherwise ct|NN mry|NN perform lp|NN mry|NN prefer ct|NN due superiority|NN demonstrate area|NN cerebral edema|NN enhancement|NN
+antibiotics|NN start hour|NN lumbar|NN puncture|NN significantly affect lab|NN result|NN
+open|NN pressure|NN note lp|NN csf|NP fluid|NN sent examination|NN white blood|NN cell|NN red blood|NN cell|NN glucose|NN protein|NN gram|NN stain|NN culture|NN possibly latex|NN test|NN lysate|NN pcr|NP bacterial dna|NN
+edit|NN csf|NP analysis|NN bacterial meningitis|NN open|NN pressure|NN white blood|NN cell|NN neutrophil|NN predominance|NN csf|NP glucose|NN serum|NN glucose|NN ratio|NN protein|NN gram|NN stain|NN positive culture|NN positive latex|NP agglutination|NP positive meningitis|NN due pneumoniae|NN haemophilus|NN escherichia|NP coly|NN group|NN b|NP streptococci|NP lysate|NN positive meningitis|NN csf|NP culture|NN usually positive patient|NN viral meningitis|NN negative culture|NN usually positive csf|NP pcr|NP test|NN
+edit|NN treatment|NN bacterial meningitis|NN medical emergency|NN high mortality|NN rate|NN untreate
+suspect case|NN mild need|NN emergency|NN medical attention|NN
+antibiotics|NN start immediately even result|NN lumbar|NN puncture|NN csf|NP analysis|NN known
+choice|NN antibiotic|NN depend local advice|NN
+develop world|NN common organism|NN involve streptococcus line|NN treatment|NN uk|NP third-generation cephalosporin|NN
+year|NN age|NN year|NN age|NN ampicillin|NN ad cover monocytogene|NN
+country|NN high level|NN penicillin|NN resistance|NN line|NN choice|NN antibiotics|NN vancomycin carbapenem|NN
+sub-saharan africa|NP oily chloramphenicol|NN use single dose|NN need case|NN
+bacilly|NN common infective agent|NN patient|NN neurosurgical procedure|NN
+choice|NN antibiotic|NN depend local pattern|NN infection|NN remain good choice|NN situation|NN ceftazidime|NN use pseudomona|NN aeruginosa|NN problem|NN vancomycin|NN use patient|NN intraventricular shunt|NN high rate|NN infection|NN
+patient|NN prothetic material|NN metal|NN plate|NN electrode|NN implant|NN sometime antibiotic|NN adequately cover infection|NN staphylococcus|NP aureus|NN inadequate circumstance|NN
+edit specific treatment|NN result|NN csf|NP analysis|NN known along gram-stain|NN culture|NN therapy|NN switch therapy|NN target specific causative organism|NN
+prevalent problem|NN information|NN drug|NN susceptibility|NN test|NN gather
+meningitidis meningococcus|NN usually treate 7-day course|NN antibiotics|NN --|NN penicillin|NN g|NP penicillin-resistant --|NN prophylaxis|NN close contact|NN contact|NN oral secretion|NN --|NN mg|NN bid|NN day|NN adult|NN mgkg bid|NN children|NN
+recommend pregnancy|NN patient|NN treate single dose|NN ciprofloxacin|NN streptococcus|NN pneumococcus|NN usually treate 2-week course|NN antibiotics|NN --|NN penicillin|NN g|NP penicillin-intermediate|NP --|NN penicillin-resistant --|NN vancomycin|NN monocytogene|NN treate 3-week course|NN ampicillin|NN
+gram|NN negative bacilly|NN --|NN pseudomona|NN --|NN staphylococcus|NP aureus|NN --|NN --|NN agalactiae --|NN penicillin|NN g|NP haemophilus|NN --|NN edit viral meningitis|NN bacteria|NN viruse|NN kill antibiotics|NN
+patient|NN mild viral meningitis|NN spend hour|NN hospital|NN serious infection|NN hospitalise day|NN supportive care|NN
+patient|NN mild case|NN cause flu-like symptom|NN treate fluid|NN bed|NN rest|NN preferably quiet dark room|NN analgesics|NN pain|NN fever|NN
+physician|NN prescribe phenytoin|NN prevent seizure|NN corticosteroid|NN reduce brain|NN inflammation|NN
+inflammation|NN severe pain|NN medicine|NN sedative|NN prescribe make patient|NN comfortable
+type|NN meningitis|NN highly contagious early stage|NN patient|NN kept isolate day|NN
+edit increase intracranial pressure|NN treatment|NN increase intracranial pressure|NN include elevation|NN head|NN degree|NN intubation|NN hyperventilation|NN mannitol|NN
+edit|NN vaccination|NN influenzae|NN decrease early childhood|NN meningitis|NN significantly
+vaccine|NN type|NN kind|NN cause disease|NN preschool children|NN teenager|NN united|NP states|NP
+type|NN prevalent africa|NP w135|NP outbreak|NN affect hajj pilgrimage|NN mecca|NP
+vaccine|NN call menzb specific strain|NN type|NN prevalent new|NP zealand|NP complet trial|NN give people|NN country|NN age|NN
+vaccine|NN specific strain|NN type|NN disease|NN prevalent norway|NP specific vaccine|NN strain|NN prevalent cuba|NP
+pneumovax pneumoniae|NN recommend year|NN
+children|NN receive vaccination|NN pneumoniae start|NN week|NN month|NN american association|NN aap recommendation|NN
+edit|NN history|NN symptom|NN meningitis|NN record middle age|NN tuberculosis|NN black plague|NN accurately identify swiss vieusseux|NN scientific-literary association|NN outbreak|NN geneva|NP switzerland|NP
+century|NN meningitis|NN scourge|NN japanese imperial family|NN play largest role|NN horrendous pre-maturity|NN death|NN rate|NN family|NN endure
+mid-1800|NN emperor|NN k|NP
+sible|NN reach maturity|NN total children|NN survive birth|NN
+son|NN emperor|NP meiji|NP survivor|NN k|NP
+children|NN elder|NN brother|NN meiji|NP taken throne|NN live maturity|NN
+children|NN survive son|NN emperor|NN feeble-mind perhap result|NN contract meningitis|NN
+emperor|NN generation|NN family|NN receive modern medical attention|NN
+focal point|NN tradition|NN japan|NP tokugawa|NP family|NN deny modern dutch medical treatment|NN use|NN upper caste|NN extensive modernization|NN meijy restoration|NN emperor|NN insist traditional medical care|NN children|NN
+inbreed|NN produce family|NN consider worthy marriage|NN imperial line|NN descendent line|NN therefore none distant cousin|NN play important role|NN
+edit african meningitis|NN belt|NN meningitis|NN belt|NN area|NN sub-saharan africa|NP stretche senegal|NP west|NN ethiopia|NP east|NN large epidemics|NN meningitis|NN occur
+contain estimate total population|NN people|NN
+largest epidemic|NN outbreak|NN 250000 case|NN occure 25000 people|NN dy consequence|NN disease|NN
+edit see maurice|NP hilleman edit|NN further read|NN infectious disease|NN edition|NN
+green book|NN
+stationery|NN office|NN uk|NP
+isbn|NP 0-11-322528-8|NP e|NP et|NP al|NP
+harrisons|NP principle|NN internal medicine|NN ed|NP
+edit|NN reference|NN
+weisfelt|NP m|NP van|NP de|NP d|NP l|NP de|NP j|NP
+arthritis|NN adult|NN community-acquire bacterial meningitis|NN prospective cohort|NN study|NN
+bmc|NP infectious disease|NN
+edit external link|NN vaccination|NN information|NN nhs|NP uk|NP merck|NP manual|NN central nervous system|NN infection|NN meningococcal|NP meningitis|NN cdc|NP meningococcal|NP disease|NN meningitis|NN trust|NN meningitis|NN research|NN foundation|NN uk|NP ireland|NP national meningitis|NN association|NN cnn|NP health|NN library|NN meningitis|NN bbc|NP new|NN french|NN kiss|NN different partner|NN quadruple teenager|NN risk|NN meningitis|NN
+artaechtml text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

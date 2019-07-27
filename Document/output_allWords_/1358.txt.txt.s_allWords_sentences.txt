@@ -1,0 +1,208 @@
+disease|NN disease|NN disease|NN external resource|NN trypanosoma cruzy|NN cdc|NP icd-9 086|NN emedicine|NN disease|NN call american trypanosomiasis|NN human tropical parasitic disease|NN occur americas|NP particularly south|NP america|NP
+pathogenic agent|NN flagellate protozoan|NN name cruzy|NN transmit human|NN mammal|NN mostly assassin|NN bug|NN subfamily triatominae family|NN
+insect|NN known numerous common name|NN vary country|NN vinchuca kiss|NN bug|NN
+common insect|NN specy|NN belong genera|NN rhodnius|NN panstrongylus|NN
+form|NN transmission|NN possible ingestion|NN food|NN contaminate parasite|NN blood|NN transfusion|NN fetal transmission|NN
+member|NN genus|NN infectious agent|NN african sleep|NN sickness|NN clinical manifestation|NN geographical distribution|NN life|NN cycle|NN insect|NN vector|NN quite different
+content|NN history|NN epidemiology|NN geographical distribution|NN clinical manifestation|NN infection|NN cycle|NN alternative infection|NN mechanism|NN laboratory|NN diagnosis|NN treatment|NN prevention|NN see note|NN reference|NN further read|NN external link|NN recent new|NN event|NN edit history|NN disease|NN name brazilian physician|NN carlos|NP describe disease|NN seen major public health|NN problem|NN human|NN
+discover intestine|NN triatomidae|NN flagellate protozoan|NN new specy|NN trypanosoma genus|NN able prove experimentally transmit marmoset monkey|NN bitten infect bug|NN
+name pathogenic parasite|NN cause disease|NN later renam cruzy|NN oswaldo|NP cruz|NP note brazilian physician|NN epidemiologist|NN fought successfully epidemics|NN yellow fever|NN smallpox|NN bubonic plague|NN rio|NP de|NP janeiro|NP city|NN begine|NN century|NN
+work|NN unique history|NN medicine|NN researcher|NN far describe completely new infectious disease|NN pathogen|NN vector|NN host|NN clinical manifestation|NN epidemiology|NN
+nevertheless believe falsely main infection|NN route|NN bite|NN insect|NN fece|NN propose colleague|NN emile|NP assure dia cardoso|NP brumpt|NP
+historical point|NN view|NN hypothesize charles|NP darwin|NP suffer disease|NN result|NN bite|NN so-cal great black bug|NN pampa|NN see charles|NP illness|NN
+episode|NN report darwin|NP diary|NN voyage|NN beagle|NN occure march|NP east|NN andes|NP mendoza|NP
+darwin|NP young general good health|NN month|NN previously ill month|NN valparaiso|NN year|NN return england|NP began suffer intermittently strange group|NN symptom|NN becom incapacitate rest|NN life|NN
+attempt|NN test|NN remain|NN westminster|NP abbey|NN use modern pcr|NP technique|NN met refusal|NN abbey curator|NN edit|NN epidemiology|NN geographical distribution|NN latin america|NP aendemic|NN zone|NN disease|NN currently affect people|NN latin american population|NN risk|NN acquire disease|NN kill|NN people|NN annually chronic chaga|NN disease|NN remain major health|NN problem|NN latin american country|NN effectiveness|NN hygienic preventive measure|NN eliminate transmit insect|NN reduce new infection|NN country|NN region|NN
+increase population|NN movement|NN possibility|NN transmission|NN blood|NN transfusion|NN become substantial united|NP states|NP t|NP cruzi|NP found infect wild opossum|NN raccoon|NN far north|NN state|NN north|NP carolina|NP disease|NN distribute americas|NP rang southern unit state|NN southern argentina|NP mostly poor rural area|NN central south|NP america|NP disease|NN exclusively found rural area|NN triatominae|NN breed feed natural reservoir|NN common opossum armadillo|NN
+special local interaction|NN vector|NN host|NN infect human|NN domestic animal|NN cat|NN dog|NN guinea|NN pig|NN wild animal|NN rodent|NN monkey|NN ground|NN squirrel|NN beecheyy|NN serve important parasite|NN reservoir|NN
+bug|NN feed bird|NN seem immune infection|NN therefore consider t|NP cruzy|NN reservoir|NN remain suspicion|NN feed resource|NN vector|NN human habitation|NN
+triatomine insect|NN known popularly different country|NN vinchuca|NN barber|NN name|NN call suck blood|NN night|NN bite face|NN victim|NN
+insect|NN develop predominantly domiciliary anthropophilic behaviour|NN infest house|NN usually hide day|NN crevice|NN gap|NN wall|NN roof|NN poorly construct home|NN
+rarely better construct house|NN harbor insect|NN vector|NN use|NN rough material|NN make roof|NN bamboo|NN thatch|NN
+mosquito|NN net|NN wrap mattress|NN provide protection|NN situation|NN adult|NN insect|NN sail above nymphal stage|NN crawl floor|NN
+even colony|NN insect|NN eradicate house|NN surround domestic animal|NN shelter|NN arrive eg fly|NN plant|NN animal|NN part|NN ancient natural sylvatic|NN infection|NN cycle|NN
+happen especially zone|NN mix open savannah|NN clump|NN tree|NN intersperse human habitation|NN
+dense vegetation|NN tropical rain|NN forest|NN urban habitat|NN ideal establishment|NN human transmission|NN cycle|NN
+region|NN sylvatic habitat|NN fauna|NN thine economical exploitation|NN human habitation|NN newly deforest area|NN amazon|NP region|NN occur insect|NN search new prey|NN edit|NN clinical manifestation|NN child|NN panama|NP suffer disease|NN manifest acute infection|NN swell|NN right eye|NN sign|NN
+source|NN cdc|NP
+human disease|NN occur stage|NN acute stage|NN shortly infection|NN chronic stage|NN develop year|NN
+acute phase|NN local skin|NN nodule|NN call chagoma|NN appear site|NN inoculation|NN
+inoculation|NN site|NN conjunctival mucous|NN membrane|NN patient|NN develop unilateral periorbital|NN conjunctivitis|NN preauricular|NN
+constellation|NN symptom|NN refer sign|NN
+acute phase|NN usually asymptomatic present symptom|NN fever|NN anorexia|NN lymphadenopathy|NN mild
+acute case|NN resolve|NN period|NN month|NN asymptomatic chronic stage|NN reappear year|NN
+symptomatic chronic stage|NN occur year|NN even decade|NN initial infection|NN
+disease|NN affect nervous system|NN digestive system|NN heart|NN
+chronic infection|NN result|NN various neurological disorder|NN dementia|NN damage|NN heart|NN muscle|NN cardiomyopathy|NN serious manifestation|NN sometime dilation|NN digestive tract|NN megacolon|NN megaesophagus|NN well weight|NN loss|NN
+swallow difficulty|NN symptom|NN digestive disturbance|NN lead malnutrition|NN
+year|NN asymptomatic period|NN infect develop cardiac damage|NN develop digestive damage|NN present peripheral nervous involvement|NN
+left untreate chaga|NN disease|NN fatal case|NN due cardiomyopathy|NN component|NN
+edit|NN infection|NN cycle|NN infect triatomine|NN insect|NN vector|NN feed blood|NN release|NN fece|NN site|NN bite|NN wound|NN
+victim|NN scratch site|NN bite|NN cause|NN enter host|NN wound|NN intact mucosal membrane|NN conjunctiva|NN
+host|NN trypomastigote|NN invade cell|NN differentiate intracellular amastigote|NN
+amastigote|NN multiply binary fission|NN differentiate release circulation|NN bloodstream|NN
+trypomastigote|NN infect cell|NN variety|NN biological tissue|NN transform intracellular amastigote|NN new infection|NN site|NN
+clinical manifestation|NN cell|NN death|NN target|NN tissue|NN occur infective cycle|NN
+example|NN show pathologist|NN dr|NP
+fritz|NP köberle medical school|NN university|NN paulo|NP ribeiro|NP brazil|NP intracellular amastigote|NN destroy intramural neuron|NN autonomic nervous system|NN intestine|NN heart|NN lead megaintestine|NN heart|NN respectively
+bloodstream|NN replicate african trypanosome|NN
+resume parasite|NN enter cell|NN ingest vector|NN
+kiss|NN bug|NN become infect feed human animal|NN blood|NN contain circulate parasite|NN
+moreover bug|NN able spread infection|NN cannibalistic predatory behaviour|NN
+ingest trypomastigote|NN transform|NN epimastigote|NN vector|NN
+parasite|NN multiply differentiate midgut|NN differentiate infective metacyclic|NN hindgut|NN
+transmit blood|NN transfusion|NN organ|NN transplantation|NN breast|NN milk|NN laboratory|NN accident|NN
+world|NN health|NN organization|NN infection|NN rate|NN blood|NN bank|NN latin america|NP vary figure|NN higher hiv|NP infection|NN hepatitis|NN edit alternative infection|NN mechanism|NN researcher|NN suspect transmission|NN trypanosome|NN oral route|NN possible number|NN micro-epidemics|NN restrict particular time|NN place|NN farm|NN family|NN dwell|NN particularly area|NN amazonia|NP episode|NN record
+farm|NN worker|NN state|NN paraba|NP brazil|NP apparently infect contamination|NN food|NN fece|NN state|NN member|NN family|NN infect drink|NN palm|NN fruit|NN juice|NN probably contaminate crush triatomine vector|NN insect|NN begine|NN new outbreak|NN case|NN detect
+march|NP new startle outbreak|NN record state|NN santa|NP brazil|NP seem confirm alternative mechanism|NN transmission|NN
+people|NN santa|NP ingest sugar|NN cane|NN juice|NN portuguese|NN roadside|NN kiosk|NN acquire disease|NN march|NP case|NN confirm santa|NP death|NN
+citation|NN need hypothesize mechanism|NN far insect|NN crush raw preparation|NN
+health|NN authority|NN santa|NP estimate ca 60000 people|NN contact|NN contaminate food|NN santa|NP urge situation|NN submit blood|NN test|NN
+prohibit sale|NN sugar|NN cane|NN juice|NN state|NN situation|NN rectify
+unusual severity|NN disease|NN outbreak|NN blame hypothetical higher parasite|NN load|NN achieve oral route|NN infection|NN
+brazilian researcher|NN instituto|NP cruz|NP rio|NP de|NP janeiro|NP able infect mice|NN gastrointestinal tube|NN oral preparation|NN
+edit|NN laboratory|NN diagnosis|NN demonstration|NN causal agent|NN diagnostic procedure|NN acute chaga disease|NN
+alway yield positive result|NN achieve microscopic examination|NN fresh anticoagulate|NN blood|NN buffy coat|NN motile parasite|NN thin thick blood|NN smear|NN stain giemsa|NP visualization|NN parasite|NN confuse longer show pathogenicity|NN human|NN
+isolation|NN agent|NN inoculation|NN mice|NN culture|NN specialize media|NN eg lit|NN xenodiagnosis uninfect reduviidae|NN bug|NN fed patient|NN blood|NN gut|NN content|NN examine parasite|NN week|NN later
+various immunodiagnostic|NN test|NN try distinguish strain|NN tcruzy|NN divergent pathogenicity|NN
+fixation|NN indirect hemagglutination|NN ifa|NN indirect fluorescent assay|NN elisa|NP enzyme-link assay|NN diagnosis|NN base molecular biology|NN technique|NN
+pcr|NP chain|NN reaction|NN promise edit|NN index|NN classification|NN patient|NN disease|NN publish august|NP edition|NN new|NP england|NP journal|NN medicine|NN base patient|NN index|NN include clinical aspect|NN x-ray|NN find|NN echocardiography|NN holter|NN
+risk|NN factor|NN risk|NN factor|NN point|NN class|NN wall|NN motion|NN abnormality|NN ventricular tachycardia|NN low voltage|NN ecg|NN male sex|NN total point|NN risk|NN death|NN year|NN edit|NN treatment|NN disease|NN usually effective give acute stage|NN infection|NN
+drug|NN choice|NN azole nitroderivative benznidazole|NN nifurtimox|NN investigational new drug|NN protocol|NN cdc|NP drug|NN service|NN resistance|NN drug|NN report furthermore agent|NN toxic adverse effect|NN taken medical supervision|NN
+antifungal agent|NN b|NP propose second-line drug|NN cost|NN drug|NN relatively high toxicity|NN limit use|NN
+moreover 10-year study|NN chronic administration|NN drug|NN brazil|NP reveal current chemotherapy|NN totally remove decision|NN use therapy|NN individualize consultation|NN expert|NN
+chronic stage|NN treatment|NN involve manage clinical manifestation|NN disease|NN eg drug|NN heart|NN pacemaker|NN chronic heart|NN failure|NN heart|NN surgery|NN disease|NN se|NN curable phase|NN
+chronic heart|NN disease|NN cause chaga|NN common reason|NN heart|NN transplantation|NN surgery|NN
+recently chaga disease|NN consider contraindication|NN procedure|NN heart|NN damage|NN recur parasite|NN expect seize opportunity|NN provide immunosuppression|NN follow surgery|NN
+research|NN change indication|NN transplant|NN procedure|NN disease|NN patient|NN conduct dr|NP
+jatene group|NN heart|NN institute|NN university|NN paulo|NP paulo|NP brazil|NP research|NN note survival|NN rate|NN chaga patient|NN significantly improve use lower dosage|NN immunosuppressant drug|NN cyclosporin|NN
+recently direct stem|NN cell|NN therapy|NN heart|NN muscle|NN use bone|NN marrow|NN cell|NN transplantation|NN show dramatically reduce risk|NN heart|NN failure|NN chaga patient|NN patient|NN show benefit|NN strict prevention|NN reinfection|NN reason|NN clearly understood
+example|NN struggle|NN advance|NN use|NN cyclase|NN inhibitor|NN cysteine|NN protease|NN inhibitor|NN found cure experimental infection|NN animal|NN frog|NN specy|NN oreade|NN p|NP distincta|NP
+cruzy activity|NN cytotoxicity|NN mammalian cell|NN design|NN inhibitor|NN enzyme|NN involve metabolism|NN unique kinetoplastid group|NN parasite|NN sesquiterpene|NN dhl|NN affect growth|NN culture epimastigote|NN trypanosoma|NN genome|NN cruzy|NN sequence protein|NN produce disease|NN human|NN identify possible drug|NN target|NN defeat disease|NN edit|NN prevention|NN vector|NN insect|NN kiss|NN bug|NN reasonably effective vaccine|NN develop ribeiro|NP use cellular subcellular fraction|NN parasite|NN found economically
+recently potential|NN dna|NN vaccine|NN immunotherapy|NN acute chronic chaga|NN disease|NN test research|NN group|NN
+prevention|NN center fight vector|NN use spray|NN paint|NN contain insecticide|NN synthetic improve house|NN sanitary condition|NN rural area|NN
+urban dweller|NN spend vacation|NN camp wilderness|NN sleep|NN hostel|NN mud|NN house|NN endemic area|NN dangerous mosquito|NN net|NN recommend
+traveller|NN intend travel area|NN prevalence|NN get information|NN endemic rural area|NN disease|NN traveller|NN cdc|NP
+country|NN disease|NN endemic test|NN blood|NN donor|NN mandatory important route|NN transmission|NN
+past donate blood|NN mix gl|NN gentian|NN violet|NN successfully kill parasite|NN
+measure|NN landmark|NN achieve fight|NN disease|NN latin america|NP reduction|NN incidence|NN human infection|NN children|NN young adult|NN country|NN initiative|NN southern cone|NN country|NN uruguay|NP chile|NP certify free vectorial|NN transmission|NN
+brazil|NP largest population|NN risk|NN endemic state|NN certify free
+stepstone|NN vector|NN control|NN yeast|NN trap|NN test monitor|NN infestation|NN certain specy|NN bugsperformance|NN yeast-bait trap|NN sordida|NN triatoma|NN megistus|NN laboratory|NN assay|NN
+promise result|NN gain treatment|NN vector|NN habitat|NN fungus|NN beauveria|NN discussion|NN preventionactivity|NN beauveria bassiana|NN sordida|NN peridomestic area|NN central brazil|NP
+target symbiont|NN edit|NN see tropical disease|NN drug|NN neglect disease|NN initiative|NN edit|NN note|NN
+chagas|NP c|NP
+nova|NP trypanozomaze|NP
+sobre morfologia|NN cruzy
+mem|NP inst|NP cruz|NP new human trypanosomiasis|NN
+study|NN morphology|NN cycle|NN cruzy|NN agent|NN new morbid entity|NN man|NN
+adler|NP d|NP
+isr|NP j|NP med|NP
+carlier|NP yves|NP
+disease|NN american trypanosomiasis|NN february|NP
+kirchhoff|NP lv|NP
+american trypanosomiasis|NN disease|NN tropical disease|NN united|NP states|NP
+n|NP engl|NP j|NP med|NP aug|NP
+8341339 online
+karsten|NP v|NP davis|NP c|NP kuhn|NP r|NP
+cruzy|NN wild raccoon|NN opossum|NN north|NP carolina|NP
+center|NN disease|NN control|NN cdc|NP
+american trypanosomyasis|NN fact|NN sheet|NN
+mj|NN fs|NP ja|NP et|NP al|NP
+high household|NN infestation|NN rate|NN synanthropic vector|NN disease|NN southern ecuador|NP
+j|NP med|NP
+teixeira|NP ps|NN jm|NP et|NP al|NP
+emerge chaga|NN disease|NN network|NN cycle|NN transmission|NN cruzy|NN palm|NN tree|NN amazon|NP
+emerg jan-feb71100-12|NN
+pdf|NP full text|NN
+santos|NP ferreira|NP c|NP amato|NP v|NP e|NP et|NP al|NP
+microwave|NN treatment|NN human milk|NN prevent transmission|NN disease|NN
+rev|NP inst|NP med|NP paulo|NP
+ma|NN cb|NN la|NP et|NP al|NP
+possible oral transmission|NN acute chaga|NN disease|NN brazil|NP
+rev|NP inst|NP med|NP paulo|NP
+da|NP silva|NP s|NP de|NP costa|NP v|NP h|NP
+consideration|NN epidemiology|NN transmission|NN disease|NN brazilian amazon|NN
+mem|NP inst|NP cruz|NP
+uk|NP health|NN protection|NN agency|NN disease|NN american trypanosomiasis|NN southern brazil|NP
+rassy jr|NN little|NP w|NP xavier|NP s|NP s|NP rassi|NP g|NP sousa|NP m|NP
+development|NN validation|NN risk|NN score|NN predict death|NN heart|NN disease|NN
+n|NP engl|NP j|NP med|NP
+garcia|NP s|NP ramos|NP co|NN jf|NP et|NP al|NP
+treatment|NN benznidazole|NN chronic phase|NN experimental chaga|NN disease|NN decrease cardiac alteration|NN
+15793134 online
+buckner|NP fs|NP wilson|NP aj|NP white|NP tc|NP van|NP wc|NN
+induction|NN resistance|NN azole drug|NN cruzy|NN
+9835521 online
+lauria-pires|NP l|NP ms|NN ac|NN et|NP al|NP
+progressive chronic chaga|NN heart|NN disease|NN year|NN treatment|NN cruzy nitroderivative|NN
+am|NP j|NP med|NP
+pmid pdf|NP full text|NN
+bocchi|NP ea|NP bellotti|NP g|NP ao|NP d|NP et|NP al|NP
+heart|NN transplantation|NN chronic chaga heart|NN disease|NN
+ann|NP thorac|NP
+vilas-boas|NP f|NP gs|NP soares|NP mb|NN mota|NP et|NP al|NP
+early result|NN bone|NN marrow|NN cell|NN transplantation|NN myocardium|NN patient|NN heart|NN failure|NN due disease|NN
+pmid pdf|NP full text|NN
+engel|NP jc|NP doyle|NP ps|NN mckerrow jh|NP
+protease|NN inhibitor|NN cure experimental trypanosoma|NN infection|NN
+j|NP med aug|NP
+function|NN trypanothione|NN kinetoplastida|NN
+annu|NP rev|NP 199246695-729|NP
+brengio|NP sd|NP sa|NP e|NP et|NP al|NP
+sesquiterpene|NN dhl|NN affect growth|NN culture epimastigote|NN cruzy|NN
+el-say myler|NP pj|NP dc|NP et|NP al|NP
+genome|NN sequence|NN cruzy|NN agent|NN disease|NN
+el-sayed|NP et|NP al|NP
+hh|NN cr|NP l|NP lorenzo|NP mg|NP
+performance|NN yeast-bait trap|NN sordida|NN triatoma|NN megistus|NN laboratory|NN assay|NN
+rev|NP panam|NP salud|NP
+luz|NP c|NP rocha|NP lf|NP gv|NP bp|NP ms|NP
+activity|NN beauveria bassiana|NN sordida|NN peridomestic area|NN central brazil|NP
+mem|NP inst|NP cruz|NP
+15250478 online
+search|NN symbiosis|NN edit|NN reference|NN cdc|NP division|NN parasitic disease|NN
+disease|NN fact|NN sheet|NN september|NP
+dumonteil|NP e|NP j|NP n|NP ramirez-sierra m|NN
+immunotherapy|NP cruzy infection|NN dna|NN vaccine|NN mice|NN
+edit further read|NN m|NP
+year|NN disease|NN success|NN story|NN periphery|NN
+soc|NP stud|NP
+dias|NP j|NP schofield|NP c|NP
+impact|NN disease|NN control|NN latin america|NP review|NN
+mem|NP inst|NP cruz|NP
+kropf|NP s|NP n|NP ferreira|NP l|NP
+biomedical research|NN public health|NN brazil|NP case|NN disease|NN
+soc|NP med
+international symposium|NN commemorate anniversary|NN discovery|NN disease|NN rio|NP de|NP janeiro|NP april|NP
+instituto|NP cruz|NP
+progress|NN interruption|NN transmission|NN disease|NN
+mem|NP inst|NP cruz|NP
+evolution|NN clinical epidemiological knowledge|NN disease|NN year|NN discovery|NN
+mem|NP inst|NP cruz|NP
+november|NP kevin|NP m|NP
+tyler|NP michael|NP
+miles|NP world|NN class|NN
+volume|NN american trypanosomiasis|NN
+academic publisher|NN
+isbn|NP 1-4020-7323-2|NP
+amazon|NP review|NN edit|NN external link|NN virtual parasite project|NN disease|NN information|NN prevention|NN identification|NN spanish
+database|NN on-line
+unam-instituto|NP de|NP
+health|NN organization|NN
+undp-unicef-who-world bank|NN special programme|NN research|NN
+disease|NN information|NN
+american trypanosomiasis|NN disease|NN
+travel|NN medicine|NN program|NN
+health|NN canada|NP
+link|NN disease|NN picture|NN mduniv|NN iowa|NP link|NN kiss|NN death|NN
+anthropological view|NN disease|NN joseph|NP bastienuniv|NP texas|NP arlington|NP
+edit recent new|NN event|NN control|NN southern cone|NN country|NN history|NN international initiative|NN
+full text|NN genome|NN sequence|NN project|NN genetic code|NN crack bbc|NP catholic|NN relief|NN service|NN
+house|NN improvement|NN disease|NN prevention|NN project|NN scott|NP m|NP
+whip-like structure|NN power|NN movement|NN certain cell|NN
+analysis|NN single-cel parasite|NN african trypanosome|NN reveal essential viability|NN organism|NN
+restrict commercial access|NN
+artasmhtml text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

@@ -1,0 +1,153 @@
+thalassemia thalassemia|NN external resource|NN
+2824|NN american english|NN british english|NN inherit disease|NN red blood|NN cell|NN
+genetic defect|NN result|NN reduce rate|NN synthesis|NN normal globin|NN chain|NN cf structural change|NN globin|NN chain|NN lead instability|NN abnormal oxygen|NN transport|NN
+blood|NN cell|NN vulnerable mechanical injury|NN die easily
+blood|NN transfusion|NN regular basis|NN week|NN interval|NN use patient|NN cope disease|NN maintain healthier lifestyle|NN live treatment|NN bone|NN marrow|NN transplant|NN perform transfusion|NN main side|NN effect|NN build-up|NN iron|NN begin problem|NN
+bone|NN marrow|NN transplant|NN require careful match|NN avoid rejection|NN further complication|NN
+disease|NN geographical association|NN mediterranean sea|NN responsible name|NN greek sea|NN haima|NN greek blood|NN
+occur population|NN ethnic group|NN prevalence|NN differ different population|NN
+content|NN classification|NN prevalence|NN alpha|NN
+combination|NN hemoglobinopathy|NN treatment|NN complication|NN major|NP intermedia|NP minor|NP prevention|NN management|NN benefit|NN famous people|NN reference|NN external link|NN edit classification|NN thalassemia|NN classify chain|NN globin|NN molecule|NN affect
+thalassemia production|NN
+globin|NN deficient
+thalassemia production|NN
+globin|NN defective
+produce deficiency|NN
+globin|NN disease|NN produce specific mutant|NN form|NN
+edit|NN prevalence|NN estimate prevalence|NN people|NN cyprus|NP thailand|NP 3-8|NP population|NN india|NP pakistan|NP bangladesh|NP chinathere|NP prevalance people|NN latin americacarribean|NN people|NN border country|NN mediterraneanie|NN
+spain|NP lower prevalence|NN report black people|NN africa|NP northern europe|NP 014|NN edit|NN alpha|NN
+thalassemia alpha|NN involve gene|NN mendelian inheritance|NN man|NN omim|NN mendelian inheritance|NN man|NN omim|NN inherit mendelian recessive fashion|NN
+connect deletion|NN 16p|NN chromosome|NN
+result|NN excess|NN
+chain|NN production|NN adult|NN excess
+chain|NN form unstable tetramer|NN abnormal oxygen|NN dissociation|NN curve|NN
+genetic locy|NN
+locy|NN delet affect mutation|NN severe manifestation|NN disease|NN locy|NN affect fetus|NN live uterus|NN infant|NN dead birth|NN fetalis|NN born alive die|NN shortly birth|NN
+edematous little circulate hemoglobin|NN hemoglobin|NN present tetrameric|NN
+chain|NN barts|NP
+usually involve homozygous inheritance|NN alpha|NN trait|NN type|NN
+locy|NN affect h|NP disease|NN result|NN
+unstable hemoglobin|NN present blood|NN barts|NP tetrameric|NP
+chain|NN h|NP tetrameric|NN
+microcytic hypochromic|NN target|NN cell|NN heinz|NP body|NN precipitate hb|NP h|NP peripheral blood|NN smear|NN
+disease|NN notice childhood|NN early adult|NN life|NN anemia|NN note
+usually due compound heterozygous inheritance|NN alpha|NN type|NN type|NN trait|NN
+locy|NN affect alpha|NN trait|NN type|NN result|NN
+locy|NN permit nearly normal mild microcytic|NN
+high prevalence|NN deletion|NN
+locy|NN chromosome|NN people|NN recent african origin|NN inheritance|NN chromosome|NN uncommon
+disease|NN form|NN mistaken iron|NN deficiency|NN treate inappropriately iron|NN
+mode|NN alpha|NN trait|NN type|NN note
+involve cis|NN deletion|NN alpha|NN locy|NN chromosome|NN involve tran|NN deletion|NN allelelic gene|NN homologous chromosome|NN
+locy|NN affect alpha|NN minor alpha|NN trait|NN alpha|NN trait|NN type|NN result|NN minimal effect|NN
+locy|NN permit normal hemoglobin production|NN anemia|NN hypochromia|NN people|NN
+edit|NN beta|NN
+beta|NN known anemia|NN due mutation|NN hbb gene|NN chromosome|NN mendelian inheritance|NN man|NN inherit mendelian recessive fashion|NN
+chain|NN produce form bind red blood|NN cell|NN membrane|NN produce membrane|NN damage|NN high concentration|NN tendency|NN form toxic aggregate|NN
+severity|NN damage|NN depend nature|NN mutation|NN
+prevent formation|NN
+chain|NN formation|NN occur
+recently increase report|NN suggest patient|NN produce|NN fetal hemoglobin|NN use|NN tendency|NN increase production|NN hbf|NN unexplain mechanism|NN
+give individual|NN
+globin|NN allele|NN thalassemia mutation|NN severe microcytic|NN call
+major cooley anemia|NN result|NN
+untreate result|NN death|NN age|NN treatment|NN consist periodic blood|NN transfusion|NN present treatment|NN iron|NN overload|NN
+cure|NN possible bone|NN marrow|NN transplantation|NN
+globin|NN allele|NN bear mutation|NN
+minor result|NN sometime refer
+mild anemia|NN
+symptom|NN include weakness|NN fatigue|NN case|NN
+minor|NN asymptomatic people|NN unaware disorder|NN
+detection|NN usually involve count mean corpuscular volume|NN size|NN red blood|NN cell|NN notice slightly decrease mean volume|NN normal
+condition|NN intermediate major minor form|NN
+sufferer|NN manage normal life|NN need occasional transfusion|NN eg time|NN illness|NN pregnancy|NN
+really depend severity|NN anemia|NN
+actual genetic cause|NN
+actually diverse number|NN different mutation|NN cause reduce absent
+globin|NN synthesis|NN
+usually ad
+indicate complete absence|NN deficient synthesis|NN
+mainly form|NN genetic defect|NN produce
+nondeletion form|NN defect|NN generally involve single base|NN substitution|NN small deletion|NN insert|NN upstream
+globin|NN gene|NN
+commonly mutation|NN occur promoter|NN region|NN precede beta-globin gene|NN
+abnormal splice|NN variant|NN believe contribute disease|NN
+deletion|NN form|NN different size|NN involve
+globin|NN gene|NN produce different syndrome|NN
+hereditary persistence|NN fetal hemoglobin|NN syndrome|NN
+edit|NN delta|NN
+well alpha|NN beta|NN chain|NN present hemoglobin|NN adult|NN hemoglobin|NN made alpha|NN delta|NN chain|NN
+gene|NN delta|NN chain|NN close gene|NN beta|NN damage|NN gene|NN affect beta|NN chain|NN gene|NN delta|NN thalassemia|NN usually similar effect|NN beta|NN
+edit combination|NN hemoglobinopathy|NN co-exist hemoglobinopathy|NN
+common hemoglobin common cambodia|NP thailand|NP part|NN india|NP clinically similar
+major thalassemia intermedia|NN
+sthalassemia common|NN african mediterranean population|NN clinically similar sickle|NN cell|NN additional feature|NN hemoglobin|NN common mediterranean african population|NN c|NP
+cause moderately severe hemolytic|NN splenomegaly|NP hemoglobin|NP c|NP
+produce milder disease|NN
+edit|NN treatment|NN complication|NN consult properly qualify
+co-exist deficiency|NN folic acid|NN folate|NN b-complex vitamin|NN iron|NN deficiency|NN minor
+edit|NN major|NP intermedia|NP major|NP patient|NN receive frequent blood|NN transfusion|NN lead iron|NN overload|NN
+iron|NN treatment|NN necessary prevent iron|NN overload|NN damage|NN internal organ|NN patient|NN thalassemia|NP major|NP
+recent advance|NN iron|NN treatment|NN patient|NN thalassemia|NP major|NP live long live|NN access|NN proper treatment|NN
+popular chelator|NN include deferoxamine deferiprone
+deferoxamine|NN prefer associate side-effect|NN common complaint|NN patient|NN difficult comply intravenous chelation|NN treatment|NN painful inconvenient
+oral chelator|NN market exjade|NP recently approve use|NN country|NN offer hope|NN compliance|NN
+untreate major|NP eventually lead death|NN usually heart|NN failure|NN therefore birth|NN screen|NN important
+recent year|NN bone|NN marrow|NN transplant|NN show promise|NN patient|NN major
+successful transplant|NN eliminate patient|NN dependency|NN transfusion|NN
+thalassemia patient|NN prone health|NN complication|NN involve spleen|NN enlarge frequently remove gall|NN stone|NN
+complication|NN mostly prevalent major|NP intermedia|NP patient|NN
+intermedia patient|NN vary lot|NN treatment|NN need|NN depend severity|NN anemia|NN
+edit minor|NN popular belief|NN minor patient|NN avoid food|NN default|NN
+serum|NN test|NN determine iron|NN level|NN guide further treatment|NN necessary
+thalassemia|NP minor|NP life|NN threaten affect quality|NN life|NN due effect|NN mild moderate anemia|NN
+study|NN show minor|NN disease|NN asthma|NN even bipolar disorder|NN
+edit prevention|NN management|NN
+inherit autosomal recessive fashion|NN alway case|NN
+report|NN dominantly inherit
+report irish family|NN deletion|NN bp|NN exon|NN interrupt insertion|NN bp|NN
+autosomal recessive form|NN disease|NN parent|NN carrier|NN order|NN child|NN affect
+parent|NN carry hemoglobinopathy trait|NN chance|NN pregnancy|NN affect child|NN
+genetic counsel|NN genetic test|NN recommend family|NN carry thalassemia trait|NN
+estimate 60-80|NN people|NN world|NN carry beta|NN trait|NN alone
+rough estimate|NN actual number|NN major patient|NN unknown prevalence|NN thalassemia|NN develop country|NN middle east|NN asia|NP
+country|NN india|NP pakistan|NP iran|NP see large increase|NN thalassemia patient|NN due lack|NN genetic counsel|NN screen|NN
+grow concern|NN become serious problem|NN year|NN burden world|NN blood|NN bank|NN supply|NN health|NN system|NN general
+estimate people|NN live|NN thalassemia|NP major|NP united|NP states|NP unknown number|NN carrier|NN
+rarity|NN disease|NN country|NN little knowledge|NN access|NN proper treatment|NN diagnosis|NN difficult
+genetically acquire disorder|NN aggressive birth|NN screen|NN genetic counsel|NN recommend
+screen|NN policy|NN exist side|NN island|NN cyprus|NP reduce incidence|NN thalassemia|NN program|NN implementation|NN include pre-natal screen|NN abortion|NN reduce number|NN children|NN born hereditary blood|NN disease|NN birth|NN edit|NN benefit|NN carrier|NN disease|NN confer degree|NN protection|NN malaria|NN quite common people|NN italian|NN greek origin|NN african indian region|NN
+probably make red blood|NN cell|NN susceptible lethal specy|NN plasmodium|NN simultaneously make host|NN environment|NN unsuitable merozoite|NN lethal strain|NN plasmodium|NN falciparum|NN
+believe selective survival|NN advantage|NN patient|NN various thalassemia|NN trait|NN
+respect|NN resemble genetic disorder|NN disease|NN
+epidemiological evidence|NN kenya|NP suggest reason|NN protection|NN severe anemia|NN advantage|NN
+people|NN diagnose heterozygous carrier|NN protection|NN coronary heart|NN disease|NN
+edit famous people|NN professional tennis|NN player|NN pete|NP sampras|NP known thalassemia minor patient|NN
+professional footbal|NN soccer|NN player|NN known thalassemia minor patient|NN
+rabbi|NP kohan|NP y|NP
+founder|NN african hebrew israelite community|NN torah|NP brith|NP doctor|NN medicine|NN natural medicine|NN research|NN foundation|NN known thalassemia b|NP
+edit|NN reference|NN
+maggio damico g|NP et|NP al|NP
+deferiprone deferoxamine|NN patient|NN major randomize clinical trial|NN
+blood|NN cell|NN
+palma-carlos|NP ml|NN costa|NP ac|NN
+minor|NP hemoglobinopathy risk|NN factor|NN asthma|NN
+allerg paris|NP
+brodie|NP bb|NP
+-thalassaemia susceptibility|NN factor|NN mood|NN disorder|NN excessive prevalence|NN bipolar patient|NN
+pract|NN mental health|NN
+leung|NP nt|NP lau|NP chung|NP
+screen|NN pregnancy|NN
+opinion|NN ob|NP
+wambua|NP s|NP tw|NP m|NP sm|NP weatherall|NP dj|NN snow|NP rw|NP marsh|NP k|NP williams|NP
+-thalassaemia incidence|NN malaria|NN disease|NN children|NN live coast|NN kenya|NP
+med e158|NN
+edit external link|NN mendelian inheritance|NN man|NN mendelian inheritance|NN man|NN alpha-thalassemia|NN foundation|NN lead fight|NN northern comprehensive thalassemia|NN center|NN provide information|NN disease|NN relate matter|NN
+free pakistan|NP private charity|NN foundation|NN provide research|NN material|NN support|NN thalassemic patient|NN family|NN overview|NN latest research|NN patient|NN friend|NN message|NN board|NN affect
+thalforumcom community|NN forum|NN discussion|NN forum|NN thalassemia patient|NN family|NN care-giver|NN
+foundation|NN canada|NP fully register canadian charity|NN provide medical aid|NN sri|NP lankan children|NN
+support|NN foundation|NN help patient|NN find hop|NN health|NN science|NN medicine|NN hematological malignancy|NN white blood|NN cell|NN lymphocytic lymphoma|NN disease|NN lpd|NN multiple myeloma|NN myeloid myelogenous|NN mpd|NP essential thrombocytosis|NN md|NN red blood|NN cell|NN hemochromatosis|NN disease|NN aplastic|NN g6pd deficiency|NN spherocytosis|NN elliptocytosis|NN hemoglobinopathy|NN platelet|NN deep vein|NN thrombosis|NN pulmonary embolism|NN ttp|NN retrieve|NN
+artaothtml text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

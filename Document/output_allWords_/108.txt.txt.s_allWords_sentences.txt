@@ -1,0 +1,413 @@
+malaria|NN malaria|NN malaria|NN external resource|NN plasmodium|NN falciparum|NN gametocyte human blood|NN
+084|NN diseasesdb|NN 000621|NN emerg305|NN c03752250552 malaria|NN vector-borne infectious disease|NN widespread tropical subtropical region|NN
+infect people|NN year|NN cause|NN death|NN annually mostly young children|NN sub-saharan|NP africa|NP
+malaria|NN disease|NN commonly associate poverty|NN cause|NN poverty|NN major hindrance|NN economic development|NN
+malaria|NN common infectious disease|NN enormous public-health|NN problem|NN
+disease|NN cause protozoan parasite|NN genus|NN plasmodium|NN
+serious form|NN disease|NN cause plasmodium|NN falciparum|NN plasmodium|NN relate specy|NN plasmodium|NN plasmodium|NN sometime plasmodium|NN infect human|NN
+group|NN plasmodium|NN specy|NN usually refer malaria|NN parasite|NN
+malaria|NN parasite|NN transmit female anophele|NN mosquitoe|NN
+parasite|NN multiply red blood|NN cell|NN cause symptom|NN include symptom|NN light|NN shortness|NN breath|NN tachycardia|NN well general symptom|NN fever|NN chill|NN flu-like illness|NN severe case|NN coma|NN death|NN
+malaria|NN transmission|NN reduce prevent mosquito|NN bite|NN mosquito|NN net|NN insect|NN mosquito|NN control|NN spray|NN insecticide|NN house|NN drain stand|NN water|NN mosquitoe|NN lay egg|NN
+unfortunately vaccine|NN currently available malaria|NN
+instead preventative drug|NN taken continuously reduce risk|NN infection|NN
+prophylactic drug|NN treatment|NN simply expensive people|NN live endemic area|NN
+malaria|NN infection|NN treate use|NN antimalarial drug|NN chloroquine|NN pyrimethamine|NN drug|NN resistance|NN increasingly common
+content|NN history|NN distribution|NN impact|NN socio-economic|NN effect|NN symptom|NN cause|NN malaria|NN parasite|NN mosquito|NN vector|NN plasmodium|NN life|NN cycle|NN evolutionary pressure|NN malaria|NN human gene|NN duffy|NP antigen|NN hla|NP diagnosis|NN treatment|NN antimalarial|NN drug|NN drug|NN prevention|NN disease|NN control|NN prophylactic|NN drug|NN indoor residual spray|NN mosquito|NN net|NN bedclothe|NN vaccination|NN method|NN reference|NN external link|NN edit history|NN further information|NN roman fever|NN jesuit|NN bark|NN charles|NP louis|NP alphonse|NP malaria|NN probably infect human|NN year|NN human pathogen|NN entire history|NN specy|NN indee close relative|NN human malaria|NN parasite|NN remain common chimpanzee|NN closest relative|NN reference|NN unique periodic fever|NN malaria|NN found record history|NN begine|NN bc china|NP xia dynasty|NN term|NN malaria|NN originate medieval italian mala|NN aria|NN bad air|NN disease|NN formerly call ague|NN marsh|NN fever|NN due association|NN swamp|NN
+scientific study|NN malaria|NN made significant advance|NN french army|NN doctor|NN work|NN algeria|NP name charles|NP louis|NP alphonse|NP observe parasite|NN red blood|NN cell|NN people|NN suffer malaria|NN
+therefore propose malaria|NN cause protozoan|NN time|NN protozoa|NN identify cause disease|NN later discovery|NN award nobel|NP prize|NN physiology|NN medicine|NN
+protozoan|NN call plasmodium|NN italian scientist|NN ettore|NP marchiafava|NP angelo|NP year|NN later carlos|NP finlay|NP cuban doctor|NN treate patient|NN yellow fever|NN havana|NP suggest mosquitoe|NN transmit disease|NN human|NN
+britain|NN sir|NP ronald|NP ross|NP work|NN india|NP finally prove malaria|NN transmit mosquitoe|NN
+show certain mosquito|NN specy|NN transmit malaria|NN bird|NN isolate malaria|NN parasite|NN salivary gland|NN mosquitoe|NN fed infect bird|NN work|NN ross|NP receive nobel|NP prize|NN medicine|NN
+resign indian medical service|NN ross|NP work newly-establish liverpool|NP school|NN tropical medicine|NN direct effort|NN egypt|NP panama|NP greece|NP mauritius|NP find|NN finlay|NP ross|NP later confirm medical board|NN head walter|NP reed|NP recommendation|NN implement william|NP c|NP
+gorga health|NN measure|NN undertaken construction|NN panama|NP canal|NN
+public-health work|NN save live|NN worker|NN help develop method|NN use future|NN campaign|NN disease|NN
+effective treatment|NN malaria|NN bark|NN tree|NN contain quinine|NN
+tree|NN grow slope|NN andes|NP mainly peru|NP
+natural product|NN use inhabitant|NN peru|NP control|NN malaria|NN jesuit|NN introduce practice|NN europe|NP rapidly accept active ingredient|NN quinine|NN extract bark|NN isolate name french chemist|NN pierre|NP joseph|NP joseph|NP caventou|NP
+early century|NN antibiotics|NN patient|NN syphilis|NN intentionally infect malaria|NN create fever|NN
+accurately control fever|NN quinine|NN effect|NN syphilis|NN malaria|NN minimize
+patient|NN dy malaria|NN preferable almost-certain death|NN syphilis|NN blood|NN stage|NN mosquito|NN stage|NN malaria|NN life|NN cycle|NN establish early century|NN latent liver|NN form|NN parasite|NN observe discovery|NN latent form|NN parasite|NN finally explain people|NN appear cure malaria|NN relapse|NN year|NN parasite|NN disappear bloodstream|NN
+edit|NN distribution|NN impact|NN further information|NN disease|NN poverty|NN tropical disease|NN area|NN world|NN malaria|NN endemic colour blue malaria|NN cause|NN 350500|NP infection|NN human|NN approximately death|NN annually represent death|NN second|NN
+vast majority|NN case|NN occur children|NN age|NN year|NN pregnant women|NN especially vulnerable
+effort|NN reduce transmission|NN increase|NN treatment|NN little change|NN area|NN risk|NN disease|NN indee prevalence|NN malaria|NN stay|NN present upward course|NN death|NN rate|NN double year|NN precise statistics|NN unknown case|NN occur rural area|NN people|NN access|NN hospital|NN mean|NN afford health|NN care|NN
+consequently majority|NN case|NN undocument co-infection hiv|NP malaria|NN cause increase mortality|NN problem|NN co-infection due|NN disease|NN usually attack different age-range|NN malaria|NN common young active tuberculosis|NN common old co-infection|NN produce severe symptom|NN interaction|NN hiv|NP tb|NN hiv|NP malaria|NN contribute spread
+effect|NN come malaria|NN increase viral load|NN hiv|NP infection|NN increase person|NN susceptibility|NN malaria|NN infection|NN malaria|NN presently endemic broad band|NN equator|NN area|NN south|NP america|NP south|NP southeast|NN asia|NP part|NN middle east|NN oceania|NP africa|NP sub-saharan africa|NP malaria|NN fatality|NN occur geographic distribution|NN malaria|NN large region|NN complex malarial malaria-free area|NN found close drier|NN area|NN outbreak|NN malaria|NN predict reasonable accuracy|NN map|NN rainfal|NN malaria|NN common rural area|NN city|NN contrast|NN fever|NN urban area|NN present greater risk|NN example|NN city|NN vietnam|NP laos|NP cambodia|NP essentially malaria-free disease|NN present rural region|NN contrast|NN africa|NP malaria|NN present rural urban area|NN risk|NN lower larger city|NN edit socio-economic effect|NN malaria|NN disease|NN commonly associate poverty|NN cause|NN poverty|NN major hindrance|NN economic development|NN
+disease|NN associate major negative economic effect|NN region|NN widespread
+comparison|NN average|NN gdp|NN adjust give parity|NN purchase|NN power|NN malarious|NN non-malarious|NN country|NN demonstrate fivefold difference|NN
+moreover country|NN malaria|NN common average|NN gdp|NN risen year|NN compare year|NN country|NN entirety|NN economic impact|NN malaria|NN estimate cost|NN africa|NP year|NN
+economic impact|NN include cost|NN health|NN care|NN work|NN day|NN lost sickness|NN day|NN lost education|NN decrease productivity|NN due brain|NN damage|NN cerebral malaria|NN loss|NN investment|NN tourism|NN country|NN heavy malaria|NN burden|NN disease|NN account public health|NN expenditure|NN 30-50|NN inpatient|NN admission|NN outpatient|NN visit|NN edit symptom|NN symptom|NN malaria|NN include fever|NN shiver joint pain|NN vomit|NN cause hemoglobinuria|NN convulsion|NN
+feel|NN tingle|NN skin|NN particularly malaria|NN cause p|NP falciparum|NN
+classical symptom|NN malaria|NN cyclical occurrence|NN sudden coldness|NN follow rigor|NN fever|NN sweate|NN last hour|NN occure day|NN p|NP falciparum|NN p|NP vivax|NP p|NP infection|NN p|NP reason|NN poorly understood relate high intracranial pressure|NN children|NN malaria|NN frequently exhibit abnormal posture|NN sign|NN indicate severe brain|NN damage|NN severe malaria|NN exclusively cause p|NP falciparum|NN infection|NN usually arise day|NN infection|NN consequence|NN severe malaria|NN include coma|NN death|NN children|NN pregnant women|NN especially vulnerable
+enlarge spleen|NN severe headache|NN cerebral enlarge liver|NN hemoglobinuria|NN renal failure|NN occur
+renal failure|NN cause fever|NN hemoglobin lyse red blood|NN cell|NN leak|NN urine|NN
+severe malaria|NN progress extremely rapidly cause|NN death|NN hour|NN day|NN severe case|NN disease|NN fatality|NN rate|NN excee even intensive care|NN treatment|NN endemic area|NN treatment|NN satisfactory overal fatality|NN rate|NN case|NN malaria|NN high longer term|NN developmental impairment|NN document children|NN suffer episode|NN severe malaria|NN chronic malaria|NN seen p|NP p|NP p|NP falciparum|NN
+disease|NN relapse month|NN year|NN exposure|NN due presence|NN latent parasite|NN liver|NN
+describe case|NN malaria|NN cure observe disappearance|NN parasite|NN bloodstream|NN therefore deceptive
+longest incubation|NN period|NN report p|NP vivax|NN infection|NN year|NN approximately p|NP malaria|NN case|NN temperate area|NN involve overwinter|NN ie relapse|NN begin year|NN mosquito|NN bite|NN edit|NN cause plasmodium|NN sporozoite|NN traverse cytoplasm|NN mosquito|NN epithelial cell|NN false-color electron|NN micrograph|NN
+edit|NN malaria|NN parasite|NN malaria|NN cause protozoan parasite|NN genus|NN plasmodium|NN phylum|NN
+human|NN malaria|NN cause p|NP falciparum|NN p|NP malariae|NP p|NP p|NP vivax|NP
+p|NP falciparum|NN important cause|NN disease|NN responsible infection|NN death|NN plasmodium|NN specy|NN infect bird|NN reptile|NN monkey|NN chimpanzee|NN rodent|NN document human infection|NN simian specy|NN malaria|NN namely p|NP p|NP p|NP p|NP p|NP p|NP p|NP mostly limit public health|NN importance|NN
+avian malaria|NN kill chicken|NN turkey|NN disease|NN cause serious economic loss|NN poultry|NN farmer|NN edit|NN mosquito|NN vector|NN plasmodium|NN life|NN cycle|NN parasite|NN primary definitive host|NN transmission|NN vector|NN female mosquitoe|NN anophele genus|NN
+young mosquitoe|NN ingest malaria|NN parasite|NN feed infect human carrier|NN infect anophele|NN mosquitoe|NN carry plasmodium|NN salivary gland|NN
+mosquito|NN become infect take blood|NN meal|NN infect human
+ingest parasite|NN taken blood|NN further differentiate male|NN female gamete|NN fuse|NN mosquito|NN gut|NN
+produce ookinete|NN penetrate gut|NN line|NN produce oocyst|NN gut|NN wall|NN
+oocyst|NN rupture release migrate mosquito|NN body|NN salivary gland|NN ready infect new human host|NN sporozoite|NN inject skin|NN saliva|NN mosquito|NN take subsequent blood|NN meal|NN
+female mosquitoe|NN feed blood|NN male|NN transmit disease|NN
+female|NN anophele genus|NN mosquito|NN prefer feed night|NN
+usually start search meal|NN dusk|NN continue night|NN take meal|NN
+malaria|NN parasite|NN transmit blood|NN transfusion|NN rare edit|NN life|NN cycle|NN malaria|NN parasite|NN human body|NN
+various stage|NN process|NN discuss text|NN
+malaria|NN human|NN develop phase|NN exoerythrocytic hepatic erythrocytic phase|NN
+infect mosquito|NN pierce person|NN skin|NN take blood|NN meal|NN mosquito|NN saliva|NN enter bloodstream|NN migrate liver|NN
+minute|NN introduce human host|NN infect hepatocyte|NN multiply asexually|NN asymptomatically|NN period|NN day|NN
+so-cal dormant time|NN liver|NN sporozoite|NN refer
+liver|NN differentiate yield merozoite|NN follow rupture|NN host|NN cell|NN escape|NN blood|NN infect red blood|NN cell|NN begine erythrocytic stage|NN life|NN cycle|NN parasite|NN escape liver|NN undetect wrap cell|NN membrane|NN infect host|NN liver|NN cell|NN red blood|NN cell|NN parasite|NN multiply further periodically break host|NN invade fresh red blood|NN cell|NN
+amplification|NN cycle|NN occur
+classical description|NN wave|NN fever|NN arise simultaneous wave|NN escap infect red blood|NN cell|NN
+p|NP p|NP ovale|NP immediately develop merozoite|NN instead produce remain dormant period|NN rang month|NN month|NN typical long year|NN
+period|NN dormancy|NN reactivate produce
+responsible long incubation|NN late relapse|NN specy|NN malaria|NN parasite|NN relatively protect attack|NN body immune system|NN human life|NN cycle|NN reside liver|NN blood|NN cell|NN relatively invisible immune surveillance|NN
+circulate infect blood|NN cell|NN destroy spleen|NN
+avoid fate|NN p|NP falciparum|NN parasite|NN display adhesive protein|NN surface|NN infect blood|NN cell|NN cause blood|NN cell|NN stick wall|NN small blood|NN vessel|NN thereby parasite|NN passage|NN general circulation|NN spleen|NN stickiness|NN main factor|NN give rise|NN hemorrhagic complication|NN malaria|NN
+high endothelial venule|NN smallest branche|NN circulatory system|NN block attachment|NN mass|NN infect red blood|NN cell|NN
+blockage|NN vessel|NN cause symptom|NN placental cerebral malaria|NN
+cerebral malaria|NN sequestrate red blood|NN cell|NN breach blood|NN brain|NN barrier|NN possibly lead coma|NN red blood|NN cell|NN surface|NN adhesive|NN protein|NN call pfemp1 plasmodium|NN falciparum|NN erythrocyte|NN membrane|NN protein|NN expose immune system|NN serve good immune target|NN extreme diversity|NN variation|NN protein|NN single parasite|NN perhap limitless version|NN parasite|NN population|NN thief|NN chang|NN disguise|NN spy|NN multiple passport|NN parasite|NN switche|NN broad repertoire|NN surface|NN protein|NN stay step|NN ahead pursue immune system|NN
+merozoite turn|NN male|NN female gametocyte|NN
+mosquito|NN pierce skin|NN infect person|NN potentially pick gametocyte blood|NN
+sexual recombination|NN parasite|NN occur mosquito|NN gut|NN thereby define mosquito|NN definitive host|NN disease|NN
+new sporozoite|NN develop travel mosquito|NN salivary gland|NN complet cycle|NN
+pregnant women|NN especially attractive mosquitoe|NN malaria|NN pregnant women|NN important cause|NN stillbirth|NN infant|NN mortality|NN low birth|NN weight|NN edit|NN evolutionary pressure|NN malaria|NN human gene|NN further information|NN evolution|NN natural selection|NN malaria|NN thought greatest selective pressure|NN human genome|NN recent history|NN due high level|NN mortality|NN morbidity|NN cause malaria|NN especially p|NP falciparum|NN specy|NN
+edit|NN sickle-cel|NN best-study influence|NN malaria|NN parasite|NN human genome|NN blood|NN disease|NN anaemia|NN
+anaemia|NN mutation|NN hbb gene|NN code|NN haemoglobin|NN subunit|NN
+normal allele|NN hba sickle-cel allele|NN hb|NN mutation|NN acid|NN valine amino|NN acid|NN
+change|NN hydrophilic hydrophobic residue|NN encourage bind haemoglobin|NN molecule|NN polymerization|NN haemoglobin|NN red blood|NN cell|NN sickle|NN shape|NN
+individual|NN homozygous hb|NN full sickle-cel anaemia|NN rarely live adolescence|NN
+allele|NN sustain gene|NN frequency|NN population|NN malaria|NN endemic
+individual|NN heterozygous mutate allele|NN known trait|NN low level|NN anaemia|NN greatly reduce chance|NN malaria|NN infection|NN
+existence|NN haplotype|NN hb|NN suggest mutation|NN emerge independently time|NN malaria-endemic area|NN further demonstrate evolutionary advantage|NN affect region|NN
+mutation|NN hbb gene|NN appear confer similar resistance|NN malaria|NN infection|NN
+hbe hbc common southeast|NN asia|NP western|NP africa|NP respectively
+edit|NN well document set|NN mutation|NN found human genome|NN associate malaria|NN involve cause blood|NN disorder|NN known
+study|NN sardinia|NP papua|NP new|NP guinea|NP found gene|NN frequency|NN
+relate level|NN malarial endemicity|NN give population|NN
+study|NN children|NN liberia|NP found
+decrease chance|NN get clinical malaria|NN
+similar study|NN found link|NN gene|NN frequency|NN malaria|NN
+edit|NN duffy|NP antigen|NN duffy|NP antigen|NN antigen|NN express red blood|NN cell|NN cell|NN body|NN act chemokine receptor|NN
+expression|NN duffy|NP antigen|NN blood|NN cell|NN encod fy gene|NN fyc|NN
+plasmodium|NP malaria|NN use duffy|NP antigen|NN enter blood|NN cell|NN
+possible express duffy|NP antigen|NN red blood|NN cell|NN
+genotype|NN confer complete resistance|NN p|NP infection|NN
+genotype|NN found chinese population|NN rarely found white population|NN found black people|NN
+thought due high exposure|NN p|NP africa|NP past|NN
+edit glucose-6-phosphate dehydrogenase|NN g6pd|NN enzyme|NN normally protect effect|NN oxidative stress|NN red blood|NN cell|NN
+genetic deficiency|NN enzyme|NN result|NN increase protection|NN severe malaria|NN
+edit|NN hla|NP hla-b53|NN associate low risk|NN severe malaria|NN
+mhc|NP class|NN molecule|NN present liver|NN stage|NN sporozoite|NN antigen|NN
+edit|NN diagnosis|NN further information|NN blood|NN film|NN blood|NN smear|NN p|NP falciparum|NN culture|NN strain|NN
+red blood|NN cell|NN ring|NN stage|NN
+close center|NN schizont|NN left|NN trophozoite|NN
+prefer reliable diagnosis|NN malaria|NN microscopic examination|NN blood|NN film|NN major parasite|NN specy|NN distinguish characteristics|NN
+sort|NN blood|NN film|NN traditionally use
+thin film|NN similar usual blood|NN film|NN allow specy|NN identification|NN parasite|NN appearance|NN best preserve preparation|NN
+thick film|NN allow microscopist|NN screen larger volume|NN blood|NN time|NN sensitive thin film|NN pick low level|NN infection|NN easier thick film|NN appearance|NN parasite|NN distort therefore distinguish different specy|NN difficult thick film|NN experience microscopist|NN detect parasite|NN level|NN parasitemia|NN low 00000001|NN red blood|NN cell|NN
+microscopic diagnosis|NN difficult early trophozoite|NN ring|NN form|NN specy|NN look identical possible diagnose specy|NN basis|NN single ring|NN form|NN specy|NN identification|NN alway base trophozoite|NN
+please refer article|NN parasite|NN microscopic appearance|NN p|NP falciparum|NN p|NP vivax|NP p|NP p|NP malariae|NP
+area|NN microscopy|NN available antigen|NN detection|NN test|NN require drop|NN blood|NN reliably detect falciparum|NN parasitemia|NN non-falciparum
+detect 0002|NN distinguish falciparum|NN malaria|NN
+nucleic acid|NN detect use polymerase|NN chain|NN reaction|NN
+technique|NN accurate microscopy|NN
+expensive require specialize laboratory|NN
+moreover level|NN parasitemia|NN necessarily correlative progression|NN disease|NN particularly parasite|NN able adhere blood|NN vessel|NN wall|NN
+therefore sensitive low-tech diagnosis|NN tool|NN need develop order|NN detect low level|NN parasitaemia|NN field|NN
+molecular method|NN available clinical laboratory|NN rapid real-time assay|NN example|NN base polymerase|NN chain|NN reaction|NN develop hope|NN able deploy endemic area|NN
+severe malaria|NN commonly misdiagnose africa|NP lead failure|NN treat life-threaten illness|NN
+area|NN ensure diagnosis|NN severe malaria|NN incidental concurrent disease|NN
+recent investigation|NN suggest malarial retinopathy|NN better collective sensitivity|NN specificity|NN clinical laboratory|NN feature|NN distinguish malarial coma|NN edit|NN treatment|NN active malaria|NN infection|NN p|NP falciparum|NN medical emergency|NN require hospitalization|NN
+infection|NN p|NP p|NP p|NP malariae|NP treate outpatient|NN
+treatment|NN malaria|NN involve supportive measure|NN well specific antimalarial drug|NN
+properly treate malaria|NN completely cure edit|NN drug|NN further information|NN drug|NN family|NN drug|NN use treat malaria|NN
+cheap effective chloroquine|NN antimalarial drug|NN choice|NN year|NN part|NN world|NN
+resistance|NN plasmodium|NN falciparum|NN chloroquine|NN spread recently asia|NP africa|NP make drug|NN ineffective dangerous plasmodium|NN strain|NN affect region|NN world|NN
+area|NN chloroquine|NN effective remain choice|NN
+unfortunately associate reduce sensitivity|NN drug|NN quinine|NN amodiaquine|NN substance|NN use treatment|NN partially prevention|NN prophylaxis|NN
+drug|NN use purpose|NN larger dose|NN use treat case|NN malaria|NN
+deployment|NN depend mainly frequency|NN resistant parasite|NN area|NN drug|NN use
+drug|NN currently investigate possible use|NN anti-malarial|NN especially treatment|NN drug-resistant strain|NN beta|NN blocker|NN propranolol|NN
+show block ability|NN gain access|NN red blood|NN cell|NN password|NN system|NN join engulf cell|NN infect
+december|NP study|NN university|NN researcher|NN suggest propranolol|NN reduce dosage|NN require exist drug|NN effective p|NP falciparum|NN 5-|NN 10-fold suggest role|NN combination|NN therapy|NN currently available anti-malarial|NN drug|NN include therapy|NN commercial name|NN therapy|NN therapy|NN therapy|NN trade|NN name|NN therapy|NN prophylaxis|NN therapy|NN therapy|NN prophylaxis|NN usefulness|NN reduce resistance|NN therapy|NN prophylaxis|NN therapy|NN prophylaxis|NN trade|NN name|NN therapy|NN prophylaxis|NN therapy|NN p|NP p|NP prophylaxis|NN sulfadoxine-pyrimethamine|NN therapy|NN prophylaxis|NN pregnant women|NN endemic country|NN intermittent preventive treatment|NN hydroxychloroquine trade|NN name|NN therapy|NN prophylaxis|NN development|NN drug|NN facilitate plasmodium|NN falciparum|NN successfully culture allow test|NN new drug|NN candidate|NN
+extract|NN plant|NN artemisia|NP contain compound|NN derivative|NN substance|NN unrelate quinine|NN offer|NN efficacy|NN rate|NN supply|NN meet|NN demand|NN world|NN health|NN organization|NN recommend use combination|NN therapy|NN act|NN first-line treatment|NN uncomplicate malaria|NN area|NN experience resistance|NN older medication|NN
+recent treatment|NN guideline|NN malaria|NN recommend different act|NN
+numerous country|NN african nation|NN adopt change|NN official malaria|NN treatment|NN policy|NN cost|NN remain major barrier|NN act|NN implementation|NN
+cost|NN time|NN older medication|NN remain malaria-endemic country|NN
+molecular target|NN artemisinin|NN controversial recent study|NN suggest calcium|NN pump|NN endoplasmic reticulum|NN associate resistance|NN malaria|NN parasite|NN develop resistance|NN artemisinin|NN resistance|NN produce mutation|NN study|NN suggest mitochondria|NN major target|NN artemisinin|NN analog|NN february|NP journal|NN science|NN press|NN outlet|NN announce progress|NN new treatment|NN infect individual|NN
+team|NN french|NN south|NN african researcher|NN identify new drug|NN call
+cure malaria|NN test|NN primate|NN block ability|NN parasite|NN copy red blood|NN cell|NN victim|NN
+team|NN researcher|NN publish research|NN achieve oral form|NN refer
+early information|NN mainstream press|NN family|NN drug|NN become commercially available
+effective anti-malarial|NN drug|NN market|NN disease|NN remain threat|NN people|NN live endemic area|NN proper prompt access|NN effective drug|NN
+access|NN pharmacy|NN health|NN facility|NN well drug|NN cost|NN major obstacle|NN
+mdecins|NP sans|NP frontires|NP estimate cost|NN treate malaria-infect person|NN endemic country|NN us025|NN edit|NN drug|NN sophisticate counterfeit|NN found thailand|NP vietnam|NP cambodia|NP china|NP important cause|NN avoidable death|NN country|NN reliable way|NN doctor|NN lay people|NN detect counterfeit drug|NN help|NN laboratory|NN
+edit|NN prevention|NN disease|NN control|NN further information|NN mosquito|NN control|NN mosquito|NN feed human arm|NN
+mosquito|NN vector|NN malaria|NN mosquito|NN control|NN effective way|NN reduce incidence|NN malaria|NN
+method|NN use prevent spread|NN disease|NN protect individual|NN area|NN malaria|NN endemic include prophylactic drug|NN mosquito|NN eradication|NN prevention|NN mosquito|NN bite|NN
+currently vaccine|NN prevent malaria|NN active field|NN research|NN
+researcher|NN argue prevention|NN malaria|NN cost-effective treatment|NN disease|NN long run|NN capital|NN cost|NN require reach|NN world|NN poorest people|NN
+economic adviser|NN jeffrey|NP sachs|NP estimate malaria|NN control us3|NP aid|NN year|NN
+argue order|NN meet millennium|NN development|NN goal|NN money|NN redirect treatment|NN malaria|NN prevention|NN amount|NN money|NN provide greater benefit|NN african economy|NN effort|NN eradicate malaria|NN eliminate mosquitoe|NN successful area|NN
+malaria|NN common united|NP states|NP southern europe|NP drain|NN wetland|NN breed|NN ground|NN better sanitation|NN conjunction|NN monitor|NN treatment|NN infect human|NN eliminate affluent region|NN
+case|NN malaria|NN report death|NN
+case|NN disease|NN contract united|NP states|NP
+malaria|NN eliminate northern part|NN usa|NP early century|NN use|NN pesticide|NN ddt|NP eliminate south|NN
+major public health|NN effort|NN eradicate malaria|NN worldwide selectively target mosquitoe|NN area|NN malaria|NN rampant effort|NN far fail eradicate malaria|NN part|NN develop world|NN problem|NN prevalent africa|NP
+brazil|NP eritrea|NP india|NP vietnam|NP develop nation|NN successfully reduce malaria|NN burden|NN
+common success|NN factor|NN include conducive country|NN condition|NN target technical approach|NN use package|NN effective tool|NN decision-make|NN active leadership|NN level|NN government|NN involvement|NN community|NN decentralize implementation|NN control|NN finance|NN skill technical managerial capacity|NN national sub-national level|NN hands-on technical programmatic support|NN partner|NN agency|NN sufficient flexible finance|NN edit|NN drug|NN drug|NN use treatment|NN malaria|NN taken
+generally drug|NN taken daily weekly lower dose|NN use treatment|NN person|NN actually contract disease|NN
+use|NN prophylactic drug|NN seldom practical full-time resident|NN malaria-endemic area|NN use|NN usually restrict short-term visitor|NN traveler|NN malarial region|NN
+due cost|NN purchase drug|NN negative side|NN effect|NN long-term use|NN effective anti-malarial|NN drug|NN difficult obtain outside|NN wealthy nation|NN
+use start century|NN prophylactic|NN malaria|NN
+development|NN effective alternative|NN chloroquine|NN primaquine|NN century|NN reduce reliance|NN quinine|NN
+today quinine|NN use treat chloroquine|NN resistant plasmodium|NN falciparum|NN well severe cerebral stage|NN malaria|NN generally use prophylaxis|NN
+modern drug|NN use preventively include lariam|NN available generically combination|NN atovaquone|NN hydrochloride|NN
+choice|NN drug|NN use|NN depend drug|NN parasite|NN area|NN resistant well side-effect|NN consideration|NN
+prophylactic effect|NN begin immediately start|NN take drug|NN people|NN temporarily visit area|NN usually begin take drug|NN week|NN arrive continue take week|NN leave exception|NN atovaquone|NN need|NN start day|NN prior continue day|NN afterward
+edit indoor residual spray|NN ddt|NP develop modern insecticide|NN early world|NN war|NN
+initially use combat malaria|NN use|NN spread|NN agriculture|NN use eliminate insect|NN pest|NN
+time|NN came dominate ddt|NP use particularly develop world|NN
+awareness|NN negative consequence|NN indiscriminate use|NN increase ultimately led ban|NN country|NN
+time|NN large-scale use|NN led evolution|NN resistant mosquitoe|NN region|NN
+give continue toll|NN malaria|NN particularly develop country|NN considerable controversy|NN restriction|NN place use|NN ddt|NP
+advocate|NN claim ban|NN responsible death|NN tropical country|NN previously ddt|NP effective control malaria|NN
+furthermore problem|NN associate ddt|NP use|NN stem|NN specifically industrial-scale application|NN agriculture|NN use|NN public health|NN
+world|NN health|NN organization|NN currently advise use|NN ddt|NP combat malaria|NN endemic area|NN instance|NN interior|NN wall|NN live|NN space|NN mosquitoe|NN land|NN effective control|NN
+recommend series|NN alternative insecticide|NN combat|NN malaria|NN area|NN mosquitoe|NN ddt-resistant slow evolution|NN resistance|NN
+public health|NN use|NN small amount|NN ddt|NP permit stockholm|NP convention|NN persistent organic pollutant|NN prohibit agricultural use|NN ddt|NP large-scale field|NN spray|NN legacy|NN develop country|NN discourage ddt|NP use|NN even small quantity|NN edit mosquito|NN net|NN bedclothe|NN mosquito|NN net|NN help|NN keep mosquitoe|NN people|NN greatly reduce infection|NN transmission|NN malaria|NN
+net|NN perfect barrier|NN treate insecticide|NN design kill mosquito|NN time|NN search|NN way|NN net|NN
+net|NN itn|NP estimate twice effective untreate net|NN offer greater protection|NN compare net|NN anophele mosquitoe|NN feed night|NN prefer method|NN hang large bed|NN net|NN center|NN bed|NN drape cover bed|NN completely
+distribution|NN mosquito|NN net|NN impregnate insecticide|NN show extremely effective method|NN malaria|NN prevention|NN cost-effective method|NN prevention|NN
+net|NN obtain us250|NN euro|NN unit nation|NN world|NN health|NN organization|NN
+maximum effectiveness|NN net|NN re-impregnate insecticide|NN month|NN
+process|NN pose significant logistical problem|NN rural area|NN
+new technology|NN olyset|NN allow production|NN insecticidal mosquito|NN net|NN release|NN insecticide|NN approximately year|NN cost|NN
+advantage|NN protect people|NN sleep|NN net|NN simultaneously kill mosquitoe|NN contact net|NN
+effect|NN kill dangerous mosquitoe|NN
+protection|NN provide people|NN sleep|NN room|NN net|NN
+unfortunately cost|NN treate malaria|NN high relative|NN income|NN illness|NN result|NN lost wage|NN
+consequently financial burden|NN mean cost|NN mosquito|NN net|NN unaffordable people|NN develop country|NN especially risk|NN
+people|NN africa|NP bed|NN net|NN study|NN afghan refugee|NN pakistan|NP found treate top-sheet chaddar head|NN cover|NN permethrin|NN similar effectiveness|NN use treate net|NN cheaper new approach|NN announce science|NN june|NP use|NN spore|NN fungus|NN bassiana|NN spray wall|NN bed|NN net|NN kill mosquitoe|NN
+mosquitoe|NN develop resistance|NN chemical|NN found develop resistance|NN fungal infection|NN edit vaccination|NN vaccine|NN malaria|NN development|NN completely effective vaccine|NN available
+promise study|NN demonstrate potential|NN malaria|NN vaccine|NN perform mice|NN live radiation-attenuate|NN provide protection|NN mice|NN subsequent injection|NN normal viable sporozoite|NN considerable effort|NN develop similar vaccination|NN strategy|NN human|NN
+determine individual|NN protect p|NP falciparum|NN infection|NN receive bite|NN infect irradiate mosquitoe|NN promise generally accept hardly practical provide individual|NN vaccination|NN strategy|NN
+work|NN perform try understand immunological process|NN provide protection|NN immunization|NN irradiate sporozoite|NN
+mouse|NN vaccination|NN study|NN hypothesize inject sporozoite|NN recognize immune system|NN turn|NN create antibody|NN parasite|NN
+determine immune system|NN create antibody|NN circumsporozoite protein|NN csp|NP coat sporozoite|NN moreover antibody|NN csp|NP prevent sporozoite|NN invade hepatocyte|NN csp|NP therefore chosen promise protein|NN develop vaccine|NN malaria|NN
+historical reason|NN vaccine|NN base csp|NP numerous malaria|NN vaccine|NN
+presently huge variety|NN vaccine|NN candidate|NN table|NN
+vaccine|NN vaccine|NN target|NN parasite|NN reache blood|NN particular vaccine|NN base csp|NP make largest group|NN research|NN malaria|NN vaccine|NN
+vaccine|NN candidate|NN include seek induce immunity|NN blood|NN stage|NN infection|NN seek avoid severe pathology|NN malaria|NN prevent adherence|NN parasite|NN blood|NN placenta|NN transmission-block|NN vaccine|NN stop development|NN parasite|NN mosquito|NN right|NN mosquito|NN taken bloodmeal|NN infect person|NN hope sequence|NN p|NP falciparum|NN genome|NN provide target|NN new drug|NN vaccine|NN rtssas02a vaccine|NN candidate|NN furthest along vaccine|NN trial|NN
+develop partnership|NN path|NN malaria|NN initiative|NN grantee|NN gates|NP foundation|NN pharmaceutical company|NN
+vaccine|NN portion|NN csp|NP fuse immunogenic|NP s|NP antigen|NN hepatitis|NN virus|NN recombinant protein|NN inject potent as02a|NN adjuvant|NN october|NP rtssas02a researcher|NN announce result|NN phase|NN trial|NN indicate vaccine|NN reduce infection|NN risk|NN approximately severity|NN infection|NN
+study|NN look mozambican children|NN further research|NN delay vaccine|NN commercial release|NN edit|NN method|NN insect|NN technique|NN emerge potential mosquito|NN control|NN method|NN
+progress|NN transgenic genetically modify insect|NN suggest wild mosquito|NN population|NN made
+researcher|NN imperial college|NN london|NP create world|NN transgenic malaria|NN mosquito|NN plasmodium-resistant|NN specy|NN announce team|NN case|NN western reserve|NN university|NN ohio|NP ddt|NP malaria|NN successfully eradicate control tropical area|NN remove poison breed|NN ground|NN mosquitoe|NN aquatic habitat|NN larva|NN stage|NN example|NN fill|NN apply oil|NN place|NN stand|NN water|NN
+method|NN seen application|NN africa|NP century|NN edit|NN reference|NN
+joy|NP d|NP feng|NP mu|NN ho|NP m|NP wang|NP white n|NN e|NP p|NP su|NP
+early origin|NN recent expansion|NN plasmodium|NN falciparum|NN
+escalante freeland|NP d|NP collins|NP w|NP lal|NP
+evolution|NN primate|NN malaria|NN parasite|NN base gene|NN encod|NN cytochrome|NN linear mitochondrial genome|NN
+natl acad|NN
+cox|NP f|NP
+history|NN human parasitology|NN
+clin rev|NP
+biography|NN alphonse|NP nobel|NP foundation|NN
+ettore|NP marchiafava access nov|NP
+biography|NN ronald|NP ross|NP nobel|NP foundation|NN
+ross|NP discovery|NN transmit malaria|NN cdc|NP malaria|NN
+kaufman|NP t|NP e|NP
+quest|NN quinine|NN won battle|NN won war|NN
+chem|NN int ed|NP
+raju|NP t|NP
+hot brain|NN manipulate body|NN heat|NN save brain|NN
+krotoski|NP w|NP collins|NP w|NP bray|NP r|NP garnham|NP p|NP f|NP r|NP r|NP wolf|NP r|NP r|NP l|NP p|NP
+demonstration|NN hypnozoite|NN plasmodium|NN infection|NN
+am|NP j|NP med|NP
+meis|NP j|NP j|NP jap|NP p|NP r|NP j|NP
+malaria|NN parasites--discovery|NN early liver|NN form|NN
+malaria|NN geographic distribution|NN cdc|NP publication|NN
+ear|NN hippopotamus|NN manifestation|NN determinant|NN estimate|NN malaria|NN burden|NN
+am|NP j|NP med|NP suppl|NN
+greenwood|NP bm|NP k|NP whitty|NP cj|NP ga|NP
+hay|NP s|NP guerra|NP c|NP noor|NN snow|NP r|NP
+global distribution|NN population|NN risk|NN malaria|NN present|NN future|NN
+korenromp|NP e|NP williams|NP b|NP de|NP s|NP e|NP c|NP p|NP b|NP
+malaria|NN attributable hiv-1|NN epidemic|NN sub-saharan africa|NP
+abu-raddad|NP l|NP p|NP j|NP
+dual infection|NN hiv|NP malaria|NN fuel|NN spread|NN disease|NN sub-saharan africa|NP
+scott|NP p|NP
+ucla|NP department|NN epidemiology|NN principle|NN infectious disease|NN epidemiology|NN
+greenwood|NP b|NP t|NP
+grover-kopec|NP e|NP m|NP r|NP blumenthal|NP b|NP p|NP connor|NP s|NP
+online operational rainfall-monitor|NN resource|NN epidemic|NN malaria|NN early warn|NN system|NN africa|NP
+malar|NP j|NP
+van|NP benthem|NP b|NP s|NP n|NP c|NP k|NP l|NP e|NP p|NP
+spatial pattern|NN risk|NN factor|NN seropositivity|NN infection|NN
+am|NP j|NP med|NP
+trung|NP h|NP van|NP w|NP t|NP k|NP quang|NP n|NP cong|NP l|NP m|NP
+malaria|NN transmission|NN major malaria|NN vector|NN different geographical area|NN southeast|NN asia|NP
+med int health|NN
+keiser|NP j|NP j|NP de|NP castro|NP m|NP smith|NP t|NP tanner|NP m|NP singer|NP
+urbanization africa|NP implication|NN malaria|NN control|NN
+am|NP j|NP med|NP suppl|NN
+sachs|NP j|NP p|NP
+economic social burden|NN malaria|NN
+roll back malaria|NN
+economic cost|NN malaria|NN
+malaria|NN life|NN cycle|NN pathogenesis|NN
+malaria|NN armenia|NP
+accessed|NP october|NP
+idro|NP r|NP g|NP white|NP s|NP fegan|NP g|NP b|NP s|NP maitland|NP k|NP neville|NP bg|NP newton|NP cr|NP
+decerebrate|NN posture|NN seizure|NN kenyan children|NN cerebral malaria|NN
+malaria|NN journal|NN
+jereb m|NN prabhu
+clinical review|NN severe malaria|NN
+kain|NP k|NP harrington|NP m|NP tennyson|NP s|NP keystone|NN j|NP
+import malaria|NN prospective analysis|NN problem|NN diagnosis|NN management|NN
+mockenhaupt|NP f|NP s|NP j|NP s|NP s|NP s|NP r|NP cramer|NP j|NP e|NP s|NP
+outcome|NN severe malaria|NN children|NN northern ghana|NP
+am|NP j|NP med|NP
+carter|NP ja|NP ross|NP aj|NP neville|NP bg|NP e|NP k|NP v|NP lees|NP ja|NP newton|NP cr|NP
+developmental impairment|NN severe falciparum|NN malaria|NN children|NN
+med int health|NN
+adak|NP t|NP sharma|NP v|NP
+study|NN plasmodium|NN relapse|NN pattern|NN delhi|NP india|NP
+am|NP j|NP med|NP
+mendis|NP k|NP b|NP p|NP carter|NP r|NP
+neglect burden|NN plasmodium|NN malaria|NN
+am|NP j|NP med|NP suppl|NN
+escalante ayala|NP f|NP
+phylogeny|NP malarial genus|NN plasmodium|NN derive rrna|NN gene|NN sequence|NN
+natl acad|NN
+garnham|NP pcc|NP
+malaria|NN parasite|NN haemosporidia|NN
+blackwell|NP scientific publication|NN
+invest animal|NN health|NN research|NN poverty|NN
+international livestock|NN research|NN institute|NN
+permin|NP madsen|NP m|NP appendix|NN review|NN disease|NN occurrence|NN impact|NN smallholder|NN poultry|NN
+talman domarle o|NP mckenzie|NP f|NP f|NP robert|NP v|NP
+gametocytogenesis puberty|NN plasmodium|NN falciparum|NN
+malar|NP j|NP
+marcucci|NP c|NP c|NP d|NP
+blood|NN transfusion|NN benefit|NN risk|NN clinical indication|NN country|NN low high human development|NN index|NN
+br|NP med|NP bull|NP
+bledsoe|NP g|NP
+december|NP malaria|NN primer|NN clinician|NN united|NP states|NP southern medical journal|NN pp|NN 16440920|NN
+sturm amino|NP r|NP van|NP de|NP sand|NP c|NP t|NP s|NP krueger|NN pollok|NP jm|NP menard|NP r|NP vt|NP
+manipulation|NN host|NN hepatocyte|NN malaria|NN parasite|NN delivery|NN liver|NN
+cogswell|NP f|NP
+hypnozoite|NN relapse|NN primate|NN malaria|NN
+clin rev|NP
+chen|NP q|NP m|NP m|NP
+molecular aspect|NN severe malaria|NN
+clin rev|NP
+adams|NP s|NP brown|NP h|NP turner|NP g|NP
+break blood-brain barrier|NN path|NN cerebral malaria|NN
+lindsay|NP s|NP ansell|NP j|NP c|NP cox|NP v|NP hamilton|NP k|NP g|NP
+effect|NN pregnancy|NN exposure|NN malaria|NN mosquitoe|NN
+van|NP geertruyden|NP j|NP thomas|NP f|NP dalessandro|NN
+contribution|NN malaria|NN pregnancy|NN perinatal mortality|NN
+am|NP j|NP med|NP suppl|NN
+kwiatkowski|NP dp|NP
+malaria|NN affect human genome|NN human genetics|NN teach malaria|NN
+am|NP j|NP hum|NP genet|NP
+warhurst|NP dc|NP williams|NP je|NP
+laboratory|NN diagnosis|NN malaria|NN
+j|NP clin|NP
+pattanasin|NP s|NP s|NP d|NP k|NP p|NP s|NP f|NP
+evaluation|NN new plasmodium|NN lactate|NN dehydrogenase|NN assay|NN detection|NN malaria|NN
+royal soc|NP med|NP
+mens|NP pf|NP kager pa|NN
+detection|NN identification|NN human plasmodium|NN specy|NN real-time quantitative nucleic acid|NN amplification|NN
+malaria|NN journal|NN
+beare|NP na|NP et|NP al|NP
+am|NP j|NP med|NP
+get malaria|NN rest|NN life|NN
+cdc|NP publication|NN nov|NP
+tinto|NP h|NP c|NP c|NP et|NP al|NP
+susceptibility|NN plasmodium|NN falciparum|NN dihydroartemsinin|NN quinine|NN area|NN high chloroquine|NN resistance|NN rwanda|NP
+trans|NP r|NP soc|NP med|NP
+murphy|NP s|NP harrison|NP t|NP h|NP j|NP n|NP k|NP dec|NP
+erythrocyte|NP g|NP protein|NN novel|NN target|NN malarial chemotherapy|NN
+trager|NP w|NP jensen|NP jb|NP
+human malaria|NN parasite|NN continuous culture|NN
+science|NN 1934254|NN
+senior k|NP
+shortfal front-line antimalarial drug|NN likely
+eckstein-ludwig|NP u|NP webb|NP r|NP van|NP east|NP j|NP lee|NP kimura|NP m|NP p|NP bray|NP p|NP ward|NP s|NP krishna|NP s|NP
+target|NN serca|NN plasmodium|NN falciparum|NN
+uhlemann cameron|NP u|NP j|NP p|NP f|NP east|NP m|NP lee|NP brady|NP l|NP haynes|NP r|NP krishna|NP s|NP
+single amino|NN acid|NN residue|NN determine sensitivity|NN serca|NN
+nat|NP struct|NP mol|NP
+li|NP w|NP mo|NP w|NP shen|NP d|NP sun|NN l|NP wang|NP j|NP lu|NP s|NP j|NP zhou|NP
+yeast|NP model|NN uncover dual role|NN mitochondria|NN action|NN
+plos|NP genet|NP
+malaria|NN drug|NN offer new hope|NN
+bbc|NP new|NN
+step|NN closer conquer malaria|NN
+salom-roig|NP x|NP et|NP al|NP dual molecule|NN new antimalarial|NN
+chemistry|NN high throughput|NN screen|NN
+medecins|NP sans|NP cost|NN pay
+ct|NN r|NP s|NP et|NP al|NP
+substandard antimalarial drug|NN cambodia|NP
+trans|NP r|NP soc|NP med|NP
+found province|NN china|NP
+newton|NP pn|NP green md|NN fm|NN day|NN white|NP nj|NP
+anti-infective drug|NN
+hull|NP kevin|NP malaria|NN fever|NN war|NN
+pbs|NP documentary|NN
+gladwell|NP malcolm|NP
+mosquito|NN killer|NN new|NP yorker|NP
+barat|NP l|NP
+malaria|NN success|NN story|NN malaria|NN burden|NN successfully reduce brazil|NP eritrea|NP india|NP vietnam|NP
+am|NP j|NP med|NP
+frequently ask question|NN ddt|NP use|NN disease|NN vector|NN control|NN pdf|NP
+thing|NN need know ddt|NP use|NN stockholm|NP convention|NN
+stockholm|NP convention|NN persistent organic pollutant|NN
+bachou|NP h|NP t|NP dh|NP tumwine|NP
+bacteraemia severely malnourish children|NN infect uninfect human immunodeficiency|NN kampala|NP uganda|NP
+bmc|NP infect
+new mosquito|NN help fight|NN malaria|NN africa|NP
+rowland|NP m|NP n|NP hewitt|NP s|NP mohammed|NP n|NP m|NP rozendaal j|NP
+chaddar|NN appropriate technology|NN protection|NN malaria|NN afghanistan|NP complex emergency|NN
+trans|NP r|NP soc|NP med|NP
+fungus|NN help malaria|NN fight|NN bbc|NP new|NN
+r|NP j|NP h|NP orton|NP c|NP
+protective immunity|NN produce injection|NN sporozoite|NN berghey|NN
+hoffman|NP s|NP goh|NP l|NP luke|NP t|NP schneider|NP i|NP le|NP t|NP d|NP j|NP de|NP la|NP vega|NP p|NP m|NP paul|NP c|NP gordon|NP d|NP stoute|NP j|NP church|NN l|NP sedegah|NP m|NP d|NP w|NP richie|NP
+protection|NN human|NN malaria|NN immunization|NN plasmodium|NN falciparum|NN
+j|NP infect
+zavala|NP f|NP cochrane|NP e|NP r|NP
+protein|NN malaria|NN parasite|NN contain single immunodominant|NN region|NN identical epitope|NN
+j|NP med
+hollingdale|NP m|NP e|NP s|NP schwartz|NP r|NP
+inhibition|NN entry|NN plasmodium|NN falciparum|NN p|NP vivax|NP culture cell|NN assay|NN protective antibody|NN
+development|NN malaria|NN
+gardner|NP m|NP hall|NN n|NP fung|NP e|NP white|NP o|NP m|NP hyman|NP r|NP carlton|NP j|NP pain|NN nelson|NP k|NP bowman|NP s|NP james|NP k|NP j|NP rutherford|NP k|NP s|NP craig|NP s|NP chan|NP m|NP nene|NP v|NP s|NP b|NP peterson|NP j|NP s|NP m|NP allen|NP j|NP j|NP d|NP mather|NP m|NP martin|NP d|NP fraunholz|NP m|NP roos|NP d|NP ralph|NP s|NP mcfadden|NP g|NP cummings|NP l|NP g|NP mungall|NP c|NP j|NP d|NP hoffman|NP s|NP c|NP davis|NP r|NP fraser|NP c|NP barrell|NP
+genome|NN sequence|NN human malaria|NN parasite|NN plasmodium|NN falciparum|NN
+alonso|NP p|NP j|NP j|NP leach|NP e|NP j|NP spiessen dubois|NP m|NP m|NP f|NP c|NP n|NP w|NP thompson|NP r|NP cohen|NP j|NP
+efficacy|NP rtssas02a vaccine|NN plasmodium|NN falciparum|NN infection|NN disease|NN young african children|NN randomise control trial|NN
+africa|NP malaria|NN expect
+accra|NP mail|NN january|NP
+imperial college|NN london|NP scientist|NN create transgenic malaria|NN mosquito|NN
+ito|NP j|NP ghosh|NP moreira|NP la|NP ea|NP m|NP
+anopheline mosquitoe|NN impair transmission|NN malaria|NN parasite|NN
+killeen|NP g|NP u|NP gouagna l|NP b|NP
+eradication|NP gambiae|NN brazil|NP lesson|NN malaria|NN control|NN africa|NP
+edit external link|NN external link|NN general information|NN site|NN malaria|NN guideline|NN treatment|NN malaria|NN life|NN cycle|NN flash animation|NN roll back malaria|NN partnership|NN world|NN malaria|NN report|NN distribute compute|NN project|NN fight|NN malaria|NN united|NP states|NP center|NN disease|NN control|NN malaria|NN information|NN page|NN doctor|NN frontiere|NN malaria|NN information|NN page|NN malaria|NN information|NN hrceldis health|NN resource|NN guide|NN malaria|NN research|NN resource|NN health|NN develop country|NN plus|NN malaria|NN open directory|NN project|NN malaria|NN directory|NN category|NN net|NN gain|NN free online book|NN treate net|NN prevention|NN malaria|NN malaria|NN parasite|NN interaction|NN human host|NN develop|NN base drug|NN combination|NN treatment|NN drug|NN resistant falciparum|NN malaria|NN review|NN management|NN severe falciparum|NN malaria|NN interview|NN dr|NP andrew|NP harvard|NP malaria|NN specialist|NN malaria|NN consortium|NN malaria|NN case|NN death|NN country|NN global fund|NN fight aid|NN tuberculosis|NN malaria|NN home|NN page|NN global fund|NN malaria|NN lab|NN registry|NN recent literature|NN survey|NN article|NN history|NN malaria|NN north|NN sea|NN nation|NN organization|NN dedicate distribution|NN insecticide|NN treate net|NN prevention|NN malaria|NN malaria|NN opencourseware malaria|NN foundation|NN international answer|NN frequently ask question|NN malaria|NN president|NN malaria|NN intitiative|NN research|NN bbc|NP hope|NN malaria|NN october|NP bbc|NP science|NN show malaria|NN hide april|NP history|NN discovery|NN malaria|NN history|NN malaria|NN spain|NP malaria|NN
+unicef-undp-world|NN special programme|NN research|NN train|NN tropical disease|NN malaria|NN initiative|NN new scientist|NN new malaria|NN high hope|NN october|NP story|NN discovery|NN vector|NN malarial parasite|NN wellcome|NP trust|NN malaria|NN vaccine|NN development|NN vaccine|NN research|NN production|NN develop country|NN medicine|NN malaria|NN venture|NN mosquito|NN prevention|NN call|NN increase production|NN insecticidal net|NN part|NN un|NP
+millenium|NN campaign|NN ddt|NP ddt|NP malaria|NN vector|NN control|NN position|NN ddt|NP use ddt|NP ban|NN myth|NN image|NN photo|NN burden|NN malaria|NN bbc|NP picture|NN relate malaria|NN northern uganda|NP malaria|NN cooperation|NN vector|NN host|NN animation|NN malaria|NN johns|NP hopkins|NP school|NN public health|NN center|NN communication|NN program|NN
+artq1html text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

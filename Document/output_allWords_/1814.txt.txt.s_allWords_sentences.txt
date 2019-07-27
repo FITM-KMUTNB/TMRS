@@ -1,0 +1,712 @@
+lyme|NP disease|NN lyme|NP disease|NN lyme|NP disease|NN external resource|NN adult|NN deer|NN tick|NN carrier|NN lyme|NP disease|NN
+size|NN poppy|NN seed|NN
+a692 icd-9|NN medlineplus 001319|NN lyme|NP disease|NN lyme|NP borreliosis|NP common tick-borne|NN disease|NN north|NP america|NP europe|NP fastest-grow infectious disease|NN united|NP states|NP
+name town|NN old lyme|NP connecticut|NP cluster|NN case|NN identify clinical feature|NN disease|NN describe europe|NP early lyme|NP disease|NN report state|NN continent|NN antarctica|NP
+cause|NN lyme|NP disease|NN bacterial infection|NN spirochete|NN specy|NN complex|NN sensu|NN acquire bite|NN infect ixode|NN tick|NN
+burgdorfery|NN identify willy|NP tick-borne disease|NN expert|NN rocky|NP mountain|NN lab|NN hamilton|NP montana|NP
+burgdorfery|NN stricto|NN predominant cause|NN lyme|NP disease|NN europe|NP cause afzeliy|NN borrelia|NN
+disease|NN vary widely presentation|NN include rash|NN flu-like symptom|NN initial stage|NN follow arthritic|NN psychiatric cardiac manifestation|NN
+early detection|NN prompt antibiotic|NN treatment|NN result|NN excellent prognosis|NN
+early detection|NN difficult characteristic rash|NN present even diagnose treate early remain symptomatic delay inadequate treatment|NN lead late stage|NN lyme|NP disable difficult treat
+great controversy|NN diagnosis|NN test|NN treatment|NN different standard|NN care|NN lyme|NP disease|NN emerge content|NN symptom|NN acute early symptom|NN occur late stage|NN symptom|NN transmission|NN transmission|NN tick|NN congenital lyme|NP disease|NN mode|NN transmission|NN microbiology|NN strain|NN genomic characteristics|NN structure|NN growth|NN mechanism|NN persistence|NN diagnosis|NN treatment|NN lyme|NP controversy|NN standard|NN care|NN cdc|NP case|NN definition|NN test|NN long-term antibiotic|NN therapy|NN evidence|NN control study|NN evidence|NN uncontrol study|NN implication|NN treatment|NN prevention|NN proper removal|NN ecology|NN epidemiology|NN history|NN people|NN dy lyme|NP disease|NN reference|NN external link|NN edit symptom|NN lyme|NP disease|NN sign|NN symptom|NN skin|NN sign|NN arthritis|NN various neurological symptom|NN present
+syphilis|NN symptom|NN frequently seem resolve disease|NN progress
+conventional therapy|NN antibiotics|NN
+people|NN suspect expose lyme|NP disease|NN consult doctor|NN knowledge|NN disease|NN immediately
+edit acute early symptom|NN occur rash|NN cause lyme|NP disease|NN
+migran rash|NN em|NP popular belief|NN characteristic|NN rash|NN central clear|NN common form|NN
+rashe homogeneously red seen frequently multiple painless em|NP rashe|NN occur indicate disseminate infection|NN
+true incidence|NN rash|NN dispute estimate|NN rang infect
+early symptom|NN lyme|NP disease|NN usually nonspecific include fever|NN malaise|NN fatigue|NN headache|NN muscle|NN joint ache|NN
+heart|NN palpitation|NN kidney|NN intestinal pain|NN occur
+early objective|NN manifestation|NN present include meningitis|NN facial paralysis|NN bell|NN palsy|NN heart|NN block|NN
+incubation|NN period|NN infection|NN onset|NN symptom|NN usually week|NN shorter couple|NN day|NN even month|NN year|NN
+infection|NN exist incidence|NN unknown
+edit late stage|NN symptom|NN fatigue|NN muscle|NN pain|NN joint pain|NN frank arthritis|NN neuropathy|NN numbness|NN tingle burn itch|NN tremor|NN muscle|NN twitch|NN bell|NN palsy|NN pain|NN urination|NN meningitis|NN vision|NN problem|NN eg double vision|NN sensitivity|NN light motion|NN severe sensitivity|NN sound|NN vibration|NN symptom|NN balance|NN ear|NN seizure|NN severe startle|NN reaction|NN panic|NN attack|NN depression|NN short-term memory|NN loss|NN sleep|NN disturbance|NN hallucination|NN cardiac arrhythmia|NN tachycardia|NN heartbeat|NN nausea|NN vomit adrenal disorder|NN immune suppression|NN chronica|NN aca|NP late symptom|NN lyme|NP disease|NN appear month|NN infection|NN
+lyme|NP disease|NN misdiagnose multiple sclerosis|NN rheumatoid arthritis|NN chronic fatigue|NN syndrome|NN cf mainly autoimmune|NN neurological disease|NN leave infection|NN untreate allow further penetrate organism|NN
+condition|NN misdiagnose lyme|NP disease|NN thought rare occurrence|NN
+false positive lyme|NP diagnosis|NN commonly due false positive serology|NN subset|NN patient|NN suffer rheumatologic disease|NN infectious mononucleosis|NN
+confound|NN patient|NN present lyme|NP disease|NN relate disease|NN ms|NN
+make diagnosis|NN exceptionally difficult
+note kind|NN misdiagnosis|NN exception|NN rule|NN widely held lyme|NP disease|NN underdiagnose underreport rang factor|NN upward
+chronic fatigue|NN syndrome|NN cf definition|NN diagnosis|NN exclusion|NN mean|NN inaccurate say patient|NN lyme|NP cf
+substantial overlap|NN symptomatology|NN lyme|NP cf make crucial point|NN edit|NN transmission|NN edit|NN transmission|NN tick|NN tick|NN primary lyme|NP disease|NN vector|NN
+europe|NP ixodes|NP known commonly sheep|NN tick|NN castor|NN bean|NN tick|NN european castor|NN bean|NN tick|NN transmitter|NN
+north|NP america|NP black-leg tick|NN deer|NN tick|NN identify key|NN disease|NN spread east|NN coast|NN west|NN coast|NN primary vector|NN ixode western black-leg tick|NN
+possible vector|NN amblyomma lone star|NN tick|NN found southeastern far west|NN texas|NP increasingly northeastern state|NN well
+longer duration|NN tick|NN attachment|NN greater risk|NN disease|NN transmission|NN typically spirochaete|NN transfer tick|NN attach minimum|NN hour|NN part|NN statement|NN said strictly correct
+see proper removal|NN
+unfortunately person|NN infect lyme|NP deer|NN tick|NN aware tick|NN bite|NN make early detection|NN difficult absence|NN rash|NN
+tick|NN bite|NN usually go unnotice due|NN small size|NN tick|NN nymphal stage|NN well tick|NN secretion|NN prevent host|NN feel itch|NN pain|NN bite|NN
+new research|NN suggest transmission|NN occur hour|NN tick|NN attachment|NN rate|NN transmission|NN infect tick|NN higher previously assume
+edit congenital lyme|NP disease|NN lyme|NP disease|NN transmit infect mother|NN fetus|NN placenta|NN pregnancy|NN possibly result stillbirth|NN risk|NN transmission|NN minimize mother|NN receive prompt antibiotic|NN treatment|NN physician|NN disagree duration|NN treatment|NN require
+mother|NN pass lyme|NP disease|NN co-infection|NN breast|NN milk|NN
+citation|NN need edit|NN mode|NN transmission|NN case|NN report|NN transmission|NN bite fly|NN lyme|NP spirochetes|NP found bite fly|NN well mosquito|NN researcher|NN believe bite insect|NN feed long transmit infection|NN burgdorfery discoverer|NN willy|NP believe research|NN need anecdotal largely unconfirm evidence|NN sexual transmission|NN
+lyme|NP spirochetes|NP found semen|NN breast|NN milk|NN transmission|NN route|NN proven
+edit|NN microbiology|NN edit|NN strain|NN lyme|NP disease|NN cause spirochetal bacteria|NN genus|NN well known genomic strain|NN
+borrelia specy|NN known cause|NN lyme|NP disease|NN collectively known burgdorfery sensu|NN found greater strain|NN diversity|NN previously estimate recently thought genospecy|NN cause lyme|NP disease|NN b|NP burgdorferi|NP predominant north|NP america|NP europe|NP b|NP b|NP predominant eurasia|NP
+newly discover found cause|NN disease|NN human|NN europe|NP especially portugal|NP north|NP africa|NP asia|NP b|NP europe|NP b|NP spielmanii|NP europe|NP
+additional b|NP sensu|NP genospecies|NP suspect cause illness|NN confirm culture|NN include b|NP eurasia|NP especially england|NP switzerland|NP netherlands|NP b|NP b|NP b|NP japan|NP b|NP china|NP b|NP
+specy|NN carry tick|NN currently recognize carrier|NN lyme|NP disease|NN
+note present diagnostic test|NN base b|NP sensu|NP specy|NN use b|NP b|NP garinii|NP
+group|NN closely relate additional borrelia|NN specy|NN interest|NN include b|NP spirochete|NN recently detect amblyomma|NN tick|NN lone star|NN tick|NN b|NP suspect cause southern tick-associate|NN illness|NN known master|NN disease|NN honor|NN discoverer|NN
+illness|NN follow lone star|NN tick|NN bite|NN clinically resemble lyme|NP disease|NN sufferer|NN usually test negative lyme|NP currently diagnostic test|NN available starimaster|NN official treatment|NN protocol|NN antibiotics|NN generally prescribe
+b|NP miyamotoy|NN relate relapse fever|NN group|NN spirochete|NN suspect cause illness|NN japan|NP
+similar b|NP recently found ricinus tick|NN sweden|NP scapularis tick|NN edit|NN genomic characteristics|NN strike feature|NN b|NP compare eubacteria|NN unusual genome|NN far complex spirochetal cousin|NN agent|NN syphilis|NN genome|NN b|NP burgdorferi|NP include linear chromosome|NN approximately megabase|NN size|NN plasmid|NN linear circular|NN far largest number|NN plasmid|NN found known bacterium|NN genetic exchange|NN plasmid|NN transfer|NN contribute pathogenicity|NN organism|NN long-term culture|NN b|NP result|NN loss|NN plasmid|NN change|NN express protein|NN profile|NN
+associate loss|NN plasmid|NN loss|NN ability|NN organism|NN infect laboratory|NN animal|NN suggest plasmid|NN encode key gene|NN involve virulence|NN
+edit|NN structure|NN growth|NN b|NP burgdorferi|NP highly specialize spiral-shap|NN rang micrometer|NN length|NN
+describe gram-negative|NN outer membrane|NN lp|NN stain weakly gram|NN stain|NN
+b|NP burgdorferi|NP microaerophilic organism|NN require little oxygen|NN survive
+live primarily extracellular pathogen|NN hide see mechanism|NN persistence|NN section|NN
+spirochete|NN t|NP agent|NN syphilis|NN b|NP burgdorferi|NP axial filament|NN compose flagella|NN run lengthway cell|NN wall|NN outer membrane|NN
+structure|NN allow spirochete|NN move efficiently corkscrew|NN fashion|NN viscous media|NN connective tissue|NN
+result|NN b|NP burgdorferi|NP disseminate body|NN day|NN week|NN infection|NN penetrate deeply tissue|NN immune system|NN antibiotics|NN able eradicate infection|NN
+b|NP burgdorferi|NP slow grow|NN double|NN time|NN 12-24 hour|NN contrast|NN pathogen|NN staphylococcus|NP double|NN time|NN minute|NN
+antibiotics|NN kill bacteria|NN divide longer double|NN time|NN necessitate use|NN relatively longer treatment|NN course|NN lyme|NP disease|NN
+antibiotics|NN effective growth|NN phase|NN b|NP burgdorferi|NP occur four-week cycle|NN
+clinician|NN observe chronic lyme|NP patient|NN commonly experience worsen|NN symptom|NN week|NN periodic flare-up|NN thought correspond growth|NN phase|NN b|NP edit|NN mechanism|NN persistence|NN b|NP burgdorferi|NP susceptible number|NN antibiotics|NN vitro|NN contradictory report|NN efficacy|NN antibiotics|NN
+b|NP burgdorferi|NP persist human|NN animal|NN month|NN year|NN robust immune response|NN standard|NN antibiotic|NN treatment|NN particularly treatment|NN delay dissemination|NN widespread
+numerous study|NN demonstrate persistence|NN infection|NN antibiotic|NN therapy|NN various survival|NN strategy|NN b|NP posit explain phenomenon|NN follow physical sequestration|NN b|NP site|NN inaccessible immune system|NN antibiotics|NN brain|NN central nervous system|NN
+new evidence|NN suggest b|NP burgdorferi|NP use host|NN fibrinolytic system|NN penetrate blood-brain barrier|NN invasion|NN
+b|NP burgdorferi|NP show invade variety|NN cell|NN endothelium|NN fibroblast|NN lymphocyte|NN macrophage|NN synovium|NN recently neuronal glial cell|NN hide cell|NN b|NP burgdorferi|NP able evade immune system|NN protect vary degree|NN antibiotics|NN allow infection|NN persist chronic state|NN
+paradoxically scientific study|NN perform publish critics|NN persistent borrelia|NN infection|NN
+alter morphological form|NN ie cyst|NN granule|NN
+existence|NN b|NP burgdorferi|NP lack|NN cell|NN wall|NN well document vitro|NN vivo|NN ex|NN fact|NN energy|NN require spiral bacterium|NN convert cystic form|NN suggest alter form|NN survival|NN function|NN merely end stage|NN degeneration|NN product|NN
+spheroplast|NN indee virulent infectious able survive adverse environmental condition|NN show revert back spiral form|NN vitro|NN condition|NN number|NN factor|NN make b|NP burgdorferi|NP key factor|NN relapse chronic nature|NN lyme|NP disease|NN
+compare spiral form|NN dramatically reduce surface|NN area|NN immune surveillance|NN
+express different surface|NN protein|NN reason|NN seronegative disease|NN ie antibody|NN test|NN current test|NN look antibody|NN surface|NN protein|NN spiral form|NN
+addition|NN generally susceptible antibiotics|NN traditionally use lyme|NP disease|NN
+instead show sensitivity|NN vitro|NN antiparasitic drug|NN metronidazole|NN hydroxychloroquine spiral|NN form|NN b|NP burgdorferi|NP sensitive
+borrelia|NN cause|NN relapse fever|NN b|NP burgdorferi|NP ability|NN vary surface|NN protein|NN response|NN immune attack|NN ability|NN relate genomic complexity|NN b|NP way|NN b|NP burgdorferi|NP evade immune system|NN establish chronic infection|NN
+immune system|NN suppression|NN
+inhibition|NN induction|NN anti-inflammatory cytokine|NN formation|NN immune complexe|NN document b|NP infection|NN furthermore existence|NN immune complexe|NN provide explanation|NN seronegative disease|NN ie antibody|NN test|NN blood|NN cerebrospinal fluid|NN study|NN show substantial number|NN seronegative lyme|NP patient|NN antibody|NN bound complexe|NN edit diagnosis|NN reliable method|NN diagnose lyme|NP disease|NN clinical exam|NN experience practitioner|NN take account|NN symptom|NN history|NN possible exposure|NN tick|NN endemic area|NN
+diagnose strictly base
+center|NN disease|NN control|NN cdc|NP case|NN definition|NN lyme|NP error|NN cdc|NP explicitly state definition|NN intend surveillance|NN purpose|NN intend use clinical diagnosis|NN
+em|NP rash|NN occur case|NN consider sufficient make diagnosis|NN lyme|NP disease|NN prompt treatment|NN further test|NN
+fact|NN undispute high rate|NN false negative|NN early stage|NN disease|NN sufficient antibody|NN response|NN establish recommend test|NN perform patient|NN em|NP rash|NN serological laboratory|NN test|NN available western blot|NN elisa|NP
+two-tier protocol|NN recommend cdc|NP case|NN definition|NN elisa|NP perform positive equivocal western blot|NN perform support diagnosis|NN
+reliability|NN test|NN diagnosis|NN remain controversial see lyme|NP controversy--test|NN
+result|NN western blot|NN igm|NN describe virus|NN virus|NN cytomegalovirus|NN herpe|NN simplex|NN type|NN virus|NN study|NN show western blot|NN igm|NN specificity|NN 94-96|NN patient|NN symptom|NN suggestive lyme|NP disease|NN test|NN result|NN widely report early late disease|NN chain|NN reaction|NN pcr|NP test|NN lyme|NP disease|NN available patient|NN
+pcr|NP test|NN attempt|NN detect genetic material|NN dna|NN lyme|NP disease|NN western blot|NN elisa|NP test|NN look antibody|NN organism|NN
+pcr|NP test|NN rarely susceptible false-positive result|NN show result|NN
+test|NN difficulty|NN describe patient|NN employ vitamin|NN metabolite|NN test|NN alternative indicator|NN
+find|NN low 25-hydroxyvitamin|NN d|NP level|NN couple high 125-dihydroxyvitamin|NN d|NP level|NN associate infection|NN b|NP spirochetal|NN bacteria|NN abnormal vitamin|NN d|NP level|NN cause disease|NN process|NN further evaluation|NN warrant rule initiate treatment|NN
+edit|NN prognosis|NN early case|NN prompt treatment|NN usually curative severity|NN treatment|NN lyme|NP disease|NN complicate late diagnosis|NN failure|NN antibiotic|NN treatment|NN simultaneous infection|NN tick-borne disease|NN babesiosis|NN bartonella|NN immune suppression|NN patient|NN sometime result inappropriate treatment|NN steroid|NN
+meta-analysis|NN publish found patient|NN lyme|NP disease|NN fatigue|NN joint andor|NN muscle|NN pain|NN neurocognitive|NN symptom|NN persist year|NN antibiotic|NN treatment|NN patient|NN late stage|NN lyme|NP disease|NN show experience level|NN physical disability|NN equivalent|NN seen congestive heart|NN failure|NN disease|NN fatal death|NN report cdc|NP recognize death|NN lyme|NP disease|NN amanda|NP schmidt|NP edit|NN treatment|NN person|NN remove attach tick|NN monitor closely sign|NN symptom|NN tick-borne disease|NN day|NN
+doxycycline therapy|NN consider deer|NN tick|NN bite|NN tick|NN person|NN hour|NN
+traditional treatment|NN acute lyme|NP disease|NN usually consist minimum two-week one-month course|NN antibiotics|NN
+later stage|NN bacteria|NN disseminate body|NN cross blood-brain barrier|NN make infection|NN difficult treat late diagnose lyme|NP treate oral iv antibiotics|NN frequently minimum|NN week|NN
+research|NN conduct specifically call chronic lyme|NP disease|NN treatment|NN remain controversial
+currently set|NN publish guideline|NN international lyme|NP associate disease|NN society|NN advocate|NN extend course|NN antibiotics|NN chronic lyme|NP patient|NN infectious disease|NN society|NN america|NP recognize chronic infection|NN recommend treatment|NN persistent symptom|NN infection|NN see lyme|NP controversy--two|NN standard|NN care|NN
+placebo-control trial|NN long-term antibiotics|NN chronic lyme|NP produce mix result|NN see lyme|NP controversy--long-term|NN antibiotic|NN therapy|NN
+number|NN alternative therapy|NN suggest clinical trial|NN conduct
+example|NN use|NN oxygen|NN therapy|NN use conventionally treat number|NN condition|NN adjunct|NN antibiotics|NN lyme|NP discuss publish data|NN clinical trial|NN support use|NN preliminary result|NN use murine model|NN suggest effectiveness|NN burgdorfery|NN vitro|NN alternative medicine|NN approache|NN include bee|NN venom|NN contain peptide|NN show exert profound inhibitory effect|NN lyme bacteria|NN vitro|NN herb|NN specifically study specy|NN found antimalarial antibacterial property|NN wide range|NN organism|NN vitro|NN lead herbalist|NN recommend lyme|NP alternative|NN practitioner|NN recommend large dose|NN salt|NN combine vitamin|NN base theory|NN protocol|NN kill bacteria|NN enhance activity|NN elastase|NN possibly mechanism|NN safety|NN efficacy|NN approach|NN remain unproven
+edit lyme|NP controversy|NN doubt|NN lyme|NP disease|NN exist clinician|NN agree treatment|NN early lyme|NP disease|NN considerable controversy|NN prevalence|NN disease|NN proper procedure|NN diagnosis|NN treatment|NN later stage|NN likelihood|NN chronic antibiotic-resistant|NN lyme|NP infection|NN
+side|NN believe lyme|NP disease|NN relatively rare easily diagnose available blood|NN test|NN easily treate week|NN antibiotics|NN side|NN believe lyme|NP disease|NN under-diagnose available blood|NN test|NN unreliable extend antibiotic|NN treatment|NN necessary majority|NN public health|NN agency|NN
+center|NN disease|NN control|NN maintain position|NN
+narrower position|NN sometime describe mainstream view|NN lyme|NP disease|NN publish study|NN involve non-randomize survey|NN physician|NN endemic area|NN found physician|NN evenly split view|NN majority|NN recognize seronegative lyme|NP disease|NN roughly prescribe|NN extend course|NN antibiotics|NN chronic lyme|NP disease|NN october|NP lyme|NP controversy|NN heate dramatically begine release|NN update diagnosis|NN treatment|NN guideline|NN infectious disease|NN society|NN america|NP new idsa|NN recommendation|NN even restrictive require em|NP rash|NN positive laboratory|NN test|NN diagnosis|NN
+seronegative|NP lyme|NP disease|NN longer acknowledge early lyme|NP
+author|NN guideline|NN maintain chronic lyme|NP disease|NN result persistent infection|NN therefore treatment|NN week|NN recommend idsa|NN even late stage|NN case|NN
+idsa guideline|NN come fire|NN variety|NN corner|NN
+international lyme|NP associate disease|NN society|NN professional medical society|NN formally request retraction|NN idsa guideline|NN argue author|NN ignor publish data|NN conflict opinion|NN refuse input|NN physician|NN patient|NN differ view|NN
+all-volunteer|NP lyme|NP disease|NN association|NN largest lyme|NP advocacy|NN group|NN express concern|NN guideline|NN allow physician|NN clinical discretion|NN case|NN go undiagnose untreate stricter guideline|NN patient|NN ever develop disable lyme|NP disease|NN unprecedent move|NN connecticut|NP attorney|NN general|NP richard|NP blumenthal|NP initiate formal investigation|NN development|NN idsa guideline|NN november|NP
+attorney|NN general|NN office|NN consider idsa violate antitrust|NN law|NN exclusionary conduct|NN monopolization|NN development|NN guideline|NN
+guideline|NN set panel|NN essentially lock compet point|NN view|NN blumenthal|NP said
+presumably idsa|NN non-profit make|NN organization|NN organization|NN use anti-competitive purpose|NN edit|NN standard|NN care|NN legal standard|NN care|NN define consensus|NN treate physician|NN publish guideline|NN standard|NN care|NN lyme|NP disease|NN recognize situation|NN significant legal implication|NN patient|NN clinician|NN international lyme|NP associate disease|NN society|NN mission|NN statement|NN infectious disease|NN society|NN america|NP mission|NN statement|NN treatment|NN guideline|NN guideline|NN guideline|NN public statement|NN small group|NN scientistsdeny|NN existence|NN chronic lyme|NP disease|NN wrote president|NN raphael|NP stricker|NP md|NN refer part|NN idsa|NN
+fear publish guideline|NN endorse insensitive test|NN program|NN miss patient|NN tick-borne illness|NN
+fear recommend antibiotic|NN therapy|NN barely adequate acute infection|NN wholly inadequate chronic lyme|NP disease|NN
+soon publish latest version|NN restrictive set|NN guideline|NN further pressure center|NN disease|NN control|NN prevention|NN academic institution|NN ignore chronic lyme|NP disease|NN
+guideline|NN encourage insurance|NN company|NN embrace up-front cost|NN save|NN inherent shorter treatment|NN deny payment|NN longer treatment|NN even lyme|NP patient|NN sick show sign|NN improvement|NN
+lyme|NP denialist|NN claim|NN support|NN mainstream medical group|NN reality|NN handful|NN manage dictate policy|NN larger health|NN care|NN organization|NN close process|NN reject dissent view|NN
+idsa|NN attack ilad special interest|NN group|NN represent physician|NN advocate unconventional treatment|NN base testimonial|NN scientifically sound clinical trial|NN
+see clinical trial|NN
+nearly people|NN percent|NN get sick lyme|NP disease|NN treate recommend course|NN antibiotics|NN get better go live|NN said gary|NP md|NN lead|NN author|NN guideline|NN lyme|NP disease|NN
+em|NP rash|NN present|NN time|NN
+study|NN show otherwise flaw rely circular logic|NN subject|NN meet cdc|NP criteria|NN prioritize rash|NN disease|NN manifestation|NN
+exclude study|NN seronegative lyme|NP patient|NN rash|NN even definitive evidence|NN infection|NN positive pcr|NP seropositive patient|NN rash|NN present fever|NN flu-like symptom|NN joint muscle|NN pain|NN encephalopathy|NN symptom|NN include restrictive cdc|NP case|NN definition|NN late-stage patient|NN diagnosis|NN delay rash|NN present
+exclusion|NN group|NN lead artificially high estimate|NN incidence|NN em|NP rash|NN infect lyme|NP
+great majority|NN lyme|NP patient|NN present em|NP rash|NN study|NN patient|NN early lyme|NP disease|NN diagnose cdc|NP criteria|NN
+test|NN reliable particularly late case|NN use support clinical diagnosis|NN see test|NN section|NN discussion|NN
+nearly alway reliable week|NN infection|NN
+chronic lyme|NP disease|NN persistent lyme|NP infection|NN exist due various mechanism|NN antibiotic|NN resistance|NN particularly diagnosis|NN treatment|NN delay numerous study|NN demonstrate see mechanism|NN persistence|NN section|NN
+treatment|NN regimen|NN sometime require
+persistent lyme|NP infection|NN recognize
+patient|NN report continue andor|NN relapse non-specific symptom|NN generalize pain|NN joint pain|NN fatigue|NN episode|NN lyme|NP disease|NN treate standard course|NN antibiotics|NN
+patient|NN symptom|NN persist week|NN month|NN longer appear heterogeneous group|NN report non-specific symptom|NN associate number|NN medical disease|NN infectious noninfectious gary|NP md|NN lead|NN author|NN idsa guideline|NN
+symptom|NN term disease|NN syndrome|NN attribute unspecify autoimmune|NN process|NN development|NN fibromyalgia|NN chronic fatigue|NN syndrome|NN psychiatric disorder|NN simply stress|NN
+long-term antibiotic|NN treatment|NN maintain week|NN course|NN antibiotics|NN alway curative particularly diagnosis|NN delay disease|NN later disseminate stage|NN
+recommend long-term antibiotic|NN therapy|NN symptomatic patient|NN acknowledge lack|NN publish data|NN support long-term short-term treatment|NN duration|NN
+medical literature|NN provide compel rationale|NN use|NN longer regimen|NN patient|NN
+research|NN need treatment|NN withheld patient|NN meantime|NN
+see evidence|NN section|NN list|NN publish clinical trial|NN
+idsa|NN virtually patient|NN cure infection|NN single course|NN 14-28 day|NN antibiotics|NN regardless stage|NN illness|NN
+rarely course|NN treatment|NN recommend long-term antibiotic|NN therapy|NN recommend guideline|NN
+lead|NN author|NN dr|NP
+gary|NP wormser|NP caution convince publish data|NN show long-term treatment|NN effective see evidence|NN section|NN list|NN publish clinical trial|NN
+primary concern|NN misdiagnosis|NN under-diagnosis|NN lyme|NP lead untreate chronic persistent infection|NN result severe disability|NN possibly even death|NN see
+over-diagnosis|NN lyme|NP lead unnecessary use|NN antibiotics|NN result side|NN effect|NN commonly nausea|NN
+intravenous therapy|NN use serious risk|NN central line|NN infection|NN result death|NN patient|NN treate chronic lyme|NP disease|NN concern|NN cost|NN antibiotic|NN treatment|NN
+analysis|NN potential harm|NN let persistent lyme|NP infection|NN go untreate far outweigh potential side-effect|NN long-term antibiotic|NN use|NN
+long-term oral antibiotic|NN therapy|NN consider safe acne|NN patient|NN use|NN certainly justify chronic lyme|NP patient|NN
+intravenous therapy|NN justify serious refractory case|NN clear central nervous system|NN involvement|NN
+risk|NN minimize skill clinician|NN take appropriate precaution|NN
+chronic lyme|NP infection|NN presume exist potential adverse effect|NN long-term antibiotic|NN therapy|NN oral intravenous outweigh non-existent benefit|NN
+gary|NP md|NN lead|NN author|NN idsa guideline|NN long-term antibiotic|NN therapy|NN dangerous lead|NN superbug|NN
+edit cdc|NP case|NN definition|NN confusion|NN significance|NN
+center|NN disease|NN control|NN case|NN definition|NN lyme|NP disease|NN ly heart|NN controversy|NN diagnosis|NN
+cdc|NP explicitly state follow definition|NN meant use surveillance|NN purpose|NN diagnostic purpose|NN cdc|NP case|NN definition|NN lyme|NP disease|NN rash|NN cm|NN diameter|NN blood|NN test|NN elisa|NP follow western blot|NN follow manifestation|NN recurrent arthritis|NN bell|NN cranial neuritis|NN lymphocytic meningitis|NN positive lyme|NP titer|NN csf|NP degree|NN heart|NN block|NN number|NN well-document sign|NN chronic lyme|NP disease|NN encephalopathy|NN manifest memory|NN loss|NN mood|NN change|NN sleep|NN disturbance|NN part|NN cdc|NP case|NN definition|NN
+therefore clinician|NN use cdc|NP criteria|NN diagnostic purpose|NN misdiagnose patient|NN disease|NN additionally reliance|NN cdc|NP case|NN definition|NN clinical purpose|NN result misdiagnosis|NN test|NN result widely report phenomenon|NN see diagnosis|NN
+edit|NN test|NN debate|NN lyme|NP disease|NN test|NN remain heate concern|NN false-positive|NN see diagnosis|NN
+test|NN currently rely indirect method|NN detection|NN ie body immune system|NN response|NN difficult culture|NN bacteria|NN directly patient|NN
+specific issue|NN regard|NN test|NN controversy|NN include follow sensitivity|NN cdcs test|NN protocol|NN
+critics|NN argue cdcs|NN test|NN protocol|NN elisa|NP test|NN follow confirmatory western blot|NN test|NN positive equivocal miss|NN patient|NN infect
+criticism|NN merit|NN
+study|NN examine question|NN found percent|NN definite lyme|NP disease|NN define presence|NN dna|NN culture|NN negative test cdcs recommendation|NN
+study|NN include early late stage|NN lyme|NP disease|NN patient|NN
+study|NN college|NN american pathologist|NN conclude test|NN useful screen|NN test|NN sensitivity|NN improve
+inadequate lab|NN standardization|NN
+standardization|NP test|NN found inadequate high degree|NN variability|NN diagnostic gold|NN standard|NN determine sensitivity|NN test|NN late disease|NN
+diagnostic gold|NN standard|NN identify chronic lyme|NP disease|NN circular|NN reason|NN become problem|NN study|NN evaluate sensitivity|NN serologic test|NN population|NN
+bia|NN unavoidable subject|NN select cdc|NP criteria|NN late-stage patient|NN test positive previously order|NN qualify study|NN
+study|NN cite cdc|NP defend test|NN validity|NN author|NN acknowledge risk|NN selection|NN bia|NN false negative test|NN result|NN due follow particularly late chronic lyme|NP disease|NN immune system|NN evasion|NN burgdorfery|NN
+sequestration|NN antigen|NN variation|NN immune suppression|NN formation|NN immune complexe|NN predominance|NN cystic form|NN cite reason|NN seronegativity|NN late chronic lyme|NP disease|NN see mechanism|NN persistence|NN section|NN
+positive test|NN criteria|NN base early lyme|NP disease|NN
+cdcs criteria|NN positive western blot|NN develop base study|NN patient|NN early lyme|NP disease|NN serologic response|NN patient|NN late-stage|NP lyme|NP disease|NN analyze incorporate fact|NN case|NN require positive western blot|NN diagnosis|NN cdc|NP standard|NN
+specific marker|NN late-stage|NP lyme|NP disease|NN left
+highly specific antibody|NN band|NN lyme|NP correspond outer surface|NN protein|NN include cdc|NP criteria|NN positive western blot|NN appear late disease|NN
+band|NN include cdc|NP western blot|NN specific burgdorferry|NN usedstudy development|NN lyme|NP disease|NN vaccine|NN result|NN vast majority|NN laboratory|NN report band|NN even positive
+reason|NN clinician|NN use laboratory|NN specialize disease|NN usually report antibody|NN band|NN
+test|NN base strain|NN
+current test|NN laboratory|NN base strain|NN borrelia|NN b31 strain|NN use fact|NN strain|NN worldwide north|NP america|NP see strain|NN
+study|NN found practice|NN lead reason|NN clinician|NN use disease|NN specialty|NN lab|NN utilize multiple strain|NN burgdorfery|NN preparation|NN test|NN kit|NN
+physician|NN conservative view|NN lyme|NP disease|NN believe over-diagnose over-treate
+widely cite study|NN critics|NN lyme|NP disease|NN written allan|NP
+study|NN publish jama|NP conclude patient|NN diagnose chronic lyme|NP endemic area|NN actually disease|NN critics|NN respond follow argument|NN consider misdiagnose study|NN receive positive result|NN laboratory|NN negative result|NN author|NN laboratory|NN
+independent evaluation|NN reason|NN assume author|NN laboratory|NN superior
+separate study|NN fund nih|NN laboratory|NN use allan|NP steere|NP sent definite lyme|NP disease|NN serology|NN blind fashion|NN attempt|NN discover reliability|NN test|NN major academic center|NN
+study|NN conclude rate|NN true positive|NN laboratory|NN significantly percent|NN
+author|NN fail consider phenomenon|NN seronegative lyme|NP disease|NN consider possibility|NN persistent infection|NN author|NN consider treatment|NN failure|NN evidence|NN ie patient|NN possibly lyme|NP cure standard course|NN antibiotics|NN even author|NN previously publish treatment|NN failure|NN common
+fact|NN author|NN conclude patient|NN lyme|NP respond treatment|NN example|NN circular reason|NN
+author|NN exclude patient|NN diagnosis|NN lyme|NP disease|NN psychiatric symptom|NN fact|NN lyme|NP cause symptom|NN test positive treatment|NN
+test|NN measure|NN antibody|NN burgdorfery|NN organism|NN theoretically possible test positive even organism|NN eradicate
+agree treatment|NN require asymptomatic patient|NN regardless test|NN result|NN controversy|NN arise patient|NN continue symptom|NN course|NN treatment|NN
+scenario|NN hold conservative view|NN believe infection|NN eradicate treatment|NN positive test|NN longer indicate active infection|NN persist antibody|NN response|NN regardless clinical picture|NN
+broader view|NN lyme|NP believe evidence|NN clinical picture|NN case|NN likely point|NN persist infection|NN require further antibiotic|NN treatment|NN
+edit long-term antibiotic|NN therapy|NN concrete evidence|NN use|NN antibiotics|NN chronic lyme|NP disease|NN double-blind clinical trial|NN fund date|NN
+national institute|NN health|NN conflict result|NN
+edit|NN evidence|NN control study|NN et|NP al|NP month|NN intravenous ceftriaxone|NN follow month|NN oral doxycycline|NN placebo|NN give chronic lyme|NP patient|NN follow symptom|NN pain|NN cognitive impairment|NN pain|NN
+significant benefit|NN found physical mental health|NN
+critics|NN maintain study|NN contain serious methodological flaw|NN follow dose|NN doxycycline|NN use study|NN mg|NN daily low penetrate central nervous system|NN failure|NN expect dose|NN
+actuality|NN long-term trial|NN describe short-term trial|NN ceftriaxone|NN sequential use|NN antibiotics|NN different mode|NN action|NN antibiotic|NN inadequately dose
+patient|NN fail similar treatment|NN previously unlikely regimen|NN produce benefit|NN
+cognitive status|NN measure subjectively use patient|NN survey|NN sf-36|NN make impossible assess change|NN executive|NN function|NN seen chronic lyme|NP patient|NN
+objective|NN test|NN result|NN report
+author|NN statement|NN single patient|NN screen pcr|NP positive lyme|NP puzzle light|NN numerous study|NN document persist infection|NN patient|NN remain symptomatic selection|NN bia|NN result study|NN population|NN representative chronic lyme|NP patient|NN study|NN generalizable accuracy|NN author|NN pcr|NP method|NN doubt|NN
+scenario|NN author|NN conclusion|NN chronic lyme|NP patient|NN suffer persistent infection|NN invalid
+external validity|NN study|NN question ground|NN study|NN population|NN representative general population|NN chronic lyme|NP patient|NN issue|NN et|NP al|NP address discussion|NN
+average subject|NN ill year|NN fail course|NN treatment|NN
+argue data|NN generalizable patient|NN chronic lyme|NP disease|NN mean|NN conclude et|NP al|NP long-term antibiotic|NN therapy|NN unhelpful chronic lyme|NP patient|NN krupp|NP et|NP al|NP week|NN intravenous ceftriaxone|NN placebo|NN give chronic lyme|NP patient|NN persistent severe fatigue|NN
+significant improvement|NN fatigue|NN
+treatment|NN effect|NN remain even adjust age|NN pain|NN history|NN psychiatric disorder|NN depressive|NN symptom|NN
+improvement|NN cognitive symptom|NN
+symptom|NN criteria|NN entrance|NN study|NN severe fatigue|NN
+author|NN acknowledge patient|NN cognitive deficit|NN baseline|NN mild explain lack|NN treatment|NN effect|NN cognition|NN fallon|NP et|NP al|NP
+publish result|NN present october|NP columbia|NP universitylyme|NN disease|NN association|NN conference|NN rye|NP ny|NP
+week|NN intravenous ceftriaxone|NN placebo|NN give chronic lyme|NP patient|NN ongo memory|NN impairment|NN
+significant improvement|NN physical cognitive symptom|NN
+physical improvement|NN maintain week|NN
+patient|NN relapse cognitive measure|NN followup|NN suggest longer regimen|NN require
+improvement|NN cognitive function|NN correlate change|NN blood|NN flow|NN brain|NN measure spect scan|NN
+fallon|NP et|NP als|NP study|NN biological examination|NN chronic lyme|NP disease|NN date|NN
+study|NN result|NN interpret use questionnaire|NN administer phone|NN
+study|NN blind|NN
+level|NN methodology|NN attempt study|NN chronic lyme|NP disease|NN
+reason|NN level|NN blind|NN use study|NN controversy|NN surround lyme|NP disease|NN
+aim|NN study|NN include people|NN disagreement|NN term|NN correct lyme|NP disease|NN diagnosis|NN
+secondly strict methodology|NN tedious require scientific rigor|NN high degree|NN necessary political nature|NN lyme|NP disease|NN
+study|NN patient|NN chronic lyme|NP disease|NN give scan|NN treatment|NN
+spect scan|NN brain|NN qualitatively quantitatively depend sophistication|NN equipment|NN measure|NN metabolic blood|NN flow|NN activity|NN brain|NN
+physical marker|NN scientifically examine cause|NN effect|NN oppose questionnaire|NN open opinion|NN participant|NN influence|NN examiner|NN
+patient|NN administer purely quantitative examination|NN aim assess disability|NN ie neuropsychological test|NN
+lastly study|NN patient|NN ask felt treatment|NN
+test|NN include degree|NN blind|NN ie radiologist|NN blind diagnosis|NN blind|NN diagnosis|NN patient|NN blind|NN treatment|NN
+edit|NN evidence|NN uncontrol study|NN result|NN placebo-control study|NN mix uncontrol study|NN suggest longer duration|NN antibiotic|NN treatment|NN beneficial chronic lyme|NP disease|NN edit|NN implication|NN treatment|NN widely publicize result|NN klempner study|NN led proclaim long-term antibiotics|NN unhelpful patient|NN chronic lyme|NP disease|NN warn|NN patient|NN clinician|NN evidence|NN support use|NN
+see abuse|NN concept|NN medicine|NN
+argue treatment|NN failure|NN design clinical trial|NN justify warn|NN light|NN evidence|NN withhold antibiotic|NN treatment|NN unethical face|NN patient|NN suffer|NN
+optimal choice|NN antibiotics|NN treatment|NN duration|NN unknown vary strain|NN believe additional research|NN chronic lyme|NP disease|NN need strict treatment|NN recommendation|NN issue
+edit|NN prevention|NN best prevention|NN involve avoid area|NN tick|NN found reduce probability|NN contract lyme|NP disease|NN
+good prevention|NN practice|NN include wear cloth|NN cover entire body|NN wood area|NN use repellent|NN exposure|NN wood area|NN check part|NN body|NN hair|NN tick|NN
+method|NN protect whole property|NN damminix cite
+consist biodegradable cardboard tube|NN stuf cotton|NN work|NN follow way|NN mice|NN collect cotton|NN line nest|NN
+pesticide|NN cotton|NN kill immature tick|NN feed mice|NN
+important put tube|NN mice|NN find dense dark brush|NN base|NN log|NN mice|NN unlikely gather cotton|NN open lawn|NN
+best result|NN obtain regular application|NN early spring|NN late summer|NN
+neighbor|NN use better
+appear help control|NN tick|NN population|NN particularly year|NN initial use|NN
+note effective west|NN coast|NN potential alternative|NN damminix maxforce tick|NN management|NN system|NN base plastic|NN attract rodent|NN
+rodent enter baitboxe|NN paint
+product|NN require professional installation|NN
+june|NP product|NN longer available
+reason|NN appear selective report|NN grey squirrel|NN chew maxforce|NN boxe|NN area|NN northeastern unit state|NN compromise child|NN resistant box|NN
+due problem|NN federal environmental protection|NN agency|NN epa|NP ask similarly design boxe|NN apply cover protective shroud|NN capable prevent squirrel|NN damage|NN
+unusual organic approach|NN control|NN tick|NN prevention|NN lyme|NP disease|NN involve use|NN domesticate guineafowl|NN
+guinea|NP fowl|NP voracious consumer|NN insect|NN particular fondness|NN tick|NN
+reduce dependence|NN chemical pest-control method|NN
+victim|NN tick|NN concern|NN turn guinea|NP fowl|NN breeder|NN association|NN found guinea|NP breeder|NN association|NN advice|NN topic|NN
+vaccine|NN north|NN american strain|NN spirochetal bacteria|NN available
+take market|NN manufacturer|NN cite poor sale|NN people|NN believe actual reason|NN vaccine|NN safe effective advice|NN uk hospital|NN tropical disease|NN significant exposure|NN attach mite|NN hour|NN manage america|NP germany|NP doxycycline|NP mg|NN twice day|NN day|NN patient|NN advise report erythema migran|NN subsequent week|NN
+suspicion|NN disease|NN course|NN doxycycline|NN immediately give day|NN await test|NN yield positive result|NN interval|NN month|NN
+edit proper removal|NN tick|NN urban legend|NN proper effective method|NN remove tick|NN
+legend|NN state|NN hot cigarette|NN burnt match|NN apply back|NN tick|NN cause tick|NN remove head|NN victim|NN
+further state tick|NN screw head|NN victim|NN therefore unscrew head|NN
+legend|NN incorrect potentially dangerous tick|NN disturb regurgitate stomach|NN content|NN host|NN agent|NN tick|NN borne disease|NN tick|NN infect
+proper removal|NN tick|NN use|NN pair|NN tweezer|NN grab head|NN tick|NN mouth|NN pull straight turn|NN twist
+area|NN disinfect rub alcohol|NN hydrogen|NN peroxide|NN
+head|NN completely remove local infection|NN personanimal|NN bitten result doctor|NN consult veterinarian|NN tick|NN remove pet|NN
+important handle tick|NN bare hand|NN let crawl simply touch tick|NN rmsf rocky|NP mountain|NP spote fever|NN transmit infection|NN
+edit|NN ecology|NN anthropogenic factor|NN implicate spread|NN lyme|NP disease|NN human population|NN
+area|NN expansion|NN suburban neighborhood|NN led gradual deforestation|NN surround wood area|NN increase border|NN contact|NN human|NN tick-dense area|NN
+human expansion|NN result gradual reduction|NN predator|NN normally hunt deer|NN well mice|NN small primary reservoir|NN lyme|NP disease|NN
+consequence|NN increase human contact|NN host|NN vector|NN likelihood|NN transmission|NN lyme|NP resident|NN greatly increase researcher|NN investigate possible link|NN global warm|NN spread|NN vector-borne disease|NN lyme|NP disease|NN deer|NN tick|NN primary vector|NN northeastern two-year life|NN cycle|NN progress|NN larva|NN nymph|NN nymph|NN adult|NN
+tick|NN feed stage|NN
+fall|NN large acorn|NN forest|NN attract deer|NN well mice|NN small rodent|NN infect b|NP
+follow spring|NN tick|NN lay egg|NN
+rodent|NN population|NN boom|NN
+tick|NN egg|NN hatch|NN larvae|NN feed rodent|NN larvae|NN acquire infection|NN rodent|NN
+note stage|NN propose tick|NN infestation|NN control use miticide|NN
+commercial method|NN provide nest|NN material|NN soak damminix|NN
+infect larvae|NN nymph|NN
+infect nymph|NN transmit majority|NN lyme|NP infection|NN human|NN feed human|NN small animal|NN spring|NN summer|NN
+nymph|NN adult|NN feed larger animal|NN deer|NN fall|NN early spring|NN
+adult|NN tick|NN transmit disease|NN human|NN
+feed female adult|NN tick|NN lay egg|NN ground|NN cycle|NN complete
+note west|NN coast|NN lyme|NP disease|NN spread western black-leg|NN tick|NN ixode|NN different life|NN cycle|NN
+risk|NN acquire lyme|NP disease|NN necessarily depend existence|NN local deer|NN population|NN commonly assume
+new research|NN suggest eliminate deer|NN smaller area|NN acre|NN fact|NN lead|NN increase|NN tick|NN density|NN rise|NN disease|NN hotspot|NN edit epidemiology|NN number|NN report case|NN disease|NN increase endemic region|NN north|NP america|NP
+example|NN previously accept burgdorfery|NN maintain enzootic cycle|NN california|NP assume large lizard|NN population|NN dilute prevalence|NN burgdorfery|NN local tick|NN
+reason|NN assumption|NN made base study|NN found blood|NN western fence|NN lizard|NP lethal borrelia wihch|NN pertinent area|NN lizard|NN abundant use blood|NN meal|NN stage|NN tick|NN
+year|NN believe tick|NN california|NP minimum infection|NN rate|NN western fence|NN lizard|NP role|NN ecosystem|NN
+landmark|NN study|NN san|NP jose|NP state|NN department|NN publish journal|NN medical entomology|NN found minimum infection|NN rate|NN adult|NN tick|NN
+suggest enzootic cycle|NN area|NN country|NN new|NP england|NP highly complex
+example|NN recent study|NN clark|NP result|NN show prevalence|NN burgdorfery|NN high even lizard|NN
+author|NN speculate enzootic cycle|NN nature|NN burgdorfery|NN south|NN quite different found new|NP england|NP
+instance|NN repeate study|NN clark|NP high prevalence|NN burgdorfery sensu|NN found study|NN southern enzootic|NN cycle|NN borrelia|NN new|NP england|NP cycle|NN entirely sensu stricto|NN
+lyme|NP disease|NN report nearly state|NN concentrate area|NN north-east|NN mid-atlantic|NP state|NN wisconsin|NP minnesota|NP northern california|NP
+lyme|NP disease|NN endemic europe|NP asia|NP
+edit|NN history|NN lyme|NP disease|NN name cluster|NN case|NN occure old lyme|NP lyme|NP connecticut|NP
+element|NN infection|NN known meningopolyneuritis|NN syndrome|NN syndrome|NN sheep|NN tick|NN fever|NN
+disease|NN document skin|NN rash|NN europe|NP
+year|NN researcher|NN identify additional feature|NN disease|NN unidentify pathogen|NN response|NN penicillin|NN role|NN ixode tick|NN black leg tick|NN vector|NN symptom|NN affect central nervous system|NN
+borrelia|NN burgdorfery|NN isolate skin|NN white-foot mice|NN museum|NN specimen|NN date|NN back|NN massachusetts|NP researcher|NN unaware organism|NN existence|NN
+interest|NN tick-borne infection|NN began report|NN relapse fever|NN discovery|NN wood|NN tick|NN role|NN vector|NN rocky|NP mountain|NP spote fever|NN follow year|NN
+full syndrome|NN known lyme|NP disease|NN recognize cluster|NN case|NN originally thought juvenile rheumatoid arthritis|NN identify town|NN southeastern connecticut|NP
+town|NN lyme|NP old|NP lyme|NP gave disease|NN popular name|NN
+novel|NN isolate culture midgut|NN ixode tick|NN subsequently patient|NN lyme|NP disease|NN
+infect agent|NN identify jorge|NP soon isolate willy|NP scientist|NN national institute|NN health|NN specialize study|NN spirochete microorganism|NN
+spirochete|NN name burgdorfery honor|NN
+partner|NN successful effort|NN culture|NN spirochete|NN along alan|NP barbour|NP
+europe|NP earliest known case|NN lyme|NP disease|NN date|NN back|NN year|NN
+disease|NN thoroughly recognize
+patient|NN enter doctor|NN office|NN vague symptom|NN chronic exhaustion|NN joint pain|NN wrongly diagnose
+fortunately knowledge|NN disease|NN treatment|NN available patient|NN treate antibiotics|NN time|NN prevent serious infection|NN
+people|NN country|NN netherlands|NP france|NP diagnose late suffer disease|NN spite|NN regular antibiotics|NN treatment|NN
+edit|NN people|NN dy lyme|NP disease|NN scott|NP brazil|NP diane|NP edit|NN reference|NN
+sternbach|NP g|NP dibble|NP c|NP
+willy|NP burgdorfer|NP lyme|NP disease|NN
+j|NP med
+j|NP r|NP sell|NP r|NP mckenna|NP d|NP l|NP d|NP wormser|NN
+long-term follow-up|NN patient|NN culture-confirmed|NP lyme|NP disease|NN
+am|NP j|NP med|NP
+johnson|NP lorraine|NP
+lyme|NP disease|NN standard|NN care|NN
+international lyme|NP associate disease|NN society|NN
+johnson|NP l|NP r|NP
+treatment|NN lyme|NP disease|NN medicolegal assessment|NN
+expert|NN rev|NP anty infect|NN
+smith|NP rp|NP rt|NP dw|NP sikand|NP nowakowski|NP j|NP holman|NP ms|NN dh|NP steere|NP ac|NN
+clinical characteristics|NN treatment|NN outcome|NN early lyme|NP disease|NN patient|NN confirm erythema|NN pdf|NP
+ann|NP med
+med clin|NN north|NN
+late chronic lyme|NP disease|NN
+med clin|NN north|NN
+cameron|NP d|NP narris|NP n|NP bach|NP g|NP s|NP bock|NP k|NP bock|NP s|NP j|NP c|NP horowitz|NP r|NP phillips|NP s|NP l|NP b|NP v|NP smith|NP h|NP smith|NP p|NP r|NP work group|NN
+guideline|NN management|NN lyme|NP disease|NN pdf|NP
+expert|NN rev|NP anty infect|NN suppl|NN
+clark|NP k|NP
+specy|NN tick|NN small mammal|NN northern florida|NP
+j|NP clin|NP
+wormser|NP g|NP masters|NP e|NP j|NP mckenna|NP d|NP d|NP ma|NP k|NP l|NP l|NP r|NP
+prospective clinical evaluation|NN patient|NN missoury|NN new|NP york|NP migrans-like skin|NN lesion|NN
+gestational|NP lyme|NP
+implication|NN fetus|NN pdf|NP
+dis|NN north|NN
+schlesinger|NP pa|NN ph|NN burke|NP ba|NP ac|NN mt|NP
+transmission|NN lyme|NP disease|NN burgdorfery|NN
+ann|NP med
+luger|NP s|NP
+lyme|NP disease|NN transmit bite fly|NN
+n|NP engl|NP j|NP med|NP
+magnarelli|NP l|NP anderson|NP j|NP
+bite insect|NN infect etiologic agent|NN lyme|NP disease|NN borrelia|NN
+j|NP clin|NP
+burgdorfer|NP w|NP
+increase evidence|NN mosquitospirochete association|NN
+international scientific conference|NN lyme|NP disease|NN
+bach|NP g|NP
+recovery|NN lyme|NP pcr|NP semen|NN sample|NN previously diagnose lyme|NP disease|NN patient|NN
+international scientific conference|NN lyme|NP disease|NN
+schmidt|NP b|NP e|NP c|NP h|NP f|NP
+detection|NN burgdorfery dna|NN polymerase|NN chain|NN reaction|NN urine|NN breast|NN milk|NN patient|NN lyme|NP
+bunikis|NP j|NP u|NP j|NP j|NP fish|NP d|NP barbour|NP
+sequence|NN type|NN reveal extensive strain|NN diversity|NN lyme|NP borreliosis|NN agent|NN burgdorfery|NN north|NP america|NP afzeliy|NN europe|NP pdf|NP
+collares-pereira|NP m|NP s|NP franca|NP kurtenbach k|NP sm|NP l|NP l|NP s|NP vieira|NP ml|NN cunha|NP c|NP
+isolation|NN lusitaniae|NN human patient|NN pdf|NP
+j|NP clin|NP
+postic|NP d|NP ras|NP lane|NP rs|NP m|NP g|NP
+expand diversity|NN californian borrelia isolate|NN description|NN bissettiy sp|NN
+formerly group|NN pdf|NP
+j|NP clin|NP
+maraspin|NP v|NP j|NP s|NP e|NP t|NP rn|NP f|NP
+solitary borrelial|NN adult|NN patient|NN
+wien|NP klin|NP
+richter|NP d|NP d|NP n|NP matuschka fr|NN g|NP
+delineation|NP burgdorfery|NN specy|NN sequence|NN analysis|NN confirmation|NN delineation|NN spielmaniy sp|NN
+int j|NP evol|NP
+foldvari|NP g|NP r|NP
+spielmaniy erythema|NN hungary|NP
+varela|NP mp|NN ew|NP moore|NP va|NP davidson|NP stallknecht|NP de|NP little|NP se|NP
+culture|NN isolation|NN lonestary putative agent|NN southern rash illness|NN pdf|NP
+j|NP clin|NP
+masters|NP e|NP s|NP p|NP p|NP
+erythema|NN migrans-like rashe|NN lone star|NN tick|NN bite|NN
+scoles|NP ga|NP m|NP l|NP fish|NP d|NP
+relapse fever|NN group|NN transmit scapularis tick|NN
+bunikis|NP j|NP j|NP u|NP j|NP fish|NP d|NP barbour|NP
+type|NN relapse fever|NN group|NN strain|NN
+burgdorfery|NN treponema|NN comparison|NN functional environmental adaptation|NN pathogenic mechanism|NN
+j|NP clin|NP invest
+casjens|NP s|NP palmer|NP n|NP van|NP r|NP huang|NP wm|NP stevenson|NP b|NP rosa|NP p|NP r|NP sutton|NP g|NP peterson|NP j|NP dodson|NP haft|NP d|NP hickey|NP e|NP m|NP white|NP o|NP fraser|NP cm|NN
+bacterial genome|NN flux|NN linear circular extrachromosomal dna|NN infectious isolate|NN lyme|NP disease|NN burgdorfery|NN
+qiu|NP wg|NP se|NP bruno|NP jf|NP o|NP xu|NP y|NP dunn|NP jj|NP fraser|NP cm|NN sr|NP luft|NP
+genetic exchange|NN plasmid|NN transfer|NN burgdorfery sensu|NN reveal three-way genome|NN comparison|NN sequence|NN type|NN pdf|NP
+natl acad|NN
+burrascano|NP jj|NP
+diagnostic hint|NN treatment|NN guideline|NN lyme|NP tick|NN borne illness|NN edition|NN
+jj|NP f|NP rutledge|NP rys|NP pn|NP dh|NP steere|NP ac|NN
+detection|NN burgdorfery dna|NN polymerase|NN chain|NN reaction|NN synovial fluid|NN patient|NN lyme|NP arthritis|NN
+n|NP engl|NP j|NP med|NP
+bayer|NP zhang|NP l|NP bayer|NP mh|NP
+burgdorfery dna|NN urine|NN treate patient|NN chronic lyme|NP disease|NN symptom|NN
+pcr|NP study|NN case|NN
+v|NP weber|NP k|NP hw|NP gross
+survival|NN burgdorfery|NN treate patient|NN lyme|NP
+hw|NP v|NP b|NP e|NP f|NP einhaupl|NP
+comparison|NN ceftriaxone|NN cefotaxime|NN lyme|NP
+j|NP infect
+j|NP m|NP j|NP mk|NP
+burgdorfery|NN detect culture|NN pcr|NP clinical relapse|NN disseminate lyme|NP
+ann|NP med|NP
+hudson|NP bj|NP stewart|NP m|NP lennox|NP va|NP m|NP m|NP h|NP j|NP
+culture-positive|NP lyme|NP
+med|NP j|NP aust|NP
+lawrence|NP c|NP lipton|NP rb|NP fd|NP coyle|NP
+chronic relapse|NN
+persistence|NN burgdorfery|NN lato|NN patient|NN lyme|NP
+straubinger summers|NP ba|NP chang|NP appel|NP
+persistence|NN burgdorfery|NN experimentally infect dog|NN antibiotic|NN treatment|NN pdf|NP
+j|NP clin|NP
+r|NP mt|NP
+survival|NN strategy|NN borrelia|NN etiologic agent|NN lyme|NP disease|NN
+miklossy|NP j|NP khalili|NP k|NP l|NP rl|NP p|NP l|NP j|NP paster|NP
+burgdorfery|NN persist brain|NN chronic lyme|NN associate alzheimer|NP disease|NN
+j|NP alzheimers|NP dis|NN discussion|NN
+grab dj|NN g|NP js|NP kim|NP park|NP j|NP kim|NP nikolskaia|NP o|NP choi|NP ks|NP mf|NP kim|NP ks|NP
+burgdorfery host-derive|NN blood-brain barrier|NN
+ma|NP y|NP weis|NP jj|NP
+localization|NN burgdorfery|NN human endothelial cell|NN pdf|NP
+ms|NN r|NP rogers|NP ra|NP
+invasion|NN human skin|NN fibroblast|NN lyme|NP disease|NN burgdorfery|NN
+j|NP infect
+dorward|NP dw|NP fischer|NP er|NP brooks|NP dm|NN
+invasion|NN kill|NN human lymphocyte|NN spirochete|NN cause lyme|NP disease|NN
+clin suppl|NN
+montgomery|NP rr|NP mh|NP se|NP
+fate|NN borrelia|NN agent|NN lyme|NP disease|NN mouse|NN macrophage|NN
+destruction|NN survival|NN recovery|NN
+aberer|NP e|NP klade|NP h|NP c|NP w|NP
+heterogeneity|NP burgdorfery|NN skin|NN
+am|NP j|NP
+girschick|NP hj|NP h|NP v|NP h|NP
+persistence|NN burgdorfery|NN human synovial cell|NN
+r|NP duray|NP ph|NN schumacher|NP hr|NN jr|NP
+demonstration|NN spirochetal antigen|NN synovial fluid|NN synovial membrane|NN chronic lyme|NP disease|NN possible factor|NN contribute persistence|NN organism|NN
+livengood|NP ja|NP gilmore|NP rd|NP
+invasion|NN human neuronal glial cell|NN infectious strain|NN burgdorfery|NN
+infect|NN ahead print|NN
+georgilis|NP k|NP m|NP ms|NP
+protect lyme|NP disease|NN burgdorfery|NN ceftriaxone|NN
+j|NP infect
+brouqui|NP p|NP s|NP d|NP
+cell|NN protect burgdorfery|NN action|NN penicillin|NN ceftriaxone|NN action|NN doxycycline|NN pdf|NP
+alban|NP ps|NN johnson|NP pw|NP nelson|NP dr|NP
+change|NN protein|NN synthesis|NN morphology|NN burgdorfery|NN
+10658658 full text|NN
+functional heterogeneity|NN antibody|NN produce burgdorfery|NN
+wien|NP klin|NP
+vp|NP g|NP reinhardt|NP s|NP b|NP busch|NP u|NP w|NP
+formation|NN cultivation|NN burgdorfery|NN variant|NN
+cluss|NP rg|NP rehm|NP hl|NP jg|NP boothby|NP jt|NP
+synthesis|NN turnover|NN heat|NN shock|NN protein|NN burgdorfery degradation|NN dnak|NN recovery|NN heat|NN shock|NN pdf|NP
+kersten poitschek c|NP s|NP e|NP
+effect|NN penicillin|NN doxycycline morphology|NN borrelia|NN pdf|NP
+angelov|NP l|NP p|NP w|NP
+clinical laboratory|NN evidence|NN importance|NN tick|NN d|NP marginatus|NP vector|NN b|NP area|NN sporadic lyme|NP disease|NN bulgaria|NP
+eur|NP j|NP
+schaller|NP m|NP
+ultrastructure|NP burgdorfery|NN exposure|NN
+phillips|NP se|NP lh|NP d|NP h|NP
+proposal|NN reliable culture|NN burgdorfery|NN patient|NN chronic lyme|NP disease|NN even previously aggressively treate
+hulinska|NP d|NP p|NP j|NP j|NP basta|NP j|NP j|NP
+electron|NN microscopy|NN langerhan cell|NN borrelia|NN lyme|NP disease|NN patient|NN
+ph|NN yin|NP sr|NP ito|NP y|NP l|NP cox|NP c|NP cho|NP ms|NP fitzgerald|NP w|NP d|NP j|NP l|NP
+invasion|NN human tissue|NN vivo|NN burgdorfery|NN
+j|NP infect
+transformation|NN cystic form|NN burgdorfery|NN normal mobile spirochete|NN
+conversion|NN burgdorfery|NN cystic form|NN spinal fluid|NN transformation|NN mobile spirochete|NN incubation|NN medium|NN
+malovrh t|NP r|NP m|NP
+conversion|NN gariniy cystic form|NN spirochete|NN
+murgia|NP r|NP m|NP
+induction|NN cystic form|NN different stress|NN condition|NN burgdorfery|NN
+vitro study|NN susceptibility|NN mobile cystic form|NN burgdorfery|NN metronidazole|NN
+vitro study|NN susceptibility|NN mobile cystic form|NN burgdorfery|NN tinidazole|NP pdf|NP
+int microbiol|NN
+vitro study|NN susceptibility|NN mobile cystic form|NN burgdorfery|NN
+int microbiol|NN
+liang|NP ft|NP yan|NP j|NP ml|NN sl|NP gilmore|NP rd|NP m|NP e|NP
+burgdorfery change|NN surface|NN antigenic expression|NN response|NN host immune response|NN
+schutzer|NP se|NP coyle|NP reid|NP p|NP holland|NP
+burgdorferi-specific immune complexe|NN acute lyme|NP disease|NN
+coyle|NP pk|NP se|NP al|NP krupp|NP lb|NN mg|NN
+fluid|NN immune complexe|NN patient|NN expose burgdorfery detection|NN borrelia-specific|NN -nonspecific|NN complexe|NN
+schutzer|NP se|NP coyle|NP belman|NP al|NP mg|NP j|NP
+sequestration|NP antibody|NN burgdorfery|NN immune complexe|NN seronegative lyme|NP disease|NN
+lyme|NP disease|NN borrelia|NN case|NN definition|NN
+cdc|NP case|NN definition|NN infectious condition|NN public health|NN surveillance|NN
+cdc|NP connecticut|NP department|NN health|NN attorney|NN general|NN office|NN
+cdcs|NP lyme|NP prevention|NN control|NN activity|NN
+brown|NP sl|NP hansen|NP sl|NP jj|NP
+role|NN serology|NN diagnosis|NN lyme|NP disease|NN
+hofmann|NP h|NP
+lyme|NP borreliosis--problems|NP serological diagnosis|NN
+feder|NP hm|NP jr|NP gerber|NP ma|NP sw|NN ryan|NP rw|NP
+false positive serologic|NN test|NN lyme|NP disease|NN infection|NN
+n|NP engl|NP j|NP med|NP
+woelfle|NP j|NP b|NP f|NP r|NP
+serological test|NN lyme|NP disease|NN facial palsy|NN zoster meningo-encephalitis|NN
+eur|NP j|NP
+mk|NP van|NN den|NN
+virus|NN cytomegalovirus|NN infection|NN cause|NN result|NN igm|NN protocol|NN early lyme|NP
+berardi|NP vp|NP weeks|NP ac|NN
+serodiagnosis|NP early lyme|NP disease|NN analysis|NN igm|NN igg|NN antibody|NN response|NN use antibody-capture enzyme|NN immunoassay|NN
+j|NP infect
+strasfeld|NP l|NP l|NP vp|NP
+serological test|NN result|NN lyme|NP disease|NN patient|NN acute herpe|NN simplex|NN virus|NN type|NN infection|NN
+engstrom|NP sm|NP e|NP johnson|NP rc|NP
+interpretation|NN criteria|NN serodiagnosis|NN early lyme|NP disease|NN pdf|NP
+j|NP clin|NP
+sivak|NP sl|NP j|NP rb|NP wormser|NP gp|NN
+accuracy|NN igm|NN immunoblote confirm clinical diagnosis|NN early lyme|NP disease|NN
+arch|NN med|NP
+coyle|NP pk|NP se|NP deng|NP z|NP krupp|NP lb|NN al|NP benach|NP luft|NP
+detection|NN burgdorferi-specific antigen|NN cerebrospinal fluid|NN neurologic|NP lyme|NP disease|NN
+arthritis|NN headache|NN facial paralysis|NN
+negative laboratory|NN test|NN cause|NN
+mmw med|NP
+f|NP f|NP m|NP
+seronegative|NP lyme|NP disease|NN transitory atrioventricular|NN block|NN
+ann|NP med
+j|NP j|NP m|NP j|NP mk|NP
+antibody|NN whole sonicate borrelia|NN 41-kilodalton|NN protein|NN patient|NN pcr-|NN late lyme|NP pdf|NP
+j|NP clin|NP
+marshall|NP tg|NP marshall|NP fe|NP
+succumb antibiotics--implication autoimmune|NN disease|NN
+autoimmun|NP rev|NP
+cairns|NP v|NP godwin|NP j|NP
+borreliosis syndrome|NN meta-analysis|NN report symptom|NN
+int j|NP
+ms|NP hu|NP lt|NP evans|NP j|NP ch|NN johnson|NP gm|NP trevino|NP rp|NP norton|NP d|NP levy|NP l|NP wall|NP d|NP mccall|NP j|NP m|NP
+control trial|NN antibiotic|NN treatment|NN patient|NN persistent symptom|NN history|NN lyme|NP disease|NN
+n|NP engl|NP j|NP med|NP
+kirsch|NP m|NP ruben|NP fl steere|NN ac|NN ph|NN cw|NP
+fatal adult|NN respiratory distress|NN syndrome|NN patient|NN lyme|NP disease|NN
+oksi|NP j|NP h|NP marttila|NP marjamaki|NP m|NP p|NP j|NP mk|NP
+brain|NN change|NN lyme|NP
+report|NN patient|NN review|NN literature|NN
+waniek|NP c|NP kaufman|NP ma|NP aj|NP
+rapidly progressive frontal-type|NN dementia|NN associate lyme|NP disease|NN
+j|NP neuropsychiatry|NP clin|NP
+cary|NP nr|NP fox|NP b|NP wright|NP dj|NN cutler|NP sj|NP shapiro|NP lm|NP grace|NP aa|NP
+fatal lyme|NP heterotopia|NN atrioventricular node|NN
+med j|NP
+cd|NN de|NP koning|NP j|NP u|NP v|NP koster|NP muller-felber|NP w|NP de|NP duray|NP ph|NN
+burgdorfery|NN report|NN patient|NN
+international lyme|NP associate disease|NN society|NN
+infectious disease|NN society|NN america|NP
+taylor|NP r|NP simpson|NP
+review|NN treatment|NN option|NN borreliosis|NN
+pavia|NP c|NP
+current novel therapy|NN lyme|NP disease|NN
+expert|NN drug|NN
+lubke|NP ll|NP cf
+antimicrobial agent|NN exhibit|NN powerful inhibitory effect|NN lyme|NP disease|NN
+clin jul25|NN
+heal|NN lyme|NP
+randolph|NP vt|NP raven|NP press|NN
+isbn|NP 0-9708696-3-0|NP
+bradford|NP rw|NP allen|NP hw|NP
+lyme|NP disease|NN potential plague|NN century|NN
+townsend|NP letter|NN jan|NP
+murray|NP t|NP h|NP
+management|NN tick|NN bite|NN early lyme|NP disease|NN survey|NN connecticut|NP physician|NN
+wormser|NP g|NP
+clinical practice|NN
+early lyme|NP disease|NN
+n|NP engl|NP j|NP med|NP
+stricker|NP rb|NP burrascano|NP jj|NP
+lyme|NP disease|NN quest|NN magic bullet|NN
+phillips|NP se|NP harris|NP ns|NP horowitz|NP r|NP johnson|NP l|NP rb|NP
+lyme|NP disease|NN scratch surface|NN
+phillips|NP s|NP r|NP v|NP brand|NP s|NP smith|NP h|NP dickson|NP k|NP stricker|NP r|NP
+evaluation|NN antibiotic|NN treatment|NN patient|NN persistent symptom|NN lyme|NP disease|NN ilad position|NN paper|NN pdf|NP
+international lyme|NP associate disease|NN society|NN
+harvey|NP wt|NN p|NP
+lyme|NP disease|NN ancient engine|NN unrecognize pandemic
+med hypothese|NN
+ziska|NP mh|NP st|NP fc|NP
+physician|NN preference|NN diagnosis|NN treatment|NN lyme|NP disease|NN united|NP states|NP
+eppes|NP klein|NP jd|NP gm|NP rose|NP cd|NN
+physician|NN belief|NN attitude|NN approache|NN lyme|NP disease|NN endemic area|NN
+new|NP lyme|NP disease|NN guideline|NN spark|NN
+department|NN health|NN human service|NN
+g|NP r|NP shapiro|NP e|NP j|NP klempner|NP m|NP krause|NP p|NP j|NP f|NP g|NP l|NP fish|NP d|NP j|NP r|NP
+clinical assessment|NN treatment|NN prevention|NN disease|NN human granulocytic|NN clinical practice|NN guideline|NN infectious disease|NN society|NN america|NP
+demand|NN new|NP guideline|NN treatment|NN lyme|NP disease|NN
+press|NN release|NN
+lyme|NP disease|NN association|NN
+new idsa|NN guideline|NN doctor|NN use clinical discretion|NN diagnosing|NP lyme|NP disease|NN
+press|NN release|NN
+hamilton|NP elizabeth|NP
+lyme|NP disease|NN guideline|NN focus|NN probe|NN hartford|NP courant|NP
+ilad international lyme|NP associate disease|NN society|NN
+mission|NN statement|NN
+idsa infectious disease|NN society|NN america|NP
+mission|NN statement|NN
+stricker|NP raphael|NP b|NP
+medical revisionist|NN effective lyme|NP treatment|NN hartford|NP courant|NP p|NN
+patel|NP r|NP k|NP edwards|NP w|NP wright|NP n|NP
+death|NN inappropriate therapy|NN lyme|NP disease|NN
+fallon|NP ba|NP j|NP heertum rv mann|NP jj|NP
+regional cerebral blood|NN flow|NN cognitive deficit|NN chronic lyme disease|NN pdf|NP
+j|NP neuropsychiatry|NP clin|NP
+kaplan|NP rf|NP meadows|NP vincent|NP lc|NP el|NP steere|NP ac|NN
+memory|NN impairment|NN depression|NN patient|NN lyme|NP encephalopathy|NN comparison|NN fibromyalgia|NN depress patient|NN
+logigian|NP el|NP kaplan|NP rf|NP ac|NN
+chronic neurologic|NN manifestation|NN lyme|NP disease|NN
+n|NP engl|NP j|NP med|NP
+fallon|NP ba|NP jm|NP nields|NP ja|NP
+underdiagnosis|NN neuropsychiatric|NP lyme|NP disease|NN children|NN adult|NN
+clin north|NN
+ll|NP sm|NP wand|NP pj|NP rf|NP
+comparison|NN test|NN result|NN detection|NN lyme|NP disease|NN participant|NN wisconsin|NP state|NN laboratory|NN hygienecollege|NN american pathologist|NN test|NN program|NN pdf|NP
+j|NP clin|NP
+bakken|NP ll|NP case|NN kl|NP callister|NP sm|NP nj|NP rf|NP
+performance|NN laboratory|NN participate proficiency|NN test|NN program|NN lyme|NP disease|NN
+bacon|NP rm|NP schriefer gilmore|NP rd|NP jr|NP mt|NP steere|NP ac|NN gp|NN marques|NP johnson|NP
+serodiagnosis|NP lyme|NP disease|NN kinetic immunosorbent assay|NN use recombinant vlse1|NN peptide|NN antigen|NN burgdorfery|NN compare test|NN use lysate|NN
+j|NP infect
+dressler|NP f|NP ja|NP reinhardt|NP bn|NP ac|NN
+western blote|NN serodiagnosis|NN lyme|NP disease|NN
+j|NP infect
+ma|NP b|NP b|NP d|NP c|NP
+serodiagnosis|NP lyme|NP western immunoblot reactivity|NN various significant antibody|NN borrelia|NP burgdorferi|NP pdf|NP
+j|NP clin|NP
+list|NN borrelia|NN strain|NN database|NN june|NP
+art|NN link|NN lyme|NP disease|NN
+kaiser|NP r|NP
+serology|NN patient|NN neuroborreliosis|NN value|NN employ different borrelial|NN strain|NN serological assay|NN pdf|NP
+j|NP med|NP
+hauser|NP u|NP b|NP
+immunosorbent assay|NN recombinant internal flagellin|NN fragment|NN derive different specy|NN borrelia|NN lato|NN serodiagnosis|NN lyme|NP
+med microbiol|NN
+ac|NN taylor|NP e|NP mchugh|NP gl|NP el|NP
+overdiagnosis|NN lyme|NP disease|NN
+burrascano|NP jj|NP
+overdiagnosis|NN lyme|NP disease|NN comment|NN
+brenner|NP c|NP gabriel|NP mc|NN js|NP
+response|NN overdiagnosis|NN lyme|NP disease|NN
+lymenet newsletter|NN
+fallon|NP ba|NP ja|NP jj|NP k|NP d|NP
+neuropsychiatric manifestation|NN lyme|NP
+sherr|NP vt|NP
+panic|NN attack|NN reveal previously unsuspect chronic disseminate lyme|NN disease|NN
+j|NP psychiatr|NP
+bransfield|NP r|NP brand|NP s|NP
+treatment|NN patient|NN persistent symptom|NN history|NN lyme|NP disease|NN
+n|NP engl|NP j|NP med|NP
+donta|NP st|NP
+treatment|NN patient|NN persistent symptom|NN history|NN lyme|NP disease|NN
+n|NP engl|NP j|NP med|NP
+weinstein klempner ms|NN
+treatment|NN patient|NN persistent symptom|NN history|NN lyme|NP disease|NN author|NN reply|NN
+n|NP engl|NP j|NP med|NP
+priem|NP s|NP gr|NP t|NP k|NP mg|NP krause|NP
+detection|NN burgdorfery|NN polymerase|NN chain|NN reaction|NN synovial membrane|NN synovial fluid|NN patient|NN persist lyme|NP arthritis|NN antibiotic|NN therapy|NN
+ann|NP rheum
+honegr|NP k|NP d|NP j|NP v|NP j|NP
+long term|NN repeate electron|NN microscopy|NN pcr|NP detection|NN burgdorfery|NN lato|NN antibiotic|NN treatment|NN
+cent j|NP public health|NN
+cameron|NP d|NP
+generalizability clinical trial|NN lyme|NP disease|NN
+krupp|NP lb|NN hyman|NP lg|NP r|NP coyle|NP melville|NP p|NP s|NP r|NP chandler|NP
+study|NN treatment|NN post|NN lyme|NP disease|NN randomize double mask clinical trial|NN
+fallon|NP ba|NP
+laboratory|NN find|NN chronic lyme|NP disease|NN result|NN control treatment|NN study|NN
+columbia|NP conference|NN lyme|NP tick-borne|NN disease|NN technology|NN lead way|NN rye|NP ny|NP october|NP
+lyme|NP disease|NN association|NN
+intensive treatment|NN help people|NN chronic lyme|NP disease|NN report|NN nih-funded|NP columbia|NP study|NN chronic neurologic|NN lyme|NP disease|NN
+press|NN release|NN
+intensive treatment|NN help people|NN lyme|NP disease|NN press|NN release|NN
+donta|NP st|NP
+therapy|NN chronic lyme|NP disease|NN
+med scy|NN
+donta|NP st|NP
+therapy|NN chronic lyme|NP disease|NN
+clin suppl|NN
+wahlberg|NP p|NP h|NP d|NP j|NP
+treatment|NN late lyme|NP
+oksi|NP j|NP j|NP mk|NP
+comparison|NN oral cefixime|NN intravenous ceftriaxone|NN follow oral amoxicillin|NN disseminate lyme|NP
+eur|NP j|NP microbiol|NN
+fallon|NP ba|NP f|NP l|NP k|NP j|NP weiss|NP n|NP m|NP
+repeate antibiotic|NN treatment|NN chronic lyme|NP disease|NN
+j|NP spirochet|NP
+protect property|NN tick|NN university|NN maryland|NP medical center|NN
+duffy|NP dc|NP r|NP brinkley|NP c|NP june|NP
+effectiveness|NN guineafowl|NN control|NN deer|NN tick vector|NN lyme|NP disease|NN pdf|NP
+wilson|NP bulletin|NN
+concern|NN lyme|NP vaccine|NN controversy|NN
+prophylaxis|NN tick|NN bite|NN prevention|NN lyme|NP disease|NN annotate bibliography|NN
+logiudice|NP k|NP r|NP schmidt|NP k|NP f|NP
+ecology|NN infectious disease|NN effect|NN host|NN diversity|NN community|NN composition|NN lyme|NP disease|NN risk|NN
+natl acad|NN
+patz|NP j|NP p|NP tabor|NP g|NP aguirre|NP pearl|NP m|NP epstein|NP j|NP wolfe|NP n|NP kilpatrick|NP j|NP molyneux|NP d|NP bradley|NP d|NP
+landscape|NN policy|NN recommendation|NN land|NN use|NN change|NN infectious disease|NN emergence|NN
+khasnis nettleman m|NN
+global warm|NN infectious disease|NN
+arch|NN med re|NN
+perkins|NP s|NP tagliapietra v|NP hudson|NP p|NP
+deer|NN absence|NN lead tick amplification|NN
+edit external link|NN cdc|NP lyme|NP disease|NN page|NN american lyme|NP disease|NN foundation|NN lyme|NP disease|NN foundation|NN lyme|NP disease|NN association|NN canadian|NN lyme|NP disease|NN foundation|NN link|NN picture|NN lyme|NP disease|NN iowa|NP columbia|NP university|NN overview|NN neuropsychiatric|NP lyme|NP disease|NN pasteur|NN institute|NN molecular biology|NN home|NN page|NN lyme|NP disease|NN medical literature|NN summary|NN questionable diagnosis|NN treatment|NN lyme|NP lyme|NP disease|NN research|NN database|NN greater|NP hartford|NP lyme|NP disease|NN support|NN action|NN group|NN time|NN lyme|NP international lyme|NP associate disease|NN society|NN lyme|NP disease|NN network|NN lyme|NP disease|NN action|NN netherlands|NP lyme|NP disease|NN epidemic|NN average|NN people|NN retrieve|NN
+art7thtml text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

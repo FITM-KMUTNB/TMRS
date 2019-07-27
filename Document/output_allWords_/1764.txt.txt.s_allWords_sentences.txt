@@ -1,0 +1,338 @@
+multiple sclerosis|NN multiple sclerosis|NN multiple sclerosis|NN external resource|NN mry image|NN show bright spot|NN multiple sclerosis|NN damage myelin|NN brain|NN
+omim 126200|NN multiple sclerosis|NN abbreviate ms|NN known disseminate sclerosis|NN disseminata|NN chronic inflammatory disease|NN affect central nervous system|NN cns|NP
+ms|NN cause variety|NN symptom|NN change|NN sensation|NN visual problem|NN muscle|NN weakness|NN depression|NN difficulty|NN coordination|NN speech|NN severe fatigue|NN pain|NN
+patient|NN largely unaffect disease|NN ms|NN cause impair mobility|NN disability|NN severe case|NN
+multiple sclerosis|NN affect neuron|NN cell|NN brain|NN spinal cord|NN carry information|NN create thought|NN perception|NN allow brain|NN control body|NN
+surround protect neuron|NN fatty layer|NN known myelin|NN sheath|NN help neuron|NN carry electrical signal|NN
+ms|NN cause gradual destruction|NN myelin|NN transection|NN neuron|NN axon|NN patche|NN brain|NN spinal cord|NN
+name|NN multiple sclerosis|NN refer multiple scar|NN sclerose|NN myelin|NN sheath|NN
+scare|NN cause symptom|NN vary widely signal|NN interrupt
+predominant theory|NN today ms|NN result|NN attack|NN individual|NN immune system|NN nervous system|NN therefore usually categorize autoimmune|NN disease|NN
+minority|NN view|NN ms|NN autoimmune|NN disease|NN metabolically dependent neurodegenerative|NN disease|NN
+multiple sclerosis|NN take different form|NN new symptom|NN occure discrete attack|NN slowly accru time|NN
+attack|NN symptom|NN resolve completely permanent neurologic|NN problem|NN persist
+known ms|NN cause|NN damage exact cause|NN remain unknown
+ms|NN currently cure|NN treatment|NN available slow appearance|NN new symptom|NN
+ms|NN primarily affect adult|NN age|NN onset|NN typically year|NN common women|NN men|NN content|NN common symptom|NN diagnosis|NN disease|NN course|NN clinical subtype|NN factor|NN trigger relapse|NN multiple sclerosis|NN cause|NN damage|NN research|NN multiple sclerosis|NN occur environmental genetic treatment|NN epidemiology|NN history|NN multiple sclerosis|NN film|NN television|NN see reference|NN further read|NN external link|NN edit common symptom|NN ms|NN cause variety|NN symptom|NN change|NN sensation|NN visual problem|NN muscle|NN weakness|NN depression|NN difficulty|NN coordination|NN speech|NN severe fatigue|NN pain|NN
+initial attack|NN transient mild asymptomatic self-limit
+prompt health|NN care|NN visit|NN sometime identify retrospect|NN diagnosis|NN made base further attack|NN
+common initial symptom|NN report change|NN sensation|NN arm|NN leg|NN face|NN complete partial vision|NN loss|NN optic|NN weakness|NN double vision|NN unsteadiness|NN walk balance|NN problem|NN
+percent|NN individual|NN multiple symptom|NN seek medical attention|NN people|NN find initial ms|NN symptom|NN occur period|NN hour|NN week|NN
+people|NN initial ms|NN attack|NN precede infection|NN trauma|NN strenuous physical effort|NN
+symptom|NN physical find|NN common multiple sclerosis|NN flicker eye|NN movement|NN speech|NN difficulty|NN tremor|NN clumsiness|NN hand|NN abnormal muscle|NN spasm|NN bladder|NN bowel|NN difficulty|NN
+cognitive impairment|NN common difficulty|NN perform multiple task|NN difficulty|NN detail instruction|NN loss|NN short term|NN memory|NN emotional instability|NN fatigue|NN
+emotional symptom|NN common normal response|NN debilitate disease|NN result|NN damage|NN nerve|NN generate control|NN emotion|NN
+common condition|NN clinical depression|NN product|NN cause|NN
+feel|NN anger|NN anxiety|NN frustration|NN hopelessness|NN common suicide|NN real threat|NN
+people|NN ms|NN experience range|NN acute chronic pain|NN syndrome|NN
+clinical entity|NN warrant further discussion|NN affect individual|NN eventually diagnose ms|NN
+ms|NN potential cause|NN entity|NN
+neuritis individual|NN typically experience rapid onset|NN pain|NN eye|NN follow blurry vision|NN part|NN visual field|NN eye|NN
+result|NN involvement|NN optic|NN nerve|NN ms|NN
+patient|NN depend population|NN study optic|NN go develop ms|NN
+blure vision|NN usually resolve month|NN individual|NN left vivid color|NN vision|NN especially red affect eye|NN
+ophthalmoplegia individual|NN usually notice binocular double vision|NN eye|NN open look side|NN
+ophthalmoplegia|NN occur ms|NN affect part|NN brain|NN stem|NN call medial longitudinal fasciculus|NN responsible communication|NN eye|NN
+result|NN failure|NN medial rectus|NN muscle|NN contract|NN appropriately eye|NN move equally call gaze|NN
+myelitis individual|NN typically develop rapid onset|NN numbness|NN weakness|NN bowel|NN bladder|NN dysfunction|NN loss|NN muscle|NN function|NN typically lower half|NN body|NN
+result|NN ms|NN attack spinal cord|NN
+individual|NN transverse myelitis|NN left last disability|NN even usually improvement|NN year|NN
+edit|NN diagnosis|NN multiple sclerosis|NN difficult diagnose early stage|NN
+fact|NN definite diagnosis|NN ms|NN made evidence|NN anatomically separate demyelinate|NN event|NN occure day|NN
+mcdonald|NP criteria|NN represent international effort|NN standardize diagnosis|NN ms|NN use clinical data|NN laboratory|NN data|NN data|NN clinical data|NN alone sufficient diagnosis|NN ms|NN
+individual|NN suffer separate episode|NN neurologic symptom|NN characteristic|NN ms|NN individual|NN consistent abnormality|NN physical examination|NN diagnosis|NN ms|NN made further test|NN
+people|NN ms|NN seek medical attention|NN attack|NN test|NN hasten diagnosis|NN allow earlier initiation|NN therapy|NN
+magnetic resonance|NN image|NN mry|NN brain|NN spine|NN use evaluate individual|NN suspect ms|NN
+mri|NP show area|NN demyelination|NN bright lesion|NN t2-weight image|NN fluid|NN attenuate inversion|NN recovery|NN sequence|NN
+contrast|NN use demonstrate active plaque|NN t1-weight image|NN
+mry|NN reveal lesion|NN occure previously produce clinical symptom|NN provide evidence|NN chronicity|NN need definite diagnosis|NN ms|NN
+test|NN cerebrospinal fluid|NN csf|NP provide evidence|NN chronic inflammation|NN central nervous system|NN
+csf|NP test oligoclonal band|NN immunoglobulin|NN found people|NN definite ms|NN found people|NN disease|NN combine mry|NN clinical data|NN presence|NN oligoclonal band|NN help make definite diagnosis|NN ms|NN
+puncture|NN procedure|NN use collect sample|NN csf|NP
+brain|NN person|NN ms|NN respond actively stimulation|NN optic|NN nerve|NN sensory nerve|NN
+brain|NN response|NN examine use visual evoke potential|NN evoke potential|NN
+activity|NN test|NN reveal otherwise asymptomatic
+data|NN exam|NN help find widespread nerve|NN involvement|NN require definite diagnosis|NN ms|NN test|NN become important future|NN measurement|NN antibody|NN myelin|NN protein|NN myelin|NN oligodendrocyte|NN glycoprotein|NN myelin|NN basic protein|NN
+establish role|NN test|NN diagnose ms|NN
+sign|NN symptom|NN ms|NN similar medical problem|NN optica stroke|NN brain|NN inflammation|NN infection|NN lyme|NP disease|NN produce identical mry lesion|NN csf|NP abnormality|NN autoimmune|NN problem|NN
+additional test|NN need help distinguish ms|NN problem|NN
+edit|NN disease|NN course|NN clinical subtype|NN graph|NN represent different type|NN multiple sclerosis|NN course|NN ms|NN difficult predict disease|NN time|NN lie dormant progress|NN steadily
+subtype|NN pattern|NN progression|NN describe
+use past course|NN disease|NN attempt|NN predict future course|NN
+person|NN diagnose particular subtype|NN unclear reason|NN switch|NN subtype|NN time|NN
+important prognosis|NN therapeutic decision|NN
+united|NP states|NP national multiple sclerosis|NN society|NN standardize follow subtype|NN definition|NN describe initial course|NN individual|NN ms|NN
+subtype|NN characterize unpredictable attack|NN relapse|NN follow period|NN month|NN year|NN relative quiet remission|NN new sign|NN disease|NN activity|NN
+suffer attack|NN resolve permanent
+deficit|NN alway resolve attack|NN refer benign ms|NN
+secondary progressive secondary progressive|NN describe initial relapsing-remit ms|NN begin decline|NN acute attack|NN definite period|NN remission|NN
+decline|NN include new neurologic|NN symptom|NN worsen cognitive function|NN deficit|NN
+secondary progressive|NN common type|NN ms|NN cause greatest amount|NN disability|NN
+primary progressive primary progressive|NN describe approximately individual|NN remission|NN initial ms|NN symptom|NN
+decline|NN occur continuously clear attack|NN
+primary progressive subtype|NN tend affect people|NN older disease|NN onset|NN
+progressive relapse progressive relapse|NN describe individual|NN onset|NN ms|NN steady neurologic|NN decline|NN suffer superimpose attack|NN
+edit|NN factor|NN trigger relapse|NN multiple sclerosis|NN relapse|NN unpredictable occur warn|NN obvious incit factor|NN
+attack|NN precede common trigger|NN
+general relapse|NN occur frequently spring|NN summer|NN autumn|NN winter|NN
+infection common cold influenza|NN gastroenteritis|NN increase|NN risk|NN relapse|NN
+emotional physical stress|NN trigger attack|NN severe illness|NN kind|NN
+statistically good evidence|NN trauma|NN surgery|NN trigger|NN relapse|NN
+people|NN ms|NN participate sport|NN probably avoid extremely strenuous exertion|NN marathon|NN run|NN
+heat|NN transiently increase symptom|NN known phenomenon|NN
+people|NN ms|NN avoid sauna|NN even hot shower|NN
+heat|NN establish trigger|NN relapse|NN
+pregnancy|NN directly affect susceptibility|NN relapse|NN
+month|NN pregnancy|NN offer|NN natural protection|NN relapse|NN
+month|NN delivery|NN risk|NN relapse|NN increase
+pregnancy|NN seem influence long-term disability|NN
+children|NN born mother|NN ms|NN increase risk|NN birth|NN defect|NN problem|NN potential trigger|NN examine found influence relapse|NN rate|NN ms|NN
+vaccination|NN safe trigger relapse|NN therefore recommend people|NN ms|NN
+evidence|NN hepatitis|NN b|NP varicella|NP tetanus|NN bacille|NN bcg|NP immunization|NN tuberculosis|NN increase risk|NN relapse|NN edit|NN known multiple sclerosis|NN cause|NN damage reason|NN multiple sclerosis|NN occur known
+edit multiple sclerosis|NN cause|NN damage|NN multiple sclerosis|NN disease|NN myelin|NN surround nerve|NN cell|NN degenerate
+fatty substance|NN cover axon|NN nerve|NN cell|NN important proper nerve|NN conduction|NN
+view|NN researcher|NN special subset|NN lymphocyte|NN call cell|NN play key role|NN development|NN ms|NN
+normal circumstance|NN lymphocyte|NN distinguish self|NN non-self|NN
+person|NN ms|NN cell|NN recognize healthy part|NN central nervous system|NN foreign attack|NN invade virus|NN trigger inflammatory process|NN stimulate immune cell|NN soluble factor|NN cytokine|NN antibody|NN
+normally tight barrier|NN blood|NN brain|NN call blood-brain barrier|NN built endothelial cell|NN line blood|NN vessel|NN wall|NN
+theory|NN inflammatory process|NN trigger t|NP cell|NN create leak|NN blood-brain barrier|NN
+leak|NN turn|NN cause|NN number|NN damage effect|NN swell activation|NN macrophage|NN activation|NN cytokine|NN destructive protein|NN matrix|NN
+final result|NN destruction|NN myelin|NN call
+repair|NN process|NN call play important role|NN ms|NN
+reason|NN especially early phase|NN disease|NN symptom|NN tend decrease|NN disappear temporarily
+nevertheless nerve|NN damage|NN irreversible loss|NN neuron|NN occur early ms|NN
+proton|NP magnetic resonance|NN spectroscopy|NN show widespread neuronal loss|NN even onset|NN ms|NN largely unrelate inflammation|NN brain|NN able compensate damage|NN due ability|NN call
+ms|NN symptom|NN develop cumulative result|NN multiple lesion|NN brain|NN spinal cord|NN
+symptom|NN vary greatly different individual|NN depend lesion|NN occur
+oligodendrocyte|NN originally form myelin|NN sheath|NN completely rebuild destroy myelin|NN sheath|NN
+brain|NN recruit stem|NN cell|NN migrate unknown region|NN brain|NN differentiate mature oligodendrocyte|NN rebuild myelin|NN sheath|NN
+new myelin|NN sheath|NN effective original
+repeate attack|NN lead successively effective remyelination|NN scar-like plaque|NN built damage axon|NN
+laboratory|NN condition|NN stem|NN cell|NN quite capable differentiate remyelinate axon|NN therefore suspect inflammatory condition|NN damage|NN somehow inhibit stem|NN cell|NN differentiation|NN body|NN
+edit research|NN recently data|NN available came post-mortem|NN brain|NN sample|NN animal|NN model|NN disease|NN experimental autoimmune|NN autoimmune|NN disease|NN induce rodent|NN consider possible animal|NN model|NN multiple sclerosis|NN national multiple sclerosis|NN society|NN mayo|NP clinic|NN launch lesion project|NN describe ms|NN lesion|NN accurately possible develop accurate model|NN evolution|NN disease|NN
+use brain|NN biopsy|NN apart post-mortem|NN sample|NN
+different damage|NN pattern|NN identify scar|NN brain|NN tissue|NN mean|NN fact|NN remain controversial
+researcher|NN mean ms|NN heterogeneous disease|NN
+team|NN maintain shape|NN scar|NN change type|NN marker|NN disease|NN action|NN time|NN
+pattern|NN identify pattern|NN scar|NN present|NN macrophage|NN blood|NN vessel|NN preservation|NN oligodendrocyte|NN sign|NN complement|NN system|NN activation|NN pattern|NN scar|NN present|NN macrophage|NN blood|NN vessel|NN preservation|NN oligodendrocyte|NN sign|NN complement|NN system|NN activation|NN found pattern|NN scar|NN diffuse inflammation|NN distal activation|NN
+loss|NN myelin|NN associate glycoprotein|NN
+scar|NN surround blood|NN vessel|NN fact|NN rim|NN preserve myelin|NN appear vessel|NN
+evidence|NN partial remyelinization|NN oligodendrocyte|NN apoptosis|NN
+pattern|NN scar|NN present sharp border|NN oligodendrocyte|NN degeneration|NN rim|NN normal appear white matter|NN
+lack|NN oligodendrocyte|NN center|NN scar|NN
+complement|NN activation|NN loss|NN
+edit multiple sclerosis|NN occur risk|NN factor|NN multiple sclerosis|NN identify definitive cause|NN found
+ms|NN likely occur result|NN combination|NN environmental genetic factor|NN
+various theory|NN try combine known data|NN plausible explanation|NN
+accept autoimmune|NN explanation|NN theory|NN suggest ms|NN appropriate immune response|NN underly condition|NN
+support|NN alternative theory|NN fact|NN present therapy|NN successful expect base autoimmune|NN theory|NN edit|NN environmental popular hypothesis|NN viral infection|NN retroviral reactivation|NN prime susceptible immune system|NN abnormal reaction|NN later life|NN
+molecular level|NN occur structural similarity|NN infectious virus|NN component|NN central nervous system|NN lead eventual confusion|NN immune system|NN
+ms|NN seem common people|NN live farther equator|NN theory|NN propose decrease sunlight|NN exposure|NN possibly decrease vitamin|NN d|NP production|NN help cause|NN ms|NN
+theory|NN bolster recent research|NN biochemistry|NN vitamin|NN show important immune system|NN regulator|NN
+large study|NN harvard|NP school|NN public health|NN report evidence|NN link|NN vitamin|NN d|NP deficiency|NN onset|NN multiple sclerosis|NN
+theory|NN note ms|NN common children|NN sible|NN suggest exposure|NN illness|NN childhood|NN lead|NN immune system|NN prime fight infection|NN likely attack body|NN
+explanation|NN imbalance|NN th1 type|NN helper|NN fight|NN infection|NN th2 type|NN active allergy|NN likely attack body|NN
+theory|NN describe ms|NN immune response|NN chronic infection|NN
+association|NN ms|NN epstein-barr virus|NN suggest potential viral contribution|NN individual|NN believe ms|NN sometime result chronic infection|NN spirochetal bacteria|NN hypothesis|NN support research|NN cystic form|NN isolate cerebrospinal fluid|NN ms|NN patient|NN small study|NN cyst|NN culture propagate|NN emerge
+bacterium|NN implicate ms|NN chlamydophila dna|NN found cerebrospinal fluid|NN ms|NN patient|NN research|NN laboratory|NN study|NN find|NN oligoclonal band|NN ms|NN patient|NN study consist largely antibody|NN chlamydophila antigen|NN finally smoke|NN show independent risk|NN factor|NN develop ms|NN edit|NN genetic ms|NN consider hereditary disease|NN
+increase scientific evidence|NN suggest genetics|NN play role|NN determine person|NN susceptibility|NN ms|NN
+population|NN roma|NP inuit|NN bantus rarely ever get ms|NN
+indigenous people|NN americas|NP asian|NN low incidence|NN rate|NN
+unclear due mostly genetic environmental factor|NN
+population|NN large chance|NN develop ms|NN percent|NN
+person|NN family|NN ms|NN person|NN first-degree children|NN siblingshave percent|NN chance|NN get disease|NN
+identical twin|NN likelihood|NN second|NN twin|NN develop ms|NN twin|NN fraternal twin|NN inherit identical gene|NN pool|NN likelihood|NN closer non-twin sible|NN
+fact|NN rate|NN identical twin|NN develop ms|NN significantly suggest disease|NN entirely genetically control
+definitely effect|NN due share exposure|NN environment|NN fact|NN people|NN ms|NN lesion|NN remain essentially asymptomatic live|NN
+further indication|NN gene|NN involve ms|NN susceptibility|NN come study|NN family|NN member|NN ms|NN
+research|NN team|NN found people|NN ms|NN inherit certain region|NN individual gene|NN frequently people|NN ms|NN
+particular interest|NN human leukocyte|NN antigen|NN hla|NP major histocompatibility|NN complex|NN region|NN chromosome|NN
+genetically determine protein|NN influence immune system|NN
+gene|NN region|NN relate immune system|NN
+hla|NP pattern|NN ms|NN patient|NN tend different people|NN disease|NN
+investigation|NN northern europe|NP america|NP detect hla|NN prevalent people|NN ms|NN general population|NN
+study|NN american ms|NN patient|NN show people|NN ms|NN tend exhibit hla|NN combinationthat|NN hlasmore|NN frequently rest|NN population|NN
+furthermore evidence|NN different combination|NN hla|NN correspond variation|NN disease|NN severity|NN progression|NN
+study|NN family|NN multiple case|NN ms|NN research|NN compare genetic region|NN human|NN mice|NN eae|NN suggest area|NN relate ms|NN susceptibility|NN locate chromosome|NN
+region|NN chromosome|NN identify possibly contain gene|NN involve development|NN ms|NN
+study|NN strengthen theory|NN ms|NN result|NN number|NN factor|NN single gene|NN agent|NN
+development|NN ms|NN likely influence interaction|NN number|NN gene|NN individually modest effect|NN
+additional study|NN need specifically pinpoint gene|NN involve determine function|NN learn gene|NN interaction|NN gene|NN environment|NN make individual susceptible ms|NN
+edit|NN treatment|NN known definitive cure|NN multiple sclerosis|NN
+type|NN therapy|NN proven helpful
+different therapy|NN use patient|NN experience acute attack|NN patient|NN relapsing-remit subtype|NN patient|NN progressive subtype|NN patient|NN diagnosis|NN ms|NN demyelinate event|NN manage various consequence|NN ms|NN attack|NN
+treatment|NN aim return function|NN attack|NN prevent new attack|NN prevent disability|NN
+currently relapsing-remit multiple sclerosis|NN food|NN drug|NN administration|NN treatment|NN treatment|NN
+interferon avonex|NN rebif|NN betaseron|NN europe|NP japan|NP betaferon|NP
+interferon|NN medication|NN derive human cytokine|NN help regulate immune system|NN
+medication|NN acetate|NN mixture|NN polypeptide|NN protect important myelin|NN protein|NN substitute target|NN immune system|NN attack|NN
+medication|NN effective limit cardiac toxicity|NN
+finally medication|NN natalizumab market
+symptomatic attack|NN treate
+patient|NN unit state|NN typically give high dose|NN intravenous corticosteroid|NN methylprednisolone end attack|NN sooner leave last deficit|NN
+currently approve treatment|NN progressive variety|NN medication|NN study describe therapy|NN multiple sclerosis|NN
+edit|NN prognosis|NN expect future|NN course|NN disease|NN person|NN multiple sclerosis|NN depend subtype|NN disease|NN individual|NN sex|NN race|NN age|NN initial symptom|NN degree|NN disability|NN person|NN experience|NN
+life|NN expectancy|NN people|NN ms|NN nearly unaffect people|NN
+due mainly improve method|NN limit disability|NN physical therapy|NN speech|NN therapy|NN successful treatment|NN common complication|NN disability|NN pneumonia|NN urinary tract|NN infection|NN individual|NN progressive subtype|NN ms|NN particularly primary progressive subtype|NN rapid decline|NN function|NN
+primary progressive subtype|NN supportive equipment|NN wheelchair|NN stand|NN frame|NN need year|NN
+initial disease|NN course|NN relapsing-remit subtype|NN average time|NN equipment|NN need year|NN
+mean individual|NN ms|NN need wheelchair|NN
+earlier life|NN ms|NN occur slower disability|NN progress
+individual|NN older diagnose likely experience chronic progressive course|NN rapid progression|NN disability|NN
+diagnose age|NN best prognosis|NN
+female|NN generally better prognosis|NN male|NN
+black individual|NN tend develop ms|NN frequently older time|NN onset|NN worse prognosis|NN
+initial ms|NN symptom|NN visual loss|NN sensory problem|NN numbness|NN tingle|NN marker|NN relatively good prognosis|NN difficulty|NN walk|NN weakness|NN marker|NN relatively poor prognosis|NN
+better outcome|NN associate presence|NN single symptom|NN onset|NN rapid development|NN initial symptom|NN rapid regression|NN initial symptom|NN
+degree|NN disability|NN vary individual|NN ms|NN
+general|NN individual|NN able work year|NN
+percent|NN people|NN diagnose ms|NN second|NN relapse|NN people|NN minimal disability|NN year|NN degree|NN disability|NN year|NN correlate well degree|NN disability|NN year|NN
+mean people|NN ms|NN low disability|NN year|NN get worse year|NN
+note outcome|NN observe use|NN medication|NN interferon|NN delay disease|NN progression|NN year|NN
+currently clinically establish laboratory|NN investigation|NN available predict prognosis|NN response|NN treatment|NN
+promise approache|NN propose
+include measurement|NN antibody|NN oligodendrocyte|NN glycoprotein|NN basic protein|NN measurement|NN trail|NN ligand|NN edit|NN epidemiology|NN world|NN map|NN show risk|NN ms|NN increase|NN greater distance|NN equator|NN northern europe|NP continental north|NN america|NP australasia|NP citizen|NN suffer multiple sclerosis|NN arabian peninsula|NN asia|NP continental south|NN america|NP frequency|NN lower
+sub-saharan africa|NP ms|NN extremely rare
+important exception|NN north-to-south gradient|NN northern hemisphere|NN south-to-north gradient|NN southern hemisphere|NN ms|NN common people|NN live equator|NN
+climate|NN diet|NN toxin|NN sunlight|NN exposure|NN genetic factor|NN infectious disease|NN discuss possible reason|NN regional difference|NN
+environmental factor|NN childhood|NN play important role|NN development|NN ms|NN later life|NN
+idea|NN base study|NN migrant|NN show migration|NN occur age|NN migrant|NN acquire new region|NN susceptibility|NN ms|NN
+migration|NN take place|NN age|NN migrant|NN keep susceptibility|NN home|NN country|NN ms|NN occur mainly caucasian|NN
+twentyfold lower inuit people|NN canada|NP canadian|NN live region|NN
+rare native american tribe|NN north|NP america|NP australian aborigine|NN m|NN
+ori|NP new|NP zealand|NP
+example|NN point|NN genetic background|NN play important role|NN development|NN ms|NN
+observe autoimmune|NN disorder|NN ms|NN common female|NN male|NN mean sex|NN ratio|NN female|NN male|NN
+children|NN rarely develop ms|NN sex|NN ratio|NN reach female|NN male|NN
+people|NN age|NN ms|NN affect male|NN female|NN equally
+onset|NP symptom|NN usually occur year|NN age|NN rarely age|NN age|NN
+previously discuss genetic component|NN ms|NN
+average|NN sible|NN individual|NN ms|NN develop ms|NN
+identical twin|NN ms-affect individual|NN develop ms|NN fraternal twin|NN
+parent|NN affect ms|NN child|NN risk|NN develop ms|NN later life|NN edit|NN history|NN french neurologist|NN 182593|NN person|NN recognize multiple sclerosis|NN distinct separate disease|NN
+summarize previous report|NN ad important clinical pathological observation|NN call disease|NN en plaque|NN
+sign|NN ms|NN known triad|NN dysarthria problem|NN speech|NN problem|NN coordination|NN tremor|NN prior robert|NP hooper|NP british pathologist|NN practice physician|NN robert|NP carswell|NP british professor|NN pathology|NN jean|NP cruveilhier|NP french professor|NN anatomy|NN describe illustrate disease|NN clinical detail|NN
+people|NN devic|NN jozsef|NP 1895-1979|NP paul|NP ferdinand|NP 1886-1940|NP otto|NP 1874-1948|NP found special case|NN disease|NN call multiple sclerosis|NN borderline|NN
+author|NN consider different disease|NN ms|NN variant|NN
+case|NN follow special clinical form|NN ms|NN disease|NN known ms|NN optica|NN pathological form|NN concentric sclerosis|NN disease|NN diffuse sclerosis|NN multiple sclerosis|NN known malign fulminant acute ms|NN associate form|NN autoimmune|NN peripheral neuropathy|NN relate disorder|NN acute disseminate encephalomyelitis|NN adem|NN
+historical account|NN people|NN probably ms|NN
+saint|NP lidwina|NP schiedam|NP dutch nun|NN identifiable ms|NN patient|NN
+age|NN death|NN age|NN suffer intermittent pain|NN weakness|NN leg|NN vision|NN typical ms|NN
+augustus|NP frederick|NP deste|NP illegitimate grandson|NN king|NP george|NP great|NP britain|NP certainly suffer ms|NN
+left detail diary|NN describe year|NN live disease|NN
+symptom|NN began age|NN sudden transient visual loss|NN funeral|NN friend|NN
+course|NN disease|NN develop weakness|NN leg|NN clumsiness|NN hand|NN numbness|NN dizziness|NN bladder|NN disturbance|NN dysfunction|NN
+began use wheelchair|NN
+illness|NN kept optimistic view|NN life|NN
+early account|NN ms|NN kept british diarist|NN w|NN
+maintain detail log|NN diagnosis|NN struggle|NN ms|NN
+diary|NN publish journal|NN disappoint man|NN
+edit multiple sclerosis|NN film|NN television|NN german propaganda|NN film|NN wolfgang|NP liebeneiner|NP main character|NN suffer|NN ms|NN wish kill become unable
+duet|NN julie|NP andrews|NP play concert|NN violinist|NN sacrifice career|NN diagnose ms|NN
+american television|NN series|NN west|NN wing|NN fictional united|NP states|NP president|NP josiah|NP jed|NP relapsing-remit subtype|NN ms|NN
+storyline|NN educate viewer|NN nature|NN ms|NN help dispel misconception|NN disease|NN
+american tv|NN series|NN extreme makeover|NN home|NN edition|NN air two-part episode|NN february|NP feature new home|NN carol|NP crawford-smith|NP blacksburg|NP virginia|NP principal dancer|NN dance|NN theatre|NN harlem|NP diagnose ms|NN
+ty|NP pennington|NP team|NN built new home|NN renovate blacksburg dance|NN studio|NN center|NN dance|NN
+british cellist|NN jacqueline|NP du|NP pr|NP dy ms|NN long struggle|NN disease|NN rob capacity|NN perform progressively lost sensitivity|NN finger|NN muscle|NN coordination|NN hear|NN
+decline|NN portray film|NN hilary|NP jackie|NP
+edit see list|NN people|NN multiple sclerosis|NN edit|NN reference|NN
+fmultiple sclerosis|NN apr|NN full text|NN
+padiagnosis|NN management|NN multiple sclerosis|NN
+am|NP physician|NN
+15571060full text|NN
+paty|NP d|NP d|NP k|NP f|NP
+ms|NN computerize patient|NN record|NN adapt clinical research|NN purpose|NN
+ann|NP neurol|NP suppls134-5|NP
+mcdonald|NP wi|NP edan|NP g|NP d|NP hartung|NP hp|NN lublin|NN hf|NP dw|NP ch|NN m|NP sibley|NP w|NP thompson|NP van|NN den|NN s|NP wolinsky|NP js|NP
+recommend diagnostic criteria|NN multiple sclerosis|NN guideline|NN international panel|NN diagnosis|NN multiple sclerosis|NN
+rudick|NP ra|NP whitaker|NP jn|NP
+fluid|NN test|NN multiple sclerosis|NN
+scheinberg|NP p|NP ed|NP
+update|NN series|NN vol|NN
+princeton|NP nj|NP
+gronseth|NP gs|NP ej|NP
+practice|NN parameter|NN usefulness|NN evoke potential|NN identify clinically silent lesion|NN patient|NN suspect multiple sclerosis|NN evidence-base review|NN report|NN quality|NN standard|NN subcommittee|NN american academy|NN
+garcia-monco|NP jc|NP miro|NP j|NP fernandez|NP b|NP guerrero|NN berciano|NP ja|NP
+multiple sclerosis|NN lyme|NP disease|NN
+diagnosis|NN problem|NN exclusion|NN med clin|NN
+hansen|NP k|NP cruz|NP m|NP link|NN h|NP
+borrelia|NN igg|NN antibody|NN cerebrospinal fluid|NN lyme|NP
+j|NP infect jun16161194-202|NN
+schluesener|NP hj|NP martin|NP r|NP v|NP
+autoimmunity lyme|NP disease|NN molecular clone|NN antigen|NN recognize antibody|NN cerebrospinal fluid|NN
+kohler|NP j|NP kern|NP u|NP j|NP b|NP u|NP
+chronic central nervous system|NN involvement|NN lyme|NP borreliosis|NP
+define clinical course|NN multiple sclerosis|NN result|NN international survey|NN
+national multiple sclerosis|NN society|NN usa|NP advisory committee|NN clinical trial|NN new agent|NN multiple sclerosis|NN
+worthington|NP j|NP jones|NP r|NP crawford|NP m|NP
+pregnancy|NN multiple 3-year prospective study|NN
+confavreux|NP c|NP s|NP p|NP v|NP s|NP
+risk|NN relapse|NN multiple sclerosis|NN
+vaccine|NN multiple sclerosis|NN study|NN group|NN
+n|NP engl|NP j|NP med|NP feb|NP
+fillipi|NP m|NP m|NP m|NP et|NP al|NP
+evidence|NN widespread axonal damage|NN earliest clinical stage|NN multiple sclerosis|NN brain|NN
+experimental autoimmune|NN
+multiple sclerosis|NN
+ms|NN project|NN ms|NN disease|NN
+national multiple sclerosis|NN society|NN december|NP
+lucchinetti|NP c|NP
+bruck|NP w|NP
+parisi|NP j|NP
+scherhauer|NP b|NP
+rodriguez|NP m|NP
+hheterogeneity|NN multiple sclerosis|NN lesion|NN implication|NN pathogenesis|NN demyelination|NP ann|NP
+wilner|NP andrew|NP august|NP
+unravel mystery|NN ms|NN lesion|NN clue|NN therapeutic hint|NN
+holmes|NP nick|NP november|NP
+part|NN pathology|NN lecture|NN complement system|NN
+lucchinetti|NP claudia|NP wolfgang|NP joseph|NP bernd|NP moses|NP rodriguez|NP hans|NP december|NP
+quantitative analysis|NN oligodendrocyte|NN multiple sclerosis|NN lesion|NN study|NN case|NN
+peter|NP behan|NP abhijit|NP
+pathogenesis|NN multiple sclerosis|NN revisit
+j|NP r|NP coll|NP physician|NN
+chaudhury|NN peter|NP behan|NP
+multiple sclerosis|NN autoimmune disease|NN
+archive|NN 1610-2|NN
+chaudhury|NN peter|NP behan|NP
+evaluate evidence|NN multiple sclerosis|NN autoimmune|NN reply|NN
+archive|NN 688-9|NN
+van|NP der|NP mei|NP ia|NP ponsonby|NP al|NP dwyer|NP t|NP et|NP al|NP
+past exposure|NN sun|NN skin|NN phenotype|NN risk|NN multiple sclerosis|NN case-control study|NN
+munger|NP kl|NP levin|NP bw|NP howard|NP ns|NP
+high level|NN vitamin|NN body|NN decrease risk|NN multiple sclerosis|NN
+journal|NN american medical association|NN
+levin|NP li|NP kl|NP mv|NP peck|NP ca|NP et|NP d|NP
+temporal relationship|NN elevation|NN virus|NN antibody|NN initial onset|NN neurological symptom|NN multiple sclerosis|NN
+pr|NP r|NP association|NN multiple sclerosis|NN cystic structure|NN cerebrospinal fluid|NN
+yao|NP sy|NP stratton|NP cw|NP mitchell|NP wm|NP s|NP csf|NP band|NN ms|NN include antibody|NN chlamydophila antigen|NN
+franklin|NP gm|NP nelson|NP l|NP
+environmental risk|NN factor|NN multiple sclerosis|NN cause|NN trigger|NN patient|NN autonomy|NN
+weinshenker|NP bg|NP
+natural history|NN multiple sclerosis|NN
+ann|NP neurol|NP suppls6-11|NP
+pittock|NP sj|NP mcclelland|NP rl|NP wt|NN nw|NN bg|NP j|NP rodriguez|NP m|NP
+clinical implication|NN benign multiple sclerosis|NN 20-year population-base|NN follow-up|NN study|NN ann|NP
+berger|NP t|NP p|NP f|NP egg|NN r|NP ulmer|NP h|NP dilitz e|NP f|NP m|NP
+antibody|NN predictor|NN clinically definite multiple sclerosis|NN demyelinate|NN event|NN
+n|NP engl|NP j|NP med|NP jul|NP
+epidemiology|NN multiple sclerosis|NN personal review|NN
+marrie|NP ra|NP
+environmental risk|NN factor|NN multiple sclerosis|NN aetiology|NN
+lancet|NN dec312709-18|NN
+ad|NN gc|NP da|NP risch|NP nj|NP
+evidence|NN genetic basis|NN multiple sclerosis|NN
+canadian collaborative study|NN group|NN
+charcot|NP j|NP
+histologie|NP de|NP la|NP en plaque|NN
+gazette|NN des|NP hopitaux|NP paris|NP
+borderline|NN form|NN ms|NP fontaine|NP b|NP federation|NN de|NP neurologie|NP u546|NP groupe|NP faculte|NP de|NP pitie-salpetriere|NP paris|NP edit|NN further read patient|NN journey|NN multiple sclerosis|NN m|NP drlicek m|NP
+patient|NN journey|NN multiple sclerosis|NN
+bmj|NP apr|NN
+edit external link|NN resource|NN nih|NN list|NN clinical trial|NN relate ms|NN multiple sclerosis|NN medlineplus|NN provide link|NN new|NN general site|NN treatment|NN alternative therapy|NN clinical trial|NN cope illness|NN legal aspect|NN organization|NN
+link|NN pre-formulate searche|NN medlinepubm|NN recent research|NN article|NN
+abstract index|NN cochrane|NP library|NN multiple sclerosis|NN video|NN people|NN multiple sclerosis|NN share experience|NN live ms|NN organization|NN national multiple sclerosis|NN society|NN united|NP states|NP multiple sclerosis|NN society|NN united|NP kingdom|NP multiple sclerosis|NN society|NN canada|NP multiple sclerosis|NN society|NN australia|NP multiple sclerosis|NN society|NN ireland|NP multiple sclerosis|NN society|NN new|NP zealand|NP multiple sclerosis|NN south|NP africa|NP
+artadthtml text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

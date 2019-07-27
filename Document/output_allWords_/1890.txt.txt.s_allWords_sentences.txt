@@ -1,0 +1,173 @@
+disease|NN disease|NN classification|NN external resource|NN red blood|NN cell|NN
+2826 omim|NN medlineplus|NN emerg26|NN sickle-cel disease|NN general term|NN group|NN genetic disorder|NN cause sickle|NN s|NP hb|NP s|NP
+form|NN disease|NN red blood|NN cell|NN change|NN shape|NN usually look banana|NN deoxygenation|NN polymerization|NN abnormal sickle|NN haemoglobin|NN
+process|NN damage red blood|NN cell|NN membrane|NN cause cell|NN become stuck blood|NN vessel|NN
+deprive downstream tissue|NN oxygen|NN cause|NN infarction|NN
+disease|NN chronic lifelong
+individual|NN well live|NN punctuate periodic painful attack|NN
+addition|NN periodic pain|NN damage|NN internal organ|NN stroke|NN
+lifespan|NN shorten sufferer|NN live average|NN year|NN
+disease|NN occur commonly people|NN descendant|NN part|NN world|NN sub-saharan africa|NP malaria|NN common
+disease|NN occur individual|NN color|NN ethnicity|NN
+content|NN type|NN terminology|NN sign|NN symptom|NN crise|NN sickle-cel crise|NN complication|NN diagnosis|NN genetics|NN inheritance|NN example|NN treatment|NN illness|NN painful vaso-occlusive crise|NN acute chest|NN crise|NN future treatment|NN situation|NN carrier|NN history|NN see note|NN reference|NN external link|NN edit type|NN terminology|NN anemia|NN name|NN specific form|NN disease|NN mutation|NN cause s|NP
+form|NN disease|NN include c|NP disease|NN sickle|NN sickle|NN sickle-cel|NN form|NN disease|NN compound|NN heterozygous state|NN person|NN copy|NN mutation|NN cause s|NP copy|NN abnormal haemoglobin|NN gene|NN
+important know anemia|NN proper name|NN specific type|NN disease|NN disease|NN non-specific term|NN
+different form|NN disease|NN quite different sure specify exact form|NN disease|NN question|NN
+edit|NN sign|NN symptom|NN patient|NN sickle|NN cell|NN syptom vary severity|NN typical hemoglobin level|NN gdl|NN
+count|NN elevate reflect new red blood|NN cell|NN replace rapidly destroy older cell|NN red blood|NN cell|NN life|NN span|NN markedly reduce disease|NN
+white blood|NN cell|NN platelet|NN count|NN elevate cell|NN contribute vaso-occlusion
+edit crise|NN vaso-occlusive crisis|NN cause red blood|NN cell|NN obstruct capillary|NN restrict blood|NN flow|NN organ|NN result pain|NN organ|NN damage|NN
+narrow vessel|NN function|NN clear defective red blood|NN cell|NN spleen|NN frequently affect
+usually infarct end|NN childhood|NN individual|NN suffer anemia|NN
+autosplenectomy|NN increase risk|NN infection|NN encapsulate organism|NN preventive antibiotics|NN vaccination|NN recommend asplenia|NN
+liver|NN failure|NN occur time|NN
+bone|NN especially bone|NN common target|NN damage|NN
+damage|NN result patient|NN due bone|NN
+recognize type|NN sickle|NN crisis|NN acute chest|NN crisis|NN condition|NN characterize fever|NN chest|NN pain|NN hard breath|NN pulmonary infiltrate chest|NN x-ray|NN
+pneumonia|NN sickle|NN produce symptom|NN patient|NN treate condition|NN
+treatment|NN consist admission|NN oxygen|NN close monitor|NN intravenous antibiotics|NN
+edit sickle-cel|NN crise|NN crisis|NN
+acute worsen|NN patient|NN baseline|NN produce pallor|NN tachycardia|NN fatigue|NN explosion|NN
+crisis|NN trigger b19|NN directly affect production|NN red blood|NN cell|NN
+red blood|NN cell|NN production|NN switched-off day|NN normal individual|NN little consequence|NN shorten red-cel|NN life|NN sickle-cel patient|NN result|NN abrupt life-threaten situation|NN
+count|NN drop dramatically illness|NN rapid turnover|NN red cell|NN lead drop|NN
+patient|NN manage need|NN blood|NN transfusion|NN
+sequestration|NN crisis|NN
+acute painful enlargement|NN spleen|NN
+abdomen|NN become bloat hard
+management|NN supportive sometime blood|NN transfusion|NN
+edit|NN complication|NN anemia|NN lead various complication|NN crisis|NN otherwise known pain|NN crisis|NN patient|NN sickle|NN cell|NN disease|NN periodic intensely painful episode|NN call crise|NN
+frequency|NN severity|NN duration|NN crise|NN vary tremendously
+painful crise|NN treate hydration|NN analgesics|NN pain|NN management|NN require opioid administration|NN regular interval|NN crisis|NN settle
+milder crise|NN subgroup|NN patient|NN manage nsaids|NP
+severe crise|NN patient|NN require inpatient|NN management|NN intravenous opioid|NN analgesia|NN pca|NN device|NN commonly use set|NN
+effective itch|NN associate opioid use|NN
+incentive|NN technique|NN encourage deep breath|NN minimize development|NN atelectasis|NN recommend
+acute chest|NN syndrome|NN acute chest|NN syndrome|NN life-threaten condition|NN characterize chest|NN pain|NN shortness|NN breath|NN fever|NN pulmonary infiltrate chest|NN x-ray|NN
+trigger pain|NN crisis|NN respiratory infection|NN bone-marrow possibly cause opiate|NN administration|NN surgery|NN
+post-autosplenectomy infection|NN due functional asplenia|NN cause encapsulate organism|NN pneumoniae|NN haemophilus|NN
+daily penicillin|NN prophylaxis|NN commonly use treatment|NN childhood|NN hematologist continue treatment|NN indefinitely
+patient|NN benefit today routine|NN vaccination|NN influenzae|NN
+stroke|NN progressive vascular narrow|NN occlusion|NN prevent oxygen|NN reach brain|NN lead stroke cerebral infarction|NN occur children|NN cerebral hemorrhage|NN adult|NN
+cholecystitis|NN gallstone|NN prolong hemolysis|NN lead excessive bilirubin|NN production|NN precipitation|NN lead gallstone|NN necrosis|NN aseptic bone|NN necrosis|NN hip|NN immune reaction|NN due hyposplenism|NN malfunction|NN spleen|NN infarction|NN penis|NN men|NN bacterial bone|NN infection|NN salmonella|NN note commonly general population|NN common pathogen|NN
+addiction|NN see edit|NN diagnosis|NN attack|NN diagnose clinically ie gold|NN standard|NN diagnostic test|NN
+anemia|NN jaundice|NN present painful crise|NN diagnosis|NN depend essentially patient|NN describe pain|NN
+abnormal hemoglobin|NN form|NN detect electrophoresis|NN form|NN gel|NN electrophoresis|NN various type|NN move|NN vary speed|NN
+sickle|NN cell|NN hemoglobin|NN c|NP sickling|NP common identify
+genetic test|NN rarely perform
+edit sickle-cel anemia|NN cause missense mutation|NN
+chain|NN hemoglobin|NN replace amino|NN acid|NN acid|NN polar amino|NN acid|NN position|NN
+association|NN wild type|NN
+subunit|NN mutant|NN
+subunit|NN form|NN s|NP polymerise low oxygen|NN condition|NN cause distortion|NN red blood|NN cell|NN tendency|NN lose elasticity|NN
+new erythrocyte|NN quite elastic allow cell|NN deform pass capillary|NN
+cycle|NN occur cell|NN sickle|NN cause region|NN low oxygen|NN concentration|NN cause red blood|NN cell|NN sickle|NN
+repeate episode|NN sickle cause|NN loss|NN elasticity|NN cell|NN fail return normal shape|NN oxygen|NN concentration|NN increase|NN
+rigid red blood|NN cell|NN unable flow narrow capillary|NN cause vessel|NN occlusion|NN ischemia|NN
+edit|NN genetics|NN disease|NN inherit autosomal recessive pattern|NN depict
+allele|NN responsible sickle|NN cell|NN anemia|NN autosomal recessive
+person|NN receive defective gene|NN father|NN mother|NN develop disease|NN person|NN receive defective healthy allele|NN remain healthy pass disease|NN known carrier|NN
+parent|NN carrier|NN child|NN 1-in-4 chance|NN child|NN develop illness|NN 1-in-2 chance|NN child|NN carrier|NN
+gene|NN defect|NN known mutation|NN single nucleotide|NN polymorphism|NN snp|NP t|NP
+gene|NN result acid|NN substitute valine|NN position|NN
+hemoglobin|NP s|NP mutation|NN refer oppose normal adult|NN
+genetic disorder|NN due mutation|NN single nucleotide|NN gag|NN codon|NN mutation|NN
+normally benign mutation|NN cause apparent effect|NN secondary tertiary quaternary structure|NN
+allow condition|NN low oxygen|NN concentration|NN polymerization|NN hb|NN
+deoxy form|NN hemoglobin|NN expose hydrophobic patch|NN protein|NN e|NN f|NP helice|NN
+hydrophobic residue|NN valine|NN position|NN beta|NN chain|NN hemoglobin|NN able bind hydrophobic patch|NN cause s|NP molecule|NN aggregate|NN form|NN fibrous precipitate|NN
+people|NN heterozygous hb carrier|NN sickle|NN polymerization|NN problem|NN minor
+people|NN homozygous presence|NN long chain|NN polymer|NN hb|NN distort shape|NN red blood|NN cell|NN smooth donut-like|NN shape|NN rage full spike|NN make fragile susceptible break capillary|NN
+carrier|NN symptom|NN deprive oxygen|NN example|NN climb mountain|NN severely dehydrate
+afflict disease|NN event|NN painful part|NN life|NN normally occur time|NN year|NN patient|NN
+occur become undergoe abnormal change|NN shape|NN consistency|NN lead change|NN shape|NN plasticity|NN cell|NN wall|NN rbc|NN occurrence|NN call
+sufferer|NN illness|NN reduce life|NN span|NN
+believe carrier|NN sickle|NN cell|NN trait|NN relatively resistant malaria|NN
+gene|NN incompletely recessive carrier|NN sickle|NN red blood|NN cell|NN time|NN cause symptom|NN give resistance|NN malaria|NN
+heterozygote|NN higher fitness|NN homozygote|NN
+known advantage|NN
+malaria|NN parasite|NN complex life|NN cycle|NN spend part|NN red blood|NN cell|NN
+carrier|NN presence|NN malaria|NN parasite|NN cause red blood|NN cell|NN rupture|NN make plasmodium unable reproduce
+further polymerization|NN hb|NP affect ability|NN parasite|NN digest hb|NP place|NN
+therefore area|NN malaria|NN problem|NN people|NN chance|NN survival|NN actually increase|NN carry sickle|NN cell|NN trait|NN selection|NN heterozygote|NN
+due above phenomenon|NN illness|NN prevalent especially people|NN recent ancestry|NN malaria-stricken area|NN africa|NP mediterranean india|NP middle east|NN
+fact|NN anemia|NN common genetic disorder|NN african american|NN carrier|NN
+evolution|NN anemia|NN probably example|NN evolution|NN whereby human|NN modify environment|NN change selective pressure|NN
+human|NN tropical area|NN africa|NP elsewhere develop agriculture|NN animal|NN husbandry|NN expand niche|NN anophele mosquitoe|NN transmit malaria|NN parasite|NN
+usa|NP endemic malaria|NN incidence|NN sickle|NN cell|NN african american|NN lower west|NP africa|NP fall
+endemic malaria|NN africa|NP condition|NN purely disadvantageous tend bred affect population|NN
+see price|NN equation|NN article|NN simplify mathematical model|NN genetic evolution|NN sickle|NN cell|NN
+edit|NN inheritance|NN sickle|NN cell|NN condition|NN inherit parent|NN way|NN blood|NN type|NN hair|NN color|NN texture|NN eye|NN color|NN physical trait|NN
+type|NN hemoglobin|NN person|NN make red blood|NN cell|NN depend gene|NN person|NN inherit parent|NN
+gene|NN gene|NN inherit set|NN parent|NN
+edit|NN example|NN parent|NN sickle|NN cell|NN rr|NN diagram|NN above normal rr|NP children|NN sickle|NN cell|NN trait|NN
+parent|NN sickle|NN cell|NN rr|NN sickle|NN cell|NN chance|NN child|NN sickle|NN cell|NN disease|NN rr|NN chance|NN child|NN sickle|NN cell|NN trait|NN
+parent|NN sickle|NN cell|NN chance|NN child|NN sickle|NN cell|NN disease|NN rr|NN show diagram|NN
+sickle|NN cell|NN anemia|NN cause recessive allele|NN
+carrier|NN parent|NN chance|NN child|NN disease|NN
+child|NN homozygous recessive
+edit|NN treatment|NN edit|NN illness|NN children|NN fever|NN screen ie complete blood|NN count|NN count|NN blood|NN culture|NN taken
+younger|NP children|NN vary center|NN center|NN admit intravenous antibiotics|NN older children|NN reassure white cell|NN count|NN manage home|NN oral antibiotics|NN
+children|NN previous bacteremic episode|NN admit
+edit painful vaso-occlusive|NN crise|NN patient|NN sickle|NN cell|NN disease|NN intensely painful episode|NN call crise|NN
+frequency|NN severity|NN duration|NN crise|NN vary tremendously
+painful crise|NN treate symptomatically analgesics|NN pain|NN management|NN require opioid administration|NN regular interval|NN crisis|NN settle
+milder crise|NN subgroup|NN patient|NN manage nsaids|NP
+severe crise|NN patient|NN require inpatient|NN management|NN intravenous opioid|NN analgesia|NN pca|NN device|NN commonly use set|NN
+effective itch|NN associate opioid use|NN
+edit acute chest|NN crise|NN management|NN similar vaso-occlusive crise|NN addition|NN antibiotics|NN usually quinolone|NN macrolide|NN atypcial bacteria|NN thought contribute syndrome|NN oxygen|NN supplementation|NN hypoxia|NN close observation|NN
+pulmonary infiltrate worsen oxygen|NN requirement|NN increase simple blood|NN transfusion|NN exchange|NN transfusion|NN indicate
+involve exchange|NN significant portion|NN patient|NN red cell|NN mass|NN normal red cell|NN decrease percent|NN s|NP patient|NN blood|NN
+edit|NN approve drug|NN causative treatment|NN sickle|NN cell|NN show decrease number|NN severity|NN attack|NN study|NN et|NP al|NP show increase|NN survival|NN time|NN study|NN
+achieve reactivate fetal hemoglobin production|NN place|NN hemoglobin|NP s|NP cause sickle|NN cell|NN
+previously use chemotherapy|NN agent|NN concern|NN long-term use|NN harmful likely benefit|NN outweigh risk|NN
+edit future treatment|NN various approache|NN sought prevent episode|NN well complication|NN disease|NN
+way|NN modify hb|NP switch|NN investigate use|NN
+gene|NP therapy|NN investigation|NN
+edit|NN situation|NN carrier|NN people|NN known carrier|NN disease|NN undergo genetic child|NN
+test|NN see unborn child|NN disease|NN take blood|NN sample|NN unborn sample|NN amniotic fluid|NN
+take blood|NN sample|NN fetus|NN risk|NN test|NN usually use
+mutation|NN responsible disease|NN discover
+air|NN force|NN require african american applicant|NN test|NN mutation|NN
+dismiss applicant|NN carrier|NN even condition|NN
+eventually withdrew requirement|NN trainee|NN file lawsuit|NN
+edit|NN history|NN cause|NN collection|NN clinical find|NN unknown description|NN sickle|NN cell|NN chicago|NP cardiologist|NN professor|NN medicine|NN james|NP b|NP
+herrick|NP intern|NN ernest|NP edward|NP irons|NP 1877-1959|NP found peculiar elongate sickle|NN shape cell|NN blood|NN walter|NP clement|NP noel|NP year|NN old year|NN dental student|NN grenada|NP noel|NP admit presbyterian hospital|NN december|NP suffer|NN
+noel|NP readmit time|NN year|NN muscular rheumatism|NN bilious attack|NN undergraduate|NN
+noel|NP complet study|NN return capital|NN grenada|NP st|NP
+georges|NP practice|NN dentistry|NN
+dy pneumonia|NN bury catholic cemetery|NN sauteur|NN north|NN grenada|NP disease|NN occasionally call syndrome|NN reason|NN
+disease|NN name sickle|NN cell|NN vernon|NP mason|NP
+retrospect|NN element|NN disease|NN recognize earlier paper|NN southern journal|NN medical pharmacology|NN describe absence|NN spleen|NN autopsy|NN runaway slave|NN
+african medical literature|NN report condition|NN known locally children|NN come go high infant|NN mortality|NN condition|NN
+history|NN condition|NN track report|NN back family|NN practice|NN use tar|NN soap|NN cover|NN blemishe|NN cause sickle|NN cell|NN sore|NN prevalent african american community|NN
+origin|NN mutation|NN led sickle|NN cell|NN gene|NN initially thought arabian peninsula|NN spread|NN asia|NP africa|NP
+known evaluation|NN chromosome|NN structure|NN independent mutational event|NN africa|NP saudi|NP arabia|NP central india|NP independent event|NN occure generation|NN approximately 70000-150000 year|NN
+edit see dominance|NN relationship|NN genetic sickle|NN cell|NN trait|NN exchange|NN transfusion|NN edit|NN note|NN
+aldrich|NP tk|NP nagel|NP rl|NP
+pulmonary complication|NN sickle|NN cell|NN disease|NN bone|NN rc|NP et|NP al|NP editor|NN pulmonary critical care|NN medicine|NN edition|NN st|NP
+louis|NP mosby|NP
+savitt|NP tl|NP goldberg|NP
+case|NN report|NN sickle|NN cell|NN
+rest|NN story|NN
+effect|NN environment|NN sickle|NN cell|NN disease|NN west|NP africa|NP clinical consideration|NN
+sickle|NN cell|NN disease|NN diagnosis|NN management|NN education|NN research|NN
+abramson|NP h|NP jf|NP ed|NN
+cv|NN co|NN st|NP
+louis|NP cite d|NP
+desai|NP hiren sickle|NN cell|NN disease|NN history|NN origin|NN
+internet|NN journal|NN
+volume|NN number|NN
+desai|NP hiren sickle|NN cell|NN disease|NN history|NN origin|NN
+internet|NN journal|NN
+volume|NN number|NN edit|NN reference|NN steinberg|NP mh|NP barton|NP f|NP castro|NP o|NP ch|NN kutlar orringer e|NP bellevue|NP r|NP n|NP j|NP m|NP ramirez|NP g|NP adler|NP b|NP smith|NP w|NP carlos|NP t|NP k|NP l|NP c|NP y|NP telfer|NP m|NP e|NP s|NP s|NP bridges|NP k|NP m|NP bonds|NP d|NP m|NP
+effect|NN hydroxyurea|NN frequency|NN painful crise|NN sickle|NN cell|NN
+investigator|NN multicenter study|NN hydroxyurea|NN sickle|NN cell|NN
+n|NP engl|NP j|NP med|NP
+perception|NN ethnic cultural factor|NN delivery|NN service|NN treatment|NN sickle|NN cell|NN disease|NN
+journal|NN health|NN social policy|NN
+edit external link|NN sickle|NN cell|NN health|NN sickle|NN cell|NN sickle|NN cell|NN information|NN center|NN sickle|NN cell|NN research|NN recent primary literature|NN sickle|NN cell|NN clinical trial|NN sickle|NN cell|NN university|NN maryland|NP medical center|NN sickle|NN cell|NN link|NN health|NN science|NN medicine|NN hematological malignancy|NN white blood|NN cell|NN lymphocytic lymphoma|NN disease|NN lpd|NN multiple myeloma|NN myeloid myelogenous|NN mpd|NP essential thrombocytosis|NN md|NN red blood|NN cell|NN hemochromatosis|NN disease|NN aplastic|NN g6pd deficiency|NN spherocytosis|NN elliptocytosis|NN hemoglobinopathy|NN platelet|NN deep vein|NN thrombosis|NN pulmonary embolism|NN ttp|NN retrieve|NN
+artafvhtml text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

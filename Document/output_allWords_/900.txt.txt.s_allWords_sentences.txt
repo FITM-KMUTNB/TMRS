@@ -1,0 +1,306 @@
+diabete|NN mellitus|NN diabete|NN mellitus|NN diabete|NN mellitus|NN external resource|NN e14|NN
+medlineplus|NN med546|NN c18452394750 diabete|NN mellitus|NN metabolic disorder|NN characterize high glucose|NN blood|NN sugar|NN sign|NN
+world|NN health|NN organization|NN recognize main form|NN diabete|NN type|NN type|NN gestational diabete|NN type|NN occure pregnancy|NN share|NN sign|NN symptom|NN different cause|NN population|NN distribution|NN
+single disease|NN condition|NN
+type|NN generally due autoimmune|NN destruction|NN insulin-produce cell|NN pancreatic beta|NN cell|NN type|NN characterize tissue|NN wide insulin|NN resistance|NN vary widely
+diabete|NN due poorly understood interaction|NN fetal need|NN maternal metabolic control|NN
+type|NN sometime progress loss|NN beta|NN cell|NN function|NN well
+use|NN insulin|NN type|NN incurable treatable chronic condition|NN gestational diabete|NN typically resolve delivery|NN
+aside acute glucose|NN level|NN abnormality|NN main risk|NN health|NN characteristic long-term complication|NN
+include cardiovascular disease|NN double risk|NN chronic renal failure|NN main cause|NN dialysis|NN develop world|NN adult|NN retinal damage|NN lead blindness|NN significant cause|NN adult|NN blindness|NN non-elderly|NN develop world|NN nerve|NN damage|NN kind|NN microvascular damage|NN dysfunction|NN impotence|NN poor heal|NN lead gangrene|NN even amputation|NN lead cause|NN amputation|NN develop world|NN adult|NN
+diabete|NN mellitus|NN type|NN diabete|NN diabete|NN mellitus|NN type|NN diabete|NN mellitus|NN type|NN diabete|NN impair fast|NN impair glucose|NN tolerance|NN disease|NN management|NN diabete|NN management|NN diabetic diet|NN drug|NN conventional intensive concern|NN cardiovascular disease|NN diabetic|NN diabetic diabetic ketoacidosis|NN diabetic|NN diabetic nephropathy|NN diabetic neuropathy|NN diabetic retinopathy|NN diabete|NN pregnancy|NN blood|NN test|NN tolerance|NN test|NN content|NN terminology|NN history|NN cause|NN type|NN metabolism|NN type|NN diabete|NN mellitus|NN type|NN diabete|NN mellitus|NN diabete|NN type|NN genetics|NN diagnosis|NN sign|NN symptom|NN diagnostic approach|NN diagnostic criteria|NN complication|NN acute chronic treatment|NN management|NN diabete|NN prevention|NN public health|NN policy|NN epidemiology|NN statistics|NN see reference|NN external link|NN edit terminology|NN term|NN diabete|NN greek|NN
+coin aretaeus|NN
+derive greek word|NN literally mean pass siphon reference|NN diabete|NN major symptomsexcessive|NN urine|NN production|NN
+thomas|NP willis|NP ad mellitus|NN latin word|NN mean|NN sweet taste|NN
+notice long ancient time|NN greek|NN chinese egyptian|NN indian|NN
+matthew|NP dobson|NP confirm sweet taste|NN excess|NN kind|NN sugar|NN urine|NN blood|NN people|NN diabete|NN ancient indian|NN test diabete|NN observe ant|NN attract person|NN urine|NN call ailment|NN sweet urine|NN disease|NN
+korean chinese japanese word|NN diabete|NN base ideograph|NN
+mean sweet urine|NN disease|NN
+medieval european doctor|NN test tast urine|NN occasionally depict gothic relief|NN
+citation|NN need term|NN diabete|NN usually refer diabete|NN mellitus|NN rarer condition|NN name diabete|NN
+common diabete|NN unquenchable diabete|NN urine|NN sweet cause kidney|NN di|NN pituitary|NN gland|NN central di|NN damage|NN
+term|NN type|NN diabete|NN universally replace term|NN diabete|NN juvenile diabete|NN insulin-dependent diabete|NN
+type|NN diabete|NN replace older term|NN diabete|NN diabete|NN non-insulin-dependent diabete|NN
+number|NN standard|NN type|NN become insulin|NN dependent sometime call type|NN term|NN use gestational diabete|NN case|NN various source|NN define type|NN diabete|NN diabete|NN mention type|NN diabete|NN double diabete|NN latent autoimmune|NN diabete|NN adult|NN lada|NN type|NN diabete|NN edit|NN history|NN diabete|NN recognize antiquity|NN treatment|NN various efficacy|NN known various region|NN middle age|NN legend|NN longer pathogenesis|NN diabete|NN understood experimentally discovery|NN role|NN pancrea|NN diabete|NN generally ascribe joseph|NP von|NP oskar|NP minkowski|NP found pancrease|NN dog|NN remove dog|NN develop sign|NN symptom|NN diabete|NN dy shortly afterward sir|NP edward|NP albert|NP sharpey-schafer|NP suggest people|NN diabete|NN deficient single chemical|NN normally produce pancreashe propose call|NN substance|NN insulin|NN
+term|NN derive latin insula|NN mean|NN island|NN reference|NN islet|NN langerhan|NN pancrea|NN produce insulin|NN endocrine role|NN pancrea|NN metabolism|NN indee existence|NN insulin|NN further clarify sir|NP frederick|NP grant|NP charles|NP herbert|NP best repeate work|NN von|NP minkowsky went further demonstrate reverse induce diabete|NN dog|NN give extract|NN pancreatic islet|NN langerhan|NN healthy dog|NN best colleague|NN especially chemist|NN went purify hormone|NN insulin|NN bovine pancrease|NN university|NN toronto|NP
+led availability|NN effective treatmentinsulin|NN patient|NN treate
+bant|NN laboratory|NN director|NN macleod|NP receive nobel|NP prize|NN physiology|NN medicine|NN share prize|NN money|NN team|NN recognize particular best|NP collip|NP
+best made patent|NN available charge|NN attempt control commercial production|NN
+insulin|NN production|NN therapy|NN rapidly spread world|NN largely result|NN decision|NN
+availability|NN treatment|NN diabete|NN remain major cause|NN death|NN
+instance|NN statistics|NN reveal cause-specific mortality|NN rate|NN amount population|NN malta|NP distinction|NN known type|NN diabete|NN type|NN diabete|NN clearly made sir|NP harold|NP percival|NP harry|NP publish january|NP landmark|NN discovery|NN include identification|NN sulfonylurea|NN determination|NN amino|NN acid|NN order|NN insulin|NN sir|NP frederick|NP sanger|NP receive nobel|NP prize|NN radioimmunoassay|NN insulin|NN discover yalow|NN solomon|NP gain nobel|NP prize|NN physiology|NN medicine|NN dimensional structure|NN insulin|NN dr|NP gerald|NP identification|NN constellation|NN symptom|NN call metabolic syndrome|NN demonstration|NN intensive glycemic control|NN type|NN diabete|NN reduce chronic side|NN effect|NN glucose|NN level|NN approach|NN normal large longitudinal study|NN type|NN diabetics|NN large study|NN identification|NN thiazolidinedione|NN effective insulin|NN self|NN monitor|NN glucose|NN home|NN finger-stick blood|NN sample|NN battery|NN power meter|NN edit|NN cause|NN type|NN edit metabolism|NN mechanism|NN insulin|NN release|NN normal pancreatic beta|NN cell|NN
+insulin|NN production|NN constant beta|NN cell|NN blood|NN glucose|NN level|NN
+store pend release|NN exocytosis|NN trigger increase blood|NN glucose|NN level|NN
+insulin|NN principal hormone|NN regulate uptake|NN glucose|NN cell|NN blood|NN primarily muscle|NN fat cell|NN central nervous system|NN cell|NN deficiency|NN insulin|NN insensitivity|NN receptor|NN play central role|NN form|NN diabete|NN mellitus|NN
+carbohydrate|NN food|NN convert hour|NN monosaccharide glucose|NN principal carbohydrate|NN blood|NN
+carbohydrate|NN fruit|NN sugar|NN fructose|NN usable cellular fuel|NN convert glucose|NN participate insulin|NN glucose|NN metabolic regulatory mechanism|NN carbohydrate|NN cellulose|NN actually glucose|NN long chain|NN human|NN animal|NN digestive pathway|NN capable handle
+insulin|NN release blood|NN beta|NN cell|NN
+-cell pancrea|NN response|NN rise level|NN blood|NN glucose|NN eg meal|NN
+insulin|NN enable body|NN cell|NN usual estimate|NN muscle|NN cell|NN tissue|NN absorb glucose|NN blood|NN use|NN fuel|NN conversion|NN need molecule|NN storage|NN
+insulin|NN principal control|NN signal|NN conversion|NN glucose|NN basic sugar|NN use fuel|NN glycogen|NN internal storage|NN liver|NN muscle|NN cell|NN
+reduce insulin|NN level|NN result|NN reduce release|NN insulin|NN beta|NN cell|NN reverse conversion|NN glycogen|NN glucose|NN glucose|NN level|NN fall|NN glucose|NN recover liver|NN re-enter bloodstream|NN muscle|NN cell|NN lack necessary export|NN mechanism|NN
+higher insulin|NN level|NN increase anabolic build|NN process|NN cell|NN growth|NN duplication|NN protein|NN synthesis|NN fat storage|NN
+insulin|NN principal signal|NN convert bidirectional process|NN metabolism|NN catabolic|NN anabolic direction|NN vice|NN
+particular trigger|NN enter leave ie fat burn metabolic phase|NN
+amount|NN insulin|NN available insufficient cell|NN respond poorly effect|NN insulin|NN insulin|NN insensitivity|NN resistance|NN insulin|NN defective glucose|NN handle properly body|NN cell|NN
+require store appropriately liver|NN muscle|NN
+net effect|NN persistent high level|NN blood|NN glucose|NN poor protein|NN synthesis|NN metabolic derangement|NN acidosis|NN
+edit|NN type|NN diabete|NN mellitus|NN type|NN diabete|NN mellitus|NN formerly known insulin-dependent diabete|NN childhood|NN diabete|NN diabete|NN characterize loss|NN insulin-produce beta|NN cell|NN islet|NN langerhan|NN pancrea|NN lead deficiency|NN insulin|NN
+note known preventative measure|NN taken type|NN diabete|NN
+people|NN affect type|NN diabete|NN otherwise healthy healthy weight|NN onset|NN occur
+diet|NN exercise|NN reverse|NN prevent type|NN diabete|NN
+sensitivity|NN responsiveness|NN insulin|NN usually normal especially early stage|NN
+type|NN comprise total case|NN north|NP america|NP europe|NP vary geographical location|NN
+type|NN diabete|NN affect children|NN adult|NN traditionally term juvenile diabete|NN represent majority|NN case|NN diabete|NN affect children|NN
+common cause|NN beta|NN cell|NN loss|NN lead type|NN diabete|NN autoimmune|NN destruction|NN accompany antibody|NN direct insulin|NN islet|NN cell|NN protein|NN
+principal treatment|NN type|NN diabete|NN even earliest stage|NN replacement|NN insulin|NN
+insulin|NN diabetic ketoacidosis|NN develop coma|NN death|NN result
+currently type|NN diabete|NN treate insulin|NN careful monitor|NN blood|NN glucose|NN level|NN use blood|NN test|NN monitor|NN
+emphasis|NN place lifestyle|NN adjustment|NN diet|NN exercise|NN
+common subcutaneous injection|NN possible deliver insulin|NN pump|NN allow continuous infusion|NN insulin|NN hour|NN day|NN preset level|NN ability|NN program|NN dose|NN bolus|NN insulin|NN need meal|NN time|NN
+possible deliver insulin|NN inhal powder|NN
+type|NN treatment|NN continue indefinitely
+treatment|NN impair normal activity|NN sufficient awareness|NN appropriate care|NN discipline|NN test|NN medication|NN taken
+average glucose|NN level|NN type|NN patient|NN close normal 80120|NN possible
+physician|NN suggest mgdl|NN mmoll|NN trouble|NN lower value|NN frequent hypoglycemic|NN event|NN
+value|NN mmoll|NN accompany discomfort|NN frequent urination|NN lead dehydration|NN
+value|NN usually require immediate treatment|NN lead ketoacidosis
+low level|NN blood|NN glucose|NN call lead seizure|NN episode|NN unconsciousness|NN
+edit|NN type|NN diabete|NN mellitus|NN type|NN diabete|NN mellitus|NN previously known diabete|NN diabete|NN non-insulin-dependent diabete|NN mellitus|NN niddm|NN due combination|NN defective insulin|NN secretion|NN defective responsiveness|NN insulin|NN term insulin|NN resistance|NN reduce insulin|NN sensitivity|NN certainly involve insulin|NN receptor|NN cell|NN membrane|NN
+early stage|NN predominant abnormality|NN reduce insulin|NN sensitivity|NN characterize elevate level|NN insulin|NN blood|NN
+early stage|NN reverse variety|NN measure|NN medication|NN improve insulin|NN sensitivity|NN reduce glucose|NN production|NN liver|NN disease|NN progress impairment|NN insulin|NN secretion|NN worsen therapeutic replacement|NN insulin|NN become necessary
+numerous theory|NN exact cause|NN mechanism|NN resistance|NN central obesity|NN fat|NN concentrate waist|NN relation|NN abdominal organ|NN seem subcutaneous fat|NN known predispose insulin|NN resistance|NN possibly due secretion|NN adipokine|NN group|NN hormone|NN impair glucose|NN tolerance|NN
+abdominal fat|NN especially active
+obesity|NN found approximately develop world|NN patient|NN diagnose type|NN diabete|NN
+factor|NN include age|NN family|NN history|NN decade|NN increasingly begun affect children|NN adolescent|NN
+type|NN diabete|NN go unnotice year|NN patient|NN diagnosis|NN symptom|NN typically milder eg lack|NN ketoacidotic episode|NN sporadic
+severe complication|NN result unnotice type|NN diabete|NN renal failure|NN vascular disease|NN coronary artery|NN disease|NN vision|NN damage|NN
+type|NN diabete|NN usually treate change|NN physical activity|NN usually increase|NN diet|NN generally decrease|NN carbohydrate|NN intake|NN especially carbohydrate|NN weight|NN loss|NN
+restore insulin|NN sensitivity|NN even weight|NN loss|NN modest example|NN kg|NN lb|NN especially abdominal fat deposit|NN
+step|NN necessary treatment|NN oral antidiabetic drug|NN
+insulin|NN production|NN initially unimpair oral medication|NN use combination|NN use improve insulin|NN production|NN eg regulate inappropriate release|NN glucose|NN liver|NN attenuate insulin|NN resistance|NN extent|NN eg substantially attenuate insulin|NN resistance|NN eg
+fail insulin|NN therapy|NN necessary maintain normal near normal glucose|NN level|NN
+discipline regimen|NN blood|NN glucose|NN check|NN recommend case|NN particularly necessarily take medication|NN
+edit diabete|NN diabete|NN involve combination|NN inadequate insulin|NN secretion|NN responsiveness|NN resemble type|NN diabete|NN respect|NN
+develop pregnancy|NN improve disappear delivery|NN
+even transient gestational diabete|NN damage health|NN fetus|NN mother|NN women|NN gestational diabete|NN develop type|NN diabete|NN later life|NN
+diabete|NN mellitus|NN occur pregnancy|NN
+temporary fully treatable untreate cause problem|NN pregnancy|NN high birth|NN weight|NN fetal malformation|NN congenital heart|NN disease|NN
+require careful medical supervision|NN pregnancy|NN
+risk|NN associate gdm|NN include congenital anomaly|NN cardiac central nervous system|NN skeletal muscle|NN malformation|NN
+increase fetal insulin|NN inhibit fetal surfactant|NN production|NN cause|NN respiratory distress|NN syndrome|NN
+result red blood|NN cell|NN destruction|NN
+severe case|NN perinatal death|NN occur commonly result|NN poor placental profusion|NN due vascular impairment|NN
+induction|NN indicate decrease placental function|NN
+section|NN perform mark fetal distress|NN increase risk|NN injury|NN associate shoulder|NN
+edit type|NN rare cause|NN diabete|NN mellitus|NN fit type|NN type|NN gestational diabete|NN genetic defect|NN beta|NN cell|NN mitochondrial genetically-relate|NN insulin|NN resistance|NN abnormal body|NN fat|NN deposition|NN disease|NN pancrea|NN eg chronic pancreatitis|NN cystic fibrosis|NN defect|NN chemical|NN drug|NN version|NN international statistical classification|NN disease|NN contain diagnostic entity|NN name diabete|NN mellitus|NN icd-10 code|NN
+subsequent work group|NN recommend deprecate propose new taxonomy|NN alternative form|NN diabete|NN classification|NN non-gestational diabete|NN remain controversial
+citation|NN need edit|NN genetics|NN type|NN type|NN diabete|NN partly inherit
+type|NN diabete|NN appear trigger mainly viral infection|NN common group|NN stress|NN environmental factor|NN exposure|NN certain chemical|NN drug|NN
+genetic element|NN individual susceptibility|NN trigger|NN trace particular hla|NP genotype|NN ie genetic self|NN identifier|NN use immune system|NN
+even inherit susceptibility|NN type|NN diabete|NN mellitus|NN seem require environmental trigger|NN
+small proportion|NN people|NN type|NN diabete|NN carry mutate gene|NN cause maturity|NN onset|NN diabete|NN young mody|NN
+stronger inheritance|NN pattern|NN type|NN diabete|NN
+first-degree relative|NN type|NN higher risk|NN develop type|NN
+concordance monozygotic twin|NN close citation|NN need disease|NN family|NN history|NN diabete|NN
+connect obesity|NN found approximately north|NP american patient|NN diagnose type|NN expert|NN believe inherit tendency|NN obesity|NN contribute
+edit|NN diagnosis|NN edit|NN sign|NN symptom|NN classical triad|NN diabete|NN symptom|NN polyuria frequent urination|NN increase thirst|NN consequent increase fluid|NN intake|NN increase appetite|NN
+symptom|NN develop quite fast type|NN particularly children|NN week|NN month|NN subtle completely absent well develop slowly type|NN
+type|NN weight|NN loss|NN normal increase eate|NN irreducible fatigue|NN
+symptom|NN manifest type|NN diabete|NN patient|NN diabete|NN poorly control
+glucose|NN concentration|NN blood|NN high renal threshold|NN reabsorption|NN glucose|NN proximal renal tubuly|NN incomplete part|NN glucose|NN remain urine|NN
+increase osmotic pressure|NN urine|NN inhibit reabsorption|NN water|NN result increase urine|NN producton|NN increase fluid|NN loss|NN blood|NN
+lost blood|NN volume|NN replace water|NN held body|NN cell|NN cause dehydration|NN increase|NN thirst|NN
+prolong high blood|NN glucose|NN cause change|NN shape|NN len|NN eye|NN lead vision|NN change|NN
+vision|NN common complaint|NN lead diagnosis|NN type|NN alway suspect case|NN
+patient|NN usually type|NN diabete|NN present diabetic ketoacidosis|NN extreme state|NN dysregulation|NN characterize smell|NN acetone|NN patient|NN breath|NN breath rapid deep breath|NN nausea|NN vomit|NN abdominal pain|NN alter state|NN consciousness|NN arousal|NN eg hostility|NN mania|NN equally confusion|NN lethargy|NN
+severe dka coma|NN unconsciousness|NN follow progress death|NN untreate
+form|NN medical emergency|NN require expert|NN attention|NN
+rarer equally severe presentation|NN hyperosmolar nonketotic state|NN common type|NN diabete|NN mainly result|NN dehydration|NN due polyuria|NN
+patient|NN drink extreme amount|NN sugar-contain drink|NN lead vicious circle|NN regard|NN water|NN loss|NN
+edit diagnostic approach|NN diagnosis|NN type|NN diabete|NN case|NN type|NN usually prompt recent-onset symptom|NN excessive urination|NN excessive thirst|NN accompany weight|NN loss|NN
+symptom|NN typically worsen day|NN week|NN people|NN new type|NN diabete|NN develop degree|NN diabetic ketoacidosis|NN time|NN diabete|NN recognize
+diagnosis|NN type|NN diabete|NN usually made way|NN
+common health|NN screen|NN detection|NN hyperglycemia|NN doctor|NN investigate complication|NN longstand unrecognize diabete|NN new sign|NN symptom|NN attributable diabete|NN
+diabete|NN screen|NN recommend type|NN people|NN various stage|NN life|NN different risk|NN factor|NN
+screen|NN test|NN vary circumstance|NN local policy|NN random glucose|NN fast glucose|NN insulin|NN glucose|NN hour|NN g|NN glucose|NN formal glucose|NN tolerance|NN test|NN
+healthcare|NN provider|NN recommend universal screen|NN adult|NN age|NN sometime occasionally thereafter
+earlier screen|NN recommend risk|NN factor|NN obesity|NN family|NN history|NN diabete|NN high-risk ethnicity|NN american american indian african american pacific|NP island|NP south|NP asian ancestry|NN
+medical condition|NN associate higher risk|NN various type|NN diabete|NN warrant|NN screen|NN
+partial list|NN include high blood|NN pressure|NN elevate cholesterol|NN level|NN coronary artery|NN disease|NN gestational diabete|NN ovary|NN syndrome|NN chronic pancreatitis|NN fatty liver|NN cystic fibrosis|NN mitochondrial neuropathy|NN myopathy|NN dystrophy|NN inherit form|NN neonatal hyperinsulinism|NN
+risk|NN diabete|NN higher chronic use|NN medication|NN high-dose|NN chemotherapy|NN agent|NN especially antipsychotics|NN mood|NN stabilizer|NN especially atypical antipsychotics|NN
+diabete|NN detect person|NN suffer problem|NN frequently cause diabete|NN heart|NN attack|NN stroke|NN neuropathy|NN poor wound|NN heal|NN foot|NN ulcer|NN certain eye|NN problem|NN certain fungal infection|NN deliver baby|NN macrosomia|NN hypoglycemia|NN
+edit diagnostic criteria|NN diabete|NN mellitus|NN characterize recurrent persistent hyperglycemia|NN diagnose demonstrate follow fast|NN plasma|NN glucose|NN level|NN mmoll|NN
+plasma|NN glucose|NN hour|NN g|NN oral glucose|NN load|NN glucose|NN tolerance|NN test|NN
+random plasma|NN glucose|NN mmoll|NN
+positive result|NN confirm above-list method|NN different day|NN doubt|NN presence|NN glucose|NN level|NN
+physician|NN prefer measure fast glucose|NN level|NN ease|NN measurement|NN time|NN commitment|NN formal glucose|NN tolerance|NN test|NN take hour|NN complete
+definition|NN fast|NN glucose|NN measurement|NN mmoll|NN consider diagnostic diabete|NN mellitus|NN
+patient|NN fast sugar|NN mgdl|NN consider impair fast|NN glucose|NN patient|NN plasma|NN glucose|NN 140mgdl|NN hour|NN g|NN oral glucose|NN load|NN consider impair glucose|NN tolerance|NN
+impair fast|NN glucose|NN impair glucose|NN tolerance|NN particular major risk|NN factor|NN progression|NN full-blown diabete|NN mellitus|NN well cardiovascular disease|NN
+use diagnosis|NN elevate level|NN glucose|NN bound hemoglobin|NP term glycosylate higher revise standard|NN consider abnormal lab|NN primarily treatment-track test|NN reflect average blood|NN glucose|NN level|NN precede day|NN approximately
+physician|NN order test|NN time|NN diagnosis|NN track|NN change|NN time|NN
+current recommend goal|NN hba1c|NN patient|NN diabete|NN define good glycemic control|NN guideline|NN stricter
+people|NN diabete|NN hba1c level|NN goal|NN significantly lower incidence|NN complication|NN diabete|NN retinopathy|NN diabetic nephropathy|NN edit|NN complication|NN complication|NN far common severe people|NN well-control blood|NN sugar|NN level|NN fact|NN better control|NN lower risk|NN complication|NN
+patient education|NN understand|NN participation|NN vital
+healthcare|NN professional|NN treat diabete|NN address|NN health|NN problem|NN accelerate deleterious effect|NN diabete|NN
+include smoke|NN abstain elevate cholesterol|NN level|NN control|NN diet|NN exercise|NN medication|NN obesity|NN even modest weight|NN loss|NN beneficial high blood|NN pressure|NN lack|NN regular exercise|NN
+edit acute diabetic|NN diabetic ketoacidosis|NN dka|NN acute dangerous complication|NN alway medical emergency|NN
+presentation|NN hospital|NN patient|NN dka|NN typically dehydrate breath fast deeply
+abdominal pain|NN common severe
+level|NN consciousness|NN normal late process|NN lethargy|NN dull reduce level|NN alertness|NN consciousness|NN progress coma|NN
+ketoacidosis|NN become severe cause hypotension|NN shock|NN
+prompt proper treatment|NN usually result|NN full recovery|NN death|NN result inadequate treatment|NN delay treatment|NN variety|NN complication|NN
+common type|NN diabete|NN type|NN occur patient|NN type|NN diabete|NN
+hyperosmolar coma|NN alway progress coma|NN state|NN hn|NN acute problem|NN associate diabete|NN mellitus|NN
+symptom|NN common dka|NN different cause|NN require different treatment|NN
+high blood|NN glucose|NN level|NN usually consider above mgdl|NN mmoll water|NN osmotically driven cell|NN blood|NN
+kidney|NN dump glucose|NN urine|NN result concomitant loss|NN water|NN cause increase|NN blood|NN osmolality|NN
+fluid|NN replace mouth|NN intravenously osmotic effect|NN high glucose|NN level|NN combine loss|NN water|NN eventually result high serum|NN osmolality|NN dehydration|NN
+body cell|NN become progressively dehydrate water|NN drawn excret
+imbalance|NN common
+combination|NN change|NN especially prolong result|NN symptom|NN lethargy|NN dull reduce level|NN alertness|NN consciousness|NN progress coma|NN
+urgent medical treatment|NN necessary especially volume|NN replacement|NN
+diabetic coma|NN commonly occur type|NN diabetics|NN
+hypoglycemia|NN abnormally low blood|NN glucose|NN complication|NN diabete|NN treatment|NN
+develop glucose|NN intake|NN match treatment|NN
+patient|NN become agitate sweaty symptom|NN sympathetic activation|NN autonomic nervous system|NN result feel|NN similar dread|NN immobilize panic|NN
+consciousness|NN alter even lost extreme case|NN lead coma|NN seizure|NN even brain|NN damage|NN death|NN
+patient|NN diabete|NN cause factor|NN incorrectly time insulin|NN exercise|NN incorrectly time exercise|NN decrease insulin|NN requirement|NN food|NN insufficient amount|NN carbohydrate|NN food|NN
+case|NN treate sweet drink|NN food|NN
+severe case|NN injection|NN glucagon|NN hormone|NN opposite effect|NN insulin|NN intravenous infusion|NN glucose|NN use treatment|NN usually person|NN unconscious
+person|NN poorly control diabete|NN hard time|NN heal|NN even small cut|NN abrasion|NN
+event|NN cut|NN left unnotice untreate result|NN infection|NN result infection|NN extreme case|NN lead amputation|NN
+edit chronic microvascular|NN disease|NN chronic elevation|NN blood|NN glucose|NN level|NN lead damage|NN blood|NN vessel|NN
+diabete|NN resultant problem|NN group microvascular disease|NN due damage|NN small blood|NN vessel|NN macrovascular disease|NN due damage|NN artery|NN
+damage|NN small blood|NN vessel|NN lead microangiopathy|NN cause follow organ-relate|NN problem|NN diabetic retinopathy|NN growth|NN friable poor-quality new blood|NN vessel|NN retina|NN well edema swell|NN macula|NN lead severe vision|NN loss|NN blindness|NN
+damage|NN microangiopathy|NN make common cause|NN blindness|NN non-elderly adult|NN
+diabetic neuropathy|NN abnormal decrease sensation|NN usually stock|NN distribution|NN start|NN feet|NN potentially nerve|NN
+combine damage blood|NN vessel|NN lead diabetic foot|NN see
+form|NN diabetic neuropathy|NN present mononeuritis|NN autonomic neuropathy|NN
+diabetic nephropathy|NN damage|NN kidney|NN lead chronic renal failure|NN eventually require dialysis|NN
+diabete|NN mellitus|NN common cause|NN adult|NN kidney|NN failure|NN worldwide
+disease|NN disease|NN lead cardiovascular disease|NN mainly accelerate atherosclerosis|NN coronary artery|NN disease|NN lead myocardial infarction|NN heart|NN attack|NN angina|NN stroke|NN mainly type|NN peripheral vascular disease|NN contribute intermittent claudication|NN foot|NN pain|NN well diabetic foot|NN
+diabetic diabetic foot|NN due combination|NN neuropathy|NN arterial disease|NN cause skin|NN ulcer|NN infection|NN serious case|NN necrosis|NN gangrene|NN
+common cause|NN adult|NN amputation|NN usually toe|NN feet|NN western country|NN
+artery|NN stenosis|NN occur diabete|NN appear lower prevalence|NN abdominal aortic aneurysm|NN
+diabete|NN cause higher morbidity|NN mortality|NN operative risk|NN condition|NN edit treatment|NN management|NN diabete|NN chronic disease|NN emphasis|NN manage short-term|NN well long-term diabetes-relate|NN problem|NN
+important role|NN patient|NN education|NN nutritional support|NN self|NN glucose|NN monitor|NN well long-term glycemic|NN control|NN
+scrupulous control|NN need help reduce risk|NN long term|NN complication|NN
+addition|NN give associate higher risk|NN cardiovascular disease|NN lifestyle|NN modification|NN implement control|NN blood|NN pressure|NN cholesterol|NN exercise smoke|NN cessation|NN consume appropriate diet|NN
+country|NN general practitioner|NN system|NN unit kingdom|NN care|NN extend mainly community|NN hospital-base specialist|NN input|NN case|NN complication|NN difficult blood|NN sugar|NN control|NN participation|NN research|NN
+circumstance|NN general practitioner|NN specialist|NN share care|NN patient|NN team|NN approach|NN
+podiatristschiropodist|NN physiotherapist|NN clinical nurse|NN specialist|NN eg certify diabete|NN educator|NN nurse|NN practitioner|NN provide multidisciplinary expertise|NN
+edit diabete|NN fact|NN type|NN diabete|NN due failure|NN cell|NN type|NN single organ|NN relatively simple function|NN ie failure|NN islet|NN langerhan|NN led study|NN possible scheme|NN cure|NN diabete|NN contrast|NN type|NN diabete|NN complex prospect|NN curative measure|NN further understand|NN underly mechanism|NN insulin|NN resistance|NN make cure|NN possible
+insulin|NN resistance|NN provide cure|NN type|NN diabete|NN type|NN diabetics|NN receive kidney-pancrea transplant|NN develop diabetic nephropathy|NN become consider cure diabete|NN
+generally remain long-term immunosuppressive drug|NN possibility|NN autoimmune|NN phenomenon|NN develop transplant organ|NN transplant|NN exogenous beta|NN cell|NN perform experimentally mice|NN human|NN measure|NN practical regular clinical practice|NN
+far transplant|NN provoke immune reaction|NN long-term immunosuppressive drug|NN need protect transplant tissue|NN alternative technique|NN propose place transplant beta|NN cell|NN semi-permeable container|NN isolate immune system|NN
+stem|NN cell|NN research|NN suggest potential avenue|NN cure|NN permit regrowth|NN islet|NN cell|NN genetically part|NN treate individual|NN eliminate need|NN
+hypothesise mechanism|NN led islet|NN destruction|NN originally simply destroy even stem-cel regenerate islet|NN microscopic nanotechnological approache|NN investigation|NN well implant store|NN insulin|NN meter rapid response|NN valve|NN sensitive blood|NN glucose|NN level|NN
+approache|NN propose demonstrate
+sense|NN closed-loop insulin|NN pump|NN
+citation|NN need new discovery|NN important implication|NN treatment|NN diabete|NN
+researcher|NN toronto|NP hospital|NN sick children|NN inject capsaicin|NN nod mice|NN diabetic mice|NN strain|NN genetically predispose develop equivalent|NN type|NN diabete|NN kill pancreatic sensory nerve|NN
+treatment|NN reduce development|NN diabete|NN mice|NN suggest link|NN neuropeptide|NN development|NN diabete|NN
+researcher|NN inject pancrea|NN diabetic mice|NN sensory neuropeptide|NN cure diabete|NN long month|NN
+insulin|NN resistance|NN characteristic|NN type|NN diabete|NN reduce
+research|NN result|NN process|NN confirm applicability|NN human|NN establish future|NN
+treatment|NN result research|NN probably year|NN edit|NN prevention|NN known exact mechanism|NN type|NN diabete|NN develop preventive measure|NN available form|NN diabete|NN
+study|NN attribute protective effect|NN breastfeed|NN development|NN type|NN diabete|NN
+type|NN diabete|NN prevent case|NN make change|NN diet|NN increase physical activity|NN study|NN show delay progression|NN diabete|NN predispose patient|NN use|NN metformin|NN h|NP yusuf|NP s|NP bosch|NP j|NP j|NP sheridan|NP p|NP n|NP m|NP b|NP m|NP mohan|NP v|NP shaw|NP j|NP b|NP holman|NP r|NP
+effect|NN rosiglitazone|NN frequency|NN diabete|NN patient|NN impair glucose|NN tolerance|NN impair fast|NN glucose|NN randomise control trial|NN
+16997664|NN breastfeed|NN correlate prevention|NN type|NN disease|NN mother|NN late claim|NN nutritional cure|NN reliable proof|NN effectiveness|NN
+addition|NN claim|NN vaccination|NN cause diabete|NN study|NN prove connection|NN
+edit public health|NN policy|NN declaration|NN st|NP vincent|NP result|NN international effort|NN improve care|NN accord diabete|NN
+important term|NN quality|NN life|NN life|NN expectancy|NN economically expense|NN diabete|NN show major drain|NN health-|NN productivity-relate|NN resource|NN healthcare|NN system|NN government|NN
+country|NN establish successful national diabete|NN programme|NN improve treatment|NN disease|NN edit|NN epidemiology|NN statistics|NN world|NN health|NN organization|NN people|NN worldwide suffer diabete|NN
+incidence|NN increase rapidly estimate year|NN number|NN double
+diabete|NN mellitus|NN occur world|NN common especially type|NN develop country|NN
+greatest increase|NN prevalence|NN expect occur asia|NP africa|NP patient|NN likely found
+increase|NN incidence|NN diabete|NN develop country|NN follow trend|NN urbanization|NN lifestyle|NN change|NN perhap importantly western-style diet|NN
+suggest environmental ie dietary effect|NN understand|NN mechanism|NN present|NN speculation|NN compellingly present
+diabete|NN top|NN perhap top significant disease|NN develop world|NN gain significance|NN elsewhere see big killer|NN
+year|NN diabete|NN rate|NN north|NP america|NP increase substantially
+people|NN diabete|NN united|NP states|NP alone
+american diabete|NN association|NN people|NN undiagnose people|NN consider criteria|NN diagnose diabete|NN usa|NP mean readily diagnose country|NN
+citation|NN center|NN disease|NN control|NN term change|NN epidemic|NN
+national diabete|NN information|NN estimate diabete|NN cost united|NP states|NP alone year|NN
+diabete|NN case|NN north|NP america|NP type|NN rest|NN type|NN
+fraction|NN type|NN part|NN world|NN differ likely difference|NN rate|NN type|NN difference|NN rate|NN type|NN prominently type|NN
+difference|NN currently understood
+american diabete|NN association|NN american|NN born develop diabete|NN lifetime|NN
+citation|NN need edit|NN see list|NN term|NN associate diabete|NN edit|NN reference|NN
+world|NN health|NN organisation|NN department|NN disease|NN surveillance|NN
+definition|NN diagnosis|NN classification|NN diabete|NN complication|NN pdf|NP
+dobson|NP m|NP
+nature|NN urine|NN diabete|NN
+med ob|NN
+type|NN diabete|NN
+american diabete|NN association|NN august|NP
+new weapon|NN combat ancient disease|NN treate diabete|NN
+faseb|NP j|NP
+von|NP mehring|NP j|NP minkowski|NP
+diabete|NN mellitus|NN
+arch|NN exp|NN 371-387|NN
+banting|NP fg|NP best|NP ch|NN jb|NP campbell|NP fletcher|NP aa|NP
+pancreatic extract|NN treatment|NN diabete|NN mellitus|NN
+canad|NP med|NP j|NP
+department|NN health|NN malta|NP 18971972annual|NP report|NN
+diabete|NN mellitus|NN differentiation|NN insulin-sensitive|NN insulin-insensitive|NN type|NN
+yalow|NP rs|NP sa|NP
+immunoassay|NP endogenous plasma|NN insulin|NN man|NN
+j|NP clin|NP invest
+effect|NN intensive treatment|NN diabete|NN development|NN progression|NN long-term complication|NN insulin-dependent diabete|NN mellitus|NN
+diabete|NN control|NN complication|NN trial|NN research|NN group|NN
+n|NP engl|NP j|NP med|NP
+brief history|NN self-monitor|NN blood|NN glucose|NP meters|NP
+food|NN drug|NN administration|NN
+genuth|NP s|NP
+insight diabete|NN control|NN complication|NN diabete|NN intervention|NN complication|NN study|NN use|NN intensive glycemic|NN treatment|NN reduce risk|NN complication|NN type|NN diabete|NN
+pract 34-41|NN
+nathan|NP dm|NN cleary|NP pa|NN backlund|NN sm|NP jm|NP orchard|NP tj|NP p|NP b|NP diabete|NN control|NN complication|NN diabete|NN complication|NN study|NN research|NN group|NN
+intensive diabete|NN treatment|NN cardiovascular disease|NN patient|NN type|NN diabete|NN
+n|NP engl|NP j|NP med|NP
+diabete|NN control|NN complication|NN trial|NN research|NN group|NN
+effect|NN intensive diabete|NN therapy|NN development|NN progression|NN neuropathy|NN
+ann|NP med 1995122561-8|NN
+weiss|NP j|NP b|NP
+review|NN prevalence|NN outcome|NN vascular disease|NN patient|NN diabete|NN mellitus|NN
+eur|NP j|NP endovasc|NP
+adler|NP ai|NN stratton|NP im|NP neil|NP js|NP matthews|NP dr|NP ca|NP wright|NP ad|NN turner|NP rc|NP holman|NP rr|NP
+association|NN systolic blood|NN pressure|NN macrovascular microvascular complication|NN type|NN diabete|NN prospective observational study|NN
+bmj|NP 2000321412-9|NP
+ai|NN fishwick|NP dt|NP g|NP
+advance|NN diabete|NN millennium|NN cure|NN diabete|NN
+rubino|NP f|NP m|NP
+potential|NN surgery|NN cure type|NN diabete|NN mellitus|NN
+ann|NP surg|NP
+shapiro|NP et|NP al|NP
+international trial|NN edmonton|NP protocol|NN transplantation|NN
+razavy yin|NP chan|NP f|NP
+afifiyan|NN jun|NP liu|NP wan|NP jason|NP hubert|NP tsui|NP lan|NN tang|NN sue|NP tsai|NP santamaria|NP john|NP p|NP
+driver|NN david|NP serreze|NP michael|NP w|NP
+salter|NP h|NP
+sensory neuron|NN control|NN
+cell|NN stress|NN inflammation|NN diabete|NN
+lindström|NP j|NP p|NP m|NP s|NP j|NP k|NP h|NP p|NP s|NP m|NP mannelin m|NN m|NP j|NP valle|NP t|NP m|NP j|NP
+sustain reduction|NN incidence|NN type|NN diabete|NN lifestyle|NN intervention|NN follow-up|NN finnish diabete|NN prevention|NN study|NN
+w|NP e|NP fowler|NP s|NP r|NP j|NP walker|NP e|NP nathan|NP d|NP
+reduction|NN incidence|NN type|NN diabete|NN lifestyle|NN intervention|NN metformin|NN
+n|NP engl|NP j|NP med|NP
+kjeldsen|NP se|NP julius|NP s|NP g|NP mcinnes|NP gt|NP hua|NP t|NP weber|NP ma|NP coca|NP s|NP k|NP p|NP macdonald|NP tm|NP re|NP ma|NP p|NP r|NP j|NP value|NN trial|NN investigator|NN
+effect|NN valsartan|NN compare amlodipine|NN prevent type|NN diabete|NN high-risk hypertensive patient|NN value|NN trial|NN
+rich-edward willett|NP wc|NN manson|NP je|NP michels|NP kb|NN
+duration|NN lactation|NN incidence|NN type|NN diabete|NN
+dubois|NP hfw|NP bankauskaite|NP v|NP
+type|NN diabete|NN programme|NN europe|NP pdf|NP
+euro observer|NN
+american diabete|NN association|NN
+total prevalence|NN diabete|NN
+edit external link|NN american diabete|NN association|NN diabete|NN canadian diabete|NN association|NN diet|NN nutrition|NN prevention|NN chronic disease|NN diabete|NN joint whofao|NN expert|NN consultation|NN summary|NN
+center|NN disease|NN control|NN diabete|NN section|NN diabete|NN uk|NP diabete|NN health|NN institute|NN iacocca|NP foundation|NN international diabete|NN federation|NN juvenile|NN diabete|NN research|NN foundation|NN diabete|NN
+national library|NN medicine|NN national diabete|NN information|NN national diabete|NN education|NN program|NN world|NN health|NN organization|NN fact|NN sheet|NN diabete|NN world|NN health|NN organization|NN diabete|NN programme|NN immunology|NN diabete|NN society|NN
+art5ehtml text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

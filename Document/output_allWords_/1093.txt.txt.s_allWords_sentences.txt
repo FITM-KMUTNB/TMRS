@@ -1,0 +1,80 @@
+phenylketonuria phenylketonuria|NN external resource|NN e700|NN omim|NN 9987|NN emedicine ped1787|NN c10228140163100687 phenylketonuria|NN ipa|NP uk|NP
+human genetic disorder|NN body|NN contain enzyme|NN phenylalanine|NN necessary phenylalanine|NN tyrosine|NN convert phenylalanine instead acid|NN
+left untreate phenylpyruvic|NN acid|NN cause brain|NN damage|NN progressive mental retardation|NN result|NN accumulation|NN
+incidence|NN occurrence|NN pku|NN birth|NN incidence|NN vary widely different human population|NN birth|NN population|NN ireland|NP birth|NN population|NN finland|NP phenylketonuria|NP exist mice|NN extensively use experiment|NN correct treatment|NN
+content|NN history|NN defect|NN large neutral amino|NN acid|NN transporter|NN clinical feature|NN therapy|NN maternal phenylketonuria|NN inheritance|NN see reference|NN external link|NN edit history|NN discover norwegian physician|NN flling|NN notice hpa|NN associate mental retardation|NN
+norway|NP disorder|NN known disease|NN name discoverer|NN dr|NP
+physician|NN apply detail chemical analysis|NN study|NN disease|NN
+careful analysis|NN urine|NN retard sible|NN led request physician|NN oslo|NP test urine|NN retard patient|NN
+led discovery|NN substance|NN found patient|NN
+substance|NN found subject basic rudimentary chemical analysis|NN available today
+conduct test|NN found reaction|NN gave rise|NN benzaldehyde|NN acid|NN led conclude compound|NN contain benzene|NN ring|NN
+further test|NN show melt|NN point|NN acid|NN indicate substance|NN urine|NN
+careful science|NN inspire pursue similar meticulous painstake research|NN disorder|NN
+edit|NN defect|NN classical pku|NN cause defective gene|NN enzyme|NN phenylalanine|NN
+rarer form|NN disease|NN occur normal defect|NN biosynthesis|NN recycle|NN cofactor|NN bh4|NN patient|NN enzyme|NN normally convert amino|NN acid|NN phenylalanine|NN tyrosine|NN
+due faulty miss enzyme|NN reaction|NN take place|NN level|NN phenylalanine|NN body|NN far higher normal level|NN tyrosine|NN lower normal
+simplify pathway|NN phenylalanine metabolism|NN edit|NN large neutral amino|NN acid|NN transporter|NN large neutral amino|NN acid|NN compete transport|NN blood|NN brain|NN barrier|NN excessive phenylalanine|NN blood|NN saturate large neutral amino|NN acid|NN transporter|NN carry lnaa|NN bbb|NN excessive level|NN phenylalanine|NN significantly decrease level|NN lnaa|NN brain|NN
+amino|NN acid|NN require protein|NN neurotransmitter|NN synthesis|NN reduce protein|NN neurotransmitter|NN synthesis|NN disrupt brain|NN development|NN children|NN lead mental retardation|NN
+biosynthesis|NP neurotransmitter|NN tyrosine|NN biosynthesis|NN neurotransmitter|NN serotonin|NN low level|NN tyrosine|NN lead lower production|NN pigment|NN melanin|NN children|NN condition|NN tend fairer hair|NN greener eye|NN member|NN family|NN
+excess phenylalanine|NN convert instead phenylketone|NN excret urine|NN name|NN condition|NN
+phenylketone|NN produce phenylketonuria|NN phenylacetate phenyllactate
+sweat|NN urine|NN affect child|NN low-protein diet|NN musty odour|NN due phenylacetate|NN
+edit clinical feature|NN children|NN classic phenylketonuria|NN normal birth|NN fail attain early developmental milestone|NN develop microcephaly demonstrate progressive impairment|NN cerebral function|NN
+seizure|NN severe mental retardation|NN major clinical problem|NN later life|NN
+abnormality|NN mousy odor|NN skin|NN hair|NN urine|NN due accumulation|NN tendency|NN hypopigmentation|NN eczema|NN complete devastate clinical picture|NN
+contrast|NN affect children|NN detect treate birth|NN likely develop neurological problem|NN seizure|NN mental retardation|NN clinical disorder|NN possible
+edit|NN therapy|NN condition|NN diagnose early affect newborn grow normal brain|NN development|NN eate special diet|NN low phenylalanine|NN rest|NN life|NN
+require severely restrict eliminate food|NN high phenylalanine|NN breast|NN milk|NN meat|NN chicken|NN fish|NN nut|NN cheese|NN dairy|NN product|NN
+food|NN potatoe|NN bread|NN pasta|NN corn|NN monitor
+diet|NN food|NN diet|NN soft drink|NN contain sweetener|NN aspartame|NN avoid aspartame|NN metabolize constituent|NN chemical|NN phenylalanine
+supplementary formulae|NN use patient|NN provide amino|NN acid|NN necessary nutrient|NN otherwise lack protein|NN free diet|NN
+patient|NN deficit|NN production|NN pah|NN low affinity|NN treatment|NN consist give cofactor|NN supplement|NN refer responsive pku|NN
+number|NN potential therapy|NN currently investigation|NN gene|NN therapy|NN injectable form|NN
+likely year|NN available use|NN affect individual|NN
+edit maternal phenylketonuria|NN phenylketonuria|NN inherit autosomal recessive fashion|NN women|NN pku|NN essential health|NN child|NN maintain low phenylalanine level|NN pregnancy|NN develop fetus|NN carrier|NN pku gene|NN intrauterine environment|NN high level|NN phenylalanine|NN cross placenta|NN
+result|NN child|NN develop congenital heart|NN disease|NN growth|NN retardation|NN mental retardation|NN women|NN risk|NN additional complication|NN pregnancy|NN directly result|NN disorder|NN
+country|NN women|NN pku|NN wish children|NN advise lower blood|NN phenylalanine|NN level|NN become pregnant carefully control phenylalanine level|NN pregnancy|NN
+achieve perform regular blood|NN test|NN adher strictly diet|NN generally monitor day-to-day basis|NN specialist|NN metabolic dietitian|NN
+low phenylalanine level|NN maintain duration|NN pregnancy|NN elevate level|NN risk|NN birth|NN defect|NN compare baby|NN born non-pku mother|NN edit|NN inheritance|NN autosomal recessive genetic disorder|NN parent|NN defective allele|NN gene|NN pah|NN child|NN inherit defective allele|NN parent|NN
+possible parent|NN pku phenotype|NN child|NN pku|NN parent|NN possess functional allele|NN gene|NN
+child|NN parent|NN pku phenotype|NN alway receive defective allele|NN alway pku
+gene|NN pah|NN locate chromosome|NN location|NN
+edit see deficiency|NN edit|NN reference|NN
+g|NP kwok|NP s|NP
+m|NP ledley|NP f|NP
+d|NP marvit|NP j|NP woo s|NP
+molecular structure|NN polymorphic map|NN human phenylalanine|NN gene|NN
+guldberg|NP p|NP k|NP
+f|NP sipila f|NP de|NP la|NP chapelle|NP
+phenylketonuria low incidence|NN population|NN molecular characterization|NN mutation|NN finland|NP
+j|NP park|NP e|NP
+s|NP kang|NP s|NP jo|NP jung s|NP
+enzymatic|NN correction|NN phenylketonuria mouse|NN model|NN virus|NN gene|NP transfer|NN
+ueber von|NP den|NN als|NP mit imbezillitaet|NN
+centerwall|NP s|NP
+centerwal w|NN
+discovery|NN phenylketonuria|NN story|NN young couple|NN retard children|NN scientist|NN
+surtees|NP r|NP n|NP
+neurochemistry|NN phenylketonuria|NN
+european journal|NN s109-13|NN
+j|NP r|NP mayatepek e|NN rate|NN d|NP boesch|NP c|NP bremer|NP h|NP
+large neutral amino|NN acid|NN block|NN phenylalanine|NN transport|NN brain|NN tissue|NN patient|NN phenylketonuria|NN
+journal|NN clinical investigation|NN
+michals|NP k|NP r|NP
+metabolite|NN attention|NN span|NN hyperactivity|NN
+american journal|NN clinical nutrition|NN
+lee|NP pj|NP d|NP walker|NP jh|NP cockburn|NP f|NP
+maternal phenylketonuria|NN report|NN unit kingdom|NN registry|NN
+archive|NN disease|NN childhood|NN
+rouse|NP b|NP b|NP koch|NP r|NP r|NP hanley|NP w|NP de|NP la|NP cruz|NP f|NP f|NP friedman|NP e|NP h|NP
+maternal phenylketonuria|NN collaborative study|NN offspr|NN facial anomaly|NN malformation|NN early neurological sequelae|NN
+american journal|NN medical genetics|NN
+genetics|NN louisiana|NP family|NN
+phenylalanine|NN gene|NN summary|NN retrieve september|NP edit|NN external link|NN description|NN diagram|NN national pku|NN new|NN european society|NN pku|NN ally disorder|NN recent primary literature|NN phenylketonuria|NN international wiky article|NN link|NN
+international pku|NN discussion|NN board|NN article|NN event|NN recipe|NN
+british national society|NN pku exchange|NN diet|NN management|NN tool|NN forum|NN information|NN pku patient|NN
+arta1ihtml text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

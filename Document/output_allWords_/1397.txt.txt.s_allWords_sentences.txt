@@ -1,0 +1,55 @@
+haemophilia hemophilia|NN external resource|NN emedicine med3528|NN name|NN hereditary genetic illness|NN impair body ability|NN control|NN bleed impairment|NN known technically bleed diathesis|NN
+genetic deficiency|NN rare autoimmune|NN disorder|NN cause lower plasma|NN clote|NN factor|NN activity|NN compromise|NN blood|NN vessel|NN injure scab|NN form vessel|NN continue bleed excessive period|NN time|NN
+bleed|NN external skin|NN broken scrape|NN cut|NN abrasion|NN internal muscle|NN joint|NN hollow organ|NN
+result|NN visible eg skin|NN bruise|NN subtle eg hematuria bleed brain|NN
+content|NN history|NN form|NN genetics|NN structure|NN probability|NN treatment|NN external link|NN edit history|NN record|NN hemophilia|NN talmud|NP jewish holy text|NN state male|NN circumcise brother|NN dy procedure|NN
+century|NN arab physician|NN wrote family|NN male|NN dy bleed|NN minor injury|NN
+john|NP conrad|NP otto|NP philadelphia|NP physician|NN wrote account|NN haemorrhagic disposition|NN exist certain family|NN
+recognize disorder|NN hereditary affect male|NN rarely female|NN
+able trace disease|NN back|NN woman|NN settle plymouth|NP
+usage|NN term|NN haemophilia|NN appear description|NN condition|NN written hopff|NN university|NN zurich|NP taylor|NP doctor|NN harvard|NP discover globulin|NN
+pavlosky doctor|NN buenos|NP aires|NP found hemophilia|NP b|NP separate disease|NN lab|NN test|NN
+test|NN transfer blood|NN hemophiliac|NN hemophiliac|NN
+fact|NN correct clote|NN problem|NN show form|NN
+see main article|NN haemophilia|NN european royalty|NN figure prominently history|NN european royalty|NN sometime known royal disease|NN
+queen|NP victoria|NP pass mutation|NN son|NN leopold|NP daughter|NN various royal|NN continent|NN royal family|NN spain|NP germany|NP russia|NP
+tsarevich|NP alexei|NP son|NN nicholas|NP descendant|NN queen|NP victoria|NP suffer
+edit|NN form|NN factor|NN deficiency|NN classic haemophilia|NN recessive haemophilia|NN factor|NN deficiency|NN christma|NN disease|NN recessive c|NP factor|NN xi|NN deficiency|NN ashkenazy jew|NN recessive unrelate type|NN type|NN von|NP willebrand|NN disease|NN milder haemophilia|NN type|NN von|NP willebrand|NN disease|NN express severity|NN similar haemophilia vwd|NN cause mutation|NN coagulation|NN protein|NN von|NP willebrand|NP factor|NN
+common coagulation|NN disorder|NN present|NN population|NN
+edit|NN genetics|NN structure|NN female|NN possess x-chromosome|NN male|NN chromosome|NN
+mutation|NN cause disease|NN recessive woman|NN carry defect|NN x-chromosome|NN affect equivalent allele|NN chromosome|NN express produce necessary clote|NN factor|NN
+y-chromosome|NN men|NN gene|NN factor|NN
+gene|NN responsible production|NN factor|NN factor|NN present|NN male|NN deficient equivalent|NN y-chromosome|NN deficient gene|NN mask dominant allele|NN develop illness|NN
+male|NN receive single x-chromosome|NN mother|NN son|NN healthy female|NN silently carry deficient gene|NN chance|NN inherit gene|NN disease|NN mother|NN affect haemophilia|NN chance|NN haemophiliac|NN
+contrast|NN female|NN inherit disease|NN receive deficient x-chromosome|NN mother|NN father|NN therefore haemophiliac|NN
+haemophilia|NN far common male|NN female|NN
+possible female carrier|NN become mild haemophiliacs|NN due lyonisation|NN chromosome|NN
+daughter|NN common improve treatment|NN disease|NN allow haemophiliac|NN male|NN survive adulthood|NN become parent|NN
+adult|NN female|NN experience heavy period|NN due bleed tendency|NN
+genetic disorder|NN course|NN possible human|NN acquire spontaneously de novo|NN inherit new mutation|NN parent|NN gamete|NN
+spontaneous mutation|NN account|NN
+hemophilia|NN hemophilia|NN case|NN
+genetic test|NN genetic counsel|NN recommend family|NN
+test|NN amniocentesis|NN available pregnant women|NN carrier|NN condition|NN
+edit|NN probability|NN female|NN give birth|NN haemophiliac|NN child|NN carrier|NN disease|NN
+modern direct dna|NN test|NN impossible determine female|NN healthy children|NN carrier|NN
+generally healthy son|NN bore higher probability|NN carrier|NN
+factor|NN born male|NN different mother|NN child|NN affect
+estimate united|NP states|NP population|NN suffer
+edit|NN treatment|NN cure|NN hemophilia|NN control regular injection|NN deficient clote|NN factor|NN ie factor|NN haemophilia|NN factor|NN haemophilia|NN
+haemophiliacs|NN develop antibody|NN inhibitor|NN replacement|NN factor|NN give amount|NN factor|NN increase non-human replacement|NN product|NN give porcine factor|NN
+patient|NN become refractory replacement|NN coagulation|NN factor|NN result|NN circulate inhibitor|NN overcome recombinant human factor|NN register indication|NN country|NN
+western country|NN common standard|NN care|NN fall|NN category|NN prophylaxis|NN on-demand|NN
+involve infusion|NN clote|NN factor|NN regular schedule|NN order|NN keep clote|NN level|NN sufficiently high prevent spontaneous bleed episode|NN
+treatment|NN involve treate bleed episode|NN arise
+direct result|NN contamination|NN blood|NN supply|NN late viruse|NN hepatitis|NN hiv|NP new method|NN develop production|NN clote|NN factor|NN product|NN
+initial response|NN heat|NN treat|NN factor|NN concentrate follow development|NN monoclonal factor|NN concentrate|NN use combination|NN heat|NN treatment|NN affinity|NN chromatography|NN inactivate viral agent|NN pool plasma|NN factor|NN concentrate|NN derive
+lindsay|NP tribunal|NN ireland|NP investigate thing|NN slow adoption|NN new method|NN
+mary|NP nugent|NP recombinant factor|NN product|NN typically culture chinese hamster|NN ovary|NN tissue|NN culture|NN cell|NN involve little human plasma|NN product|NN become available widely use wealthier western country|NN
+recombinant clote|NN factor|NN product|NN offer higher purity|NN safety|NN like concentrate extremely expensive generally available develop world|NN
+case|NN factor|NN product|NN sort|NN difficult obtain develop country|NN
+edit external link|NN immune tolerance|NN induction|NN patient|NN haemophilia|NN inhibitor|NN national foundation|NN health|NN science|NN medicine|NN hematological malignancy|NN white blood|NN cell|NN lymphocytic lymphoma|NN disease|NN lpd|NN multiple myeloma|NN myeloid myelogenous|NN mpd|NP essential thrombocytosis|NN md|NN red blood|NN cell|NN hemochromatosis|NN disease|NN aplastic|NN g6pd deficiency|NN spherocytosis|NN elliptocytosis|NN hemoglobinopathy|NN platelet|NN deep vein|NN thrombosis|NN pulmonary embolism|NN ttp|NN retrieve|NN
+arta2nhtml text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

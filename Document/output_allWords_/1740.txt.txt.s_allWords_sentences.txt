@@ -1,0 +1,334 @@
+tuberculosis|NN tuberculosis|NN tuberculosis|NN external resource|NN chest|NN x-ray|NN patient|NN advance pulmonary tuberculosis|NN
+010-018|NN diseasesdb|NN 000077|NN med2324 emerg618|NN c01252410040552846 tuberculosis|NN abbreviate tb|NN bacillus|NN common deadly infectious disease|NN cause mycobacterium mycobacterium|NN tuberculosis|NN mycobacterium|NN commonly affect lung|NN pulmonary tb|NN affect central nervous system|NN lymphatic system|NN circulatory system|NN genitourinary system|NN bone|NN joint|NN
+world|NN population|NN tb|NN bacterium|NN body|NN new infection|NN occure rate|NN second|NN infect develop disease|NN asymptomatic latent tb|NN infection|NN common
+latent infection|NN progress active tb|NN disease|NN left untreate kill victim|NN
+people|NN active tb|NN new case|NN death|NN mostly develop country|NN
+rise number|NN people|NN develop world|NN contract|NN tuberculosis|NN immune system|NN compromise immunosuppressive drug|NN substance|NN abuse|NN hivaid|NN
+rise|NN hiv|NP infection|NN level|NN neglect|NN tb|NN control|NN program|NN cause resurgence|NN tuberculosis|NN
+strain|NN tb|NN emerge spread case|NN resistant standard treatment|NN resistant second-line drug|NN world|NN health|NN organization|NN declare tb|NN global health|NN emergency|NN stop|NN tb|NN partnership|NN propose global plan|NN stop|NN tuberculosis|NN aim save live|NN content|NN name|NN symptom|NN bacterial specy|NN transmission|NN diagnosis|NN progression|NN treatment|NN prevention|NN vaccine|NN epidemiology|NN history|NN infection|NN animal|NN see reference|NN further read|NN external link|NN edit name|NN past tuberculosis|NN call consumption|NN seem consume people|NN bloody cough|NN fever|NN pallor|NN long relentless wast|NN
+name|NN include greek|NN consumption|NN pulmonalis|NN affect lymphatic system|NN result swollen neck|NN gland|NN tb|NN abdomen|NN vulgaris|NN tb|NN skin|NN wast disease|NN white plague|NN sufferer|NN appear markedly pale king|NN evil believe king|NN touch|NN heal potts|NP disease|NN gibbus|NN spine|NN joint|NN tb|NN archaic term|NN occasionally use infection|NN invade circulatory system|NN result x-ray lesion|NN appearance|NN millet|NN seed|NN form|NN tb|NN commonly name disseminate tb|NN
+edit|NN symptom|NN further information|NN tuberculosis|NN classification|NN patient|NN tb|NN become active disease|NN case|NN affect lung|NN disease|NN call pulmonary tb|NN
+symptom|NN include productive prolong cough|NN week|NN duration|NN chest|NN pain|NN cough|NN blood|NN
+systemic symptom|NN include fever|NN chill|NN night|NN sweat|NN appetite|NN loss|NN weight|NN loss|NN pale|NN easy infection|NN spread lung|NN site|NN include pleura central nervous system|NN meningitis|NN lymphatic system|NN scrofula|NN neck|NN genitourinary system|NN tuberculosis|NN bone|NN joint|NN potts|NP disease|NN spine|NN
+especially serious form|NN disseminate tuberculosis|NN
+form|NN common immunosuppress person|NN young children|NN
+infectious pulmonary tb|NN co-exist tb|NN contagious edit|NN bacterial specy|NN scan electron|NN micrograph|NN mycobacterium|NN tuberculosis|NN
+cause|NN tuberculosis|NN mycobacterium|NN tuberculosis|NN mtb|NP slow-grow aerobic bacterium|NN divide hour|NN extremely slow compare bacteria|NN division|NN time|NN measure minute|NN contrast|NN fastest grow bacteria|NN strain|NN e|NN coly|NN divide roughly minute|NN
+mtb|NP phospholipid outer membrane|NN classify gram-positive bacteria|NN
+gram|NN stain|NN perform mtb|NP stain weakly retain dye|NN due high lipid content|NN cell|NN wall|NN mtb|NP small rod-like|NN bacillus|NN withstand weak disinfectant|NN survive dry state|NN week|NN
+normally bacteria|NN grow host|NN organism|NN culture|NN m|NN tuberculosis|NN take long time|NN develop routine|NN laboratory|NN procedure|NN mtb|NP identify microscopically stain|NN characteristics|NN retain certain stain|NN treate acidic solution|NN classify acid-fast bacillus|NN afb|NP common stain|NN technique|NN ziehl-neelsen stain|NN afb|NP stain bright red|NN stand clearly blue background|NN
+bacilly|NN visualize fluorescent microscopy|NN auramine-rhodamine stain|NN
+m|NN tuberculosis|NN complex|NN include mycobacteria|NN cause tuberculosis|NN m|NN m|NP m|NP microti|NP
+rare cause|NN disease|NN people|NN m|NN microty|NN usually pathogenic possible prevalence|NN m|NP infection|NN underestimate pathogenic mycobacteria|NN known mycobacterium|NN mycobacterium|NN avium|NN m|NN
+part|NN group|NN define mycobacteria|NN
+mycobacteria|NN mycobacteria|NN part|NN m|NP tuberculosis|NN complex|NN cause leprosy|NN cause pulmonary disease|NN resemble tuberculosis|NN edit|NN transmission|NN tb|NN spread aerosol|NN droplet|NN expel people|NN active disease|NN lung|NN cough sneeze|NN speak spit
+infectious droplet|NN m|NN diameter|NN 40000|NN produce single sneeze|NN people|NN prolong frequent intense contact|NN highest risk|NN becom infect estimate infection|NN rate|NN
+person|NN untreate active tuberculosis|NN infect people|NN year|NN risk|NN include area|NN tb|NN common patient|NN condition|NN resident|NN employee|NN high-risk congregate set|NN health|NN care|NN worker|NN serve high-risk client|NN medically serve low-income population|NN high-risk racial ethnic minority|NN population|NN children|NN expose adult|NN high-risk category|NN people|NN inject illicit drug|NN transmission|NN occur people|NN latent tb|NN disease|NN
+probability|NN transmission|NN person|NN depend quantity|NN infectious droplet|NN expel patient|NN effectiveness|NN ventilation|NN duration|NN exposure|NN virulence|NN mycobacterium|NN tuberculosis|NN strain|NN chain|NN transmission|NN therefore broken isolate patient|NN active disease|NN start effective anti-tuberculous therapy|NN
+edit mycobacterium|NN tuberculosis|NN stain red|NN sputum|NN
+infect mycobacterium|NN tuberculosis|NN asymptomatic latent tb|NN infection|NN sometime call lifetime|NN chance|NN latent infection|NN progress tb|NN disease|NN
+untreate death|NN rate|NN active tb|NN case|NN tb|NN infection|NN begin mycobacteria|NN reach pulmonary alveoly|NN invade replicate alveolar macrophage|NN primary site|NN infection|NN lung|NN call ghon focus|NN
+bacteria|NN pick dendritic cell|NN allow replication|NN cell|NN transport bacilly|NN local mediastinal lymph|NN node|NN
+further spread|NN bloodstream|NN distant tissue|NN organ|NN secondary tb|NN lesion|NN develop lung|NN peripheral lymph|NN node|NN kidney|NN brain|NN bone|NN tuberculosis|NN classify granulomatous inflammatory condition|NN
+macrophages|NP t|NP lymphocyte|NN lymphocyte|NN fibroblast|NN cell|NN aggregate|NN form granuloma|NN lymphocyte|NN surround infect macrophage|NN
+granuloma function|NN prevent dissemination|NN mycobacteria|NN provide local environment|NN communication|NN cell|NN immune system|NN
+granuloma|NN lymphocyte|NN secrete cytokine|NN interferon|NN gamma|NN activate macrophage|NN destroy bacteria|NN infect t|NP lymphocyte|NN directly kill infect cell|NN importantly bacteria|NN alway eliminate granuloma|NN become dormant result latent infection|NN
+feature|NN granuloma|NN human tuberculosis|NN development|NN cell|NN death|NN call necrosis|NN center|NN
+nake eye|NN texture|NN soft white cheese|NN term necrosis|NN tb|NN bacteria|NN gain|NN entry|NN bloodstream|NN area|NN damage tissue|NN spread body|NN set|NN focy|NN infection|NN appear tiny white tubercle|NN tissue|NN
+severe form|NN tb|NN disease|NN common infant|NN elderly call tuberculosis|NN
+patient|NN disseminate tb|NN fatality|NN rate|NN approximately even intensive treatment|NN patient|NN infection|NN waxe|NN wane|NN
+tissue|NN destruction|NN necrosis|NN balance heal|NN fibrosis|NN affect tissue|NN replace scare|NN cavity|NN fill white necrotic material|NN
+active disease|NN cavity|NN join air|NN passage|NN bronchy|NN material|NN cough
+contain live bacteria|NN therefore pass infection|NN
+treatment|NN appropriate antibiotics|NN kill bacteria|NN allow heal|NN take place|NN
+cure|NN affect area|NN eventually replace scar|NN tissue|NN edit|NN diagnosis|NN skin|NN test|NN
+tuberculosis|NN difficult disease|NN diagnose mainly difficulty|NN culture slow-grow organism|NN laboratory|NN
+complete medical evaluation|NN tb|NN include medical history|NN chest|NN x-ray|NN physical examination|NN
+tuberculosis|NN radiology|NN use diagnosis|NN tb|NN
+include tuberculin skin|NN test|NN serological test|NN microbiological smear|NN culture|NN
+interpretation|NN tuberculin skin|NN test|NN depend person|NN risk|NN factor|NN infection|NN progression|NN tb|NN disease|NN exposure|NN case|NN tb|NN immunosuppression|NN currently latent infection|NN diagnose non-immunize person|NN tuberculin skin|NN test|NN yield delay hypersensitivity|NN type|NN response|NN purify protein|NN derivative|NN m|NN tuberculosis|NN
+immunize|NN tb|NN infection|NN respond parallel delay hypersensitivity|NN currently state|NN infection|NN use caution|NN particularly regard|NN person|NN country|NN tb|NN immunization|NN common new tb|NN test|NN develop offer|NN hope|NN cheap fast accurate tb|NN test|NN
+use|NN polymerase|NN chain|NN reaction|NN detection|NN bacterial dna|NN antibody|NN assay|NN detect release|NN interferon|NN gamma|NN response|NN mycobacteria|NN rapid cheap diagnosis|NN particularly valuable develop world|NN
+edit|NN progression|NN progression|NN tb|NN infection|NN tb|NN disease|NN occur tb|NN bacilly|NN overcome immune system|NN begin multiply
+primary tb|NN occur soon infection|NN
+majority|NN case|NN latent infection|NN occur obvious symptom|NN
+dormant bacilly|NN produce tuberculosis|NN latent case|NN year|NN infection|NN risk|NN reactivation|NN increase|NN immunosuppression|NN cause infection|NN hiv|NP
+patient|NN m|NP tuberculosis|NN hiv|NP risk|NN reactivation|NN increase|NN year|NN condition|NN increase|NN risk|NN include drug|NN injection|NN mainly life|NN style|NN iv drug|NN user|NN recent tb|NN infection|NN history|NN inadequately treate tb|NN chest|NN x-ray|NN suggestive previous tb|NN show lesion|NN nodule|NN diabete|NN mellitus|NN prolong corticosteroid therapy|NN immunosuppressive therapy|NN head|NN neck|NN cancer|NN disease|NN disease|NN kidney|NN disease|NN intestinal bypass|NN gastrectomy|NN chronic mal-absorption|NN syndrome|NN low body|NN weight|NN drug|NN rheumatoid arthritis|NN drug|NN work|NN block tumor|NN necrosis|NN inflammation-cause cytokine|NN raise risk|NN activate latent infection|NN due importance|NN cytokine|NN immune defense|NN tb|NN edit|NN treatment|NN treatment|NN tb|NN use|NN antibiotics|NN kill bacteria|NN
+antibiotics|NN commonly use rifampicin isoniazid
+treatment|NN difficult short course|NN antibiotics|NN use cure bacterial infection|NN long period|NN treatment|NN month|NN need entirely eliminate mycobacteria|NN body|NN latent tb|NN treatment|NN usually use single antibiotic|NN active tb|NN disease|NN best treate combination|NN antibiotics|NN reduce risk|NN bacteria|NN develop antibiotic|NN resistance|NN people|NN latent infection|NN treate prevent progress active tb|NN disease|NN later life|NN
+treatment|NN use rifampin|NN risk-free
+center|NN disease|NN control|NN prevention|NN cdc|NP notify healthcare|NN professional|NN revise recommendation|NN use|NN rifampin|NN pyrazinamide|NN treatment|NN latent tuberculosis|NN infection|NN due high rate|NN hospitalization|NN death|NN liver|NN injury|NN associate combine use|NN drug|NN drug|NN resistant tuberculosis|NN transmit way|NN regular tb|NN
+primary resistance|NN occur person|NN infect resistant strain|NN tb|NN
+patient|NN tb|NN develop secondary resistance|NN acquire resistance|NN tb|NN therapy|NN inadequate treatment|NN take prescribe regimen|NN appropriately use low quality|NN medication|NN tb|NN public health|NN issue|NN develop country|NN treatment|NN longer require expensive drug|NN
+resistant tb|NN mdr-tb|NN define resistance|NN effective line|NN tb|NN drug|NN
+drug-resistant tb|NN xdr-tb|NN resistant class|NN second-line drug|NN edit prevention|NN tb|NN prevention|NN control|NN take parallel approache|NN
+people|NN tb|NN contact|NN identify treate
+identification|NN infection|NN involve test|NN high-risk group|NN tb|NN
+approach|NN children|NN vaccinate protect tb|NN
+unfortunately vaccine|NN available provide reliable protection|NN adult|NN
+tropical area|NN incidence|NN atypical mycobacteria|NN high exposure|NN mycobacteria|NN give protection|NN tb|NN edit|NN vaccine|NN country|NN use bcg|NP vaccine|NN part|NN tb|NN control|NN program|NN especially infant|NN
+vaccine|NN tb|NN develop pasteur|NN institute|NN france|NP mass vaccination|NN bcg|NP start world|NN war|NN protective efficacy|NN bcg|NP prevent serious form|NN tb|NN eg meningitis|NN children|NN greater protective efficacy|NN prevent pulmonary tb|NN adolescent|NN adult|NN variable|NN rang south|NP africa|NP country|NN highest prevalence|NN tb|NN bcg|NP give children|NN age|NN effectiveness|NN bcg|NP lower area|NN mycobacteria|NN prevalent therefore bcg|NP give entire population|NN country|NN
+usa|NP example|NN bcg|NP vaccine|NN recommend people|NN meet specific criteria|NN infant|NN children|NN negative skin-test result|NN continually expose untreate ineffectively treate patient|NN continually expose tb|NN
+healthcare|NN worker|NN consider individual basis|NN set|NN high percentage|NN mdr-tb patient|NN found transmission|NN mdr-tb|NN likely tb|NN control|NN precaution|NN implement successful
+new vaccine|NN prevent tb|NN infection|NN develop
+recombinant tuberculosis|NN vaccine|NN enter clinical trial|NN united|NP states|NP sponsor national institute|NN allergy|NN infectious disease|NN study|NN show dna|NN tb|NN vaccine|NN give conventional chemotherapy|NN accelerate disappearance|NN bacteria|NN well protect re-infection|NN mice|NN take year|NN available human|NN tb|NN vaccine|NN currently phase|NN trial|NN mva85a trial south|NP africa|NP group|NN led oxford|NP university|NN base genetically modify vaccinia|NN virus|NN
+limitation|NN current vaccine|NN researcher|NN policymaker|NN promote new economic model|NN vaccine|NN development|NN prize|NN tax|NN incentive|NN advance|NN market|NN commitment|NN edit epidemiology|NN annual number|NN new report tb|NN case|NN
+data|NN world|NN tb|NN incidence|NN
+case|NN red|NP orange|NN yellow 100-200|NN green|NN grey
+data|NN world|NN health|NN organization|NN nearly peopleonethird|NN world|NN tuberculosis|NN people|NN become ill tuberculosis|NN people|NN die disease|NN worldwide people|NN active tb|NN disease|NN new case|NN
+annual incidence|NN rate|NN vary africa|NP americas|NP tuberculosis|NN world|NN greatest infectious killer|NN women|NN reproductive age|NN lead cause|NN death|NN people|NN hivaid|NN country|NN highest incidence|NN tb|NN south|NP africa|NP case|NN people|NN
+india|NP largest number|NN infection|NN case|NN develop country|NN tuberculosis|NN common mainly urban disease|NN
+unit kingdom|NN tb|NN incidence|NN range|NN london|NP rural south|NN west|NN england|NP national average|NN
+highest rate|NN western europe|NP portugal|NP spain|NP
+rate|NN compare china|NP brazil|NP
+united|NP states|NP overal tuberculosis|NN case|NN rate|NN person|NN incidence|NN tb|NN vary age|NN
+africa|NP tb|NN primarily affect adolescent|NN young adult|NN country|NN tb|NN gone high low incidence|NN america|NP tb|NN mainly disease|NN older people|NN number|NN known factor|NN make people|NN susceptible tb|NN infection|NN worldwide important hiv|NP
+co-infection hiv|NP particular problem|NN sub-saharan|NP africa|NP due high incidence|NN hiv|NP country|NN smoke|NN cigarette|NN day|NN increase risk|NN tb|NN two-|NN edit|NN history|NN decay|NN found spine|NN egyptian mummy|NN
+picture egyptian mummy|NN british museum|NN
+tuberculosis|NN present human|NN antiquity|NN
+earliest unambiguous detection|NN mycobacterium|NN tuberculosis|NN remain|NN bison|NN date year|NN present|NN tuberculosis|NN originate cattle|NN transfer human|NN diverge common ancestor|NN currently unclear skeletal remain|NN show prehistoric human|NN bce|NP tb|NN tubercular decay|NN found spine|NN egyptian mummy|NN 3000-2400|NP bce|NP greek term|NN tuberculosis|NN bce|NP hippocrates|NP identify phthisis widespread disease|NN time|NN involve cough|NN blood|NN fever|NN alway fatal genetic study|NN suggest tb|NN present americas|NP year|NN ce|NN industrial revolution|NN tuberculosis|NN sometime regard
+member|NN family|NN dy member|NN infect lose health|NN slowly
+people|NN believe cause original victim|NN drain life|NN family|NN member|NN
+furthermore people|NN tb|NN exhibit symptom|NN similar people|NN consider vampire|NN trait|NN
+people|NN tb|NN symptom|NN red swollen eye|NN create sensitivity|NN bright light|NN pale skin|NN cough|NN blood|NN suggest idea|NN way|NN afflict replenish loss|NN blood|NN suck blood|NN folk|NN belief|NN attribute force nightly attend fairy|NN revel victim|NN wast ow lack|NN rest|NN belief|NN commonest strong connection|NN seen fairy|NN dead similarly commonly attribute victim|NN hagriddenbe transform horse|NN witche|NN hag|NN travel nightly meet|NN result lack|NN rest|NN establish pulmonary form|NN associate tubercle|NN dr|NP richard|NP morton|NP due variety|NN symptom|NN tb|NN identify single disease|NN name tuberculosis|NN j|NP
+schönlein year|NN dr|NP
+john|NP croghan owner|NN mammoth cave|NN brought number|NN tuberculosis|NN sufferer|NN cave|NN hope|NN cure disease|NN constant temperature|NN purity|NN cave|NN air|NN dy year|NN tb|NN sanatorium|NN open
+owsko|NP poland|NP hermann|NP dr|NP
+robert|NP koch|NP discover tuberculosis|NN bacilly|NN
+bacillus|NN cause tuberculosis|NN mycobacterium|NN tuberculosis|NN identify describe march|NP robert|NP koch|NP
+receive nobel|NP prize|NN physiology|NN medicine|NN discovery|NN koch|NP believe bovine cattle|NN human tuberculosis|NN similar delay recognition|NN infect milk|NN source|NN infection|NN
+later source|NN eliminate pasteurization process|NN
+koch|NP announce glycerine|NN extract|NN tubercle|NN bacilly|NN remedy|NN tuberculosis|NN call|NN tuberculin
+effective later adapt test|NN tuberculosis|NN genuine success|NN immunize|NN tuberculosis|NN develop attenuate bovine-strain tuberculosis|NN albert|NP camille|NP guerin|NP
+call bcg|NP bacillus|NN calmette|NN guerin|NP
+bcg|NP vaccine|NN use human|NN france|NP wasnt world|NN war|NN bcg|NP receive widespread acceptance|NN usa|NP great|NP britain|NP germany|NP tuberculosis|NN consumption|NN commonly known cause widespread public concern|NN early century|NN endemic disease|NN urban poor
+death|NN england|NP consumption|NN death|NN france|NP cause tb|NN
+establishment|NN disease|NN contagious tb|NN made notifiable disease|NN britain|NP campaign|NN stop spit public place|NN infect poor encourage enter resemble prison|NN sanatoria|NN middle|NN upper class|NN offer excellent care|NN constant medical attention|NN purport benefit|NN fresh air|NN labor|NN sanatoria|NN even best condition|NN enter dead year|NN public health|NN campaign|NN try halt spread|NN tb|NN
+promotion|NN christma|NN seal|NN began denmark|NP way|NN raise money|NN tuberculosis|NN program|NN
+expand united|NP states|NP canada|NP 1907-08|NP help national tuberculosis|NN association|NN later call american lung|NN association|NN
+united|NP states|NP concern|NN spread|NN tuberculosis|NN play role|NN movement|NN prohibit public spit|NN
+europe|NP death|NN tb|NN fell
+improvement|NN public health|NN reduce tuberculosis|NN even arrival|NN antibiotics|NN disease|NN remain significant threat|NN public health|NN medical research|NN council|NN form britain|NP initial focus|NN tuberculosis|NN research|NN development|NN antibiotic|NN streptomycin|NN effective treatment|NN cure|NN became possible
+prior introduction|NN drug|NN treatment|NN sanatoria|NP surgical intervention|NN pneumothorax|NN infect lung|NN rest|NN allow lesion|NN technique|NN little benefit|NN largely discontinue emergence|NN tb|NN introduce surgery|NN part|NN treatment|NN infection|NN
+surgical removal|NN chest|NN cavity|NN reduce number|NN bacteria|NN lung|NN well increase exposure|NN remain bacteria|NN drug|NN bloodstream|NN therefore thought increase effectiveness|NN chemotherapy|NN hope|NN disease|NN completely eliminate dash rise|NN drug-resistant strain|NN
+example|NN tuberculosis|NN case|NN britain|NP number|NN fallen confirm case|NN
+citation|NN need elimination|NN public health|NN facility|NN new|NP york|NP emergence|NN hiv|NP resurgence|NN late number|NN fail complete course|NN drug|NN high
+ny|NP cope unnecessary tb-patient|NN multidrug-resistant strain|NN resistant
+resurgence|NN tuberculosis|NN result declaration|NN global health|NN emergency|NN world|NN health|NN organization|NN edit|NN infection|NN animal|NN tuberculosis|NN carry mammal|NN domesticate specy|NN cat|NN dog|NN generally free tuberculosis|NN wild animal|NN carrier|NN
+place|NN regulation|NN aim prevent spread|NN tb|NN restrict ownership|NN novelty|NN pet|NN example|NN state|NN california|NP forbid ownership|NN pet|NN gerbil|NN mycobacterium|NN cause tb|NN cattle|NN
+effort|NN eradicate bovine tuberculosis|NN cattle|NN deer|NN herd|NN new|NP zealand|NP underway
+found herd|NN infection|NN likely area|NN infect vector|NN specy|NN australian brush-tail|NN come contact|NN domestic livestock|NN border|NN control vector|NN possum|NN eradication|NN monitor level|NN disease|NN livestock|NN herd|NN regular surveillance|NN seen two-prong approach|NN ride new|NP zealand|NP disease|NN
+republic|NN ireland|NP unit kingdom|NN badger|NN identify vector|NN specy|NN transmission|NN bovine tuberculosis|NN
+result|NN government|NN mount active campaign|NN eradication|NN badger|NN purpose|NN reduce incidence|NN bovine tb|NN
+badger|NN cull primarily snare|NN gass|NN
+effectiveness|NN cull|NN incidence|NN tb|NN cattle|NN contentious issue|NN proponent|NN opponent|NN cite study|NN support position|NN edit|NN see atc|NN code|NN drug|NN treatment|NN tb|NN ulcer|NN leprosy|NN disease|NN cause mycobacteria|NN latent tuberculosis|NN list|NN tuberculosis|NN victim|NN mycobacterium|NN tuberculosis|NN structural genomics|NN consortium|NN national center|NN hiv|NP std|NN tb|NN prevention|NN mycobacteria|NN tuberculosis|NN history|NN art|NN philip|NP darcy|NP hart|NP edit|NN reference|NN
+world|NN health|NN organization|NN
+tuberculosis|NN fact|NN sheet|NN n104|NN global regional incidence|NN
+march|NP october|NP
+center|NN disease|NN control|NN cdc|NP
+emergence|NN mycobacterium|NN tuberculosis|NN extensive resistance|NN second-line drug|NN worldwide
+weekly march|NP
+world|NN health|NN organization|NN
+stop tb|NN partnership|NN
+retrieve october|NP
+tuberculosis|NN edition|NN encyclopedia|NN
+list|NN archaic medical term|NN english glossary|NN archaic medical term|NN disease|NN cause|NN death|NN
+tuberculosis|NN nih|NN medical encyclopedia|NN
+center|NN disease|NN control|NN prevention|NN cdc|NP division|NN tuberculosis|NN elimination|NN
+core|NN curriculum|NN tuberculosis|NN clinician|NN know edition|NN
+updated|NP aug|NP
+cox|NP ra|NP
+quantitative relationship|NN specific growth|NN rate|NN macromolecular composition|NN mycobacterium|NN tuberculosis|NN a32|NN escherichia|NP coly|NN br|NP integrative theoretical approach|NN
+madison|NP b|NP
+application|NN stain|NN clinical microbiology|NN
+parish|NN t|NP stoker|NP
+bug|NN step|NN forward step|NN back|NN
+biotechnol dec|NP
+madison|NP bm|NP
+application|NN stain|NN clinical microbiology|NN
+histochem may763119-25|NN
+niemann|NP s|NP richter|NP e|NP h|NP schlesinger|NP h|NP d|NP b|NP g|NP u|NP s|NP
+case|NN mycobacterium|NN derive tuberculosis|NN immunocompetent patient|NN
+emerg sep-oct65539-42|NN
+diagnosis|NN treatment|NN disease|NN cause mycobacteria|NN
+official statement|NN american thoracic|NN society|NN am|NP j|NP care|NN med
+cole|NP ec|NP cook|NP ce|NP
+characterization|NP infectious aerosol|NN health|NN care|NN facility|NN aid|NN effective engineer|NN control|NN preventive strategy|NN
+am|NP j|NP control|NN
+griffith|NP de|NP kerr|NP cm|NN
+tuberculosis|NN disease|NN past disease|NN present
+j|NP perianesth|NP
+phillip|NP rook|NP graham|NP
+world|NN health|NN organization|NN disease|NN watch|NN focus|NN tuberculosis|NN
+en|NP nguyen|NP l|NP j|NP
+interaction|NN pathogenic mycobacteria|NN host|NN immune system|NN
+opin|NN feb9176-85|NN
+jl|NN ph|NN
+cell|NN mycobacterium|NN tuberculosis|NN trojan horse|NN
+pathol paris|NP
+kaufmann|NP sh|NP
+protection|NN tuberculosis|NN cytokine|NN t|NP cell|NN macrophage|NN
+ann|NP rheum nov61|NN
+mycobacterium|NN tuberculosis|NN extracellular compartment|NN underestimate adversary|NN
+kim|NP park|NN kim|NP kang|NP sb|NP shin|NN park|NN choi|NP bw|NP
+tuberculosis|NN acute respiratory distress|NN syndrome|NN
+int j|NP tuberc|NN lung|NN apr74359-64|NN
+rothel|NP js|NP andersen|NP p|NP
+diagnosis|NN latent mycobacterium|NN tuberculosis|NN infection|NN demise|NN mantoux test|NN imminent
+expert|NN rev|NP anty infect|NN
+nahid|NP p|NP m|NP hopewell|NP pc|NN
+advance|NN diagnosis|NN treatment|NN tuberculosis|NN
+proc|NP am|NP soc|NP 200631103-10|NP
+parrish|NP n|NP dick|NP j|NP w|NP
+mechanism|NN latency|NN mycobacterium|NN tuberculosis|NN
+mutlu|NP gm|NP ea|NP rubinstein|NP
+pulmonary adverse event|NN necrosis|NN antibody|NN therapy|NN
+am|NP j|NP med|NP
+tuberculosis|NN management|NN prevention|NN
+respir|NN jun92104-12|NN
+update|NN adverse event|NN data|NN revise american thoracic|NN recommendation|NN use|NN rifampin|NN pyrazinamide|NN treatment|NN latent tuberculosis|NN states|NP weekly august|NP
+fine pe|NN floyd|NP s|NP stanford|NP nkhosa|NP p|NP chaguluka|NP s|NP dk|NP jenkins|NP pa|NN yates|NP m|NP jm|NP
+environmental mycobacteria|NN northern malawi|NP implication|NN epidemiology|NN tuberculosis|NN leprosy|NN
+infect jun1263379-87|NN
+experimental stable|NN bcg|NP vaccine|NN safety|NN efficacy|NN proof|NN standard|NN
+stud|NP hist|NP biol|NP biomed|NP
+international tuberculosis|NN campaign|NN pioneer venture|NN mass vaccination|NN research|NN
+clin sep193528-40|NN
+bannon|NP mj|NP
+bcg|NP tuberculosis|NN
+arch|NN dis|NN child|NN
+review|NN national immunization|NN coverage|NN south|NP africa|NP
+national institute|NN allergy|NN infectious disease|NN
+tuberculosis|NN trial|NN year|NN begin
+national institute|NN health|NN new|NN january|NP
+sj|NP youn|NP ji|NP kim|NP cho|NP sung|NP
+protective effect|NN dna|NN vaccine|NN chemotherapy|NN reactivation|NN reinfection|NN mycobacterium|NN tuberculosis|NN
+ibanga|NP hb|NP brookes|NP hill|NP pc|NP et|NP al|NP
+early clinical trial|NN new tuberculosis|NN vaccine|NN tuberculosis-endemic country|NN issue|NN study|NN design|NN
+lancet|NN 6852228|NN
+webber|NP david|NP kremer|NP michael|NP
+industrial rd|NN infectious disease|NN economic perspective|NN pdf|NP
+bulletin|NN world|NN health|NN organization|NN pp|NN
+barder|NP owen|NP kremer|NP michael|NP williams|NP heidi|NP
+advance market|NN commitment|NN policy|NN investment|NN vaccine|NN neglect disease|NN economist|NN voice vol|NN issue|NN
+world|NN health|NN organization|NN
+global tuberculosis|NN control|NN surveillance|NN plan|NN finance|NN report|NN
+retrieve october|NP
+national institute|NN allergy|NN infectious disease|NN
+microbe sickness|NN health|NN october|NP
+retrieve october|NP
+world|NN health|NN organization|NN nearly people|NN world|NN population|NN tb|NN
+center|NN disease|NN control|NN
+fact|NN sheet|NN tuberculosis|NN united|NP states|NP march|NP october|NP
+stop tb|NN partnership|NN
+london|NP tuberculosis|NN rate|NN world|NN proportion|NN
+pr|NP newswire|NP europe|NP ltd december|NP
+retrieve october|NP
+notification|NN rate|NN tuberculosis|NN nhs|NP regional office|NN area|NN regional trend|NN office|NN national statistics|NN october|NP
+world|NN health|NN organization|NN
+global tuberculosis|NN control|NN report|NN annex|NN profile|NN high-burden country|NN
+pdf|NP retrieve october|NP
+center|NN disease|NN control|NN prevention|NN cdc|NP surveillance|NN slide|NN set|NN
+september|NP retrieve|NN october|NP
+davies|NP yew|NN ww|NP ganguly|NP d|NP et|NP al|NP
+smoke|NN tuberculosis|NN epidemiological association|NN pathogenesis|NN
+trans|NP r|NP soc|NP med|NP
+rothschild|NP bm|NP martin|NP ld|NP lev|NP g|NP h|NP bar-gal|NP greenblatt|NP c|NP donoghue|NP h|NP m|NP brittain|NP d|NP
+mycobacterium|NN tuberculosis|NN complex|NN dna|NN extinct bison|NN date year|NN present
+clin aug|NP
+pearce-duvet|NP jm|NP
+origin|NN human pathogen|NN evaluate role|NN agriculture|NN domestic animal|NN evolution|NN human disease|NN
+biol|NP rev|NP camb|NP soc|NP
+sola|NP c|NP u|NP w|NP n|NP wolf|NP h|NP
+characterization|NP mycobacterium|NP tuberculosis|NN complex|NN dna|NN egyptian mummy|NN
+j|NP clin|NP
+konomi|NP n|NP e|NP mowbray|NP k|NP zhang d|NP
+detection|NN mycobacterial dna|NN andean mummy|NN
+j|NP clin|NP
+sledzik|NP paul|NP s|NP nicholas|NP bellantoni|NP evidence|NN new|NP england|NP vampire|NN folk|NN belief|NN
+am|NP j|NP phys|NP
+katharine|NP briggs|NP encyclopedia|NN fairy|NN consumption|NN pantheon|NN book|NN
+isbn|NP 0-394-73467-x|NP
+lon|NP charles|NP albert|NP
+retrieve october|NP
+trail|NN rr|NP
+richard|NP morton|NP
+med hist|NN
+zur der|NP impetigines|NP
+aus einer|NN den|NN
+müllers|NP archiv|NP anatomie|NP und|NP wissenschaftliche|NP page|NN
+kentucky|NP mammoth|NP cave|NP long history|NN
+cnn|NP february|NP
+key|NN sanatoria|NN
+j|NP r|NP soc|NP med|NP
+nobel|NP foundation|NN
+nobel|NP prize|NN physiology|NN medicine|NN
+waddington|NP k|NP
+stamp terrible malady|NN bovine tuberculosis|NN test|NN britain|NP
+med hist|NN
+medical research|NN council|NN
+origin|NN mrc|NP
+wolfart|NP w|NP
+surgical treatment|NN tuberculosis|NN modifications--collapse therapy|NN resection|NN treatment|NN present-day sequelae|NN article|NN german offentl|NN
+ug|NN r|NP
+recent advance|NN medical surgical treatment|NN tuberculosis|NN
+opin|NN med|NP
+paolo|NP wf|NP jr|NP jd|NP
+tuberculosis|NN new|NP york|NP city|NN recent lesson|NN look|NN
+lancet|NN may45287-93|NN
+world|NN health|NN organization|NN
+frequently ask question|NN tb|NN hiv|NP
+ca|NP adc|NP barclays|NP official|NN california|NP code|NN regulation|NN title|NN
+natural resource|NN division|NN
+fish|NP game|NN commission|NN department|NN fish|NN game|NN
+general regulation|NN chapter|NN
+tweddle|NP ne|NN livingstone|NP p|NP
+tuberculosis|NN control|NN eradication|NN program|NN australia|NP new|NP zealand|NP
+vet|NN may401-223-39|NN
+department|NN agriculture|NN food|NN ireland|NP
+disease|NN scheme|NN tuberculosis|NN brucellosis|NN
+cassidy|NP martin|NP
+badger|NN target bovine tb|NN
+bbc|NP new|NN december|NP
+national federation|NN badger|NN group|NN ireland|NP
+cattle|NN blame massive increase|NN bovine tb|NN
+edit further read|NN hm|NP leonard|NP mk|NP jr|NP rm|NP
+update treatment|NN tuberculosis|NN latent tuberculosis|NN infection|NN
+15941808|NN thomas|NP
+white death|NN history|NN tuberculosis|NN
+new|NP york|NP university|NN press|NN
+isbn|NP joint tuberculosis|NN committee|NN british thoracic|NN society|NN
+control|NN prevention|NN tuberculosis|NN unit kingdom|NN code|NN practice|NN
+pmid kidder|NP tracy|NP
+mountain|NN mountains|NP quest|NN dr|NP
+paul|NP farmer|NP man|NN cure|NN world|NN
+random house|NN
+isbn|NP 0-8129-7301-1|NP
+nonfiction account|NN treate tb|NN haiti|NP peru|NP elsewhere
+lawlor|NP clark|NP
+consumption|NN literature|NN make|NN romantic disease|NN
+basingstoke|NP uk|NP
+isbn|NP 0-230-02003-8|NP b|NP yew|NN ww|NP albert|NP r|NP c|NP w|NP martinez|NP angus|NP dc|NP abraham|NP e|NP
+tuberculosis|NN lung|NN infection|NN pleural disorder|NN pulmonary function|NN respiratory muscle|NN occupational lung|NN disease|NN pulmonary infection|NN social issue|NN ajrccm|NN
+am|NP j|NP care|NN med mar|NP
+edit external link|NN resource|NN center|NN
+database|NN mycobacterium|NN tuberculosis|NN genome|NN sequence|NN relate information|NN
+center|NN disease|NN control|NN prevention|NN cdc|NP division|NN tuberculosis|NN elimination|NN
+core|NN curriculum|NN tuberculosis|NN clinician|NN know edition|NN
+updated|NP aug|NP
+center|NN disease|NN control|NN prevention|NN cdc|NP division|NN tuberculosis|NN elimination|NN
+new|NN update|NN
+center|NN disease|NN control|NN prevention|NN cdc|NP division|NN tuberculosis|NN elimination|NN
+question|NN answer|NN tb|NN
+tuberculosis|NN open directory|NN project|NN kaiser|NN family|NN foundation|NN
+nobel|NP price|NP
+tuberculosis|NN educational game|NN united|NP states|NP agency|NN international development|NN usaid|NP
+tuberculosis|NN coalition|NN technical assistance|NN
+walton|NP david|NP farmer|NP paul|NP
+new white plague|NN
+world|NN health|NN organization|NN
+stop tb|NN partnership|NN
+artnshtml text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

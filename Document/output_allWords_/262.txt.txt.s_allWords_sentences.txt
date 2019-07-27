@@ -1,0 +1,171 @@
+syndrome|NN syndrome|NN syndrome|NN external resource|NN philip|NP baker|NP adult|NN syndrome|NN
+visible picture|NN restraint|NN philips|NP chair|NN use control involuntary movement|NN
+e791|NN omim|NN 7415|NN emedicine|NN syndrome|NN ln|NN rare inherit disorder|NN cause deficiency|NN enzyme|NN hprt|NN
+x-link recessive disease|NN gene|NN carry mother|NN pass son|NN
+present birth|NN baby|NN boy|NN
+patient|NN severe mental physical problem|NN life|NN
+lack|NN hprt|NN cause build-up|NN uric acid|NN body|NN fluid|NN lead|NN problem|NN severe gout|NN poor muscle|NN control|NN moderate mental retardation|NN appear year|NN life|NN
+strike feature|NN ln|NN behavior|NN characterize lip|NN finger|NN bite begin year|NN life|NN
+high uric acid|NN level|NN cause sodium|NN crystal|NN form|NN joint|NN kidney|NN central nervous system|NN tissue|NN body|NN lead swell|NN joint|NN severe kidney|NN problem|NN
+neurological symptom|NN include facial grimace involuntary writh|NN repetitive movement|NN arm|NN leg|NN similar seen disease|NN
+direct cause|NN neurological abnormality|NN remain unknown
+lack|NN hprt|NN cause body|NN poorly utilize vitamin|NN boy|NN develop rare disorder|NN call
+symptom|NN cause buildup|NN uric acid|NN arthritis|NN renal symptom|NN respond well treatment|NN drug|NN reduce level|NN uric acid|NN blood|NN
+mental deficit|NN behavior|NN respond treatment|NN
+cure|NN patient|NN live adulthood|NN
+rare affect live birth|NN
+describe dr|NP
+michael|NP lesch|NP dr|NP
+william|NP nyhan|NP
+content|NN feature|NN overproduction|NN uric acid|NN nervous system|NN impairment|NN behavior|NN female|NN diagnosis|NN diagnostic approach|NN test|NN genetics|NN stress|NN treatment|NN history|NN note|NN reference|NN external link|NN edit feature|NN characterize major hallmark|NN dysfunction|NN cognitive behavioral disturbance|NN well uric acid|NN overproduction|NN
+afflict macrocytic|NN
+virtually patient|NN male male victim|NN suffer delay growth|NN puberty|NN develop shrunken testicle|NN testicular atrophy|NN
+female carrier|NN increase risk|NN arthritis|NN usually otherwise unaffect
+edit|NN overproduction|NN uric acid|NN symptom|NN disease|NN presence|NN sand-like crystal|NN uric acid|NN diaper|NN affect infant|NN
+overproduction|NP uric acid|NN lead development|NN uric acid|NN crystal|NN stone|NN kidney|NN bladder|NN
+crystal|NN deposit joint|NN later disease|NN produce arthritis|NN swell|NN tenderness|NN
+uric acid|NN molecule|NN overproduction|NN uric acid|NN present birth|NN recognize routine|NN clinical laboratory|NN test|NN method|NN
+serum|NN uric acid|NN concentration|NN normal excess purine|NN promptly eliminate urine|NN
+crystal|NN usually appear orange grainy material|NN coalesce form multiple tiny stone|NN distinct large stone|NN difficult pass
+stone|NN calculy|NN usually cause blood|NN urine|NN increase risk|NN urinary tract|NN infection|NN
+victim|NN suffer kidney|NN damage|NN due kidney|NN stone|NN
+stone|NN present feature|NN disease|NN go undetect month|NN even year|NN
+edit nervous system|NN impairment|NN period|NN surround birth|NN typically normal individual|NN
+common present feature|NN abnormally decrease muscle|NN tone|NN developmental delay|NN evident month|NN age|NN
+affect individual|NN late sit crawl walk
+lack|NN speech|NN common trait|NN associate
+notice along sign|NN nervous system|NN impairment|NN
+year|NN life|NN involvement|NN cause|NN abnormal involuntary muscle|NN contraction|NN loss|NN motor|NN control|NN writh motion|NN arch|NN spine|NN
+sign|NN pyramidal system|NN involvement|NN spasticity|NN overactive reflexe|NN plantar reflexe|NN occur
+resemblance|NN cerebral palsy|NN apparent neurologic aspect|NN
+result|NN individual|NN initially diagnose cerebral palsy|NN
+motor|NN disability|NN extensive individual|NN walk|NN confine wheelchair|NN life|NN
+edit behavior|NN person|NN affect cognitively impair disturbance|NN emerge year|NN age|NN
+uncontrollable self-injury|NN associate usually begin year|NN age|NN
+self-injury|NN begin bite|NN lip|NN tongue|NN disease|NN progress affect individual|NN frequently develop finger|NN bite head bang|NN
+self-injury|NN increase time|NN stress|NN
+distinguish characteristic|NN disease|NN apparent affect male|NN
+majority|NN individual|NN cognitively impair easy determine behavioral disturbance|NN motor|NN deficit|NN associate syndrome|NN
+way|NN behavior|NN seen psychological extension|NN compulsion|NN cause|NN self-injury|NN reject desire treat|NN travel|NN repay kindness|NN coldness|NN rage|NN fail answer|NN test|NN question|NN correctly study|NN desire|NN succee provoke anger|NN caregiver|NN affection|NN desire
+compulsive behavior|NN occur aggressiveness|NN vomit|NN spit|NN involuntary swear|NN coprolalia|NN
+development|NN type|NN behavior|NN sometime seen year|NN early childhood|NN develop later life|NN
+edit|NN ln|NN female|NN carrier|NN female|NN generally asymptomatic experience increase|NN uric acid|NN excretion|NN develop symptom|NN hyperuricemia|NN suffer gout|NN later year|NN
+test|NN context|NN clinical consequence|NN reveal possibility|NN transmit trait|NN male children|NN
+women|NN require test|NN male child|NN develop
+instance|NN negative test|NN mean son|NN disease|NN result|NN new mutation|NN risk|NN sible|NN increase
+female|NN carry copy|NN defective gene|NN asymptomatic carrier|NN chance|NN pass disease|NN son|NN
+order|NN female|NN affect need copy|NN mutate gene|NN inherit father|NN
+male|NN affect ln|NN usually children|NN due debilitate effect|NN disease|NN
+possible female|NN inherit chromosome|NN unaffect father|NN carry new mutation|NN hprt gene|NN
+circumstance|NN girl|NN born ln|NN report|NN happen|NN rare
+overwhelm majority|NN patient|NN ln|NN male
+edit|NN diagnosis|NN affect individual|NN fully develop clinical element|NN uric acid|NN overproduction|NN dysfunction|NN cognitive behavioral disturbance|NN diagnosis|NN ln|NN easily made
+difficulty|NN diagnosis|NN abundant early stage|NN feature|NN obvious
+suspicion|NN come developmental delay|NN individual|NN associate
+otherwise diagnosis|NN alleg developmental delay|NN associate kidney|NN stone|NN blood|NN urine|NN cause uric acid|NN stone|NN
+part|NN syndrome|NN suspect self-inflict injury|NN behavior|NN develop
+behavior occur condition|NN nonspecific mental retardation|NN autism|NN syndrome|NN cornelia|NP de|NP lange|NP syndrome|NN syndrome|NN familial sensory neuropathy|NN hereditary sensory neuropathy|NN type|NN psychiatric condition|NN
+individual|NN syndrome|NN de|NP lange|NP syndrome|NN familial dysautonomia|NN display|NN loss|NN tissue|NN consequence|NN
+bite finger|NN lip|NN definitive feature|NN syndrome|NN syndrome|NN associate self-injury|NN behavior|NN usually consist head|NN bang|NN nonspecific self-mutilation|NN bite cheek|NN lip|NN finger|NN
+syndrome|NN ought clearly consider behavior|NN take place|NN conjunction|NN hyperuricemia|NN neurological dysfunction|NN
+edit diagnostic approach|NN urate|NN creatinine|NN breakdown|NN product|NN creatine phosphate|NN muscle|NN concentration|NN ratio|NN urine|NN elevate
+good indicator|NN acid|NN overproduction|NN
+children|NN year|NN age|NN syndrome|NN urate|NN creatinine|NN ratio|NN typically found
+urate excretion|NN mgkg|NN typical diagnostic
+serum|NN uric acid|NN concentration|NN mgdl|NN present reliable diagnosis|NN
+activity|NN hprt enzyme|NN cell|NN type|NN tissue|NN eg blood|NN culture fibroblast|NN normal enzyme|NN activity|NN confirm diagnosis|NN syndrome|NN
+edit|NN test|NN interaction|NN mrna|NN eukaryote cell|NN
+use|NN biochemical test|NN detection|NN carrier|NN technically demand use
+biochemical analyse|NN perform hair|NN bulb|NN risk|NN women|NN small number|NN false positive false negative outcome|NN
+suspect carrier|NN female|NN available mutation|NN test|NN appropriate grow lymphocyte|NN 6-thioguanine|NN purine analogue|NN allow hprt-deficient cell|NN survive
+mutant|NN frequency|NN 05-50|NN 10-2|NN found carrier|NN female|NN non-carrier female|NN frequency|NN 1-20|NN
+frequency|NN usually diagnostic
+exon|NN portion|NN dna|NN strand|NN encode specific portion|NN protein|NN
+organism|NN exon|NN situate intron|NN splice strand|NN export nucleus|NN code protein|NN part|NN
+molecular genetic test|NN effective method|NN test|NN hprt1|NN gene|NN known associate
+individual|NN display full lesch-nyhan|NN phenotype|NN mutation|NN hprt1 gene|NN
+sequence|NN analysis|NN mrna|NN available clinically utilize order|NN detect mutation|NN male|NN affect syndrome|NN
+technique|NN rt-pcr multiplex|NN genomic pcr|NP sequence|NN analysis|NN cdna|NN genomic dna|NN use diagnosis|NN genetic disease|NN perform research|NN basis|NN
+rt-pcr test|NN result|NN cdna|NN show absence|NN entire exon|NN exon|NN multiplex genomic pcr|NP test|NN perform
+genomic pcr|NP test|NN amplify exon|NN hprt1 gene|NN pcr|NP product|NN
+exon|NN question|NN delet correspond band|NN miss multiplex|NN pcr|NP
+exon|NN present exon|NN sequence identify mutation|NN therefore cause exclusion|NN exon|NN cdna|NN
+cdna|NN create rt-pcr multiplex|NN pcr|NP perform notion|NN gene|NN obliterate
+edit|NN genetics|NN ln|NN inherit x-link recessive fashion|NN
+due mutation|NN hprt1 gene|NN name code|NN enzyme|NN phosphoribosyltransferase|NN ec|NP 2428|NN
+enzyme|NN involve biochemical pathway|NN body|NN use produce purine|NN component|NN dna|NN rna|NN
+defect|NN enzyme|NN lead|NN increase production|NN uric acid|NN
+hprt gene|NN locate chromosome|NN ln|NN x-link inherit disease|NN
+father|NN affect male|NN carrier|NN mutant|NN allele|NN disease|NN
+obligate|NN carrier|NN woman|NN affect son|NN affect relative|NN maternal line|NN
+woman|NN family|NN affect son|NN rule|NN predict chance|NN carrier|NN chance|NN son|NN new germline|NN mutation|NN
+case|NN prediction|NN incorrect increase risk|NN mutation|NN arise father|NN compare mother|NN
+risk|NN sible|NN affect individual|NN depend carrier|NN status|NN mother|NN
+chance|NN give female|NN carrier|NN transmit hprt1 mutation|NN pregnancy|NN
+son|NN inherit mutation|NN affect daughter|NN inherit mutation|NN carrier|NN
+therefore pregnancy|NN carrier|NN female|NN chance|NN male|NN affect chance|NN female|NN carrier|NN chance|NN normal male|NN female|NN
+male|NN ln|NN reproduce due characteristics|NN disease|NN
+male|NN severe phenotype|NN reproduce daughter|NN carrier|NN son|NN affect
+edit|NN x-link disease|NN male|NN affect copy|NN chromosome|NN
+syndrome|NN defective gene|NN phosphoribosyltransferase|NN participant|NN purine metabolism|NN
+female carrier|NN second|NN chromosome|NN contain normal copy|NN hprt|NN prevent disease|NN develop increase risk|NN
+formation|NN dna|NN cell|NN division|NN require molecule|NN build|NN block|NN dna|NN
+purine|NN adenine|NN guanine|NN pyrimidine|NN thymidine|NN cytosine|NN bound deoxyribose|NN phosphate|NN incorporate necessary
+normally nucleoside|NN synthetize de novo|NN amino|NN acid|NN precursor|NN
+small part|NN generate degrade dna|NN broken-down cell|NN
+term salvage|NN pathway|NN
+salvage|NN enzyme|NN purine|NN channel adenosine|NN hypoxanthine form|NN guanine back|NN dna|NN synthesis|NN
+failure|NN enzyme|NN result|NN cell|NN breakdown|NN product|NN reuse therefore degrade
+give rise|NN increase uric acid|NN purine breakdown|NN product|NN
+de|NP novo|NN pathway|NN stimulate excess|NN prpp|NN simply
+known neurological abnormality|NN ln|NN due uric acid|NN relative shortage|NN new purine|NN essential step|NN
+polymorphism enzyme|NN de|NP novo|NN pathway|NN contribute disease|NN case|NN uric acid|NN main cause|NN symptom|NN
+various mutation|NN hprt|NN known
+mutation|NN mildly decrease enzyme|NN function|NN normally cause increase susceptibility|NN gout|NN nephrolithiasis|NN
+edit stress|NN significantly uric acid|NN powerful reduce substance|NN
+single important extracellular antioxidant account|NN roughly antioxidant ability|NN plasma|NN
+even partially substitute ascorbic acid|NN human evolution|NN
+strong reduce agent|NN uric acid|NN act prooxidant|NN particularly higher concentration|NN
+further oxidation|NN purine|NN oxidase|NN uric acid|NN produce reactive oxygen|NN specy|NN
+free radical|NN oxidative stress|NN reactive oxygen|NN specy|NN play role|NN etiology|NN syndrome|NN
+process|NN likely figure|NN hyperuricemia syndrome|NN dalmatian dog|NN respond orgotein veterinary formulation|NN bovine liver|NN superoxide|NN dismutase|NN
+additional experimental support|NN oxidative stress|NN
+likewise strong reduce substance|NN uric acid|NN form|NN charge|NN transfer|NN neuromelanin|NN pigment midbrain|NN structure|NN substantia nigra|NN locus|NN
+role|NN ln|NN unknown relate eg extrapyramidal symptom|NN
+edit|NN treatment|NN treatment|NN ln|NN symptomatic
+treate allopurinol|NN control excessive amount|NN uric acid|NN
+kidney|NN stone|NN treate lithotripsy|NN technique|NN break kidney|NN stone|NN use shock|NN wave|NN laser|NN beam|NN
+standard treatment|NN neurological symptom|NN
+relieve drug|NN diazepam|NN
+essential overproduction|NN uric acid|NN control order|NN reduce risk|NN nephropathy|NN arthritis|NN
+drug|NN allopurinol|NN utilize stop conversion|NN oxypurine|NN uric acid|NN prevent development|NN subsequent arthritic tophy|NN produce chronic gout|NN renal stone|NN known kidney|NN stone|NN nephropathy|NN result kidney|NN disease|NN
+taken orally typical dose|NN mgkg|NN day|NN
+dose|NN adjust bring uric acid|NN level|NN normal range|NN
+affect individual|NN treate life|NN
+medication|NN effective control extrapyramidal motor|NN feature|NN disease|NN
+reduce administration|NN baclofen|NN benzodiazepine|NN
+method|NN treatment|NN neurobehavioral aspect|NN disease|NN effective
+even children|NN treate birth|NN allopurinol|NN develop problem|NN high serum|NN concentration|NN uric acid|NN
+behavior|NN best manage combination|NN medical physical behavioral intervention|NN
+self-mutilation|NN reduce use restraint|NN
+percent|NN individual|NN teeth|NN extract order|NN avoid self-injury|NN family|NN found effective management|NN technique|NN
+stress|NN increase self-injury|NN management|NN aversive technique|NN normally reduce self-injury|NN actually increase self-injury|NN individual|NN
+nearly affect individual|NN need restraint|NN prevent self-injury|NN restrain time|NN
+request|NN occasionally involve restraint|NN appear ineffective physically prevent bite
+family|NN report affect individual|NN ease|NN restrain
+edit|NN prognosis|NN individual|NN ln|NN poor
+death|NN usually due renal failure|NN decade|NN life|NN
+edit|NN history|NN michael|NP lesch|NP medical student|NN johns|NP hopkins|NP hospital|NN bill|NN nyhan|NN faculty|NN member|NN identify ln|NN associate hyperuricemia|NN affect brother|NN age|NN lesch|NN nyhan|NN publish find|NN took year|NN metabolic cause|NN identify jay|NP colleague|NN nih|NN edit|NN note|NN
+recognition|NN syndrome|NN inborn error|NN metabolism|NN
+j|NP inher|NP 199720171-8|NN
+lesch|NP m|NP wl|NP
+familial disorder|NN uric acid|NN metabolism|NN central nervous system|NN function|NN
+am|NP j|NP med|NP
+seegmiller|NP je|NP rosenbloom|NP fm|NN kelley|NP wn|NP
+defect|NN associate sex-link human neurological disorder|NN excessive purine|NN synthesis|NN
+edit|NN reference|NN mendelian inheritance|NN man|NN omim|NN mendelian inheritance|NN man|NN cleveland|NP clinic|NN joseph|NP f|NP
+smith|NP medical library|NN nlm|NP leschnyhansyndrome|NP gene|NN disease|NN edit|NN external link|NN information|NN page|NN children|NN live metabolic disease|NN syndrome|NN registry|NN arc|NN national organization|NN mental retardation|NN national organization|NN rare disorder|NN national institute|NN child|NN health|NN human development|NN philip|NP baker|NN free radical|NN human disease|NN review|NN
+artap4html text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

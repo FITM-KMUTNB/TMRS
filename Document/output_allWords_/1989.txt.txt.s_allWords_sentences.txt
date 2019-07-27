@@ -1,0 +1,605 @@
+infarction|NN infarction|NN infarction|NN external resource|NN diagram|NN myocardial infarction|NN tip|NN anterior wall|NN heart|NN apical infarct|NN occlusion|NN branch|NN left coronary artery|NN right coronary artery|NN rca|NN
+diseasesdb|NN 000195|NN emerg327|NN acute myocardial infarction|NN amy|NN mi|NP commonly known heart|NN attack|NN disease|NN state|NN occur blood|NN supply|NN part|NN heart|NN interrupt
+result oxygen|NN shortage|NN cause damage|NN potential death|NN heart|NN tissue|NN
+medical emergency|NN lead cause|NN death|NN men|NN women|NN world|NN important risk|NN factor|NN previous history|NN vascular disease|NN atherosclerotic coronary heart|NN disease|NN angina|NN previous heart|NN attack|NN stroke|NN previous episode|NN abnormal heart|NN rhythm|NN syncope|NN older especially men|NN women|NN smoke|NN excessive alcohol|NN consumption|NN abuse|NN certain illicit drug|NN high triglyceride|NN level|NN elevate creatine troponin level|NN blood|NN high ldl|NN bad cholesterol|NN low hdl|NP good cholesterol|NN diabete|NN high blood|NN pressure|NN obesity|NN chronically high level|NN stress|NN certain person|NN
+term|NN myocardial infarction|NN derive myocardium|NN heart|NN muscle|NN infarction|NN tissue|NN death|NN due oxygen|NN starvation|NN
+phrase|NN heart|NN attack|NN sometime use incorrectly describe sudden cardiac death|NN result|NN acute myocardial infarction|NN
+classical symptom|NN acute myocardial infarction|NN include chest|NN pain|NN shortness|NN breath|NN nausea|NN vomit|NN palpitation|NN sweate|NN anxiety|NN feel|NN impend doom|NN
+patient|NN frequently feel suddenly ill
+women|NN experience different symptom|NN men|NN
+common symptom|NN mi|NP women|NN include shortness|NN breath|NN weakness|NN fatigue|NN
+approximately myocardial infarction|NN silent chest|NN pain|NN symptom|NN
+immediate treatment|NN suspect acute myocardial infarction|NN include oxygen|NN aspirin|NN trinitrate|NN pain|NN relief|NN
+patient|NN receive number|NN diagnostic test|NN electrocardiogram|NN ecg|NN chest|NN x-ray|NN blood|NN test|NN
+further treatment|NN include medication|NN break blood|NN clot|NN block blood|NN flow|NN heart|NN mechanically restor flow|NN dilatation|NN bypass|NN surgery|NN block coronary artery|NN
+coronary care|NN unit|NN admission|NN allow rapid safe treatment|NN complication|NN abnormal heart|NN rhythm|NN
+content|NN epidemiology|NN risk|NN factor|NN cause|NN classification|NN symptom|NN diagnosis|NN diagnostic criteria|NN physical examination|NN cardiac marker|NN aid|NN immediate care|NN automatic external defibrillation|NN emergency|NN service|NN wilderness|NN aid|NN air|NN travel|NN treatment|NN line|NN therapy|NN coronary intervention|NN coronary artery|NN bypass|NN surgery|NN monitor|NN arrhythmia|NN rehabilitation|NN secondary prevention|NN new therapy|NN investigation|NN complication|NN heart|NN failure|NN rupture|NN arrhythmia|NN shock|NN legal implication|NN see reference|NN external link|NN edit epidemiology|NN infarction|NN common presentation|NN heart|NN disease|NN
+estimate death|NN worldwide heart|NN disease|NN heart|NN disease|NN lead cause|NN death|NN develop country|NN aid|NN lower respiratory infection|NN develop country|NN united|NP states|NP disease|NN heart|NN lead cause|NN death|NN cause higher mortality|NN cancer|NN malignant coronary heart|NN disease|NN responsible death|NN
+7200000 men|NN 6000000 women|NN live form|NN coronary heart|NN disease|NN people|NN suffer new recurrent coronary attack|NN year|NN die result|NN attack|NN roughly mean second|NN american dy|NN coronary event|NN edit|NN risk|NN factor|NN risk factor|NN atherosclerosis|NN generally risk|NN factor|NN myocardial infarction|NN older age|NN male|NN need cigarette|NN smoke|NN accurately especially high low density|NN lipoprotein|NN low high density|NN lipoprotein|NN diabete|NN insulin|NN resistance|NN high blood|NN pressure|NN obesity|NN define body|NN mass|NN index|NN kgm2|NN alternatively waist|NN circumference|NN waist-hip|NN ratio|NN
+risk|NN factor|NN modifiable heart|NN attack|NN prevent maintain healthier lifestyle|NN
+physical activity|NN example|NN associate lower risk|NN profile|NN risk|NN factor|NN include age|NN gender|NN family|NN history|NN early heart|NN attack|NN age|NN thought reflect genetic predisposition|NN factor|NN shorter education|NN lower income|NN particularly women|NN live|NN partner|NN contribute risk|NN mi|NP understand epidemiological study|NN result important note factor|NN associate mi|NP mediate risk|NN factor|NN
+example|NN effect|NN education|NN partially base effect|NN income|NN marital status|NN women|NN use combine oral contraceptive pill|NN modestly increase risk|NN myocardial infarction|NN especially presence|NN risk|NN factor|NN smoke|NN inflammation|NN known important step|NN process|NN atherosclerotic plaque|NN formation|NN c-reactive protein|NN crp|NP sensitive non-specific marker|NN inflammation|NN
+elevated|NP crp|NP blood|NN level|NN especially measure high sensitivity|NN assay|NN predict risk|NN mi|NP well stroke|NN development|NN diabete|NN moreover drug|NN mi|NP reduce crp|NP level|NN use|NN high sensitivity|NN crp|NP assay|NN mean|NN screen general population|NN advise use optionally physician|NN discretion|NN patient|NN present risk|NN factor|NN known coronary artery|NN disease|NN crp|NP play direct role|NN atherosclerosis|NN remain uncertain inflammation|NN periodontal disease|NN link coronary heart|NN disease|NN common great consequence|NN public health|NN study|NN measure antibody|NN level|NN typical periodontitis-cause bacteria|NN found antibody|NN present subject|NN coronary heart|NN disease|NN tend increase blood|NN level|NN crp|NP fibrinogen|NN cytokine|NN mediate effect|NN mi|NP risk|NN risk|NN factor|NN research|NN suggest periodontal bacteria|NN promote aggregation|NN platelet|NN promote formation|NN foam|NN cell|NN role|NN specific periodontal bacteria|NN suggest remain establish hair|NN grey diagonal earlobe|NN crease|NN possibly skin|NN feature|NN independent risk|NN factor|NN mi|NP
+role|NN remain controversial common denominator|NN sign|NN risk|NN mi|NP suppose possibly genetic edit|NN section|NN cite reference|NN source|NN
+help introduce appropriate citation|NN
+myocardial infarction|NN occur atherosclerotic plaque|NN slowly build inner line|NN coronary artery|NN suddenly rupture totally artery|NN prevent blood|NN flow|NN downstream
+acute myocardial infarction|NN type|NN acute coronary syndrome|NN frequently alway manifestation|NN coronary artery|NN disease|NN
+common trigger|NN event|NN disruption|NN atherosclerotic plaque|NN epicardial coronary artery|NN lead clote|NN cascade|NN sometime result total occlusion|NN artery|NN
+gradual buildup|NN cholesterol|NN fibrous tissue|NN plaque|NN wall|NN artery|NN case|NN coronary artery|NN typically decade|NN
+blood|NN stream|NN column|NN irregularity|NN visible angiography|NN reflect artery|NN lumen|NN narrow|NN result|NN decade|NN advance atherosclerosis|NN
+become unstable rupture|NN additionally promote thrombus|NN blood|NN clot|NN occlude artery|NN occur minute|NN
+severe plaque|NN rupture|NN occur coronary vasculature|NN lead myocardial infarction|NN necrosis|NN downstream myocardium|NN
+impair blood|NN flow|NN heart|NN last long trigger process|NN call ischemic cascade|NN heart|NN cell|NN die chiefly necrosis|NN grow back
+collagen|NN scar|NN form|NN place|NN
+recent study|NN indicate form|NN cell|NN death|NN call apoptosis|NN play role|NN process|NN tissue|NN damage|NN subsequent myocardial infarction|NN result|NN patient|NN heart|NN permanently damage
+scar|NN tissue|NN put patient|NN risk|NN potentially life|NN threaten arrhythmia|NN
+injure heart|NN tissue|NN conduct electrical impulse|NN slowly normal heart|NN tissue|NN
+difference|NN conduction|NN velocity|NN injure uninjure tissue|NN trigger re-entry|NN feedback|NN loop|NN believe cause|NN lethal arrhythmia|NN
+serious arrhythmia|NN ventricular fibrillation|NN extremely fast chaotic heart|NN rhythm|NN lead cause|NN sudden cardiac death|NN
+life|NN threaten arrhythmia|NN ventricular tachycardia|NN cause sudden cardiac death|NN
+ventricular tachycardia|NN usually result|NN rapid heart|NN rate|NN prevent heart|NN pump|NN blood|NN effectively
+cardiac output|NN blood|NN pressure|NN fall dangerous level|NN particularly bad patient|NN experience acute myocardial infarction|NN
+cardiac defibrillator|NN device|NN specifically design terminate potentially fatal arrhythmia|NN
+device|NN work deliver electrical shock|NN patient|NN order|NN depolarize critical mass|NN heart|NN muscle|NN effect|NN heart|NN
+therapy|NN time|NN dependent odd|NN successful defibrillation|NN decline|NN rapidly onset|NN cardiopulmonary arrest|NN
+edit|NN cause|NN heart|NN attack|NN rate|NN higher association|NN intense exertion|NN psychological stress|NN physical exertion|NN especially exertion|NN intense individual|NN usually perform
+citation|NN need period|NN intense exercise|NN subsequent recovery|NN associate 6-fold|NN higher myocardial infarction|NN rate|NN compare relax time|NN frame|NN people|NN physically fit
+citation|NN need poor physical condition|NN rate|NN differential|NN higher
+citation|NN need observe mechanism|NN phenomenon|NN increase arterial pulse|NN pressure|NN stretch|NN relaxation|NN artery|NN heart|NN beat|NN observe ultrasound|NN increase mechanical shear stress|NN atheroma|NN likelihood|NN plaque|NN rupture|NN
+citation|NN need acute severe infection|NN pneumonia|NN trigger myocardial infarction|NN
+controversial link|NN pneumoniae infection|NN atherosclerosis|NN intracellular organism|NN demonstrate atherosclerotic plaque|NN evidence|NN inconclusive consider causative factor|NN
+citation|NN need treatment|NN antibiotics|NN patient|NN proven atherosclerosis|NN demonstrate decrease risk|NN heart|NN attack|NN coronary vascular disease|NN edit classification|NN acute myocardial infarction|NN type|NN acute coronary syndrome|NN frequently alway manifestation|NN coronary artery|NN disease|NN
+acute coronary syndrome|NN include st|NP segment|NN elevation|NN myocardial infarction|NN segment|NN elevation|NN myocardial infarction|NN unstable angina|NN ua|NP
+location|NN obstruction|NN coronary circulation|NN different zone|NN heart|NN become injure
+use anatomical term|NN location|NN describe anterior inferior lateral apical septal infarction|NN combination|NN anterolateral|NN example|NN occlusion|NN left anterior descend coronary artery|NN result anterior wall|NN myocardial infarct|NN distinction|NN mi|NP subendocardial affect inner half|NN heart|NN muscle|NN transmural damage entire wall|NN heart|NN inner part|NN heart|NN muscle|NN vulnerable oxygen|NN shortage|NN coronary artery|NN run inward epicardium|NN endocardium|NN blood|NN flow|NN heart|NN muscle|NN hinder heart|NN contraction|NN phrase|NN transmural subendocardial infarction|NN use consider synonymous q-wave|NN myocardial infarction|NN respectively base presence|NN absence|NN q|NN wave|NN ecg|NN
+show clear correlation|NN presence|NN q|NN wave|NN transmural infarction|NN absence|NN q|NN wave|NN subendocardial infarction|NN q|NN wave|NN associate larger infarction|NN lack|NN q|NN wave|NN associate smaller infarction|NN
+presence|NN absence|NN clinical importance|NN improve outcome|NN associate lack|NN q|NN wave|NN phrase|NN massive attack|NN official medical term|NN
+edit|NN symptom|NN rough diagram|NN pain|NN zone|NN myocardial infarction|NN dark|NN red|NN typical area|NN light|NN red|NN possible area|NN view|NN chest|NN
+back|NN view|NN
+onset|NN symptom|NN myocardial infarction|NN mi|NP usually gradual minute|NN rarely instantaneous chest|NN pain|NN common symptom|NN acute myocardial infarction|NN describe sensation|NN tightness|NN pressure|NN squeez|NN
+chest|NN pain|NN due ischemia lack|NN blood|NN oxygen|NN supply|NN heart|NN muscle|NN term angina|NN
+pain|NN radiate left arm|NN radiate lower jaw|NN neck|NN right|NN arm|NN back|NN epigastrium|NN mimic heartburn|NN
+group|NN symptom|NN compatible sudden interruption|NN blood|NN flow|NN heart|NN call acute coronary syndrome|NN condition|NN aortic dissection|NN pulmonary embolism|NN present chest|NN pain|NN consider differential diagnosis|NN
+shortness|NP breath|NN occur damage|NN heart|NN limit output|NN left ventricle|NN cause left ventricular failure|NN consequent pulmonary edema|NN
+symptom|NN include excessive form|NN sweate weakness|NN nausea|NN vomit|NN palpitation|NN
+loss|NN consciousness|NN even sudden death|NN occur myocardial infarction|NN poor prognostic indicator|NN
+women|NN experience different symptom|NN men|NN
+common symptom|NN mi|NP women|NN include weakness|NN fatigue|NN
+fatigue|NN sleep|NN disturbance|NN dyspnea|NN report frequently occure symptom|NN manifest long month|NN actual clinically manifest event|NN
+women|NN chest|NN pain|NN predictive coronary ischemia|NN men|NN approximately mi|NP patient|NN experience warn|NN symptom|NN chest|NN pain|NN prior infarction|NN approximately myocardial infarction|NN silent chest|NN pain|NN symptom|NN case|NN discover later electrocardiogram|NN autopsy|NN prior history|NN relate complaint|NN
+silent course|NN common elderly patient|NN diabete|NN mellitus|NN heart|NN transplantation|NN probably donor|NN heart|NN connect nerve|NN host|NN diabetics|NN difference|NN pain|NN threshold|NN autonomic neuropathy|NN psychological factor|NN cite possible explanation|NN lack|NN symptom|NN edit|NN diagnosis|NN diagnosis|NN myocardial infarction|NN made integrate history|NN present|NN illness|NN physical examination|NN electrocardiogram|NN find|NN cardiac marker|NN blood|NN test|NN heart|NN muscle|NN cell|NN damage|NN coronary angiogram|NN allow visualize obstruction|NN heart|NN vessel|NN therapeutic measure|NN follow immediately
+autopsy|NN pathologist|NN diagnose myocardial infarction|NN base anatomopathological find|NN
+chest|NN radiograph|NN routine|NN blood|NN test|NN indicate complication|NN precipitate cause|NN perform admittance|NN emergency|NN department|NN
+new regional wall|NN motion|NN abnormality|NN echocardiogram|NN suggestive myocardial infarction|NN sometime perform equivocal case|NN thallium|NN use nuclear medicine|NN visualize area|NN reduce blood|NN flow|NN tissue|NN viability|NN respectively use muga scan|NN
+edit diagnostic criteria|NN criteria|NN classically use diagnose mi|NP patient|NN diagnose myocardial infarction|NN probable definite follow criteria|NN satisfy clinical history|NN ischaemic type|NN chest|NN pain|NN last minute|NN change|NN serial ecg|NN trace|NN rise|NN fall|NN serum|NN cardiac enzyme|NN creatine kinase|NN lactate|NN dehydrogenase|NN specific heart|NN
+criteria|NN refine give prominence|NN cardiac biomarker|NN new guideline|NN cardiac troponin|NN rise|NN accompany typical symptom|NN pathological wave|NN st|NN elevation|NN depression|NN coronary intervention|NN diagnostic mi|NP
+edit physical examination|NN general appearance|NN patient|NN vary experience symptom|NN patient|NN comfortable restless severe distress|NN increase respiratory rate|NN
+cool pale skin|NN common point|NN vasoconstriction|NN
+patient|NN low-grade fever|NN c|NP
+blood|NN pressure|NN elevate decrease pulse|NN become irregular heart|NN failure|NN ensue elevate jugular|NN venous pressure|NN reflux|NN swell|NN leg|NN due peripheral edema|NN found inspection|NN
+rarely cardiac bulge|NN pace|NN different pulse|NN rhythm|NN felt examination|NN
+various abnormality|NN found heart|NN sound|NN systolic murmur|NN paradoxical split|NN heart|NN sound|NN pericardial friction|NN rub|NN rale|NN lung|NN electrocardiogram|NN ecg|NN show acute inferior st|NN segment|NN elevation|NN mi|NP stemi|NP
+note st|NP segment|NN elevation|NN lead|NN along reciprocal st|NP segment|NN depression|NN lead|NN
+edit|NN primary purpose|NN electrocardiogram|NN detect acute coronary injury|NN broad symptomatic emergency|NN department|NN
+standard lead|NN ecg|NN limitation|NN
+ecg|NN represent brief sample|NN time|NN
+unstable ischemic|NN syndrome|NN rapidly chang supply|NN demand|NN characteristics|NN single ecg|NN accurately represent entire picture|NN therefore desirable obtain serial|NN lead|NN particularly ecg|NN obtain pain-free episode|NN
+alternatively emergency|NN department|NN chest|NN pain|NN center|NN use|NN computer|NN capable continuous st|NP segment|NN monitor|NN appreciate standard lead|NN ecg|NN directly examine right ventricle|NN relatively poor job|NN examine posterior basal lateral wall|NN left ventricle|NN
+particular acute myocardial infarction|NN distribution|NN circumflex artery|NN likely produce nondiagnostic ecg|NN use|NN non-standard ecg|NN lead lead|NN v5r|NN posterior lead|NN improve sensitivity|NN right ventricular posterior myocardial infarction|NN
+spite|NN limitation|NN lead|NN ecg|NN stand center|NN risk|NN stratification|NN patient|NN suspect acute myocardial infarction|NN
+mistake|NN interpretation|NN relatively common failure|NN identify high risk|NN feature|NN negative effect|NN quality|NN patient|NN care|NN lead|NN ecg|NN use classify patient|NN group|NN st|NP segment|NN elevation|NN new bundle|NN branch|NN block|NN suspicious acute injury|NN possible candidate|NN acute reperfusion|NN therapy|NN thrombolytics|NN primary pci|NP st|NP segment|NN depression|NN t|NP wave|NN inversion|NN suspicious ischemia|NN so-cal non-diagnostic|NN normal ecg|NN normal ecg|NN rule acute myocardial infarction|NN
+sometime earliest presentation|NN acute myocardial infarction|NN hyperacute t|NP wave|NN treate st|NP segment|NN elevation|NN practice|NN rarely seen exist minute|NN onset|NN infarction|NN t|NP wave|NN need distinguish peak t|NP wave|NN associate hyperkalemia|NN current guideline|NN ecg|NN diagnosis|NN acute myocardial infarction|NN require mm|NN mv|NN st|NP segment|NN elevation|NN anatomically contiguous lead|NN criteria|NN problematic acute myocardial infarction|NN common cause|NN st|NP segment|NN elevation|NN chest|NN pain|NN patient|NN addition|NN healthy men|NN mm|NN mv|NN st|NP segment|NN elevation|NN precordial|NN lead clinician|NN therefore well verse recognize so-cal ecg|NN mimics|NN acute myocardial infarction|NN include left ventricular hypertrophy|NN left|NN bundle|NN branch|NN block|NN pace rhythm|NN benign early repolarization|NN pericarditis|NN ventricular aneurysm|NN left|NN bundle|NN branch|NN block|NN pace|NN interfere electrocardiographic diagnosis|NN acute myocadial|NN infarction|NN
+gusto investigator|NN et|NP al|NP develop set|NN criteria|NN identify acute myocardial infarction|NN presence|NN left bundle|NN branch|NN block|NN pace rhythm|NN
+include concordant st|NN segment|NN elevation|NN mv|NN discordant st|NN segment|NN elevation|NN mv|NN concordant st|NP segment|NN depression|NN left precordial|NN lead presence|NN reciprocal change|NN lead|NN ecg|NN help distinguish true acute myocardial infarction|NN mimics|NN acute myocardial infarction|NN
+contour|NN st|NP segment|NN helpful straight upwardly convex st|NP segment|NN diagnosis|NN acute myocardial infarction|NN presence|NN st|NP segment|NN elevation|NN distinguishe st-elevation|NN nstemy|NN infarction --|NN diagnose cardiac enzyme|NN elevate
+lead|NN st|NP segment|NN elevation|NN help|NN clinician|NN identify area|NN heart|NN infarct
+enable clinician|NN predict culprit|NN artery|NN wall|NN affect lead|NN show st|NP elevation|NN lead|NN show reciprocal st|NN depression|NN artery|NN none left descend lad|NN v4|NN none left descend lad|NN none left descend lad|NN v4|NN avl left|NN descend lad|NN circumflex|NN marginal extensive anterior sometime call lateral extension|NN v5|NN avl left main coronary artery|NN right coronary artery|NN rca|NN circumflex|NN lateral avl v5 circumflex|NN marginal posterior|NN usually associate inferior|NN lateral isolate v4|NN descend pda|NN branch|NN rca|NN circumflex|NN right ventricular usually associate inferior|NP right coronary artery|NN rca|NN myocardial infarction|NN evolve loss|NN r|NP wave|NN height|NN development|NN pathological q|NN wave|NN
+t|NP wave|NN inversion|NN persist month|NN even permanently follow acute myocardial infarction|NN typically t|NP wave|NN recover leave pathological q|NN wave|NN remain evidence|NN acute myocardial infarction|NN occure
+edit cardiac marker|NN cardiac marker|NN cardiac enzyme|NN protein|NN cardiac tissue|NN found blood|NN
+protein|NN release bloodstream|NN damage|NN heart|NN occur case|NN myocardial infarction|NN
+enzyme|NN use assess cardiac injury|NN
+found elevation|NN mb|NN subtype|NN enzyme|NN creatine kinase|NN specific myocardial injury|NN
+current guideline|NN generally favor|NN troponin sub-unit|NN t|NP specific heart|NN muscle|NN thought rise permanent injury|NN develop troponin|NN set|NN chest|NN pain|NN accurately predict high likelihood|NN myocardial infarction|NN near future|NN diagnosis|NN myocardial infarction|NN require component|NN history|NN ecg|NN enzyme|NN
+damage|NN heart|NN occur level|NN cardiac marker|NN rise|NN time|NN blood|NN test|NN taken hour|NN period|NN
+enzyme|NN level|NN elevate immediately heart|NN attack|NN patient|NN present chest|NN pain|NN generally treate assumption|NN myocardial infarction|NN occure evaluate precise diagnosis|NN edit|NN coronary artery|NN
+difficult case|NN situation|NN intervention|NN restore blood|NN flow|NN appropriate coronary angiography|NN perform
+catheter|NN insert artery|NN usually femoral artery|NN push vessel|NN supply heart|NN
+narrow artery|NN identify angioplasty|NN apply therapeutic measure|NN see
+require extensive skill|NN especially emergency|NN set|NN alway available hour|NN
+commonly perform cardiologist|NN
+edit microscopy image|NN ca 100x stain|NN autopsy|NN specimen|NN myocardial infarct|NN day|NN
+examination|NN heart|NN reveal infarction|NN autopsy|NN
+microscope|NN myocardial infarction|NN present|NN circumscribe area|NN coagulative necrosis|NN cell|NN death|NN
+gross examination|NN infarct|NN identifiable hour|NN earlier change|NN discern use electron|NN microscopy|NN earliest change|NN normal microscope|NN so-cal wavy fiber|NN subsequently myocyte cytoplasm|NN become eosinophilic pink cell|NN lose transversal striation|NN typical change|NN eventually loss|NN cell|NN nucleus|NN interstitium|NN margin|NN infarct area|NN initially infiltrate neutrophil|NN lymphocyte|NN macrophage|NN phagocytose eat myocyte debris|NN
+necrotic area|NN surround progressively invade granulation|NN tissue|NN replace infarct|NN fibrous collagenous|NN scar|NN typical step|NN wound|NN heal|NN
+interstitial space|NN space|NN cell|NN outside blood|NN vessel|NN infiltrate red blood|NN cell|NN feature|NN recognize case|NN perfusion|NN restor infarct|NN hallmark|NN contraction|NN band|NN necrosis|NN edit|NN aid|NN myocardial infarction|NN common medical emergency|NN sign|NN part|NN aid|NN course|NN
+emergency|NN action|NN principle|NN apply case|NN myocardial infarction|NN
+edit immediate care|NN symptom|NN myocardial infarction|NN occur people|NN wait average|NN hour|NN instead recommend call help|NN immediately act immediately call emergency|NN service|NN prevent sustain damage|NN heart|NN time|NN muscle|NN certain position|NN allow patient|NN rest|NN position|NN minimize breath|NN difficulty|NN
+half-sit position|NN knee|NN bent recommend
+access|NN oxygen|NN give open window|NN widen collar|NN easier breath|NN
+aspirin|NN give quickly patient|NN allergic aspirin|NN take aspirin|NN call emergency|NN medical service|NN associate unwant delay|NN aspirin|NN antiplatelet effect|NN inhibit formation|NN further thromby blood|NN clot|NN clog artery|NN
+coat soluble preparation|NN prefer
+chew dissolve respectively absorb body|NN even quicker
+patient|NN swallow aspirin|NN use
+guideline|NN recommend dose|NN mg|NN australian guideline|NN recommend dose|NN mg|NN nitroglycerin sublingually|NN tongue|NN give prescribe patient|NN
+general aid|NN principle|NN include monitor|NN pulse|NN breath|NN level|NN consciousness|NN possible blood|NN pressure|NN patient|NN
+case|NN cardiac arrest|NN cardiopulmonary resuscitation|NN cpr|NP administer
+edit automatic external defibrillation|NN publication|NN data|NN show availability|NN automate external defibrillator|NN public place|NN significantly increase chance|NN survival|NN instal public build|NN public transport|NN facility|NN emergency|NN vehicle|NN eg police|NN car|NN fire|NN engine|NN
+analyze heart|NN rhythm|NN determine rhythm|NN amenable defibrillation ventricular tachycardia|NN ventricular fibrillation|NN
+edit|NN emergency|NN service|NN emergency|NN medical service|NN ems|NP system|NN vary considerably ability|NN evaluate treat patient|NN suspect acute myocardial infarction|NN
+provide aid|NN early defibrillation|NN
+employ highly train paramedics|NN sophisticate technology|NN advance protocol|NN early access|NN ems|NP promote 9-1-1 system|NN currently available population|NN united|NP states|NP capable provide oxygen|NN access|NN morphine|NN aspirin|NN
+capable provide thrombolytic therapy|NN prehospital set|NN primary pci|NP emerge prefer therapy|NN st|NP segment|NN elevation|NN myocardial infarction|NN ems|NP play key role|NN reduce door|NN balloon|NN interval|NN time|NN presentation|NN hospital|NN er|NP restoration|NN coronary artery|NN blood|NN flow|NN perform lead|NN ecg|NN field|NN use information|NN triage|NN patient|NN appropriate medical facility|NN addition|NN lead|NN ecg|NN transmit receive hospital|NN enable time|NN save|NN decision|NN made patient|NN arrival|NN
+include cardiac alert|NN alert|NN call duty|NN personnel|NN area|NN cardiac cath|NN lab|NN staf hour|NN day|NN
+even absence|NN formal alert|NN program|NN lead|NN ecg|NN independently associate reduce door|NN treatment|NN interval|NN emergency|NN department|NN edit|NN wilderness|NN aid|NN wilderness|NN aid|NN possible heart|NN attack|NN justify evacuation|NN fastest available mean|NN even earliest precursor|NN stage|NN
+patient|NN rapidly incapable further exertion|NN carry
+edit|NN air|NN travel|NN certify personnel|NN commercial aircraft|NN able assist mi|NP patient|NN use on-board aid|NN kit|NN contain cardiac drug|NN trinitrate spray|NN aspirin|NN opioid painkiller|NN oxygen|NN
+pilot|NN divert flight|NN land|NN nearby airport|NN
+cardiac monitor|NN introduce airline|NN use on-board ground-base physician|NN edit treatment|NN heart|NN attack|NN medical emergency|NN demand immediate attention|NN activation|NN emergency|NN medical service|NN
+ultimate goal|NN management|NN acute phase|NN disease|NN salvage myocardium|NN possible prevent further complication|NN
+time|NN pass risk|NN damage|NN heart|NN muscle|NN increase phrase|NN myocardial infarction|NN time|NN muscle|NN time|NN wast muscle|NN lost treatment|NN complication|NN
+attempt|NN restore blood|NN flow|NN initiate critical period|NN hour|NN result|NN reperfusion|NN injury|NN instead amelioration|NN treatment|NN modality|NN cause complication|NN use|NN antithrombotics|NN example|NN carry increase risk|NN bleed
+edit line|NN hospital|NN oxygen|NN aspirin|NN nitroglycerin|NN analgesia|NN usually morphine|NN popular mnemonic|NN morphine|NN oxygen|NN aspirin|NN administer soon possible
+area|NN responder|NN train administer prior arrival|NN hospital|NN
+line|NN agent|NN aspirin|NN proven decrease|NN mortality|NN edit|NN concept|NN reperfusion|NN become central modern treatment|NN acute myocardial infarction|NN said reperfusion|NN era|NN patient|NN present suspect acute myocardial infarction|NN st|NN segment|NN elevation|NN new bundle|NN branch|NN block|NN lead|NN ecg|NN presume occlusive thrombosis|NN epicardial coronary artery|NN
+therefore candidate|NN immediate reperfusion|NN thrombolytic therapy|NN percutaneous coronary intervention|NN pci|NP therapy|NN unsuccessful bypass|NN surgery|NN
+individual|NN st|NP segment|NN elevation|NN presume experience unstable angina|NN ua|NP segment|NN elevation|NN myocardial infarction|NN
+receive initial therapy|NN stabilize antiplatelet drug|NN anticoagulate|NN
+condition|NN remain stable|NN offer late coronary angiography|NN subsequent restoration|NN blood|NN flow|NN non-invasive stress|NN test|NN determine significant benefit
+instability|NN develop individual|NN nstemis|NN undergo urgent coronary angiography|NN subsequent revascularization|NN
+use|NN thrombolytic agent|NN contraindicate patient|NN subset|NN basis|NN distinction|NN treatment|NN regimen|NN st|NP segment|NN elevation|NN ecg|NN typically due complete occlusion|NN coronary artery|NN
+hand|NN nstemis|NN typically sudden narrow|NN coronary artery|NN preserve diminish flow|NN distal myocardium|NN
+agent|NN give prevent narrow artery|NN
+patient|NN stemy dont|NN develop myocardial necrosis|NN evidence rise|NN cardiac marker|NN subsequent wave|NN ekg|NN reperfusion|NN therapy|NN
+successful restoration|NN flow|NN infarct-relate artery|NN acute myocardial infarction|NN known abort|NN myocardial infarction|NN
+treate hour|NN abort edit|NN therapy|NN therapy|NN indicate treatment|NN stemy|NN drug|NN administer hour|NN onset|NN symptom|NN patient|NN eligible base exclusion|NN criteria|NN primary pci|NP immediately available effectiveness|NN therapy|NN highest hour|NN
+hour|NN risk|NN associate thrombolytic therapy|NN outweigh benefit|NN irreversible injury|NN occur hour|NN infarction|NN limit window|NN time|NN available reperfusion|NN work|NN
+drug|NN contraindicate treatment|NN unstable angina|NN nstemy|NN treatment|NN individual|NN evidence|NN shock|NN perfect thrombolytic agent|NN exist ideal thrombolytic drug|NN lead rapid reperfusion|NN high sustain patency|NN rate|NN specific recent thromby|NN easily rapidly administer create low risk|NN intra-cerebral|NN systemic bleed|NN antigenicity adverse hemodynamic|NN effect|NN clinically significant drug|NN interaction|NN cost effective currently available thrombolytic agent|NN include streptokinase|NN urokinase|NN recombinant tissue|NN plasminogen|NN activator|NN
+recently thrombolytic agent|NN similar structure|NN reteplase use
+newer agent|NN boast efficacy|NN good rtpa|NN significantly easier administration|NN
+thrombolytic agent|NN use particular individual|NN base institution|NN preference|NN age|NN patient|NN
+thrombolytic agent|NN use adjuvant anticoagulation|NN heparin|NN low molecular weight|NN heparin|NN benefit|NN tpa|NN relate agent|NN heparin|NN need maintain coronary artery|NN patency|NN
+anticoagulant effect|NN fibrinogen|NN depletion|NN streptokinase|NN urokinase|NN treatment|NN necessary therapy|NN abort myocardial infarction|NN alway effective 10-20 failure|NN rate|NN
+citation|NN need case|NN failure|NN thrombolytic agent|NN open infarct-relate coronary artery|NN patient|NN treate conservatively anticoagulant|NN allow complete infarction|NN percutaneous coronary intervention|NN pci|NP see perform
+coronary intervention|NN set|NN known rescue|NN pci|NP salvage|NN pci|NP
+complication|NN particularly bleed significantly higher rescue|NN pci|NP primary pci|NP due action|NN thrombolytic agent|NN
+edit coronary intervention|NN clinical trial|NN suggest better outcome|NN compare thrombolytic therapy|NN logistic economic obstacle|NN seem hinder widespread application|NN percutaneous coronary intervention|NN pci|NP cardiac catheterization|NN use|NN percutaneous coronary intervention|NN therapy|NN abort myocardial infarction|NN known primary pci|NP
+goal|NN primary pci|NP open artery|NN soon possible preferably minute|NN patient|NN present emergency|NN room|NN
+time|NN refer door-to-balloon time|NN
+hospital|NN provide pci|NP minute|NN interval|NN current guideline|NN unit state|NN restrict primary pci|NP hospital|NN available emergency|NN bypass|NN surgery|NN backup|NN case|NN part|NN world|NN primary pci|NP involve perform coronary angiogram|NN determine anatomical location|NN infarct vessel|NN follow balloon|NN angioplasty|NN frequently deployment|NN intracoronary stent thrombose arterial segment|NN
+set|NN extraction|NN catheter|NN use attempt|NN aspirate|NN remove thrombus|NN prior balloon|NN angioplasty|NN
+use|NN intracoronary stent|NN improve short term|NN outcome|NN primary pci|NP use|NN stent|NN widespread decrease rate|NN procedure|NN treat compare balloon|NN angioplasty|NN therapy|NN primary pci|NP include intravenous heparin|NN aspirin|NN clopidogrel|NN
+use|NN glycoprotein|NN inhibitor|NN use set|NN primary pci|NP reduce risk|NN ischemic complication|NN procedure|NN number|NN antiplatelet agent|NN anticoagulant|NN use primary pci|NP risk|NN bleed|NN associate procedure|NN higher elective pci|NP
+citation|NN need edit|NN coronary artery|NN bypass|NN surgery|NN coronary artery|NN bypass|NN surgery|NN mobilization|NN free|NN right coronary artery|NN surround tissue|NN tissue|NN yellow|NN
+tube|NN visible bottom|NN aortic cannula|NN return|NN blood|NN hlm|NN
+tube|NN obscure surgeon|NN right|NN venous cannula|NN receive blood|NN body|NN
+patient|NN heart|NN stop aorta|NN cross-clamp
+patient|NN head|NN seen bottom|NN
+current data|NN emergency|NN bypass|NN surgery|NN treatment|NN acute myocardial infarction|NN sparse
+current surgical literature|NN suggest wait number|NN weekscitation|NN need allow infarction|NN cool undergo coronary artery|NN bypass|NN graft|NN surgery|NN
+mortality|NN significantly higher bypass|NN surgery|NN perform acute ischemic|NN period|NN
+due safety|NN afford percutaneous coronary intervention|NN acute ischemic|NN period|NN myocardial infarction|NN number|NN patient|NN sent emergency|NN bypass|NN surgery|NN treatment|NN myocardial infarction|NN decrease decade|NN
+citation|NN need emergency|NN treatment|NN acute myocardial infarction|NN reserve individual|NN extremely high risk|NN feature|NN cardiac catheterization|NN lab|NN thrombosis|NN left main ostial left anterior descend artery|NN feature|NN shock|NN viable myocardium|NN appear jeopardy|NN due infarction|NN
+even extremely high risk|NN patient|NN undergo successful pci|NP perform experience operator|NN decision|NN patient|NN benefit urgent cabg|NN require collaborative approach|NN interventional cardiologist|NN cardiothoracic surgeon|NN
+coronary artery|NN bypass|NN surgery|NN involve artery|NN vein|NN patient|NN implant aorta|NN bypass|NN occlusion coronary artery|NN
+artery|NN vein|NN use internal mammary|NN artery|NN graft|NN demonstrate significantly better long-term patency|NN rate|NN great saphenous|NN vein|NN graft|NN patient|NN coronary artery|NN affect bypass|NN surgery|NN associate higher long-term survival|NN rate|NN compare percutaneous intervention|NN patient|NN single vessel|NN disease|NN surgery|NN comparably safe effective treatment|NN option|NN select case|NN bypass|NN surgery|NN higher cost|NN initially become cost-effective long term|NN surgical bypass|NN graft|NN invasive initially bear risk|NN recurrent procedure|NN minimally invasive edit|NN monitor|NN arrhythmia|NN additional objective|NN prevent life-threaten arrhythmia|NN conduction|NN disturbance|NN
+require monitor|NN coronary care|NN unit|NN administration|NN antiarrhythmic agent|NN
+agent|NN typically give individual|NN life-threaten arrhythmia|NN myocardial infarction|NN suppress ventricular ectopy|NN seen myocardial infarction|NN edit|NN rehabilitation|NN cardiac rehabilitation|NN aim optimize function|NN quality|NN life|NN afflict heart|NN disease|NN
+help|NN physician|NN form|NN cardiac rehabilitation|NN program|NN physical exercise|NN important part|NN rehabilitation|NN myocardial infarction|NN beneficial effect|NN cholesterol|NN level|NN blood|NN pressure|NN weight|NN stress|NN mood|NN patient|NN become afraid exercise trigger infarct|NN patient|NN stimulate exercise|NN avoid certain exert activity|NN shovel
+local authority|NN place limitation|NN drive motorise vehicle|NN people|NN afraid sex|NN heart|NN attack|NN
+people|NN resume sexual activity|NN week|NN
+amount|NN activity|NN need|NN dose patient|NN possibility|NN edit secondary prevention|NN risk|NN recurrent myocardial infarction|NN decrease strict blood|NN pressure|NN management|NN lifestyle|NN change|NN chiefly smoke cessation|NN regular exercise|NN sensible diet|NN patient|NN heart|NN disease|NN limitation|NN alcohol|NN intake|NN
+patient|NN usually commence long-term medication|NN aim|NN prevent secondary cardiovascular event|NN further myocardial congestive heart|NN failure|NN cerebrovascular accident|NN
+medication|NN include drug|NN therapy|NN aspirin|NN clopidogrel|NN continue reduce risk|NN plaque|NN rupture|NN recurrent myocardial infarction|NN
+aspirin|NN first-line low cost|NN comparable efficacy|NN clopidogrel|NN reserve patient|NN intolerant aspirin|NN
+combination|NN clopidogrel|NN aspirin|NN further reduce risk|NN cardiovascular event|NN risk|NN hemorrhage|NN increase beta|NN blocker|NN therapy|NN commence particularly beneficial high-risk patient|NN left ventricular dysfunction|NN continue cardiac ischaemia|NN
+decrease|NN mortality|NN morbidity|NN
+improve symptom|NN cardiac ischemia|NN
+ace inhibitor|NN therapy|NN commence hour|NN hemodynamically-stable patient|NN particularly patient|NN history|NN mi|NP diabete|NN mellitus|NN hypertension|NN anterior location|NN infarct|NN assess ecg|NN evidence|NN left ventricular dysfunction|NN
+ace inhibitor|NN reduce mortality|NN development|NN heart|NN failure|NN decrease|NN ventricular remodel|NN therapy|NN show reduce mortality|NN morbidity|NN effect|NN statin|NN ldl|NN lower|NN effect|NN
+general consensus|NN plaque|NN stabilization|NN multiple pleiotropic|NN effect|NN prevent myocardial infarction|NN addition|NN effect|NN blood|NN lipid|NN aldosterone|NN antagonist|NN agent|NN show further reduce risk|NN cardiovascular death|NN patient|NN heart|NN failure|NN left ventricular dysfunction|NN use conjunction|NN standard therapy|NN fatty acid|NN commonly found fish|NN show reduce mortality|NN mechanism|NN fatty acid|NN decrease|NN mortality|NN unknown postulate survival|NN benefit|NN due electrical stabilization|NN prevention|NN ventricular fibrillation|NN further study|NN high-risk subset|NN show clear-cut decrease|NN potentially fatal arrhythmia|NN due fatty acid|NN edit new therapy|NN investigation|NN patient|NN receive stem|NN cell|NN treatment|NN coronary artery|NN injection|NN stem|NN cell|NN derive bone|NN marrow|NN myocardial infarction|NN mi|NP show|NN improvement|NN left ventricular ejection|NN fraction|NN volume|NN seen placebo|NN
+larger initial infarct|NN size|NN greater effect|NN infusion|NN
+clinical trial|NN progenitor|NN cell|NN infusion|NN treatment|NN approach|NN st|NP elevation|NN mi|NP proceed currently biomaterial|NN tissue|NN engineer|NN approache|NN treatment|NN mi|NP even earlier stage|NN medical research|NN question|NN issue|NN need address apply patient|NN
+involve polymeric left ventricular restraint|NN prevention|NN heart|NN failure|NN
+second|NN utilize engineer cardiac tissue|NN subsequently implant
+final approach|NN entail inject cell|NN scaffold|NN myocardium|NN create engineer cardiac tissue|NN edit|NN complication|NN section|NN cite reference|NN source|NN
+help introduce appropriate citation|NN
+complication|NN occur immediately heart|NN attack|NN acute phase|NN need time|NN develop chronic problem|NN
+infarction|NN obvious complication|NN infarction|NN occur domain|NN atherosclerotic coronary artery|NN zone|NN live cell|NN left infarct|NN
+edit heart|NN failure|NN myocardial infarction|NN compromise function|NN heart|NN pump|NN circulation|NN state|NN call heart|NN failure|NN
+different type|NN heart|NN failure|NN left- right-side bilateral heart|NN failure|NN occur affect part|NN heart|NN low-output type|NN failure|NN
+heart|NN valve|NN affect cause dysfunction|NN regurgitation|NN case|NN left-side mi|NP
+edit rupture|NN rupture|NN common day|NN myocardial infarction|NN commonly small degree|NN occur day|NN week|NN later mis|NN
+citation|NN need occur free wall|NN ventricle|NN septum|NN papillary muscle|NN commonly atria|NN
+occur increase pressure|NN weaken wall|NN heart|NN chamber|NN due heart|NN muscle|NN pump|NN blood|NN effectively
+weakness|NN lead ventricular aneurysm|NN localize dilation|NN balloon|NN heart|NN chamber|NN
+risk|NN factor|NN myocardial rupture|NN include completion|NN infarction|NN revascularization|NN perform female sex|NN advance age|NN lack|NN previous history|NN myocardial infarction|NN
+citation|NN need shear stress|NN infarct segment|NN surround normal myocardium|NN hypercontractile post-infarction period|NN make nidus|NN rupture|NN
+citation|NN need usually catastrophic event|NN result life-threaten process|NN known cardiac tamponade|NN blood|NN accumulate pericardium|NN heart|NN sac|NN compress heart|NN point|NN pump effectively
+rupture|NP intraventricular|NN muscle|NN separate left|NN right ventricle|NN cause ventricular septal|NN defect|NN shunt|NN blood|NN defect|NN left side|NN heart|NN right side|NN heart|NN
+rupture|NP papillary muscle|NN lead acute mitral regurgitation|NN subsequent pulmonary edema|NN possibly even cardiogenic shock|NN
+edit arrhythmia|NN electrical characteristics|NN infarct tissue|NN change|NN see pathophysiology|NN section|NN arrhythmia|NN frequent complication|NN
+re-entry|NN phenomenon|NN cause fast heart|NN rate|NN ventricular tachycardia|NN even ventricular fibrillation|NN ischemia|NN electrical conduction|NN system|NN heart|NN cause complete heart|NN block|NN impulse|NN sinoatrial node|NN normal cardiac pacemaker|NN reach heart|NN chamber|NN
+edit|NN pericarditis|NN reaction|NN damage|NN heart|NN muscle|NN inflammatory cell|NN attract
+inflammation|NN reach affect heart|NN sac|NN
+syndrome|NN occur week|NN initial event|NN
+edit shock|NN complication|NN occur acute set|NN soon myocardial infarction|NN week|NN shock|NN
+shock|NN define hemodynamic state|NN heart|NN produce cardiac output|NN supply adequate amout|NN oxygenate blood|NN tissue|NN body|NN
+data|NN perform|NN intervention|NN individual|NN shock|NN sparse trial|NN data|NN suggest long-term mortality|NN benefit|NN undergo individual|NN year|NN old onset|NN acute myocardial infarction|NN hour|NN onset|NN shock|NN hour|NN patient|NN shock|NN go revascularize aggressive hemodynamic|NN support|NN warrant insertion|NN intra-aortic balloon|NN pump|NN contraindicate edit prognosis|NN patient|NN myocardial infarction|NN vary greatly patient|NN condition|NN give treatment|NN
+use simple variable|NN immediately available emergency|NN room|NN patient|NN higher risk|NN adverse outcome|NN identify
+example|NN study|NN found patient|NN low risk|NN profile|NN dy day|NN mortality|NN rate|NN high risk|NN patient|NN study|NN differ identify variable|NN reproduce risk|NN include age|NN parameter|NN heart|NN failure|NN cardiac arrest|NN admission|NN systolic blood|NN pressure|NN class|NN greater st-segment deviation|NN diabete|NN serum|NN creatinine|NN concentration|NN peripheral vascular disease|NN elevation|NN cardiac marker|NN left ventricular ejection|NN fraction|NN increase predictive power|NN risk|NN stratification|NN model|NN prognostic importance|NN q-wave|NN debate significantly worsen mechanical complication|NN muscle|NN rupture|NN myocardial free wall|NN rupture|NN occur
+citation|NN need edit|NN legal implication|NN common law|NN myocardial infarction|NN generally disease|NN sometime injury|NN
+implication|NN insurance|NN scheme|NN worker|NN compensation|NN
+heart|NN attack|NN generally cover work-relate injury|NN result example|NN unusual emotional stress|NN unusual exertion|NN additionally jurisdiction|NN heart|NN attack|NN suffer person|NN particular occupation|NN police|NN officer|NN classify line-of-duty injury|NN statute|NN policy|NN
+country|NN state|NN person|NN suffer myocardial infarction|NN prevent participate activity|NN put people|NN live|NN risk|NN example|NN drive car|NN taxy|NN airplane|NN edit|NN see cardiac arrest|NN myocardium|NN stun myocardium|NN edit|NN reference|NN
+world|NN health|NN organization|NN
+annex|NN table|NN death|NN cause|NN sex|NN mortality|NN stratum|NN region|NN estimate|NN world|NN health|NN report|NN
+cause|NN death|NN uc|NN atla|NN global inequality|NN
+retrieved|NP december|NP
+death|NN percentage|NN total death|NN lead cause|NN death|NN united|NP states|NP pdf|NP national center|NN health|NN statistics|NN
+heart|NN attack|NN statistics|NN american heart|NN association|NN
+retrieved|NP december|NP
+med1568|NN december|NP
+wilson|NP pw|NP rb|NP levy|NP d|NP am|NP silbershatz|NP h|NP wb|NP
+prediction|NN coronary heart|NN disease|NN use risk|NN factor|NN category|NN
+yusuf|NP s|NP s|NP s|NP l|NP mg|NP p|NP lang|NP cc|NP z|NP cl|NP l|NP s|NP p|NP jr|NP f|NP sharma|NP am|NP anand|NP ss|NP study|NN investigator|NN
+obesity|NN risk|NN myocardial infarction|NN 27000 participant|NN country|NN case-control study|NN
+jensen|NP g|NP j|NP appleyard|NP m|NP p|NP
+risk|NN factor|NN acute myocardial infarction|NN copenhagen|NP smoke|NN alcohol|NN intake|NN physical activity|NN obesity|NN oral contraception|NN diabete|NN lipid|NN blood|NN pressure|NN
+heart|NN j|NP
+ys rice|NN j|NP john|NP l|NP o|NP
+oral contraceptive|NN use|NN risk|NN myocardial infarction|NN meta-analysis|NN
+wilson|NP am|NP ryan|NP mc|NN boyle|NP aj|NP
+novel role|NN c-reactive protein|NN cardiovascular disease|NN risk|NN marker|NN pathogen|NN
+int j|NP
+pearson|NP ga|NP alexander|NP rw|NP anderson|NP cannon|NP ro|NP criquy|NN m|NN fortmann sp|NN hong|NP y|NP myers|NP gl|NP n|NP smith|NP jr|NP k|NP tracy|NP rp|NP f|NP
+markers|NP inflammation|NN cardiovascular disease|NN application|NN clinical public health|NN practice|NN statement|NN healthcare|NN professional|NN center|NN disease|NN control|NN prevention|NN american heart|NN association|NN
+janket|NP sj|NP baird|NP jones|NP ja|NP
+meta-analysis|NP periodontal disease|NN risk|NN coronary heart|NN disease|NN stroke|NN
+oral oral med oral|NN oral radiol|NN
+pihlstrom|NP michalowicz|NP bs|NP johnson|NP nw|NN
+scannapieco|NP fa|NP bush|NP rb|NP s|NP
+association|NN periodontal disease|NN risk|NN atherosclerosis|NN cardiovascular disease|NN stroke|NN
+systematic review|NN
+daiuto|NP f|NP m|NP l|NP j|NP j|NP ms|NP
+infection|NN cause|NN change|NN traditional novel cardiovascular risk|NN factor|NN result|NN randomize control clinical trial|NN
+am|NP heart|NN j|NP
+lourbako yuan|NP jenkins|NP al|NP travis|NP j|NP p|NP r|NP j|NP pike|NP rn|NP
+activation|NN protease-activate receptor|NN gingipain|NN gingivalis|NN lead platelet|NN aggregation|NN new trait|NN microbial pathogenicity|NN
+qi|NP m|NP h|NP hk|NP
+gingivalis|NN induce murine macrophage|NN foam|NN cell|NN formation|NN
+spahr klein|NP e|NP n|NP c|NP r|NP m|NP d|NP g|NP koenig|NP w|NP
+infection|NN coronary heart|NN disease|NN role|NN periodontal bacteria|NN importance|NN total pathogen|NN burden|NN coronary event|NN disease|NN study|NN
+arch|NN med|NP
+lichstein|NP e|NP kd|NP d|NP gupta|NP
+diagonal ear-lobe|NN crease|NN prevalence|NN implication|NN coronary risk|NN factor|NN
+n|NP engl|NP j|NP med|NP
+miric|NP d|NP d|NP l|NP d|NP v|NP hozo
+indicator|NN coronary risk|NN case-control study|NN
+int j|NP
+p|NP j|NP et|NP al|NP
+apoptosis myocardial ischaemia|NN infarction|NN
+journal|NN clinical pathology|NN
+saikku|NP p|NP m|NP l|NP e|NP v|NP m|NP frick|NP mh|NP huttunen|NP
+chronic chlamydia|NN infection|NN risk|NN factor|NN coronary heart|NN disease|NN helsinki|NP heart|NN study|NN
+ann|NP med
+andraws|NP r|NP berger|NP js|NP brown|NP
+effect|NN antibiotic|NN therapy|NN outcome|NN patient|NN coronary artery|NN disease|NN meta-analysis|NN randomize control trial|NN
+js|NP k|NP e|NP bassand|NP jp|NN
+infarction|NN consensus|NN document|NN joint european society|NN college|NN committee|NN redefinition|NN myocardial infarction|NN
+j|NP am|NP coll|NP 200036959-69|NP
+illustrate medical dictionary|NN
+retrieved|NP november|NP
+pathology|NN foundation|NN medicine|NN
+maryland|NP lippincott|NP williams|NP wilkins|NP
+isbn|NP 0-7817-4733-3|NP
+rubin pathology|NN foundation|NN medicine|NN
+maryland|NP lippincott|NP williams|NP wilkins|NP
+isbn|NP 0-7817-4733-3|NP
+moon|NP jc|NP de|NP dp|NP elkington|NP john|NP wang|NP d|NP r|NP senior|NP r|NP poole-wilson pa|NN dj|NN
+pathologic basis|NN q-wave|NN myocardial infarction|NN cardiovascular magnetic resonance|NN study|NN
+j|NP am|NP coll|NP
+yang|NP h|NP m|NP rodriguez|NP d|NP underwood|NP d|NP griffin|NP bp|NP v|NP thomas|NP jd|NP rc|NP
+viable myocardium|NN patient|NN non-q-wave|NN myocardial infarction|NN left ventricular dysfunction|NN clinical study|NN use positron|NN emission|NN tomography|NN
+j|NP am|NP coll|NP
+goodman|NP sg|NP langer|NP ross|NP wildermann nm sgarbossa|NN wagner|NP gs|NP granger|NP cb|NP rm|NP topol|NP ml|NN armstrong|NP pw|NP
+non-q-wave myocardial infarction|NN thrombolytic therapy|NN prognostic insight|NN global utilization|NN streptokinase|NN tissue|NN plasminogen|NN activator|NN occlude coronary arteries-y|NN
+angiographic investigator|NN
+national heart|NN lung|NN blood|NN institute|NN
+heart|NN attack|NN warn|NN sign|NN
+retrieved|NP november|NP
+acute coronary syndrome|NN
+american heart|NN association|NN
+retrieved|NP november|NP
+mcsweeney|NP jc|NP cody|NP m|NP p|NP k|NP moser|NP dk|NP garvin|NP
+womens|NP early warn|NN symptom|NN acute myocardial infarction|NN
+d|NP lee|NP d|NP j|NP marks|NP
+heart|NN attack|NN
+retrieved|NP november|NP
+spodick|NP dh|NP
+recognition|NN post-myocardial infarction|NN syndrome|NN postinfarct set|NN masquerade idiopathic follow silent infarct|NN
+davis|NP tm|NP p|NP j|NP davis|NP wa|NP bruce|NP dg|NP
+silent myocardial infarction|NN prognosis|NN community-base cohort|NN type|NN diabetic patient|NN fremantle diabete|NN study|NN
+rubin pathology|NN foundation|NN medicine|NN
+maryland|NP lippincott|NP williams|NP wilkins|NP
+isbn|NP 0-7817-4733-3|NP
+infarction|NN diagnosis|NN investigation|NN retrieve november|NP
+de|NP fenton|NP et|NP al|NP
+infarction|NN retrieve november|NP
+heart|NN scan|NN patient|NN information|NN university|NN college|NN london|NP
+retrieved|NP november|NP
+gillum|NP rf|NP sp|NN kottke te|NN
+international diagnostic criteria|NN acute myocardial infarction|NN acute stroke|NN
+am|NP heart|NN j|NP 1984108150-8|NP
+garas|NP et|NP al|NP
+infarction emedicine|NN
+retrieved|NP november|NP
+e|NP hauser|NP sl|NP jameson|NP
+harrisons|NP principle|NN internal medicine|NN p|NN
+new|NP york|NP
+isbn|NP 0-07-139140-1|NP
+et|NP al|NP
+harrisons|NP principle|NN internal medicine|NN p|NN
+cannon|NP cp|NP al|NP
+management|NN acute coronary syndrome|NN p|NN
+new|NP jersey|NP press|NN
+isbn|NP 0-89603-552-2|NP
+hp|NN rj|NN em|NP et|NP al|NP
+evaluation|NN technology|NN identify acute cardiac ischemia|NN emergency|NN department|NN executive|NN summary|NN national heart|NN attack|NN alert|NN program|NN work|NN group|NN report|NN
+ann|NP med
+masoudi|NP fa|NP dj|NN dr|NP et|NP al|NP
+implication|NN failure|NN identify electrocardiogram find|NN quality|NN care|NN patient|NN acute myocardial|NN
+american heart|NN association|NN guideline|NN resuscitation|NN emergency|NN cardiovascular care|NN part|NN stabilization|NN patient|NN acute coronary syndrome|NN
+circulation|NN iv-89|NN
+somers|NP mp|NP brady|NP ad|NN
+prominent t|NP wave|NN electrocardiographic differential|NN diagnosis|NN
+am|NP j|NP med|NP
+smith|NP sw|NN w|NP
+acute coronary syndrome|NN
+emerg|NP med|NP n|NP am|NP
+clinical value|NN ecg|NN noncardiac condition|NN
+brady|NP wj|NP ad martin|NP ml|NN beagle|NP c|NP tp|NN
+cause|NN st|NP segment|NN abnormality|NN ed|NP chest|NN pain|NN patient|NN
+am|NP j|NP med|NP
+wang|NP k|NP rw|NP marriott|NP hj|NP
+elevation|NN condition|NN acute myocardial infarction|NN
+new|NP engl|NP j|NP med|NP
+brady|NP wj|NP chan|NP tc|NP pollack|NP m|NP
+manifestation|NN pattern|NN confound ekg diagnosis|NN acute myocardial infarction-left|NN bundle|NN branch|NN block|NN ventricular pace rhythm|NN left ventricular hypertrophy|NN
+j|NP med
+st-segment elevation|NN correct identification|NN acute myocardial infarction|NN amy|NN non-amy|NN syndrome|NN emergency|NN physician|NN
+acad med|NP
+eb|NN sl|NP underwood|NP da|NP gates|NP kb|NN rm|NP wagner|NP gs|NP
+diagnosis|NN evolve acute myocardial infarction|NN presence|NN left bundle|NN branch|NN block|NN
+n|NP engl|NP j|NP med|NP
+st-segment elevation|NN diagnosis|NN acute myocardial infarction|NN analysis|NN st|NP segment|NN
+acad med|NP
+morris|NP f|NP brady|NP w|NP
+abc|NN clinical acute myocardial infarction-part|NN
+1934778full text|NN
+assay|NN diagnosis|NN myocardial infarction|NN acute coronary syndrome|NN stand
+expert|NN rev|NP cardiovasc|NP
+rj askary|NN em|NP kw|NN newby|NP lk|NP rm|NP ml|NN berger|NP p|NP ms|NP
+troponin|NP t|NP level|NN patient|NN acute coronary syndrome|NN renal dysfunction|NN
+n|NP engl|NP j|NP med|NP
+summary|NN laymen|NN
+braunwald|NP e|NP em|NP beasley|NP califf|NP rm|NP md|NN js|NP jones|NP kereiakes|NP d|NP j|NP levin|NP pepine|NP cj|NP jw|NP smith|NP steward|NN de|NP throux|NP p|NP
+guideline|NN update|NN management|NN patient|NN unstable angina|NN elevation|NN myocardial infarction|NN report|NN american college|NN heart|NN association|NN task|NN force|NN practice|NN guideline|NN committee|NN management|NN patient|NN angina|NN
+j|NP am|NP coll|NP
+pathology|NN foundation|NN medicine|NN
+maryland|NP lippincott|NP williams|NP wilkins|NP
+isbn|NP 0-7817-4733-3|NP
+eichbaum|NP fw|NP
+myocardial fiber|NN spontaneous experimental adrenergic cardiopathy|NN
+s|NP roy|NP
+retrieved|NP november|NP
+cardiol 133213-7|NN
+heart|NN attack|NN aid|NN
+retrieved|NP december|NP
+act|NN time|NN heart|NN attack|NN sign|NN
+retrieved|NP december|NP
+time|NN time|NN wast|NN muscle lost
+early heart|NN attack|NN care|NN st|NP
+agnes|NP healthcare|NN
+retrieved|NP november|NP
+brown|NP al|NP mann|NP nc|NP m|NP goldberg|NP r|NP h|NP taylor|NP j|NP smith|NP k|NP s|NP cooper|NP l|NP
+demographic belief|NN situational factor|NN influence decision|NN utilize emergency|NN medical service|NN chest|NN pain|NN patient|NN
+rapid early action|NN coronary treatment|NN study|NN
+antman|NP em|NP dt|NP armstrong|NP pw|NP bates|NP er|NP green|NP la|NP hand|NN m|NP hochman|NP js|NP hm|NP fg|NP ga|NP cj|NP ornato|NP jp|NN sloan|NP ma|NP smith|NP jr|NP
+guideline|NN management|NN patient|NN myocardial infarction|NN report|NN american college|NN heart|NN association|NN task|NN force|NN practice|NN guideline|NN committee|NN revise guideline|NN management|NN patient|NN acute myocardial|NN
+j|NP am|NP coll|NP
+rossi|NP s|NP editor|NN
+australian medicine|NN handbook|NN
+adelaide|NP australian medicine|NN handbook|NN
+isbn|NP 0-9757919-2-3|NP
+et|NP al|NP
+guideline|NN management|NN patient|NN myocardial|NN summary|NN report|NN american college|NN heart|NN association|NN task|NN force|NN practice|NN guideline|NN write|NN committee|NN revise guideline|NN management|NN patient|NN acute myocardial|NN j|NP am|NP coll|NP 200444671-719|NP
+morrow|NP antman|NP et|NP al|NP
+evaluation|NN time|NN save initiation|NN reteplase|NN myocardial infarction|NN result|NN early retavase-thrombolysis|NN infarction|NN trial|NN
+j|NP am|NP coll|NP 200240171-7|NP
+moyer|NP feldman|NP levine|NP et|NP al|NP
+implication|NN mechanical pci|NP controversy|NN st|NP elevation|NN infarction|NN organization|NN emergency|NN medical service|NN boston|NP ems|NP experience|NN path|NN 2004353-61|NN
+lassen|NN et|NP al|NP
+reduction|NN treatment|NN delay|NN patient|NN myocardial infarction|NN impact|NN diagnosis|NN direct referral|NN primary coronary intervention|NN heart|NN j|NP 2005268770-7|NP
+henry|NP atkins|NP cunningham|NP et|NP al|NP
+elevation|NN infarction recommendation|NN triage|NN patient|NN heart|NN attack|NN center|NN time|NN national policy|NN treatment|NN elevation|NN
+j|NP am|NP coll|NP 2006471339-1345|NP
+cannon|NP cp|NP al|NP
+management|NN acute coronary syndrome|NN p|NN
+new|NP jersey|NP press|NN
+isbn|NP 0-89603-552-2|NP
+dowdall|NP n|NP
+doctor|NN aircraft|NN
+top|NN in-flight medical emergency|NN
+full text|NN 1119071|NN
+faxon|NP dp|NP
+coronary intervention|NN impact|NN post|NN myocardial infarction|NN survival|NN
+cardiol 1i38-44|NN
+collaborative group|NN
+trial|NN intravenous streptokinase|NN oral aspirin|NN neither case|NN suspect acute myocardial infarction|NN
+lee|NP kl|NP lh|NP topol|NP et|NP al|NP
+predictors|NP mortality|NN era|NN reperfusion|NN acute myocardial|NN
+stone|NP gw|NP cl|NP browne|NP et|NP al|NP
+predictors|NP in-hospital|NP outcome|NN acute myocardial infarction|NN reperfusion|NN era|NN primary angioplasty|NN infarction|NN trail|NN
+j|NP am|NP coll|NP
+indication|NN fibrinolytic therapy|NN suspect acute myocardial infarction|NN collaborative overview|NN early mortality|NN major morbidity|NN result|NN randomise trial|NN patient|NN
+therapy|NN collaborative group|NN
+verheugt|NP fw|NP bj|NP armstrong|NP pw|NP
+myocardial infarction|NN new target|NN reperfusion|NN therapy|NN
+heart|NN j|NP
+boersma|NP e|NP ac|NN simoon ml|NN
+early thrombolytic treatment|NN acute myocardial infarction|NN reappraisal|NN golden hour|NN
+lancet|NN 9030|NN
+effect|NN tissue|NN plasminogen|NN activator|NN comparison|NN early invasive conservative strategy|NN unstable angina|NN myocardial infarction|NN
+result|NN timy|NN trial|NN
+thrombolysis ischemia|NN
+js|NP la|NP webb|NP jg|NP white|NP hd|NP jd|NP buller|NP ce|NP jacobs|NP slater|NP jn|NP col|NP j|NP mckinlay|NP sm|NP lejemtel|NP
+early revascularization|NN acute myocardial infarction|NN complicate shock|NN
+shock|NN investigator|NN
+emergently coronary|NN shock|NN
+n|NP engl|NP j|NP med|NP
+white|NP hd|NP van|NP de|NP fj|NP
+thrombolysis acute myocardial infarction|NN
+gusto investigator|NN
+international randomize trial|NN compare thrombolytic strategy|NN acute myocardial infarction|NN
+gusto investigator|NN
+n|NP engl|NP j|NP med|NP
+sabatine|NP ms|NP morrow|NP da|NP g|NP m|NP leiva-pons|NP keltai|NP m|NP murphy|NP sa|NP mccabe|NP ch|NN gibson|NP cm|NN cannon|NP cp|NP em|NP e|NP reperfusion therapy|NN infarction|NN investigator|NN
+clinical outcome|NN patient|NN receive heparin|NN heparin|NN myocardial infarction|NN treate fibrinolytics|NN clarity-timy trial|NN
+cowley|NP mj|NP vetrovec|NP gw|NP fisher|NP lm|NP garrett|NP r|NP hess|NP ml|NN
+effect|NN streptokinase|NN administration|NN patient|NN acute myocardial infarction|NN coronary insufficiency|NN
+dm|NN am samama m|NN
+effect|NN standard heparin|NN low molecular weight|NN heparin|NN thrombolytic fibrinolytic activity|NN urokinase|NN plasminogen|NN activator|NN
+van|NP de|NP f|NP j|NP de|NP geest|NP h|NP m|NP d|NP
+coronary thrombolysis|NN recombinant single-chain|NN plasminogen|NN activator|NN patient|NN acute myocardial infarction|NN
+bode|NP c|NP s|NP g|NP zimmermann|NP r|NP schwarz|NP f|NP w|NP
+efficacy|NP intravenous prourokinase|NN combination|NN prourokinase|NN urokinase|NN acute myocardial infarction|NN
+am|NP j|NP
+grines|NP cl|NP browne|NP marco|NP j|NP d|NP stone|NP gw|NP j|NP p|NP b|NP n|NP gc|NP et|NP al|NP
+comparison|NN immediate angioplasty|NN thrombolytic therapy|NN acute myocardial infarction|NN
+primary angioplasty|NN infarction study|NN group|NN
+n|NP engl|NP j|NP med|NP
+global use|NN strategy|NN open coronary artery|NN acute coronary syndrome|NN angioplasty|NN investigator|NN
+clinical trial|NN compare primary coronary angioplasty|NN tissue|NN plasminogen|NN activator|NN acute myocardial infarction|NN
+n|NP engl|NP j|NP med|NP
+boersma|NP e|NP primary coronary angioplasty|NN
+time|NN matter|NN
+pool analysis|NN randomize clinical trial|NN compare primary percutaneous coronary intervention|NN fibrinolysis|NN acute myocardial infarction|NN patient|NN
+heart|NN j|NP
+bradley|NP eh|NP j|NP wang|NP y|NP barton|NP ba|NP webster|NP tr ja|NP sa|NP curtis|NP jp|NN magid dj|NN mcnamara|NP rl|NP j|NP loeb|NP jm|NP hm|NP
+strategy|NN reduce door-to-balloon time|NN acute myocardial infarction|NN
+n|NP engl|NP j|NP med|NP
+aversano|NP t|NP et|NP al|NP
+therapy|NN primary percutaneous coronary intervention|NN myocardial infarction|NN patient|NN present hospital|NN on-site cardiac surgery|NN randomize control trial|NN
+grines|NP cl|NP cox|NP da|NP stone|NP gw|NP garcia|NP e|NP la|NP brodie|NP br|NP madonna|NP o|NP m|NP aj|NP ww|NP morice|NP mc|NN
+coronary angioplasty|NN stent implantation|NN acute myocardial infarction|NN
+primary angioplasty|NN infarction study|NN group|NN
+n|NP engl|NP j|NP med|NP
+brener|NP sj|NP barr|NP la|NP je|NP katz|NP s|NP george|NP bs|NP jones|NP aa|NP cohen|NP ed|NP pc|NP white|NP hj|NP cheek|NN hb|NP moses|NP dj|NN mb|NN
+placebo-control trial|NN platelet|NN glycoprotein|NN blockade|NN primary angioplasty|NN acute myocardial infarction|NN
+primary ptca|NN organization|NN trial|NN investigator|NN
+tcheng|NP je|NP de|NP cl|NP cox|NP da|NP mb|NN garcia|NP e|NP griffin|NP jj|NP g|NP t|NP m|NP m|NP aj|NP r|NP stone|NP gw|NP investigator|NN
+benefit|NN risk|NN use|NN primary angioplasty|NN acute myocardial infarction|NN control abciximab|NN device|NN investigation|NN lower late angioplasty|NN complication|NN trial|NN
+raja|NP sg|NP haider|NP z|NP ahmad|NP m|NP h|NP
+vein|NN graft|NN use|NN use
+heart|NN lung|NN
+hannan|NP el|NP mj|NP walford|NP g|NP jones|NP ryan|NP tj|NP bennett|NP e|NP ow gold|NN jp|NN rose|NP ea|NP
+long-term outcome|NN bypass|NN graft|NN stent implantation|NN
+n|NP engl|NP j|NP med|NP
+1060 bourassa|NP mg|NP
+clinical trial|NN coronary coronary angioplasty|NN coronary bypass|NN graft|NN
+opin|NN 154281-6|NN
+hlatky|NP ma|NP boothroyd|NP db|NP ka|NP brooks|NP mm|NN mark|NP db|NP pitt|NP b|NP gs|NP rogers|NP ryan|NP tj|NP whitlow|NP pl|NP rd|NP
+medical cost|NN quality|NN life|NN year|NN randomization|NN angioplasty|NN bypass|NN surgery|NN coronary artery|NN disease|NN
+echt|NP ds|NP pr|NP mitchell|NP lb|NN peters|NP rw|NP d|NP barker|NP d|NP baker|NP friedman|NP l|NP greene|NP hl|NP et|NP al|NP
+mortality|NN morbidity|NN patient|NN receive flecainide|NN placebo|NN
+cardiac arrhythmia|NN suppression|NN trial|NN
+n|NP engl|NP j|NP med|NP
+waldo|NP al|NP aj|NP h|NP friedman|NP pl|NP dj|NN pauls|NP jf|NP pitt|NP b|NP pratt|NP cm|NN schwartz|NP pj|NP ep|NP
+effect|NN d-sotalol|NN mortality|NN patient|NN left ventricular dysfunction|NN recent remote myocardial infarction|NN
+sword investigator|NN
+survival|NN oral d-sotalol|NN
+julian|NP dg|NP aj|NP g|NP mj|NP schwartz|NP pj|NP simon|NP p|NP
+trial|NN effect|NN amiodarone|NN mortality|NN patient|NN dysfunction|NN recent myocardial infarction|NN
+european myocardial|NN trial|NN investigator|NN
+life|NN heart|NN attack|NN
+national heart|NN lung|NN blood|NN institute|NN
+retrieved|NP december|NP
+trisha|NP macnair|NP
+recover heart|NN attack|NN
+bbc|NP december|NP
+retrieved|NP december|NP
+1131 life|NN heart|NN attack|NN
+health|NN professional|NN capital|NN health|NN queen|NP elizabeth|NP health|NN science|NN centre|NN halifax|NP nova|NP scotia|NP
+retrieved|NP november|NP
+heart|NN attack|NN get back life|NN heart|NN attack|NN
+american academy|NN family|NN physician|NN update march|NP
+retrieved|NP december|NP
+smith|NP p|NP campbell|NP t|NP et|NP al|NP
+therapeutic guideline|NN cardiovascular edition|NN
+north|NP melbourne|NP therapeutic guideline|NN
+peters|NP rj|NP mehta|NP sr|NP fox|NP zhao|NP f|NP lewis|NP bs|NP sl|NP diaz|NP r|NP pj|NP valentin|NP v|NP yusuf|NP s|NP angina|NN prevent recurrent event|NN cure|NN trial|NN investigator|NN
+effect|NN aspirin|NN dose|NN use alone combination|NN clopidogrel|NN patient|NN acute coronary syndrome|NN observation|NN clopidogrel|NN angina|NN prevent recurrent event|NN cure|NN study|NN
+yusuf|NP s|NP peto|NP r|NP lewis|NP j|NP collins|NP r|NP sleight|NP p|NP
+beta|NN blockade|NN myocardial infarction|NN overview|NN randomize trial|NN
+cardiovasc dis|NN
+dargie|NP hj|NP
+effect|NN carvedilol|NN outcome|NN myocardial infarction|NN patient|NN dysfunction|NN capricorn|NP randomise trial|NN
+ma|NN e|NP la|NP basta|NP l|NP brown|NP jr|NP davis|NP br|NP em|NP goldman|NP s|NP gc|NP et|NP al|NP
+effect|NN captopril|NN mortality|NN morbidity|NN patient|NN left ventricular dysfunction|NN myocardial infarction|NN
+result|NN survival|NN ventricular enlargement|NN trial|NN
+save investigator|NN
+n|NP engl|NP j|NP med|NP
+sacks|NP fm|NN ma|NP moye|NP la|NP jl|NP rutherford|NP jd|NP cole|NP brown|NP l|NP jw|NP arnold|NP jm|NP cc|NP davis|NP br|NP e|NP
+effect|NN pravastatin|NN coronary event|NN myocardial infarction|NN patient|NN average cholesterol|NN level|NN
+cholesterol|NN recurrent event|NN trial|NN investigator|NN
+n|NP engl|NP j|NP med|NP
+sacks|NP fm|NN la|NP davis|NP br|NP cole|NP rouleau|NP nash|NP dt|NP ma|NN
+relationship|NN plasma|NN ldl|NN concentration|NN treatment|NN pravastatin|NN recurrent coronary event|NN cholesterol|NN recurrent event|NN trial|NN
+ray|NP kk|NP cannon|NP cp|NP
+potential relevance|NN multiple lipid-independent|NN effect|NN statin|NN management|NN acute coronary syndrome|NN
+j|NP am|NP coll|NP 20054681425-33|NP
+keating|NP g|NP g|NP
+eplerenone review|NN use|NN left ventricular systolic dysfunction|NN heart|NN failure|NN acute myocardial infarction|NN
+dietary supplementation|NN polyunsaturate fatty acid|NN vitamin|NN e|NN myocardial infarction|NN result|NN gissi-prevenzione trial|NN
+gruppo|NN italiano|NN studio|NN della|NN miocardico|NN
+leaf|NN albert|NP c|NP m|NP d|NP j|NP kang|NP j|NP cox|NP b|NP zhang|NP h|NP d|NP
+prevention|NN fatal arrhythmia|NN high-risk subject|NN fish|NN oil|NN fatty acid|NN intake|NN
+brouwer|NP ia|NP pl|NP aj|NP d|NP rn|NP wever|NP ef|NP c|NP je|NP mb|NN buschler|NP h|NP eg sofa study|NN group|NN
+effect|NN fish|NN oil|NN ventricular tachyarrhythmia|NN death|NN patient|NN cardioverter|NN study|NN fatty acid|NN ventricular|NN randomize trial|NN
+raitt|NP mh|NP connor|NP morris|NP c|NP j|NP b|NP ss|NP mcclelland|NP j|NP cook|NP j|NP k|NP r|NP connor|NP sl|NP gerhard|NP g|NP kraemer|NP df|NN d|NP marchant|NP c|NP d|NP r|NP j|NP
+fish|NP oil|NN supplementation|NN risk|NN ventricular tachycardia|NN ventricular fibrillation|NN patient|NN implantable|NN randomize control trial|NN
+schachinger|NP v|NP s|NP haberbosch|NP w|NP hambrecht|NP r|NP h|NP yu|NP j|NP r|NP dg|NP cw|NP t|NP b|NP t|NP s|NP am repair-amy investigator|NN
+bone|NN progenitor|NN cell|NN acute myocardial infarction|NN
+n|NP engl|NP j|NP med|NP
+christman|NP kl|NP lee|NP
+biomaterial treatment|NN infarction|NN
+j|NP am|NP coll|NP
+lopez|NP de|NP sa|NP e|NP j|NP bethencourt bosch|NP de|NP del|NP de|NP la|NP investigator|NN
+value|NN clinical variable|NN presentation|NN patient|NN elevation|NN acute coronary syndrome|NN result|NN proyecto|NP de|NP del|NP de|NP la|NP pepa|NP
+medicine|NN baltimore|NP
+fox|NP ka|NP goldberg|NP pieper|NP ks|NP eagle|NN van|NP de|NP f|NP goodman|NP sg|NP md|NN anderson|NP fa|NP jr|NP granger|NP cb|NP
+prediction|NN risk|NN death|NN myocardial infarction|NN month|NN presentation|NN acute coronary syndrome|NN prospective multinational observational study|NN
+weir|NP ra|NP jj|NP velazquez|NP
+epidemiology|NN heart|NN failure|NN left ventricular systolic dysfunction|NN acute myocardial infarction|NN prevalence|NN clinical characteristics|NN prognostic importance|NN
+am|NP j|NP
+bosch|NP x|NP theroux|NP p|NP
+left ventricular ejection|NN fraction|NN predict early mortality|NN patient|NN elevation|NN acute coronary syndrome|NN
+am|NP heart|NN j|NP
+nicod|NP p|NP gilpin|NP e|NP h|NP r|NP blacky|NN henning|NP h|NP ross|NP j|NP
+long-term clinical outcome|NN q|NN wave|NN wave|NN myocardial infarction|NN large patient|NN population|NN
+worker|NN compensation|NN
+prairie|NN view|NN university|NN
+retrieved|NP november|NP
+decision subject|NN index|NN
+board|NN industrial insurance|NN appeal|NN
+retrieved|NP november|NP
+compensability worker|NN compensation|NN heart|NN attack|NN firefighter|NN police|NN officer|NN line|NN
+department|NN labor|NN industry|NN state|NN vermont|NP january|NP
+edit external link|NN risk|NN assessment|NN tool|NN estimate 10-year risk|NN heart|NN attack|NN base information|NN framingham|NP heart|NN study|NN united|NP states|NP national heart|NN lung|NN blood|NN institute|NN heart|NN attack|NN overview|NN resource|NN
+regional pci|NP resource|NN center|NN evidence|NN base online resource|NN center|NN development|NN regional pci|NP network|NN acute american college|NN cardiology|NP acc|NP door|NN balloon|NN initiative|NN
+american heart|NN association|NN heart|NN attack|NN web|NN site|NN information|NN resource|NN prevent recognize treate heart|NN attack|NN
+artswhtml text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

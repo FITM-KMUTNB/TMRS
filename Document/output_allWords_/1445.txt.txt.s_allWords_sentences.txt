@@ -1,0 +1,292 @@
+pneumonia|NN pneumonia|NN article|NN human pneumonia|NN
+pneumonia|NN animal|NN see pneumonia|NN non-human
+pneumonia|NN external resource|NN j13|NN j16|NN p23|NN
+480-486 7700|NN emedicine topic|NN list|NN pneumonia|NN illness|NN lung|NN respiratory system|NN alveoly microscopic air-fil sacs|NN lung|NN responsible absorb oxygen|NN atmosphere|NN become inflam flood fluid|NN
+pneumonia|NN result variety|NN cause|NN infection|NN bacteria|NN viruse|NN fungy|NN parasite|NN
+pneumonia|NN occur chemical|NN physical injury|NN lung|NN indirectly due medical illness|NN lung|NN cancer|NN alcohol|NN abuse|NN
+typical symptom|NN associate pneumonia|NN include cough|NN chest|NN pain|NN fever|NN difficulty|NN breath|NN
+diagnostic tool|NN include x-ray|NN examination|NN sputum|NN
+treatment|NN depend cause|NN pneumonia|NN bacterial pneumonia|NN treate antibiotics|NN
+pneumonia|NN common illness|NN occur age|NN group|NN lead cause|NN death|NN elderly people|NN chronically ill
+vaccine|NN prevent certain type|NN pneumonia|NN available
+prognosis|NN individual|NN depend type|NN pneumonia|NN appropriate treatment|NN complication|NN person|NN underly health|NN
+content|NN symptom|NN diagnosis|NN physical examination|NN chest|NN x-ray|NN sputum|NN culture|NN test|NN viruse|NN bacteria|NN type|NN pneumonia|NN early classification|NN scheme|NN combine clinical classification|NN pneumonia|NN pneumonia|NN type|NN pneumonia|NN treatment|NN complication|NN respiratory circulatory failure|NN effusion|NN abscess|NN mortality|NN prevention|NN history|NN see note|NN external link|NN edit symptom|NN pneumonia|NN fill lung|NN fluid|NN keep oxygen|NN reach bloodstream|NN
+alveolus|NN left|NN normal alveolus|NN right|NN full fluid|NN pneumonia|NN
+people|NN infectious pneumonia|NN cough|NN produce greenish yellow sputum|NN high fever|NN accompany shake chill|NN
+shortness|NP breath|NN common chest|NN pain|NN sharp stab pain|NN felt worse deep breath|NN cough|NN
+people|NN pneumonia|NN cough blood|NN experience|NN headache|NN develop sweaty clammy skin|NN
+symptom|NN include loss|NN appetite|NN fatigue|NN blueness|NN skin|NN nausea|NN vomit|NN joint pain|NN muscle|NN ache|NN
+common form|NN pneumonia|NN cause variety|NN symptom|NN
+instance|NN pneumonia|NN cause legionella|NN cause abdominal pain|NN pneumonia|NN cause tuberculosis|NN pneumocystis|NN cause weight|NN loss|NN night|NN sweat|NN
+elderly people|NN manifestation|NN pneumonia|NN typical
+instead develop new worsen confusion|NN experience unsteadiness|NN lead fall|NN
+infant|NN pneumonia|NN symptom|NN above case|NN simply sleepy decrease appetite|NN
+edit|NN diagnosis|NN diagnose pneumonia|NN health|NN care|NN provider|NN rely patient|NN symptom|NN find|NN physical examination|NN
+information|NN chest|NN x-ray|NN blood|NN test|NN sputum|NN culture|NN helpful
+chest|NN x-ray|NN typically use diagnosis|NN hospital|NN clinics|NN x-ray|NN facility|NN
+community|NN set general practice|NN pneumonia|NN usually diagnose base symptom|NN physical examination|NN alone
+pneumonia|NN difficult people|NN especially illness|NN
+occasionally chest|NN ct|NN scan|NN test|NN need distinguish pneumonia|NN illness|NN
+edit physical examination|NN individual|NN symptom|NN pneumonia|NN need|NN medical evaluation|NN
+physical examination|NN health|NN care|NN provider|NN reveal fever|NN sometime low body|NN temperature|NN increase respiratory rate|NN low blood|NN pressure|NN fast heart|NN rate|NN low oxygen|NN saturation|NN amount|NN oxygen|NN blood|NN indicate pulse|NN oximetry|NN blood|NN ga|NN analysis|NN
+people|NN struggle breathe confuse cyanosis skin|NN require immediate attention|NN
+pneumonia|NN seen chest|NN x-ray|NN
+normal chest|NN x-ray|NN
+b|NP abnormal chest|NN x-ray|NN shadow pneumonia|NN right lung|NN left|NN side|NN image|NN
+listen lung|NN stethoscope|NN auscultation|NN reveal thing|NN
+lack|NN normal breath|NN sound presence|NN crackle sound|NN increase loudness|NN whisper speech|NN whisper identify area|NN lung|NN stiff full fluid|NN call consolidation|NN
+examiner|NN feel way|NN chest|NN expand tap chest|NN wall|NN percussion|NN further localize consolidation|NN
+examiner|NN palpate increase vibration|NN chest|NN speak tactile fremitus edit|NN chest|NN x-ray|NN sputum|NN culture|NN test|NN important test|NN detect pneumonia|NN unclear situation|NN chest|NN x-ray|NN
+chest|NN x-ray|NN reveal area|NN opacity|NN seen white|NN represent consolidation|NN
+pneumonia|NN alway seen x-ray|NN disease|NN initial stage|NN involve part|NN lung|NN easily seen x-ray|NN
+case|NN chest|NN ct|NN compute tomography|NN reveal pneumonia|NN seen chest|NN x-ray|NN
+x-ray|NN mislead problem|NN lung|NN scare|NN congestive heart|NN failure|NN mimic pneumonia|NN x-ray chest|NN x-ray|NN use evaluate complication|NN pneumonia|NN
+individual|NN get better antibiotics|NN health|NN care|NN provider|NN concern|NN diagnosis|NN culture|NN person|NN sputum|NN request
+culture|NN generally take day|NN mainly use confirm infection|NN sensitive antibiotic|NN start
+blood|NN sample|NN similarly culture look infection|NN blood|NN blood|NN culture|NN
+bacteria|NN identify test see antibiotics|NN effective
+complete blood|NN count|NN show high white blood|NN cell|NN count|NN indicate presence|NN infection|NN inflammation|NN
+people|NN immune system|NN problem|NN white blood|NN cell|NN count|NN appear deceptively normal
+blood|NN test|NN use evaluate kidney|NN function|NN important prescribe certain antibiotics|NN look low blood|NN sodium|NN
+low blood|NN sodium|NN pneumonia|NN thought due extra anti-diuretic hormone|NN produce lung|NN disease
+specific blood|NN test|NN bacteria|NN legionella|NN chlamydophila|NN urine|NN test|NN antigen|NN available
+respiratory secretion|NN test presence|NN viruse|NN influenza|NN respiratory syncytial|NN virus|NN adenovirus|NN
+edit upper panel|NN show normal lung|NN microscope|NN
+white space|NN alveoly contain air|NN
+lower|NP panel|NN show lung|NN pneumonia|NN microscope|NN
+alveoly|NN fill inflammation|NN debris|NN
+symptom|NN infectious pneumonia|NN cause invasion|NN lung|NN microorganism|NN immune system|NN response|NN infection|NN
+strain|NN microorganism|NN cause pneumonia|NN responsible case|NN
+common cause|NN pneumonia|NN viruse|NN bacteria|NN
+common cause|NN infectious pneumonia|NN include fungy|NN parasite|NN
+edit|NN viruse|NN viruse|NN invade cell|NN order|NN reproduce
+typically virus|NN reache lung|NN airborne droplet|NN inhal mouth|NN nose|NN
+lung|NN virus|NN invade cell|NN line airway|NN alveoly|NN
+invasion|NN lead cell|NN death|NN virus|NN directly kill cell|NN type|NN cell|NN self-destruction call apoptosis|NN
+immune system|NN respond viral infection|NN even lung|NN damage|NN occur
+white blood|NN cell|NN mainly lymphocyte|NN activate variety|NN chemical cytokine|NN allow fluid|NN leak|NN alveoly|NN
+combination|NN cell|NN destruction|NN alveoly|NN interrupt normal transportation|NN oxygen|NN bloodstream|NN
+addition|NN damage lung|NN viruse|NN affect organ|NN disrupt different body|NN function|NN
+viruse|NN make body|NN susceptible bacterial infection|NN reason|NN bacterial pneumonia|NN complicate viral pneumonia|NN
+viral pneumonia|NN commonly cause viruse|NN influenza|NN virus|NN respiratory syncytial|NN virus|NN rsv|NP adenovirus|NN metapneumovirus|NN
+herpes|NP simplex|NN virus|NN rare cause|NN pneumonia|NN
+people|NN immune system|NN problem|NN risk|NN pneumonia|NN cause cytomegalovirus|NN
+edit|NN bacteria|NN bacteria|NN typically enter lung|NN airborne droplet|NN inhal reach lung|NN bloodstream|NN infection|NN part|NN body|NN
+bacteria|NN live part|NN upper respiratory tract|NN nose|NN mouth|NN sinuse|NN easily inhal alveoly|NN
+alveoly bacteria|NN invade space|NN cell|NN alveoly|NN connect pore|NN
+invasion|NN trigger immune system|NN send neutrophil|NN type|NN defensive white blood|NN cell|NN lung|NN
+neutrophil|NN engulf kill offend organism|NN release cytokine|NN cause general activation|NN immune system|NN
+lead fever|NN chill|NN fatigue|NN common bacterial fungal pneumonia|NN
+neutrophil|NN bacteria|NN fluid|NN surround blood|NN vessel|NN fill alveoly|NN interrupt normal oxygen|NN transportation|NN
+bacterium|NN common cause|NN pneumonia|NN photograph electron|NN microscope|NN
+bacteria|NN travel infect lung|NN bloodstream|NN cause serious even fatal illness|NN septic shock|NN low blood|NN pressure|NN damage|NN multiple part|NN body|NN brain|NN kidney|NN heart|NN
+bacteria|NN travel area|NN lung|NN chest|NN wall|NN pleural cavity|NN cause complication|NN call empyema|NN
+common cause|NN bacterial pneumonia|NN streptococcus bacteria|NN atypical bacteria|NN
+term|NN refer bacteria color|NN purple|NN red|NN respectively stain use process|NN call gram|NN stain|NN
+term|NN atypical use atypical bacteria|NN commonly affect healthier people|NN cause generally severe pneumonia|NN respond different antibiotics|NN bacteria|NN
+type|NN gram-positive bacteria|NN cause|NN pneumonia|NN found nose|NN mouth|NN healthy people|NN
+pneumoniae call common bacterial cause|NN pneumonia|NN age|NN group|NN newborn infant|NN
+important gram-positive cause|NN pneumonia|NN staphylococcus|NP aureus|NN
+bacteria|NN cause|NN pneumonia|NN frequently bacteria|NN
+gram-negative bacteria|NN cause|NN pneumonia|NN include influenzae klebsiella|NN escherichia|NP coly|NN pseudomona|NN catarrhalis|NN
+bacteria|NN live stomach|NN intestine|NN enter lung|NN vomit|NN inhal
+bacteria|NN cause|NN pneumonia|NN include pneumoniae mycoplasma|NN pneumophila|NN
+edit fungal pneumonia|NN uncommon occur individual|NN immune system|NN problem|NN due aid|NN drug|NN medical problem|NN
+pathophysiology|NN pneumonia|NN cause fungy|NN similar bacterial pneumonia|NN
+pneumonia|NN cause capsulatum|NN pneumocystis|NN immitis|NN
+common mississippi|NP river|NP basin|NN common southwestern united|NP states|NP
+edit|NN variety|NN parasite|NN affect lung|NN
+parasite|NN typically enter body|NN skin|NN swallow
+body|NN travel lung|NN usually blood|NN
+type|NN pneumonia|NN combination|NN cellular destruction|NN immune response|NN cause|NN disruption|NN oxygen|NN transportation|NN
+type|NN white blood|NN cell|NN eosinophil|NN respond vigorously parasite|NN infection|NN
+eosinophil lung|NN lead pneumonia|NN complicate underly parasitic pneumonia|NN
+common parasite|NN cause pneumonia|NN toxoplasma gondiy|NN stercoralis|NN ascariasis|NN
+edit|NN type|NN pneumonia|NN classify different way|NN
+classify anatomic change|NN found lung|NN
+became known microorganism|NN cause pneumonia|NN microbiologic classification|NN arose advent|NN x-ray|NN radiological classification|NN develop
+important classification|NN system|NN use pneumonia|NN combine clinical classification|NN combine factor|NN age|NN risk|NN factor|NN certain microorganism|NN presence|NN underly lung|NN disease|NN underly systemic disease|NN recently hospitalize
+edit early classification|NN scheme|NN initial description|NN pneumonia|NN focuse anatomic|NN appearance|NN lung|NN direct inspection|NN autopsy|NN appearance|NN microscope|NN
+lobar pneumonia|NN infection|NN involve single lobe|NN section|NN lung|NN
+pneumonia|NN due pneumoniae|NN
+pneumonia|NN involve lobe|NN severe illness|NN pneumonia|NN
+pneumonia|NN involve area|NN alveoly|NN call interstitial pneumonitis|NN
+pneumonia|NN likely cause viruse|NN atypical bacteria|NN
+discovery|NN x-ray|NN made possible determine anatomic type|NN pneumonia|NN direct examination|NN lung|NN autopsy|NN led development|NN radiological classification|NN
+early investigator|NN distinguish typical lobar pneumonia|NN atypical eg
+viral pneumonia|NN use location|NN distribution|NN appearance|NN opacity|NN saw chest|NN x-ray|NN
+certain x-ray|NN find|NN use help predict course|NN illness|NN possible clearly determine microbiologic cause|NN pneumonia|NN base x-ray|NN alone
+advent|NN modern microbiology|NN classification|NN base causative microorganism|NN became possible
+determine microorganism|NN cause individual|NN pneumonia|NN important step|NN decide treatment|NN type|NN length|NN
+culture|NN blood|NN culture|NN test|NN respiratory secretion|NN specific blood|NN test|NN use determine microbiologic classification|NN
+laboratory|NN test|NN typically take day|NN classification|NN usually possible time|NN initial diagnosis|NN
+edit combine clinical classification|NN traditionally clinician|NN classify pneumonia|NN clinical characteristics|NN divide acute week|NN duration|NN chronic pneumonia|NN
+useful chronic pneumonia|NN tend non-infectious mycobacterial fungal mix bacterial infection|NN cause airway|NN obstruction|NN
+acute pneumonia|NN further divide classic bacterial bronchopneumonia|NN streptococcus atypical pneumonia|NN interstitial pneumonitis|NN mycoplasma|NN pneumoniae|NN aspiration|NN pneumonia|NN syndrome|NN
+combine clinical classification|NN commonly use classification|NN scheme|NN attempt|NN identify person|NN risk|NN factor|NN come medical attention|NN
+advantage|NN classification|NN scheme|NN previous system|NN help guide selection|NN appropriate initial treatment|NN even microbiologic cause|NN pneumonia|NN known
+broad category|NN pneumonia|NN scheme|NN pneumonia|NN pneumonia|NN
+edit pneumonia|NN main article|NN pneumonia|NN
+pneumonia|NN cap|NN infectious pneumonia|NN person|NN recently hospitalize
+cap|NN common type|NN pneumonia|NN
+common cause|NN cap|NN differ person|NN age|NN include pneumoniae viruse|NN atypical bacteria|NN haemophilus|NN
+overal common cause|NN community-acquire pneumonia|NN worldwide
+bacteria|NN cause|NN cap|NN certain at-risk population|NN
+cap|NN common cause|NN death|NN unit kingdom|NN united|NP states|NP
+outdate term|NN walk|NN pneumonia|NN use describe type|NN community-acquire pneumonia|NN severity|NN fact|NN patient|NN continue walk require hospitalization|NN
+walk|NN pneumonia|NN usually cause virus|NN atypical bacteria|NN
+edit pneumonia|NN pneumonia|NN call pneumonia|NN pneumonia|NN acquire hospitalization|NN illness|NN procedure|NN
+cause|NN microbiology|NN treatment|NN prognosis|NN different community-acquire pneumonia|NN
+patient|NN admit hospital|NN cause|NN subsequently develop pneumonia|NN
+patient|NN risk|NN factor|NN pneumonia|NN mechanical ventilation|NN prolong malnutrition|NN underly heart|NN lung|NN disease|NN decrease amount|NN stomach|NN acid|NN immune disturbance|NN
+additionally microorganism|NN person|NN expose hospital|NN different home|NN
+microorganism|NN include resistant bacteria|NN pseudomona|NN
+individual|NN pneumonia|NN usually underly illness|NN expose dangerous bacteria|NN tend deadly community-acquire pneumonia|NN
+pneumonia|NN vap|NN subset|NN pneumonia|NN
+pneumonia|NN occur hour|NN intubation|NN mechanical ventilation|NN
+edit type|NN pneumonia|NN severe acute respiratory syndrome|NN sar|NN highly contagious deadly type|NN pneumonia|NN occure initial outbreak|NN china|NP
+cause sar|NN previously unknown pathogen|NN
+new case|NN sar|NN seen june|NP
+obliteran organize|NN pneumonia|NN cause inflammation|NN small airway|NN lung|NN
+known cryptogenic organize|NN cop|NN
+pneumonia|NN pneumonia|NN invasion|NN lung|NN eosinophil|NN particular kind|NN white blood|NN cell|NN
+pneumonia|NN occur response|NN infection|NN parasite|NN exposure|NN certain type|NN environmental factor|NN
+chemical pneumonia|NN chemical|NN pneumonia|NN usually call chemical pneumonitis|NN cause chemical toxin|NN pesticide|NN enter body|NN inhalation|NN skin|NN contact|NN
+toxic substance|NN oil|NN pneumonia|NN call pneumonia|NN
+aspiration|NN pneumonia|NN aspiration|NN pneumonia|NN aspiration|NN pneumonitis|NN cause foreign object|NN usually oral gastric content|NN eate|NN reflux|NN vomit|NN result
+result lung|NN inflammation|NN infection|NN contribute material|NN aspirate contain anaerobic bacteria|NN unusual cause|NN pneumonia|NN
+aspiration|NN lead cause|NN death|NN hospital|NN nurse|NN home|NN patient|NN adequately protect airway|NN otherwise impair
+edit|NN treatment|NN case|NN pneumonia|NN treate hospitalization|NN
+typically oral antibiotics|NN rest|NN fluid|NN home|NN care|NN sufficient complete resolution|NN
+people|NN pneumonia|NN trouble|NN breath people|NN medical problem|NN elderly need advance treatment|NN
+symptom|NN get worse pneumonia|NN improve home|NN treatment|NN complication|NN occur person|NN hospitalize
+antibiotics|NN use treat bacterial pneumonia|NN
+contrast|NN antibiotics|NN useful viral pneumonia|NN sometime use treat prevent bacterial infection|NN occur lung|NN damage viral pneumonia|NN
+antibiotic|NN choice|NN depend nature|NN pneumonia|NN common microorganism|NN cause pneumonia|NN local geographic area|NN immune status|NN underly health|NN individual
+treatment|NN pneumonia|NN ideally base causative microorganism|NN known antibiotic|NN sensitivity|NN
+specific cause|NN pneumonia|NN identify people|NN even extensive evaluation|NN
+treatment|NN generally delay person|NN serious pneumonia|NN treatment|NN usually start well laboratory|NN report|NN available
+unit kingdom|NN amoxicillin|NN antibiotic|NN select patient|NN community-acquire pneumonia|NN sometime ad clarithromycin patient|NN allergic penicillin|NN give instead amoxicillin|NN
+north|NP america|NP atypical form|NN community-acquire pneumonia|NN becom common azithromycin|NN fluoroquinolone|NN displace amoxicillin|NN first-line treatment|NN
+duration|NN treatment|NN traditionally day|NN increase evidence|NN shorter course|NN short day|NN sufficient antibiotics|NN pneumonia|NN include third-|NN cephalosporin carbapenem|NN
+antibiotics|NN usually give intravenously
+multiple antibiotics|NN administer combination|NN attempt|NN treat possible causative microorganism|NN
+choice|NN vary hospital|NN hospital|NN regional difference|NN likely microorganism|NN difference|NN microorganism|NN ability|NN resist various antibiotic|NN treatment|NN
+people|NN difficulty|NN breath due pneumonia|NN require extra oxygen|NN
+extremely sick individual|NN require intensive care|NN treatment|NN intubation|NN artificial ventilation|NN
+viral pneumonia|NN cause influenza|NN treate rimantadine|NN amantadine|NN viral pneumonia|NN cause influenza|NN treate oseltamivir|NN zanamivir|NN
+treatment|NN beneficial start hour|NN onset|NN symptom|NN
+strain|NN influenza|NN known avian influenza|NN bird|NN flu|NN show resistance|NN rimantadine|NN amantadine|NN
+known effective treatment|NN viral pneumonia|NN cause sar|NN adenovirus|NN virus|NN
+edit|NN complication|NN sometime pneumonia|NN lead additional medical problem|NN call complication|NN
+complication|NN frequently associate bacterial pneumonia|NN viral pneumonia|NN
+important complication|NN include edit|NN respiratory circulatory failure|NN pneumonia|NN affect lung|NN people|NN pneumonia|NN difficulty|NN breath|NN possible breathe well stay alive support|NN
+breath|NN assistance|NN helpful bilevel positive airway|NN pressure|NN machine|NN
+case|NN placement|NN endotracheal tube|NN breath|NN tube|NN necessary ventilator|NN use help person|NN breathe
+pneumonia|NN cause respiratory failure|NN trigger acute respiratory distress|NN syndrome|NN result|NN combination|NN infection|NN inflammatory response|NN
+lung|NN quickly fill fluid|NN become stiff
+stiffness|NN combine severe difficulty|NN extract oxygen|NN due alveolar fluid|NN create need|NN mechanical ventilation|NN
+chest|NN x-ray|NN show pleural effusion|NN
+arrow|NN indicate fluid|NN layer|NN right chest|NN
+b|NP arrow|NN indicate width|NN right lung|NN
+volume|NN useful lung|NN reduce collection|NN fluid|NN lung|NN
+septic shock|NN potential complication|NN pneumonia|NN
+occur microorganism|NN enter bloodstream|NN immune system|NN respond secret cytokine|NN
+occur bacterial pneumonia|NN pneumoniae|NN common cause|NN
+individual|NN sepsis|NN septic shock|NN need|NN hospitalization|NN intensive care|NN unit|NN
+require intravenous fluid|NN medication|NN help keep blood|NN pressure|NN drop low
+cause liver|NN kidney|NN heart|NN damage|NN problem|NN cause death|NN
+edit effusion|NN abscess|NN occasionally microorganism|NN infect lung|NN cause fluid|NN pleural effusion|NN build space|NN surround lung|NN pleural cavity|NN
+microorganism|NN present pleural cavity|NN fluid|NN collection|NN call empyema|NN
+pleural fluid|NN present person|NN pneumonia|NN fluid|NN collect needle|NN examine
+result|NN examination|NN complete drainage|NN fluid|NN necessary require chest|NN tube|NN
+severe case|NN surgery|NN need
+fluid|NN drain infection|NN persist antibiotics|NN penetrate well pleural cavity|NN
+rarely bacteria|NN lung|NN form pocket|NN infect fluid|NN call abscess|NN
+lung|NN abscess|NN usually seen chest|NN x-ray|NN chest|NN ct|NN scan|NN
+typically occur aspiration|NN pneumonia|NN contain type|NN bacteria|NN
+antibiotics|NN usually adequate treat lung|NN abscess|NN sometime abscess|NN drain surgeon|NN radiologist|NN
+edit|NN mortality|NN treatment|NN type|NN bacterial pneumonia|NN cure week|NN
+viral pneumonia|NN last longer pneumonia|NN take week|NN resolve completely
+eventual outcome|NN episode|NN pneumonia|NN depend ill person|NN diagnose
+way|NN predict outcome|NN use pneumonia|NN score|NN score|NN take account|NN severity|NN symptom|NN underly disease|NN age|NN score|NN helpful decide hospitalize person|NN
+united|NP states|NP people|NN pneumonia|NN die
+case|NN pneumonia|NN progress blood|NN poison|NN die
+death|NN rate|NN mortality|NN depend underly cause|NN pneumonia|NN
+pneumonia|NN cause mycoplasma|NN instance|NN associate little mortality|NN
+people|NN develop staphylococcus|NP aureus|NN pneumonia|NN ventilator|NN die region|NN world|NN advance health|NN care|NN system|NN pneumonia|NN even deadlier
+limit access|NN clinics|NN hospital|NN limit access|NN x-ray|NN limit antibiotic|NN choice|NN inability|NN treat underly condition|NN inevitably lead higher rate|NN death|NN pneumonia|NN
+edit|NN prevention|NN way|NN prevent infectious pneumonia|NN
+appropriately treate underly illness|NN aid|NN decrease person|NN risk|NN pneumonia|NN
+smoke|NN cessation|NN important help limit lung|NN damage|NN cigarette|NN smoke|NN interfere body natural defense|NN pneumonia|NN
+research|NN show way|NN prevent pneumonia|NN newborn infant|NN
+test|NN pregnant women|NN group|NN trachomatis|NN give antibiotic|NN treatment|NN need reduce pneumonia|NN infant|NN
+suction mouth|NN throat|NN infant|NN amniotic fluid|NN decrease rate|NN aspiration|NN pneumonia|NN
+healthcare|NN institution|NN take vaccination|NN prevention|NN pneumonia|NN influenza|NN seriously
+center|NN medicaid|NP medicare|NP service|NN cms|NP require patient|NN admit medical set|NN receive screen|NN pneumonia|NN influenza|NN vaccination|NN
+patient|NN meet criteria|NN receive vaccine|NN
+facility|NN fail cms|NP deny payment|NN servicessherry|NN january|NP error|NN invalid ref|NN tag|NN invalid|NN name|NN eg influenza|NN vaccine|NN give yearly individual|NN receive vaccination|NN pneumoniae|NN
+addition|NN health|NN care|NN worker|NN nurse|NN home|NN resident|NN pregnant women|NN receive vaccine|NN influenza|NN outbreak|NN occure medication|NN rimantadine|NN help prevent influenza|NN favorable time|NN get vaccinate influenza|NN october|NP november|NP get vaccinate december|NP even later beneficial influenza|NN activity|NN occur january|NP later year|NN
+vary flu|NN season|NN last late individual|NN likely repeate episode|NN pneumonia|NN
+people|NN hospitalize reason|NN high risk|NN pneumonia|NN
+edit|NN history|NN hippocrate ancient greek physician|NN known father|NN medicine|NN
+symptom|NN pneumonia|NN describe hippocrates|NP bc affection|NN observe fever|NN acute pain|NN side|NN expiration|NN cough|NN present sputa|NN blond livid color|NN likewise thin frothy florid character|NN different common
+pneumonia|NN height|NN case|NN remedy|NN purge bad dyspnoea|NN urine|NN thin acrid sweat|NN come neck|NN head|NN sweat|NN bad proceed suffocation|NN violence|NN disease|NN obtain upper hand|NN hippocrate refer pneumonia|NN disease|NN name ancient|NN
+report result|NN surgical drainage|NN
+1138-1204 ad|NN observe basic symptom|NN occur pneumonia|NN lack follow acute fever|NN stick pain|NN side|NN short rapid breath|NN serrate pulse|NN cough|NN
+clinical description|NN quite similar found modern textbook|NN reflect extent|NN medical knowledge|NN middle age|NN century|NN
+bacteria|NN seen airway|NN individual|NN dy pneumonia|NN edwin|NP initial work|NN identify common bacterial cause|NN pneumoniae|NN pneumoniae|NN perform carl|NP albert|NP fränkel|NP respectively
+initial work|NN introduce gram|NN stain|NN fundamental laboratory|NN test|NN use identify categorize bacteria|NN
+christian gram|NN paper|NN describe procedure|NN help differentiate different bacteria|NN show pneumonia|NN cause microorganism|NN sir|NP william|NP known father|NN modern medicine|NN appreciate morbidity|NN mortality|NN pneumonia|NN describe captain|NN men|NN death|NN
+key development|NN improve outcome|NN pneumonia|NN
+advent|NN penicillin|NN antibiotics|NN modern surgical technique|NN intensive care|NN century|NN mortality|NN pneumonia|NN drop precipitously develop world|NN
+vaccination|NN infant|NN influenzae type|NN began led dramatic decline|NN case|NN shortly thereafter vaccination|NN pneumoniae|NN adult|NN began children|NN began result similar decline|NN edit|NN see list|NN pneumonia|NN victim|NN edit note|NN
+jp|NN fine mj|NN
+patient|NN community-acquire pneumonia|NN
+pneumonia|NN history|NN physical examination|NN
+syrjala|NP h|NP m|NP et al
+high resolution|NN compute tomography|NN diagnosis|NN community-acquire pneumonia|NN
+clin 27358-363|NN
+american heritage|NN medical dictionary|NN
+medical dictionary|NN definition|NN aspiration|NN pneumonia|NN
+pakistan|NP multicentre short course|NN therapy|NN pneumonia|NN study|NN group|NN
+clinical efficacy|NN day|NN day|NN oral amoxicillin|NN treament|NN childhood|NN pneumonia|NN multicentre|NN double-blind trial|NN
+agarwal|NP g|NP s|NP sk|NP singhi|NP s|NP walter|NP sd|NP study|NN group|NN
+day|NN day|NN treatment|NN amoxicillin|NN pneumonia|NN young children|NN multicentre|NN randomise trial|NN
+el|NN r|NP de|NP ca|NP van|NN den|NN p|NP hustinx|NP bresser|NP p|NP van|NN den|NN ge|NP poley|NP van|NP den|NP berg|NP b|NP fh|NP bonten|NP weenink|NP c|NP pm|NN speelman|NP p|NP bc|NP jm|NP
+effictiveness|NP discontinue antibiotic|NN treatment|NN day|NN day|NN mild community|NN acquire pneumonia|NN randomise double blind study|NN
+fine mj|NN dm|NN bh|NP la|NP singer|NP de|NP coley|NN cm|NN tj|NP kapoor|NP
+prediction|NN rule|NN identify low-risk patient|NN community-acquire pneumonia|NN
+n|NP engl|NP j|NP med|NP jan|NP
+combe luyt|NP ce|NP jy|NP m|NP trouillet|NP gibert|NP c|NP j|NP pneuma|NP trial|NN group|NN
+impact|NN resistance|NN outcome|NN staphylococcus|NP aureus|NN pneumonia|NN
+am|NP j|NP care|NN med oct|NP
+center|NN disease|NN control|NN prevention|NN
+prevention|NN control|NN influenza|NN recommendation|NN advisory committee|NN immunization practice|NN
+jefferson|NP t|NP jj|NP v|NP d|NP m|NP
+rimantadine prevent treate influenza|NN adult|NN
+cochrane|NP database|NN rev|NP 20043cd001169|NP
+hayden|NP fg|NP rl|NP m|NP johnson|NP c|NP d|NP d|NP l|NP ward|NP p|NP mills|NP rg|NP
+use|NN selective oral neuraminidase|NN inhibitor|NN prevent influenza|NN
+n|NP engl|NP j|NP med 19993411336-1343|NN
+hippocrate|NN acute disease|NN link|NN
+maimonide musa|NP moshe|NP
+klebs|NP e|NP
+zur|NN der|NP pathogenen|NP
+friedländer|NP c|NP
+die der|NP acuten pneumonie|NN
+die genuine pneumonie|NN des|NP für|NP innere|NP
+congress|NN april|NP
+gram|NN c|NP
+die der|NP schizomyceten trocken-präparaten|NN
+med march|NP
+adams|NP wg|NP ka|NP sl|NP et|NP al|NP
+decline|NN childhood|NN type|NN disease|NN hib vaccine|NN era|NN
+whitney|NP cg|NP farley|NP mm|NN j|NP et|NP al|NP
+decline|NN invasive pneumococcal disease|NN introduction|NN protein-polysaccharide conjugate|NN vaccine|NN
+new|NP engl|NP j|NP med|NP
+edit external link|NN merck|NP manual|NN pneumonia|NN merck|NP manual|NN pneumonia|NN elderly british lung|NN foundation|NN british thoracic|NN society|NN icu|NN pneumonia|NN score|NN
+artunhtml text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

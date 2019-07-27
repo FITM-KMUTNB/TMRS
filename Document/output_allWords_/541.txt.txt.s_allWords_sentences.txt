@@ -1,0 +1,365 @@
+alzheimers|NP disease|NN alzheimers|NP disease|NN alzheimers|NP disease|NN external resource|NN image|NN senile plaque|NN seen cerebral cortex|NN patient|NN alzheimer|NP disease|NN presenile onset|NN
+silver|NP impregnation|NN
+g30 f00|NN
+3310|NN 104300|NN medlineplus 000760|NN alzheimers|NP disease|NN ad known simply alzheimers|NP neurodegenerative disease|NN characterize progressive cognitive deterioration|NN together decline activity|NN daily live|NN neuropsychiatric|NN symptom|NN behavioral change|NN
+common type|NN dementia|NN
+strike early symptom|NN loss|NN short term|NN memory|NN amnesia|NN usually manifest minor forgetfulness|NN become steadily pronounce illness|NN progression|NN relative preservation|NN older memory|NN
+disorder|NN progress cognitive intellectual impairment|NN extend domain|NN language|NN aphasia|NN skill movement|NN apraxia|NN recognition|NN function|NN decision-make|NN plan|NN closely relate frontal temporal lobe|NN brain|NN become disconnect limbic system|NN reflect extension|NN underly pathological process|NN
+change|NN make essential human quality|NN ad sometime describe disease|NN victim|NN suffer loss|NN quality|NN define human existence|NN
+pathological process|NN consist principally neuronal loss|NN atrophy|NN principally temporoparietal cortex|NN frontal cortex|NN together inflammatory response|NN deposition|NN amyloid plaque|NN neurofibrillary tangle|NN
+ultimate cause|NN disease|NN unknown
+genetic factor|NN known important dominant mutation|NN different gene|NN identify account|NN smaller number|NN case|NN familial early-onset|NN ad
+common form|NN late onset|NN ad|NN load|NN susceptibility|NN gene|NN identify
+content|NN history|NN clinical feature|NN stage|NN symptom|NN diagnosis|NN pathology|NN biochemical characteristics|NN disease|NN mechanism|NN genetics|NN genetic linkage|NN epidemiology|NN prevention|NN risk|NN risk|NN factor|NN treatment|NN acetylcholinesterase|NN inhibitor|NN nmda|NN antagonist|NN intervention|NN treatment|NN clinical development|NN occupational lifestyle|NN therapy|NN social issue|NN statistics|NN alzheimers|NP disease|NN notable case|NN see reference|NN external link|NN edit history|NN dr|NP
+alois|NP alzheimer|NP german psychiatrist|NN interview patient|NN name
+auguste|NP d|NP age|NN
+show object|NN later ask show
+initially record behavior|NN write|NN disorder|NN
+auguste|NP d|NP patient|NN identify alzheimers|NP disease|NN
+alzheimer|NP later work laboratory|NN preeminent emil|NP kraepelin|NN munich|NP germany|NP
+author|NN lead textbook|NN psychiatry|NN strong believer|NN link clinical psychiatric function|NN
+early april|NP auguste|NP d|NP dy alzheimer|NP work italian physician|NN examine anatomy|NN neuropathology|NN
+november|NP present auguste|NP d|NP
+case|NN assembly|NN southwest|NN german psychiatrist|NN describe neurofibrillary tangle|NN amyloid plaque|NN come consider hallmark|NN disease|NN
+later write case|NN textbook|NN student|NN doctor|NN index|NN alzheimers|NP disease|NN
+denomination|NN disease|NN well establish specialist|NN community|NN century|NN diagnosis|NN alzheimers|NP disease|NN reserve individual|NN age|NN 45-65|NN develop symptom|NN presenile dementia|NN due histopathologic process|NN discover dr|NP
+alzheimer|NP see description|NN brain|NN tissue|NN change|NN
+time|NN senile dementia|NN set|NN symptom|NN consider normal outcome|NN age process|NN thought due age-relate brain|NN arterial harden|NN
+early symptom|NN brain|NN pathology|NN identical alzheimer|NP victim|NN older younger age|NN name|NN alzheimers|NP disease|NN began use medical profession|NN equally afflict individual|NN age|NN period|NN term|NN senile dementia|NN alzheimer|NP type|NN sdat|NN use distinguish fit classical age|NN criterion|NN
+eventually term|NN alzheimers|NP disease|NN adopt formally psychiatric neurological nomenclature|NN describe individual|NN age|NN characteristic common symptom|NN pattern|NN disease|NN course|NN neuropathology|NN
+term|NN alzheimer|NP disease|NN apostrophe|NN continue use commonly literature|NN
+edit clinical feature|NN usual symptom|NN notice short term|NN memory|NN loss|NN progress seemingly simple fluctuate forgetfulness|NN disease|NN confuse pervasive loss|NN short-term memory|NN familiar well-known skill|NN object|NN person|NN
+disorientation|NN disinhibition accompany loss|NN memory|NN
+alzheimers|NP disease|NN include change|NN outburst|NN violence|NN excessive passivity|NN people|NN previous history|NN behavior|NN
+later stage|NN deterioration|NN musculature|NN mobility|NN lead inability|NN feed incontinence|NN seen death|NN external cause|NN eg heart|NN attack|NN pneumonia|NN intervene
+average duration|NN disease|NN approximately
+year|NN case|NN known reach final stage|NN occur
+year|NN report case|NN year|NN
+edit|NN stage|NN symptom|NN mild
+early stage|NN disease|NN patient|NN tendency|NN become energetic spontaneous change|NN behavior|NN go unnotice even patient|NN immediate family|NN
+disease|NN progress middle stage|NN patient|NN able perform task|NN independently need assistance|NN complicate activity|NN
+disease|NN progress middle|NN late stage|NN patient|NN undoubtedly able perform even simplest task|NN need constant supervision|NN
+even lose ability|NN walk|NN eat assistance|NN
+edit|NN diagnosis|NN diagnosis|NN made primarily basis|NN history|NN clinical observation|NN test|NN memory|NN intellectual function|NN series|NN week|NN month|NN various physical test|NN blood|NN test|NN neuroimage|NN perform rule|NN alternative diagnose|NN
+medical test|NN available diagnose alzheimers|NP disease|NN conclusively
+expert|NN clinician|NN specialize memory|NN disorder|NN diagnose ad accuracy|NN
+definitive diagnosis|NN alzheimers|NP disease|NN await microscopic examination|NN brain|NN tissue|NN generally autopsy|NN
+functional neuroimage|NN study|NN pet|NN spect|NN scan|NN provide support role|NN dementia|NN clearly present type|NN dementia|NN question
+recent study|NN suggest neuroimage approache|NN clinical exam|NN diagnostic accuracy|NN outperform exam|NN differentiate type|NN dementia|NN alzheimers|NP disease|NN vascular dementia|NN alzheimers|NP disease|NN remain primarily clinical diagnosis|NN base presence|NN characteristic neurological feature|NN absence|NN alternative diagnose|NN possible neuroimage assistance|NN
+interview|NN family|NN member|NN caregiver|NN extremely important initial assessment|NN sufferer|NN himherself|NN tend minimize symptomatology|NN undergo evaluation|NN time|NN symptom|NN apparent quotidian fluctuation|NN good day|NN bad day|NN fairly common feature|NN
+interview|NN provide important information|NN affect individual|NN functional ability|NN key indicator|NN significance|NN symptom|NN stage|NN dementia|NN
+initial suspicion|NN dementia|NN strengthen perform miny mental state|NN examination|NN exclude clinical depression|NN
+psychological test|NN generally focuse memory|NN attention|NN abstract|NN think ability|NN name|NN object|NN ability|NN cognitive function|NN
+result|NN psychological test|NN readily distinguish alzheimers|NP disease|NN type|NN dementia|NN helpful establish presence|NN severity|NN dementia|NN
+useful distinguish true dementia|NN temporary treatable cognitive impairment|NN due depression|NN psychosis|NN sometime term
+addition|NN study|NN cervilla|NN colleague|NN show test|NN cognitive ability|NN provide useful predictive information|NN decade|NN onset|NN dementia|NN diagnose individual|NN higher level|NN cognitive ability|NN study|NN iqs|NP patient|NN diagnose standard norm|NN adjust high-iq|NN norm|NN measure change|NN individual|NN higher ability|NN level|NN
+edit|NN pathology|NN edit|NN biochemical characteristics|NN alzheimers|NP disease|NN identify protein|NN disease|NN due accumulation|NN abnormally fold amyloid beta|NN protein|NN brain|NN ad|NN patient|NN beta|NN written
+short peptide|NN abnormal proteolytic byproduct|NN transmembrane|NN protein|NN amyloid|NN precursor|NN protein|NN app|NN function|NN unclear thought involve neuronal development|NN presenilin|NN component|NN proteolytic complex|NN involve app|NN process|NN degradation|NN amyloid beta|NN monomer|NN soluble harmless undergo dramatic conformational change|NN sufficiently high concentration|NN form beta|NN tertiary structure|NN aggregate form amyloid fibril|NN deposit|NN neuron|NN dense formation|NN known senile plaque|NN neuritic plaque|NN dense aggregate|NN diffuse plaque|NN sometime wall|NN small blood|NN vessel|NN brain|NN process|NN call amyloid angiopathy|NN
+ad consider tauopathy due|NN abnormal aggregation|NN tau|NN protein|NN microtubule-associate protein|NN express neuron|NN normally act stabilize cell|NN
+microtubule-associate protein|NN tau|NN normally regulate phosphorylation|NN ad|NN patient|NN tau|NN accumulate pair helical filament|NN turn|NN aggregate|NN mass|NN nerve|NN cell|NN body|NN known neurofibrillary tangle|NN neurite|NN associate amyloid plaque|NN
+edit|NN amyloid plaque|NN neurofibrillary tangle|NN clearly visible microscopy|NN ad|NN brain|NN anatomical level|NN ad|NN characterize gross diffuse atrophy|NN brain|NN loss|NN neuron|NN neuronal process|NN synapse|NN cerebral cortex|NN certain subcortical region|NN
+result|NN gross atrophy|NN affect region|NN degeneration|NN temporal lobe|NN parietal lobe|NN part|NN frontal cortex|NN gyrus|NN level|NN neurotransmitter|NN acetylcholine|NN reduce
+level|NN neurotransmitter|NN serotonin|NN somatostatin|NN reduce
+level|NN usually elevate edit|NN disease|NN mechanism|NN major compet hypothese|NN exist explain cause|NN disease|NN
+oldest currently available drug|NN therapy|NN base known cholinergic hypothesis|NN suggest ad begin deficiency|NN production|NN neurotransmitter|NN acetylcholine|NN
+medication|NN treat acetylcholine|NN deficiency|NN serve treat|NN symptom|NN disease|NN neither halt reverse
+cholinergic hypothesis|NN maintain widespread support|NN face|NN evidence|NN effect|NN propose initiate large-scale aggregation|NN lead generalize neuroinflammation research|NN include hypothese|NN center effect|NN misfold|NN aggregate protein|NN amyloid beta|NN tau|NN
+position|NN lightheartedly describe ba-ptist|NN tau-ist|NN viewpoint|NN scientific publication|NN alzheimers|NP disease|NN researcher|NN
+believe tau|NN protein|NN abnormality|NN initiate disease|NN cascade|NN believe beta|NN amyloid|NN deposit|NN causative factor|NN disease|NN tau|NN hypothesis|NN support long-stand observation|NN deposition|NN amyloid plaque|NN correlate well neuron|NN loss|NN majority|NN researcher|NN support alternative hypothesis|NN amyloid|NN primary causative agent|NN amyloid hypothesis|NN initially compel gene|NN amyloid beta|NN precursor|NN app|NN locate chromosome|NN patient|NN trisomy|NN better known syndrome|NN extra gene|NN copy|NN universally exhibit disorder|NN year|NN age|NN traditional formulation|NN amyloid hypothesis|NN point|NN cytotoxicity|NN mature aggregate amyloid|NN fibril|NN believe toxic form|NN protein|NN responsible disrupt cell|NN calcium|NN ion|NN homeostasis|NN induce apoptosis|NN recent widely support hypothesis|NN suggest cytotoxic specy|NN intermediate misfold|NN form|NN amyloid beta|NN neither soluble monomer|NN mature aggregate polymer|NN oligomeric specy|NN early development|NN work|NN lead|NN compound|NN focuse inhibition|NN fibrillization|NN toxic-oligomer theory|NN imply prevention|NN assembly|NN important process|NN better target|NN ly upstream example|NN inhibition|NN app|NN process|NN amyloid beta|NN note further major genetic risk|NN factor|NN ad|NN lead|NN excess amyloid|NN build brain|NN ad|NN symptom|NN arise
+deposition|NN precede clinical ad strong support|NN amyloid hypothesis|NN look beta-amyloid|NN common initiate factor|NN alzheimers|NP disease|NN transgenic mice|NN solely express mutant|NN human app|NN gene|NN develop diffuse plaque|NN associate neuronal microglial damage|NN edit|NN genetics|NN rare case|NN alzheimers|NP cause dominant gene|NN run family|NN
+case|NN early age|NN onset|NN
+mutation|NN presenilin-1|NN presenilin-2|NN gene|NN document family|NN
+mutation|NN ps1 lead|NN aggressive form|NN familial alzheimers|NP disease|NN evidence|NN rodent|NN study|NN suggest fad mutation|NN ps1 result|NN impair hippocampal-dependent learn|NN correlate reduce adult|NN dentate gyrus|NN mutation|NN app|NN gene|NN chromosome|NN cause early onset|NN disease|NN
+presenilin|NN identify essential component|NN proteolytic process|NN machinery|NN produce beta|NN amyloid|NN peptide|NN cleavage|NN app|NN
+case|NN identify sporadic clear family|NN history|NN
+environmental factor|NN sometime claim increase risk|NN alzheimers|NP include head|NN injury|NN particularly repeate trauma|NN previous incident|NN migraine|NN headache|NN exposure|NN defoliant|NN low activity|NN level|NN adulthood|NN inheritance|NN epsilon allele|NN apoe gene|NN regard risk|NN factor|NN development|NN disease|NN large-scale genetic association|NN study|NN raise possibility|NN even indicate susceptibility|NN early likely develop alzheimers|NP
+speculation|NN genetic expert|NN risk|NN protective factor|NN gene|NN influence development|NN late onset|NN alzheimers|NP disease|NN load|NN
+researcher|NN investigate possibility|NN regulatory region|NN various alzheimers|NP associate gene|NN important sporadic alzheimers|NP especially inflammatory activation|NN gene|NN
+hypothese|NN include amyloid beta|NN precursor|NN protein|NN beta|NN enzyme|NN enzyme|NN enzyme|NN inflammatory 5-lipoxygenase|NN gene|NN edit|NN genetic linkage|NN alzheimers|NP disease|NN definitely link chromosome|NN linkage|NN controversial confirm
+gene|NN predispose ad|NN identify apoe4|NN chromosome|NN sporadic ad|NN involve risk|NN protective gene|NN await confirmation|NN
+edit|NN epidemiology|NN prevention|NN alzheimers|NP disease|NN frequent type|NN dementia|NN elderly affect patient|NN dementia|NN
+correspondingly advance age|NN primary risk|NN factor|NN alzheimers|NP
+people|NN show|NN sign|NN disease|NN people|NN symptom|NN alzheimers|NP even greater number|NN pathological hallmark|NN disease|NN characteristic symptom|NN
+year|NN age|NN probability|NN disease|NN double share|NN alzheimers|NP patient|NN age|NN fastest grow segment|NN alzheimers|NP disease|NN population|NN current estimate|NN suggest 75-84 population|NN number|NN patient|NN population|NN evidence|NN relate certain dietary intake|NN environmental exposure|NN disease|NN likelihood|NN develop alzhemier|NN vary quality|NN acceptance|NN medical community|NN important understand intervention|NN reduce risk|NN develop disease|NN place|NN alter disease|NN progression|NN symptom|NN become apparent
+due observational design|NN study|NN examine disease|NN risk|NN factor|NN risk|NN confound variable|NN
+recent large randomize control trial|NN
+particular womens|NP health|NN initiative|NN
+call question|NN preventive measure|NN base cross-sectional study|NN
+propose preventive measure|NN even base study|NN conduct solely animal|NN
+edit|NN risk|NN intellectual stimulation|NN eg play chess|NN crossword|NN regular physical exercise|NN regular social interaction|NN citation|NN need mediterranean diet|NN fruit|NN vegetable|NN low saturate fat|NN supplement particular vitamin|NN fatty acid|NN especially acid|NN fruit|NN vegetable|NN juice|NN high dose|NN antioxidant vitamin|NN e|NN combination|NN vitamin|NN seem reduce alzheimers|NP risk|NN cross|NN sectional study|NN randomize trial|NN currently recommend preventive measure|NN observe increase|NN overal mortality|NN drug|NN reduce alzheimers|NP risk|NN observational study|NN far randomize control trial|NN female hormone|NN replacement|NN therapy|NN longer thought|NN prevent dementia|NN base data|NN womens|NP health|NN initiative|NN regular use|NN non-steroidal anti-inflammatory drug|NN ibuprofen|NN aspirin|NN reduce chance|NN dementia|NN risk|NN appear outweigh drug|NN benefit|NN method|NN primary preventioncitation|NN need large dose|NN non-steroidal anti-inflammatory drug|NN nsaids|NP use reduce joint inflammation|NN pain|NN reduce likelihood|NN develop ad|NN study|NN
+edit|NN risk|NN factor|NN advance age|NN reduce testosterone|NN level|NN genotype|NN populationscitation|NN need head|NN need poor cardiovascular health|NN smoke|NN diabete|NN hypertension|NN high cholesterolcitation|NN need exposure|NN light metal|NN propose risk|NN factor|NN aluminium|NN neurotoxin|NN present higher quantity|NN brain|NN alzheimers|NP patient|NN causal relationship|NN found copper|NN candidate|NN dr|NP
+squitty|NN discover link|NN fraction|NN copper|NN bound serum|NN refer ncc|NP clinical picture|NN alzheimer|NP
+disease|NN edit|NN treatment|NN currently cure|NN alzheimers|NP disease|NN
+currently available medication|NN offer relatively small symptomatic benefit|NN patient|NN slow disease|NN progression|NN
+american association|NN psychiatry|NN publish consensus|NN statement|NN alzheimers|NP treatment|NN edit|NN inhibitor|NN inhibition|NN thought important reduction|NN activity|NN cholinergic neuron|NN
+reduce rate|NN acetylcholine|NN broken increase concentration|NN ach|NN brain|NN combate loss|NN ach|NN cause death|NN cholinergin neuron|NN
+seem modestly moderate symptom|NN alter course|NN underly dement|NN process|NN example|NN include tacrine longer clinically use donepezil|NN market galantamine|NN market razadyne|NN usa|NP
+nivalin rest|NN world|NN rivastigmine|NN market exelon|NN significant doubt|NN effectiveness|NN cholinesterase inhibitor|NN
+number|NN recent article|NN criticize design|NN study|NN report benefit|NN drug|NN conclude doubtful clinical utility|NN costly confer side|NN effect|NN pharmaceutical company|NN independent clinician|NN dispute|NN conclusion|NN article|NN
+transdermal patch|NN development|NN ease administration|NN edit|NN nmda|NN antagonist|NN recent evidence|NN involvement|NN neuronal excitotoxicity|NN cause|NN alzheimers|NP disease|NN led development|NN introduction|NN
+novel nmda|NN receptor|NN antagonist|NN show moderately clinically efficacious memantine|NN market axura|NN
+edit intervention|NN cognitive behavioral intervention|NN rehabilitation|NN strategy|NN use adjunct|NN treatment|NN especially early moderately advance stage|NN disease|NN
+treatment|NN modality|NN include psychotherapy|NN cognitive function|NN adequate reminiscent therapy|NN reality|NN orientation|NN therapy|NN behavioral|NN reinforcement|NN well cognitive rehabilitation|NN train|NN edit|NN treatment|NN clinical development|NN large number|NN potential treatment|NN alzheimers|NP disease|NN currently investigation|NN compound|NN study phase|NN clinical trial|NN
+show reduce animal|NN study|NN 3ap|NN alzhem|NN gag-mimetic molecule|NN believe act bind|NN soluble amyloid beta|NN prevent accumulation|NN toxic plaque|NN
+gamma|NN modulator|NN sometime call selective amyloid beta|NN lower|NN agent|NN
+believe reduce production|NN toxic amyloid beta|NN favor|NN shorter form|NN peptide|NN leuprolide|NN study alzheimer|NP
+hypothesize work reduce hormone|NN level|NN cause damage|NN brain|NN age|NN vaccine|NN immunotherapy|NN alzheimers|NP typical vaccine|NN use treat diagnose patient|NN disease|NN prevention|NN
+effort|NN base idea|NN train|NN immune system|NN recognize attack immune system|NN reverse deposition|NN amyloid|NN stop disease|NN
+initial result|NN use approach|NN animal|NN promise human-trial|NN drug|NN show result|NN patient|NN participant|NN develop encephalitis|NN trial|NN stop
+participant|NN halt trial|NN continue follow develop high level|NN antibody|NN beta-amyloid|NN show slower progression|NN disease|NN maintain level|NN worsen work|NN continue toxic
+vaccine|NN dna-base therapy|NN recently show promise|NN mice|NN
+propose alternative treatment|NN alzheimers|NP include range|NN herbal compound|NN dietary supplement|NN
+general research|NN efficacy|NN substance|NN non-existent far weak support therapeutic claim|NN improve memory|NN slow disease|NN progression|NN
+aagp review|NN vitamin|NN e|NN dose|NN iu|NP mention conflict evidence|NN efficacy|NN prevent ad
+higher dose|NN discourage link higher mortality|NN relate cardiac event|NN
+show long-term efficacy|NN recommend use|NN study large randomize clinical study|NN laboratory|NN study|NN cell|NN animal|NN continually fuel|NN pipeline|NN potential treatment|NN
+currently approve drug|NN investigation|NN treatment|NN prevention|NN alzheimer|NP
+recent clinical trial|NN phase|NN phase|NN category|NN taken month|NN study|NN drug|NN additional month|NN patient|NN analysis|NN
+compound|NN enter human trial|NN pre-clinical trial|NN year|NN available public|NN available demonstrate safety|NN efficacy|NN human trial|NN
+alzheimers|NP disease|NN prevention|NN trial|NN launch test effectiveness|NN nsaids|NP prevent ad
+study|NN healthy participant|NN age|NN sponsor nia|NN schedul run year|NN
+edit occupational lifestyle|NN therapy|NN modification|NN live|NN environment|NN lifestyle|NN alzheimers|NP patient|NN improve functional performance|NN ease|NN caretaker|NN burden|NN
+assessment|NN occupational therapist|NN indicate
+adherence|NN simplify routine|NN label|NN household|NN item|NN cue|NN patient|NN aid activity|NN daily live|NN place|NN safety|NN lock|NN cabinet|NN door|NN gate|NN secure hazardous chemical|NN gun|NN prevent accident|NN wander
+change|NN routine|NN environment|NN trigger exacerbate well-lit room|NN rest|NN avoidance|NN excess stimulation|NN help|NN prevent episode|NN appropriate social visual stimulation|NN improve function|NN increase awareness|NN orientation|NN
+instance|NN boldly tableware|NN aid|NN severe ad|NN help people|NN overcome diminish sensitivity|NN visual contrast|NN increase|NN food|NN beverage|NN intake|NN edit|NN social issue|NN alzheimers|NP major public health|NN challenge|NN median age|NN industrialize world|NN population|NN increase gradually indee concern|NN solvency|NN governmental social safety|NN net|NN found estimate|NN cost|NN care|NN baby|NN assume develop alzheimers|NP proportion|NN earlier generation|NN
+reason|NN money|NN spent inform public|NN available effective prevention|NN method|NN yield disproportionate benefit|NN
+role|NN family|NN caregiver|NN become prominent care|NN familiar surround|NN home|NN delay onset|NN symptom|NN delay|NN eliminate need|NN professional costly level|NN care|NN
+home-base care|NN entail tremendous economic emotional even psychological cost|NN well
+family|NN give time|NN work|NN forego pay|NN spend hour|NN week|NN average|NN affect love frequently left alone
+survey|NN patient|NN long term|NN care|NN insurance|NN direct indirect cost|NN care|NN alzheimers|NP patient|NN average|NN year|NN edit|NN statistics|NN alzheimers|NP disease|NN usa|NP ad|NN lead cause|NN death|NN number|NN death|NN rise year|NN ad|NN costly disease|NN heart|NN disease|NN cancer|NN estimate people|NN dementia|NN worldwide 2040|NN project figure|NN increase
+estimate american|NN alzheimer|NP
+disease|NN project american|NN disease|NN mid-century|NN percent|NN increase|NN federal government|NN estimate|NN spend approximately alzheimer|NP
+disease|NN research|NN fiscal year|NN average lifetime|NN cost|NN care|NN individual|NN alzheimer|NP
+citation|NN need edit|NN notable case|NN notable case|NN alzheimers|NP disease|NN include president|NP ronald|NP reagan|NP charlton|NP heston|NP ralph|NP waldo|NP emerson|NP ferenc|NP rita|NP hayworth|NP comprehensive list|NN see list|NN famous people|NN alzheimers|NP disease|NN
+edit see major neurodegenerative|NN disease|NN disease|NN disease|NN lateral sclerosis|NN disease|NN include differential diagnosis|NN alzheimers|NP dementia|NN lewy body|NN dementia|NN familial alzheimer|NP disease|NN dementia|NN information|NN molecular pathogenesis|NN alzheimers|NP disease|NN amyloid beta|NN tau|NN protein|NN article|NN relate memory|NN memory|NN age dementia|NN amnesia|NN edit|NN reference|NN
+study|NN gene|NN link alzheimer|NP
+wade|NP new|NP york|NP jan|NP
+maurer|NP konrad|NP maurer|NP
+alzheimer|NP life|NN physician|NN career|NN disease|NN
+new|NP york|NP columbia|NP university|NN press|NN
+isbn|NP 0-231-11896-1|NP
+dougall|NP n|NP s|NP k|NP
+systematic review|NN diagnostic accuracy|NN 99mtc-hmpao-spect|NN dementia|NN
+am|NP j|NP psychiatry|NP
+bonte|NP f|NP harris|NP t|NP l|NP e|NP white|NP c|NP
+tc-99m hmpao|NN differential diagnosis|NN dementia|NN confirmation|NN
+clin med|NP
+cervilla|NP et|NP al|NP
+cognitive test|NN predict onset|NN dementia|NN alzheimers|NP disease|NN better independently genotype|NN
+psychiatry|NP 2004751100-1106
+retrieve august|NP
+dorene brigham|NP womens|NP hospital|NN department|NN neurology|NN harvard|NP medical school|NN
+sensitive test|NN norm|NN better develop alzheimers|NP disease|NN
+publish american psychological association|NN
+retrieve august|NP
+hashimoto|NP m|NP e|NP crews|NP l|NP e|NP
+role|NN protein|NN aggregation|NN mitochondrial dysfunction|NN neurodegeneration|NN alzheimers|NP parkinsons|NP disease|NN
+kerr|NP m|NP small|NP d|NP
+domain|NN beta-amyloid protein|NN precursor|NN alzheimers|NP disease|NN function|NN regulation|NN proteolysis|NN implication|NN drug|NN development|NN
+j|NP re|NN
+cai|NP d|NP w|NP m|NP lin|NP y|NP du|NP g|NP m|NP foster|NP d|NP s|NP xu|NP h|NP f|NP p|NP
+use phospholipase|NN negative regulator|NN formation|NN
+natl acad|NN
+ohnishi|NP s|NP k|NP
+fibril|NN viewpoint|NN protein|NN fold|NN
+cell|NN life|NN
+m|NN crowther|NP r|NP
+tau|NN protein|NN pair helical filament|NN alzheimers|NP disease|NN
+j|NP alzheimers|NP dis|NN suppl|NN
+tiraboschi|NP p|NP hansen|NP l|NP l|NP j|NP
+importance|NN neuritic plaque|NN tangle|NN development|NN evolution|NN ad|NN
+change|NN alzheimers|NP disease|NN
+j|NP clin|NP psychiatry|NP
+found lead better treatment|NN stroke|NN disease|NN
+uci|NP medical center|NN
+molecular cellular basis|NN alzheimers|NP disease|NN
+med hypothese|NN
+alzheimers|NP disease-do|NP baptist finally shake hand|NN
+schmitz|NP c|NP b|NP sch|NN
+czech blanchard|NP bayer|NP
+neuron|NN loss|NN excee amyloid plaque|NN load|NN transgenic mouse|NN model|NN alzheimers|NP disease|NN
+am|NP j|NP
+nistor|NP m|NP don|NP m|NP m|NP f|NP m|NP lopez|NP ge|NP c|NP j|NP doran|NP e|NP hill|NP m|NP head|NN
+activity|NN function|NN age|NN beta-amyloid|NN syndrome|NN normal brain|NN
+age epub|NN
+alzheimer|NP disease|NN syndrome|NN factor|NN pathogenesis|NN
+yankner|NP b|NP duffy|NP l|NP d|NP
+effect|NN amyloid beta|NN protein|NN reversal|NN neuropeptide|NN
+blanchard|NP bj|NP lu|NP cc|NP y|NP yu|NP ingram|NP vm|NP
+elimination|NN beta|NN
+j|NP alzheimers|NP dis|NN
+blanchard|NP b|NP chen|NP l|NP stafford|NP k|NP p|NP ingram|NP
+efficient reversal|NN alzheimers|NP disease|NN fibril|NN formation|NN elimination|NN neurotoxicity|NN small molecule|NN
+natl acad|NN
+porat|NP y|NP gazit|NN
+inhibition|NN amyloid fibril|NN formation|NN structural similarity|NN aromatic interaction|NN common inhibition|NN mechanism|NN
+chem|NN drug|NN des|NP
+kanapathipillai|NP m|NP g|NP m|NP park|NP c|NP
+inhibit aggregation|NN neurotoxicity|NN alzheimers|NP
+lee|NP k|NP shin|NN b|NP shin|NN k|NP kim|NP d|NP yu|NP j|NP
+hybrid molecule|NN prohibit amyloid fibril|NN neuronal toxicity|NN induce 1-42|NN
+biophy re|NN
+espeseth xu|NP m|NP huang|NP q|NP coburn|NP c|NP jones|NP k|NP m|NP p|NP b|NP price|NP e|NP wu|NP g|NP wolfe|NP j|NP m|NP k|NP b|NP m|NP lai|NP m|NP dodson|NP e|NP r|NP shi|NP simon|NP li|NP y|NP d|NP
+compound|NN bind app|NN inhibit process|NN vitro|NN suggest novel|NN approach|NN alzheimer|NP disease|NN therapeutics|NN
+j|NP chem|NN
+polvikoski|NP t|NP r|NP m|NP k|NP verkkoniemy|NN niinist|NN
+l|NP halonen|NP p|NP k|NP
+apolipoprotein|NP e|NP dementia|NN cortical deposition|NN protein|NN
+n|NP engl|NP j|NP med|NP
+game|NN d|NP adams|NP d|NP r|NP barbour|NP r|NP p|NP blackwell|NP c|NP carr|NP t|NP clemens|NP j|NP donaldson|NP t|NP gillespie|NP f|NP
+neuropathology|NN transgenic mice|NN beta-amyloid precursor|NN protein|NN
+masliah|NP e|NP mallory|NP m|NP l|NP d|NP game|NN d|NP
+comparison|NN pathology|NN transgenic mice|NN beta-amyloid precursor|NN protein|NN alzheimers|NP disease|NN
+hsiao|NP k|NP chapman|NP p|NP nilsen|NP s|NP c|NP y|NP s|NP yang|NP f|NP cole|NP g|NP
+memory|NN deficit|NN elevation|NN amyloid plaque|NN transgenic mice|NN
+vetrivel|NP ks|NP zhang|NP xu|NP h|NP g|NP
+physiological function|NN
+wang|NP r|NP k|NP j|NP h|NP
+familial alzheimers|NP disease|NN mutation|NN lead defective associative learn|NN impair adult|NN
+head|NN injury|NN dementia|NN
+guskiewicz marshall|NP sw|NN bailes|NP j|NP mccrea|NP m|NP rc|NP randolph|NP c|NP jordan|NP bd|NP
+association|NN recurrent concussion|NN cognitive impairment|NN retire professional footbal|NN player|NN
+tyas|NP sl|NP j|NP strain|NN la|NP montgomery|NP pr|NP
+risk|NN factor|NN alzheimers|NP disease|NN population-base longitudinal study|NN manitoba|NP canada|NP
+int j|NP
+munoz|NP dg|NP feldman|NP h|NP
+cause|NN alzheimers|NP disease|NN
+lahiri|NP d|NP ghosh|NP c|NP y|NP
+proximal gene|NN promoter|NN region|NN beta-amyloid precursor|NN protein|NN provide link|NN development|NN apoptosis|NN alzheimers|NP disease|NN
+cacabelos|NP r|NP l|NP v|NP kubota|NP y|NP m|NP
+molecular genetics|NN alzheimers|NP disease|NN age|NN
+method|NN find clin|NN 1-573|NN
+nowotny|NP p|NP smemo|NP s|NP j|NP maxwell|NP t|NP p|NP m|NP d|NP l|NP hollingworth|NP p|NP moore|NP p|NP bryden|NP l|NP myers|NP l|NP k|NP gibson|NP perry|NP r|NP morris|NP c|NP l|NP morris|NP j|NP m|NP s|NP hardy|NP j|NP owen|NP m|NP williams|NP j|NP
+association|NN study|NN risk|NN late-onset|NP alzheimers|NP disease|NN variant|NN insulin|NN degrade enzyme|NN
+am|NP j|NP med|NP genet|NP b|NP genet|NP
+funalot|NP b|NP t|NP fallet|NP c|NP epelbaum|NP j|NP t|NP l|NP
+nard|NP n|NP codron|NP v|NP david|NP j|NP p|NP schwartz|NP j|NP n|NP
+express human cerebral cortex|NN protect alzheimers|NP disease|NN
+mol|NP psychiatry|NP 1122-8|NN
+manev|NP h|NP r|NP alox5ap gene|NN polymorphism|NN factor|NN vascular pathology|NN alzheimers|NP disease|NN
+med hypothese|NN
+van|NP broeckhoven|NP c|NP h|NP m|NP de|NP winter|NP g|NP m|NP p|NP martin|NP jj|NP map|NN gene|NN predispose alzheimers|NP disease|NN chromosome|NN nat|NP genet|NP
+gorelick|NP p|NP
+risk|NN factor|NN vascular dementia|NN alzheimer|NP disease|NN
+hebert|NP l|NP p|NP j|NP bennett|NP d|NP evans|NP d|NP
+alzheimer|NP disease|NN population|NN prevalence|NN estimate|NN use census|NN
+small|NP gary|NP w|NP
+need know age|NN relate memory|NN loss|NN
+british medical journal|NN
+verghese|NP j|NP lipton|NP r|NP katz|NP m|NP hall|NN c|NP derby|NP c|NP g|NP ambrose|NP sliwinsky m|NN h|NP
+leisure|NN activity|NN risk|NN dementia|NN elderly
+n|NP engl|NP j|NP med|NP
+larson|NP e|NP wang|NP l|NP bowen|NP j|NP mccormick|NP w|NP l|NP crane|NP p|NP w|NP
+exercise|NN associate reduce risk|NN incident|NN dementia|NN person|NN year|NN age|NN older
+ann|NP med
+scarmeas|NP n|NP stern|NP y|NP r|NP j|NP
+mediterranean diet|NN alzheimer|NP disease|NN vascular mediation|NN
+morris|NP m|NP schneider|NP j|NP c|NP
+thought|NN b-vitamin|NN dementia|NN
+j|NP alzheimers|NP dis|NN
+lim|NP w|NP j|NP van|NP j|NP
+omega|NN fatty acid|NN prevention|NN dementia|NN
+cochrane|NP database|NN rev|NP cd005379|NP
+morris|NP m|NP evans|NP d|NP c|NP j|NP wilson|NP r|NP
+fish|NP consumption|NN cognitive decline|NN age|NN large community|NN study|NN
+dai|NP q|NP wu|NP y|NP jackson|NP j|NP larson|NP
+fruit|NN vegetable|NN juice|NN alzheimers|NP disease|NN kame project|NN
+am|NP j|NP med|NP
+joseph|NP j|NP fisher|NP d|NP carey|NP
+fruit|NN extract|NN antagonize abeta- da-induce deficit|NN flux|NN cos-7 cell|NN
+j|NP alzheimers|NP dis|NN discussion|NN
+petersen|NP r|NP thomas|NP r|NP m|NP bennett|NP d|NP doody|NP r|NP ferris|NP s|NP d|NP jin|NP s|NP kaye|NP j|NP pfeiffer|NP e|NP m|NP van|NP dyck|NP c|NP l|NP
+vitamin|NN treatment|NN mild cognitive impairment|NN
+n|NP engl|NP j|NP med|NP
+zandi|NP p|NP anthony|NP j|NP stone|NN s|NP gustafson|NP d|NP j|NP norton|NP m|NP k|NP j|NP
+reduce risk|NN alzheimer|NP disease|NN user|NN antioxidant vitamin|NN supplement cache|NN county|NN study|NN
+rockwood|NP k|NP
+epidemiological clinical trial|NN evidence|NN preventive role|NN statin|NN alzheimers|NP disease|NN
+neurol scand|NN
+rosario|NP e|NP carroll|NP j|NP s|NP f|NP pike|NP c|NP
+regulate development|NN neuropathology|NN triple transgenic mouse|NN model|NN alzheimers|NP disease|NN
+alzheimers|NP disease|NN aluminum|NN alphabetical list|NN health|NN topics|NN
+squitti|NP r|NP g|NP rossi|NP l|NP m|NP dal|NN g|NP s|NP f|NP cassetta e|NP p|NP l|NP d|NP rossini|NP p|NP
+excess|NN serum|NN copper|NN ad|NN correlate|NN mmse|NP csf|NP
+exposure|NN aluminium|NN subsequent development|NN disorder|NN feature|NN alzheimer|NP
+copper|NN link|NN alzheimers|NP disease|NN
+c|NP c|NP beck|NP c|NP blank|NP k|NP m|NP d|NP k|NP
+position|NN statement|NN american association|NN psychiatry|NN principle|NN care|NN patient|NN dementia|NN result alzheimer|NP disease|NN
+am|NP j|NP psychiatry|NP
+azadyne|NP er|NP product|NN insert|NN
+pharmaceutical|NN corporation|NN
+product|NN insert|NN
+odt|NN product|NN insert|NN march|NP
+courtney|NP c|NP farrell|NP d|NP gray|NP r|NP hills|NP r|NP lynch|NP l|NP e|NP edwards|NP s|NP w|NP j|NP p|NP c|NP shaw|NP h|NP bentham|NP p|NP
+long-term donepezil|NN treatment|NN patient|NN alzheimers|NP disease|NN randomise double-blind trial|NN
+kaduszkiewicz|NP h|NP zimmermann|NP t|NP h|NP van|NN den|NN h|NP
+inhibitor|NN patient|NN alzheimers|NP disease|NN systematic review|NN randomise clinical trial|NN
+patch|NN transdermal|NN therapy|NN alzheimers|NP disease|NN provide promise new approach|NN treatment|NN dementia|NN
+sastre mcshane|NP r|NP f|NP
+memantine dementia|NN
+cochrane|NP database|NN rev|NP cd003154|NP
+j|NP mu|NN
+-casanova|NP j|NP del|NP ser|NP t|NP serrano|NP p|NP navarro|NP e|NP
+de|NP la|NP rocha|NP m|NP frank|NP galiano m|NN fern|NN
+dez-bullido|NP y|NP serra|NP j|NP
+ez-salvador|NP m|NP sevilla|NP c|NP
+benefit|NN intervention|NN mild moderate alzheimer|NP disease|NN
+clare|NP l|NP woods|NP r|NP cook|NP e|NP orrell|NP m|NP spector|NP
+cognitive rehabilitation|NN cognitive train|NN early-stage|NP alzheimers|NP disease|NN vascular dementia|NN
+cochrane|NP database|NN rev|NP cd003260|NP
+lemaire|NP l|NP fournier|NP j|NP c|NP le|NP fur|NN y|NP confort-gouny|NP s|NP j|NP keane|NP p|NP p|NP
+magnetic resonance|NN image|NN neuroprotective effect|NN xaliproden|NN rat|NN
+zamrini|NP e|NP
+emerge drug|NN dementia|NN
+eriksen|NP j|NP s|NP smith|NP t|NP s|NP das|NP p|NP d|NP v|NP k|NP k|NP koo|NP e|NP t|NP
+nsaids|NP enantiomer|NN target|NN lower
+j|NP clin|NP invest
+casadesus|NP g|NP garrett|NP m|NP webber|NP k|NP atwood|NP c|NP perry|NP g|NP bowen|NP r|NP smith|NP m|NP
+estrogen myth|NN potential|NN use|NN hormone|NN agonist|NN treatment|NN alzheimers|NP disease|NN
+association|NN fact|NN sheet|NN
+birks|NP j|NP grimley|NP e|NP van|NP m|NP
+biloba|NN cognitive impairment|NN dementia|NN
+cochrane|NP database|NN rev|NP cd003120|NP
+dekosky|NP s|NP fitzpatrick|NP ives|NP d|NP saxton|NP j|NP williamson|NP j|NP lopez|NP o|NP burke|NP g|NP fry l|NP l|NP robbins|NP j|NP tracy|NP r|NP n|NP dunn|NP l|NP r|NP r|NP c|NP
+ginkgo evaluation|NN memory|NN gem|NN study|NN design|NN baseline|NN data|NN randomize trial|NN biloba extract|NN prevention|NN dementia|NN
+clin trial|NN
+landreth|NP g|NP
+agonist|NN new therapeutic agent|NN treatment|NN alzheimers|NP disease|NN
+treate behavioral psychiatric symptom|NN
+alzheimers|NP association|NN
+accessed|NP oct|NP
+dunne|NP neargarder|NP sa|NP
+visual contrast|NN enhance food|NN liquid intake|NN advance alzheimers|NP disease|NN
+sloane|NP p|NP zimmerman|NP s|NP c|NP reed|NP p|NP wang|NP l|NP m|NP s|NP
+public health|NN impact|NN alzheimers|NP disease|NN potential implication|NN treatment|NN advance|NN
+annu|NP rev|NP public health|NN
+metlife study|NN alzheimer|NP
+disease|NN caregive experience|NN
+mature market|NN institute|NN
+national vital statistics|NN report|NN
+alzheimers|NP drug|NN discovery|NN foundation|NN annual report|NN
+alzheimers|NP disease|NN international
+alzheimers|NP association|NN
+diagnostic center|NN alzheimer|NP
+disease|NN w3uokhscedu|NN
+shenk|NP david|NP
+forget alzheimer|NP
+portrait|NN epidemic|NN
+new|NP york|NP anchor|NN book|NN
+isbn|NP 0-385-49838-1|NP
+edit external link|NN alzheimers|NP society|NN uk|NP
+lead care|NN research|NN charity|NN people|NN dementia|NN family|NN carer|NN
+fda|NP alzheimers|NP alzheimers|NP search cure|NN
+alzheimers|NP daily|NP newsletter|NN online daily newsletter|NN provide current new|NN social political scientific issue|NN alzheimers|NP
+alzheimers|NP association|NN major alzheimers|NP support|NN advocacy|NN group|NN united|NP states|NP provide excellent information|NN topics|NN rang basics|NN diagnosis|NN caregive|NN disease|NN legal implication|NN way|NN talk children|NN disease|NN
+similar group|NN provide information|NN australia|NP canada|NP
+alzheimers|NP research|NN forum|NN website|NN intend provide information|NN foster collaboration|NN scientist|NN physician|NN conduct research|NN alzheimers|NP
+feature|NN debate|NN article|NN annotation|NN top|NN alzheimers|NP researcher|NN national institute|NN age|NN substantial website|NN division|NN
+national institute|NN health|NN link|NN information|NN ongo clinical study|NN european site|NN physician|NN dedicate alzheimers|NP alzheimers|NP disease|NN treatment|NN alzheimers|NP disease|NN research|NN center|NN link|NN nih-fund center|NN excellence|NN alzheimers|NP disease|NN locate academic medical center|NN scatter
+omim run highly technical synopsis|NN research|NN alzheimers|NP disease|NN maintain nih|NN marijuana|NN help|NN treat|NN alzheimers|NP disease|NN
+pro|NN con|NN neutral view|NN utility|NN cannabis|NN treate alzheimers|NP journal|NN alzheimers|NP disease|NN subscription|NN require full text|NN emedicine|NN article|NN alzheimers|NP caregiver|NN understand manage track|NN alzheimers|NP symptom|NN stress|NN alzheimers|NP genetic component|NN alzheimers|NP
+art88html text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

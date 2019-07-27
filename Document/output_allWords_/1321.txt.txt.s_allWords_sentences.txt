@@ -1,0 +1,483 @@
+clinical depression|NN clinical depression|NN depression|NN external resource|NN f33|NN
+medlineplus|NN clinical depression|NN call major depressive|NN disorder|NN sometime unipolar compare bipolar disorder|NN state|NN intense sadness|NN melancholia|NN despair|NN advance point|NN disruptive individual|NN social function|NN activity|NN daily live|NN
+low mood|NN state|NN dejection|NN affect function|NN colloquially refer depression|NN clinical depression|NN clinical diagnosis|NN different everyday mean|NN depress
+people|NN identify feel|NN depress blue feel|NN sad reason|NN motivation|NN
+suffer|NN depression|NN feel tire sad irritable lazy unmotivate apathetic
+clinical depression|NN generally acknowledge serious normal depress feel|NN
+lead constant negative think|NN substance|NN abuse|NN
+careful assessment|NN delirium|NN easily confuse depression|NN number|NN psychiatric disorder|NN sign|NN symptom|NN condition|NN present depression|NN well mental illness|NN dementia|NN psychosis|NN vincent|NP van|NP gogh|NP suffer depression|NN commit suicide|NN paint picture|NN man|NN symbolize desperation|NN hopelessness|NN felt depression|NN
+content|NN history|NN prevalence|NN symptom|NN type|NN depression|NN major|NP clinical depression|NN category|NN depression|NN role|NN anxiety|NN depression|NN anxiety|NN cause|NN depression|NN treatment|NN dietary supplement|NN drug|NN psychotherapy|NN magnetic stimulation|NN nerve|NN stimulation|NN therapy|NN method|NN treatment|NN light|NN therapy|NN exercise|NN meditation|NN deep brain|NN stimulation|NN archaic method|NN self|NN medication|NN adverse reaction|NN social attitude|NN depression|NN employment|NN mental health|NN stigma|NN see book|NN psychologist|NN psychiatrist|NN book|NN people|NN suffer|NN suffer depression|NN historical account|NN source|NN external link|NN edit history|NN modern idea|NN depression|NN appear similar older concept|NN melancholia|NN
+name|NN melancholia|NN derive black bile|NN humour|NN postulate galen|NP
+clinical depression|NN originally consider chemical imbalance|NN transmitter|NN brain|NN theory|NN base observation|NN made effect|NN reserpine|NN isoniazid|NN alter neurotransmitter|NN level|NN affect depressive|NN symptom|NN suggestion|NN cause|NN clinical depression|NN proposedcitation need
+edit|NN prevalence|NN clinical depression|NN affect population|NN occasion|NN live|NN
+country|NN australia|NP women|NN men|NN suffer depression|NN
+mean age|NN onset|NN number|NN study|NN late
+twice female|NN male|NN report|NN receive treatment|NN clinical depression|NN imbalance|NN shrink course|NN recent history|NN difference|NN seem completely disappear age|NN female|NN pass end|NN menopause|NN
+clinical depression|NN currently lead cause|NN disability|NN north|NP america|NP well country|NN expect become second|NN lead cause|NN disability|NN worldwide heart|NN disease|NN year|NN world|NN health|NN organization|NN edit|NN symptom|NN dsm-iv-tr criteria|NN diagnose major depressive|NN disorder|NN cautionary statement|NN follow element|NN present period|NN week|NN depress mood|NN anhedonia sufficient symptom|NN conjunction|NN list|NN symptom|NN two-week period|NN
+include feel|NN overwhelm sadness|NN fear|NN seem inability|NN feel emotion|NN emptiness|NN
+decrease|NN amount|NN interest|NN pleasure|NN daily activity|NN
+chang appetite|NN mark weight|NN gain|NN loss|NN
+disturb sleep|NN pattern|NN insomnia|NN loss|NN rem|NN sleep|NN excessive sleep|NN
+agitation|NN retardation|NN nearly day|NN
+fatigue|NN mental physical loss|NN energy|NN
+intense feel|NN guilt|NN helplessness|NN hopelessness|NN worthlessness|NN anxiety|NN
+trouble|NN concentrate keep|NN focus|NN make|NN decision|NN generalize slow|NN obtund|NN cognition|NN memory|NN
+recurrent thought|NN death|NN fear|NN dy desire|NN lie die stop breath|NN recurrent suicidal ideation|NN specific plan|NN suicide|NN attempt|NN specific plan|NN commit suicide|NN
+feel fear|NN abandon close
+symptom|NN report usually taken account|NN diagnosis|NN include
+decrease|NN self-esteem|NN
+inattention personal hygiene|NN
+sensitivity|NN noise|NN
+physical ache|NN pain|NN belief|NN sign|NN serious illness|NN
+fear|NN go mad
+change|NN perception|NN time|NN
+period|NN sob
+possible behavioral|NN change|NN aggression|NN irritability|NN
+depression|NN children|NN obvious adult|NN
+symptom|NN children|NN display loss|NN appetite|NN
+sleep|NN problem|NN recurrent nightmare|NN
+learn|NN memory|NN problem|NN exist
+significant behavioral|NN change|NN withdrawal|NN social isolation|NN aggression|NN
+additional indicator|NN excessive use|NN drug|NN alcohol|NN
+depress adolescent|NN particular risk|NN further destructive behaviour|NN eate|NN disorder|NN self-harm|NN
+widely use instrument|NN measure depression|NN severity|NN beck|NP depression|NN inventory|NN 21-question multiple choice|NN survey|NN
+hard people|NN experience clinical depression|NN personally regular exposure|NN people|NN suffer understand emotional impact|NN severity|NN interpret instead similar blue|NN feel
+list|NN symptom|NN above indicate clinical depression|NN serious potentially lethal systemic disorder|NN characterize psychiatric profession|NN interlock physical affective cognitive symptom|NN consequence|NN function|NN survival|NN well sad painful feel|NN
+edit|NN mnemonics|NN commonly use remember dsm-iv criteria|NN sigecap sleep|NN interest|NN guilt|NN energy|NN concentration|NN appetite|NN psychomotor|NN dead depress mood|NN energy|NN death|NN thought|NN sleep|NN appetite|NN
+edit|NN type|NN depression|NN diagnostic category|NN major depressive|NN disorder|NN appear diagnostic statistical manual|NN mental disorder|NN american psychiatric association|NN
+term|NN generally use country|NN instead use icd-10 system|NN diagnosis|NN depressive|NN episode|NN similar episode|NN major depression|NN
+clinical depression|NN usually refer acute chronic depression|NN severe need treatment|NN
+minor depression|NN less-use term|NN subclinical depression|NN meet criteria|NN major depression|NN symptom|NN present week|NN
+edit|NN major|NP clinical depression|NN major|NP depression|NN properly major depressive|NN disorder|NN mdd|NN characterize severely depress mood|NN persist week|NN
+major|NP disorder|NN specify single episode|NN recurrent period|NN depression|NN occur discrete event|NN recurrent lifespan|NN
+episodes|NP major clinical depression|NN further divide mild major severe
+patient|NN episode|NN mania|NN markedly elevate mood|NN diagnosis|NN bipolar disorder|NN call bipolar affective disorder|NN usually made instead depression|NN period|NN elation|NN mania|NN therefore sometime refer unipolar depression|NN mood|NN remain pole|NN
+diagnosis|NN usually exclude case|NN symptom|NN normal result|NN bereavement|NN
+recognize possible subtype|NN major|NP disorder|NN
+specify melancholic subtype|NN distinguish presence|NN absence|NN psychosis|NN
+depression|NN melancholic feature|NN characterize loss|NN pleasure|NN activity|NN failure|NN reactivity|NN pleasurable stimuly|NN quality|NN depress mood|NN pronounce grief|NN loss|NN worsen|NN symptom|NN morn|NN hour|NN early morn|NN wake|NN retardation|NN anorexia|NN excessive weight|NN loss|NN confuse anorexia|NP excessive guilt|NN
+depression|NN atypical feature|NN depression|NN characterize mood|NN reactivity|NN paradoxical positivity|NN significant weight|NN gain|NN increase appetite|NN excessive sleep|NN somnolence|NN leaden paralysis|NN significant social impairment|NN consequence|NN hypersensitivity|NN perceive interpersonal rejection|NN
+depression|NN psychotic feature|NN people|NN major|NP manic episode|NN experience psychotic feature|NN
+present hallucination|NN delusion|NN mood-congruent content|NN coincident|NN depressive|NN theme|NN content|NN coincident depressive|NN theme|NN
+clinically common encounter delusional system|NN adjunct|NN depression|NN encounter|NN hallucination|NN visual auditory
+edit category|NN depression|NN dysthymia|NN long-term mild depression|NN last minimum|NN year|NN
+persistent depress mood|NN continuously year|NN
+definition|NN symptom|NN severe major|NP depression|NN dysthymia|NN vulnerable co-occure episode|NN major depression|NN
+disorder|NN begin adolescence|NN cross lifespan|NN
+people|NN diagnose major depressive|NN episode|NN disorder|NN diagnose double depression|NN
+disorder|NN develop major depressive|NN episode|NN happen later
+disorder|NN episodic illness|NN mood|NN cycle mania|NN depression|NN
+united|NP states|NP disorder|NN previously call manic depression|NN
+term|NN longer favor medical community|NN even depression|NN play stronger term|NN disability|NN potential|NN suicide|NN role|NN disorder|NN
+manic depression|NN use non-medical community|NN
+disorder|NN episodic illness|NN define primarily depression|NN evidence|NN episode|NN
+depression|NN depression|NN clinical depression|NN occur year|NN childbirth|NN
+physical mental emotional exhaustion|NN combine motherhood|NN set women|NN speak clinical depression|NN dysphoriais|NN pattern|NN recurrent depressive|NN symptom|NN ty menstrual cycle|NN
+premenstrual decline|NN brain|NN serotonin|NN function|NN strongly correlate concomitant worsen|NN cardinal mood|NN symptom|NN considerable clinical importance|NN recent understand|NN premenstrual dysphoria|NN depression|NN point|NN directly effective treatment|NN selective serotonin|NN reuptake|NN inhibitor|NN antidepressant|NN
+previously disrupt ovarian cyclicity|NN recognize treatment|NN
+recent review|NN study|NN number|NN ssris|NN reveal effectively ameliorate symptom|NN premenstrual dysphoria|NN actually work best taken part|NN menstrual cycle|NN symptom|NN evident edit role|NN anxiety|NN depression|NN edit|NN anxiety|NN different type|NN depression|NN anxiety|NN classify separately dsm-iv-tr|NN exception|NN hypomania|NN include bipolar disorder|NN category|NN
+different category|NN depression|NN anxiety|NN indee co-occure occure together independently mood|NN congruence|NN comorbid|NN occure together overlap symptom|NN mood|NN congruence|NN
+effort|NN bridge gap|NN dsm-iv-tr category|NN clinician|NN actually encounter expert|NN herman|NP van|NP praag|NP maastricht|NP university|NN propose idea|NN depression|NN
+idea|NN refer anxietydepression spectrum|NN disorder|NN differ mainstream perspective|NN discrete diagnostic category|NN
+specific diagnostic category|NN comorbidity|NN depression|NN anxiety|NN dsm|NP icd|NP national comorbidity|NN survey|NN report percent|NN major depression|NN suffer lifetime|NN anxiety|NN
+support find|NN widely accept clinical colloquialism|NN include agitate depression|NN state|NN depression|NN present anxiety|NN include suicide|NN insomnia|NN early morn|NN wakefulness|NN mean|NN meet standard|NN formal diagnosis|NN nonspecific panic|NN general sense|NN dread|NN
+depression|NN state|NN depression|NN present anxiety|NN suicidality|NN include include symptom|NN panic|NN
+clear even mild anxiety|NN symptom|NN major impact|NN course|NN depressive|NN illness|NN commingle|NN anxiety|NN symptom|NN primary depression|NN important consider
+pilot|NN study|NN ellen|NP frank|NP et|NP al|NP university|NN pittsburgh|NP found depress bipolar patient|NN lifetime|NN panic|NN symptom|NN experience significant delay|NN remission|NN
+citation|NN need patient|NN higher level|NN residual impairment|NN ability|NN get back swing|NN thing|NN
+similar note|NN robert|NP sapolsky|NP stanford|NP university|NN argue relationship|NN stress|NN anxiety|NN depression|NN measure demonstrate biologically point|NN study|NN heim|NN et|NP al|NP university|NN found depress anxious women|NN history|NN childhood|NN abuse|NN record higher heart|NN rate|NN stress|NN hormone|NN subject stressful situation|NN
+edit hypomania|NN name|NN suggest state|NN mind|NN behavior|NN hypo|NN mania|NN
+word|NN person|NN hypomanic state|NN display behavior|NN hallmark|NN full-blown mania|NN eg mark elevation|NN mood|NN characterize euphoria|NN activity|NN decrease need|NN sleep|NN symptom|NN disruptive seemingly character|NN pronounce consider diagnosably manic episode|NN
+psychiatric context|NN important identify possible presence|NN characteristics|NN manic hypomanic episode|NN lead diagnosis|NN bipolar disorder|NN medically treate differently depression|NN
+important point|NN diagnostic category|NN include anxiety|NN depression|NN
+present state|NN anxiety|NN occur context|NN clinical depression|NN
+patient|NN hypomanic state|NN describe sense|NN extreme generalize specific anxiety|NN recure panic|NN attack|NN night|NN terror|NN guilt|NN agency|NN pertain codependence counterdependence
+happen state|NN retard somnolent depression|NN
+type|NN depression|NN person|NN lethargic unable move life|NN
+term|NN retard somnolent shorthand|NN state|NN depression|NN include lethargy|NN lack|NN motivation|NN collapse|NN adl activity|NN daily live|NN social withdrawal|NN
+similar shorthand|NN use describe agitate akathitic depression|NN
+consider hypomania-depression connection|NN distinction|NN made anxiety|NN panic|NN stress|NN
+anxiety|NN physiological state|NN cause sympathetic nervous system|NN
+anxiety|NN need outside influence|NN occur
+panic|NN relate fight|NN flight|NN mechanism|NN
+reaction|NN induce outside stimulus|NN product|NN sympathetic nervous system|NN cerebral cortex|NN
+plainly panic|NN anxiety|NN state|NN think
+finally stress|NN psychosocial reaction|NN influence person|NN filter|NN external event|NN
+filter|NN base idea|NN assumption|NN expectation|NN
+taken together idea|NN assumption|NN expectation|NN call social constructionism|NN
+final note|NN researcher|NN university|NN california|NP san|NP diego|NP guidance|NN akiskal md|NN found convince evidence|NN co-occurrence|NN hypomanic symptom|NN associate diagnosis|NN depression|NN diagnosis|NN meet criteria|NN disorder|NN
+citation|NN need symptom|NN consideration|NN irritability|NN misdirect anger|NN compulsivity present sufficiently consider hypomanic episode|NN describe bipolar disorder|NN
+note frank|NP study|NN citation|NN need mention particular course|NN disease|NN breakthrough|NN anxiety|NN significant impact|NN overal course|NN depression|NN
+idea|NN anxiety|NN depression|NN support study|NN giovanni|NP md|NN university|NN pisa|NP collaborator|NN spectrum|NN project|NN found correlation|NN lifetime|NN manic symptom|NN severity|NN depression|NN
+citation|NN need presence|NN significant number|NN manichypomanic item|NN patient|NN recurrent unipolar depression|NN seem challenge traditional unipolar-bipolar|NN dichotomy|NN
+author|NN along researcherscitation|NN need argue support|NN revision|NN approach|NN psychiatric diagnosis|NN call mood|NN spectrum|NN make accurate diagnostic evaluation|NN
+approach|NN controversial begun give consideration|NN behavioral health|NN professional|NN
+edit|NN cause|NN depression|NN specific cause|NN depression|NN identify number|NN factor|NN believe involve
+heredity tendency|NN develop depression|NN inherit evidence|NN disorder|NN run family|NN
+run family|NN indicate environmental cause|NN
+example|NN religion|NN run family|NN
+press|NN release|NN national institute|NN mental health|NN declare major depression|NN thought percent|NN heritable likely involve interaction|NN gene|NN environmental event|NN brain|NN chemical|NN call neurotransmitter|NN allow electrical signal|NN move axon|NN nerve|NN cell|NN neuron|NN
+shortage|NN neurotransmitter|NN impair brain|NN communication|NN
+physiology|NN change|NN imbalance|NN chemical|NN transmit information|NN brain|NN call neurotransmitter|NN
+modern antidepressant|NN drug|NN increase|NN level|NN certain neurotransmitter|NN serotonin|NN noradrenaline|NN
+causal relationship|NN unclear known antidepressant|NN medication|NN relieve certain symptom|NN depression|NN critics|NN point|NN relationship|NN serotonin|NN depression|NN usually typically greatly oversimplify present public|NN see
+recent research|NN suggest link|NN depression|NN neurogenesis|NN hippocampus|NN
+citation|NN need horseshoe-shap structure|NN center|NN mood|NN memory|NN
+loss|NN neuron|NN hippocampus|NN found depression|NN correlate|NN impair memory|NN mood|NN
+hippocampus|NN regain mass expose treatment|NN increase|NN brain|NN serotonin|NN mood|NN memory|NN tend restor
+seasonal affective disorder|NN sad type|NN depressive|NN disorder|NN occur winter|NN daylight|NN hour|NN short
+believe body production|NN melatonin|NN produce higher level|NN dark|NN play major part|NN onset|NN sad sufferer|NN respond well bright light|NN therapy|NN known
+psychological factor|NN low self-esteem|NN self-defeate distort think|NN connect depression|NN
+clear cause|NN effect|NN known depress person|NN able make correction|NN think|NN pattern|NN show improve mood|NN self-esteem|NN
+citation|NN need psychological factor|NN relate depression|NN include complex development|NN personality|NN learn cope external environmental factor|NN stress|NN
+citation|NN need early experience|NN event|NN death|NN parent|NN abandonment|NN rejection|NN neglect|NN chronic illness|NN physical psychological sexual abuse|NN increase likelihood|NN depression|NN later life|NN
+stress|NN disorder|NN include depression|NN major symptom|NN
+life|NN experience|NN job|NN loss|NN poverty|NN financial difficulty|NN gamble|NN addiction|NN long period|NN unemployment|NN loss|NN spouse|NN family|NN member|NN divorce|NN end|NN commit relationship|NN involuntary celibacy|NN traumatic event|NN trigger depression|NN
+long-term stress|NN home|NN work|NN school|NN involve
+bully|NN late adolescence|NN thought contribute factor|NN
+medical condition|NN certain illness|NN cardiovascular disease|NN hepatitis|NN hypothyroidism|NN organic brain|NN damage|NN cause degenerative condition|NN parkinson|NP disease|NN multiple sclerosis|NN traumatic blunt force|NN injury|NN contribute depression|NN certain prescription|NN drug|NN hormonal contraception|NN method|NN steroid|NN
+gender|NN dysphoria|NN cause depression|NN
+diet|NN increase|NN depression|NN industrialise society|NN link diet|NN particularly reduce level|NN fatty acid|NN intensively farm food|NN process food|NN link|NN partly validate study|NN use dietary supplement|NN school|NN double-blind test|NN prison|NN
+excess|NN fatty acid|NN diet|NN show cause|NN depression|NN rat|NN alcohol|NN drug|NN alcohol|NN negative effect|NN mood|NN misuse|NN alcohol|NN benzodiazepine-base|NN sleep medication|NN play major role|NN length|NN severity|NN depression|NN
+depression|NN known postnatal depression|NN dr|NP
+ruta|NP m|NP nonacs|NP write women|NN experience mood|NN change|NN give birth|NN women|NN experience disable persistent form|NN mood|NN disturbance|NN eg depression|NN psychosis|NN occur onset|NN typically month|NN delivery|NN last month|NN
+new mother|NN experience|NN serious depressive|NN disorder|NN postnatal|NN include hallucination|NN delusion|NN
+live|NN depress person|NN live|NN suffer depression|NN experience|NN increase anxiety|NN life|NN disruption|NN increase possibility|NN becom depress
+citation|NN need evolutionary biological hypothese|NN depression|NN evolutionary analyse|NN usually consider possible function|NN depress mood|NN well clinical depression|NN
+psychic pain|NN hypothesis|NN psychic pain|NN depression|NN analogous physical pain|NN
+function|NN physical pain|NN inform organism|NN suffer damage|NN motivate withdraw source|NN damage|NN learn avoid circumstance|NN future|NN
+depression|NN inform sufferer|NN current circumstance|NN loss|NN mate|NN impose threat|NN biological fitness|NN motivate sufferer|NN cease activity|NN led costly situation|NN possible cause learn avoid similar circumstance|NN future|NN
+proponent|NN view|NN tend focus low mood|NN regard|NN clinical depression|NN dysfunctional extreme|NN low mood|NN
+see eg keller|NP nesse|NP see hagen|NP barrett|NP nd|NN
+rank|NP theory|NN individual|NN involve lengthy fight|NN dominance|NN social group|NN clearly lose depression|NN cause individual|NN back accept submissive role|NN
+individual|NN protect unnecessary harm|NN
+way|NN depression|NN help|NN maintain social hierarchy|NN
+theory|NN special case|NN general theory|NN derive psychic pain|NN hypothesis|NN cognitive response|NN produce modern-day depression|NN evolve mechanism|NN allow people|NN assess pursuit|NN unreachable goal|NN motivate desist
+see eg
+honest signal|NN theory|NN social partner|NN conflict|NN interest|NN cheap signal|NN need|NN cry|NN believe
+biologist|NN economist|NN propose signal|NN inherent cost|NN credibly signal information|NN conflict|NN interest|NN
+symptom|NN major depression|NN loss|NN interest|NN virtually activity|NN suicidality|NN inherently costly costly signal|NN theory|NN require cost|NN differ individual|NN different state|NN
+individual|NN genuinely need|NN fitness|NN cost|NN major depression|NN high threaten flow|NN fitness|NN benefit|NN
+individual|NN genuine need|NN fitness|NN cost|NN major depression|NN low individual|NN generate fitness|NN benefit|NN
+individual|NN genuine need|NN afford suffer major depression|NN
+major|NP depression|NN therefore serve honest credible signal|NN need|NN
+see eg hagen|NP watson|NP andrews|NP
+social navigation|NN niche|NN change|NN theory|NN social navigation|NN bargain|NN niche|NN change|NN hypothesis|NN suggest depression|NN operationally define combination|NN prolong anhedonia|NN retardation|NN agitation|NN provide focuse sober perspective|NN socially impose constraint|NN hinder person|NN pursuit|NN major fitness|NN enhance project|NN
+simultaneously publicly display symptom|NN reduce depressive ability|NN conduct basic life|NN activity|NN serve social signal|NN need|NN signal|NN depressive|NN certify honesty|NN
+finally social partner|NN find uneconomical respond helpfully honest signal|NN need|NN depressive|NN symptom|NN potential|NN extort relevant concession|NN compromise|NN
+extortionary power|NN come fact|NN flow|NN good|NN service|NN partner|NN come expect depressive|NN status|NN socioeconomic arrangement|NN
+depression|NN social adaptation|NN especially useful motivate variety|NN social partner|NN help depressive|NN initiate major fitness-enhance|NN change|NN socioeconomic life|NN
+extraordinarily diverse circumstance|NN become necessary human social life|NN rang loss|NN rank|NN key social ally|NN make current social niche|NN uneconomic set|NN creative new idea|NN make livelihood|NN beg new niche|NN
+social navigation|NN hypothesis|NN emphasize individual|NN become tightly ensnare overly restrictive matrix|NN social exchange|NN contract|NN situation|NN sometime necessitate radical contractual upheaval|NN beyond conventional method|NN negotiation|NN
+treatment|NN depression|NN hypothesis|NN call|NN question|NN assumption|NN clinician|NN typical cause|NN depression|NN relate maladaptive pervert think|NN process|NN purely endogenous source|NN
+social navigation|NN hypothesis|NN call instead penetrate analysis|NN depressive talent|NN dream|NN identification|NN relevant social constraint|NN especially relatively diffuse non-point|NN source|NN social network|NN depressive|NN practical social problem-solve|NN therapy|NN design relax constraint|NN allow depressive|NN move forward life|NN improve set|NN social contract|NN bargain|NN theory|NN theory|NN similar honest signal|NN niche|NN change|NN social navigation|NN theory|NN
+basically add additional element|NN honest signal theory|NN
+fitness|NN social partner|NN generally correlate
+wife|NN suffer depression|NN reduce investment|NN offspr|NN example|NN husband|NN fitness|NN put risk|NN
+symptom|NN major depression|NN serve costly therefore honest signal|NN need|NN compel social partner|NN respond need|NN order|NN prevent fitness|NN reduce
+see eg hagen|NP hagen|NP
+edit|NN treatment|NN treatment|NN depression|NN vary broadly different individual|NN
+various type|NN combination|NN treatment|NN try hope|NN complete solution|NN problem|NN
+primary mode|NN treatment|NN typically use conjunction|NN medication|NN psychotherapy|NN
+treatment|NN therapy|NN ect|NN use chemical treatment|NN fail
+alternative treatment|NN use depression|NN include exercise|NN use|NN vitamin|NN herb|NN nutritional supplement|NN
+citation|NN need effectiveness|NN treatment|NN depend factor|NN amount|NN optimism|NN hope sufferer|NN able maintain control|NN stressor|NN severity|NN symptom|NN amount|NN time|NN sufferer|NN depress result|NN previous treatment|NN degree|NN support|NN family|NN friend|NN significant
+citation|NN need treatment|NN generally effectivecitation need case|NN condition|NN respond
+depression|NN warrant full assessment|NN lead addition|NN psychotherapy|NN higher medication|NN dosage|NN change|NN medication|NN combination|NN therapy|NN trial|NN ectelectroshock|NN even change|NN diagnosis|NN subsequent treatment|NN change|NN
+process|NN help people|NN symptom|NN continue unabate
+emergency|NN psychiatric hospitalization|NN use simply keep suicidal people|NN safe cease danger|NN
+treatment|NN program|NN partial hospitalization|NN patient|NN sleep home|NN spend day|NN day|NN week|NN psychiatric hospital|NN set|NN intense treatment|NN
+treatment|NN usually involve group|NN therapy|NN individual|NN therapy|NN academics|NN child|NN adolescent program|NN
+edit medication|NN relieve symptom|NN depression|NN available decade|NN
+drug|NN list order|NN historical development|NN
+typical first-line therapy|NN depression|NN use|NN selective serotonin|NN reuptake|NN inhibitor|NN celexa|NN prozac|NP paroxetine|NP zoloft|NN
+circumstance|NN medication|NN psychotherapy|NN effective treatment|NN separately oxidase|NN inhibitor|NN nardil|NN use antidepressant|NN medication|NN ineffective
+potentially fatal interaction|NN class|NN medication|NN certain food|NN drug|NN rarely prescribe anymore
+use block enzyme|NN oxidase|NN break neurotransmitter|NN serotonin|NN noradrenaline|NN
+effective tricyclics|NN slightly effective citation|NN need
+new maoy|NN recently introduce
+manerix|NN known reversible inhibitor|NN oxidase|NN rima|NN follow specific chemical pathway|NN require special diet|NN
+antidepressant|NN oldest include medication|NN amitriptyline|NN desipramine|NN
+block|NN reuptake|NN certain neurotransmitter|NN noradrenaline|NN serotonin|NN
+use commonly side|NN effect|NN include increase heart|NN rate|NN drowsiness|NN dry urinary retention|NN blure confusion|NN sexual dysfunction|NN
+importantly high potential|NN lethal moderate overdose|NN
+tricyclic antidepressant|NN use high potency|NN especially severe case|NN clinical depression|NN
+selective serotonin|NN reuptake|NN inhibitor|NN family|NN antidepressant|NN consider current standard|NN drug|NN treatment|NN
+thought cause|NN depression|NN inadequate amount|NN serotonin|NN chemical|NN use brain|NN transmit signal|NN neuron|NN
+said work|NN prevent reabsorption|NN serotonin|NN nerve|NN cell|NN maintain level|NN brain|NN need function effectively researcher|NN recently demonstrate market|NN technique|NN scientific portrayal|NN drug|NN actually work
+recent research|NN indicate drug|NN interact transcription|NN factor|NN known clock|NN gene|NN important addictive property|NN drug|NN abuse|NN possibly obesity|NN
+family|NN drug|NN include prozac|NP escitalopram|NN celexa|NN sertraline|NN
+antidepressant|NN typically adverse side|NN effect|NN tricyclics|NN maois|NN effect|NN drowsiness|NN dry mouth|NN nervousness|NN anxiety|NN insomnia|NN decrease appetite|NN decrease ability|NN function|NN sexually occur
+side|NN effect|NN decrease person|NN adjust drug|NN side|NN effect|NN persistent
+noradrenaline|NN reuptake|NN inhibitor|NN edronax act|NN known noradrenaline|NN
+thought positive effect|NN concentration|NN motivation|NN particular
+citation|NN need reuptake|NN inhibitor|NN wellbutrin|NN zyban inhibit neuronal reuptake|NN dopamine|NN noradrenaline|NN
+reuptake|NN inhibitor|NN effexor|NN duloxetine|NN cymbalta|NN newer form|NN antidepressant|NN work noradrenaline|NN serotonin|NN
+typically similar side|NN effect|NN ssris|NN withdrawal|NN syndrome|NN discontinuation|NN necessitate dosage|NN taper
+specific serotonergic|NN antidepressant|NN form|NN newer class|NN antidepressant|NN purportedly work increase noradrenaline|NN serotonin|NN block presynaptic adrenergic receptor|NN time|NN minimize serotonin|NN relate side-effect|NN block certain serotonin|NN receptor|NN
+example|NN class|NN clinical use|NN mirtazapine remeron|NN
+edit dietary supplement|NN supplement|NN claim provide raw material|NN body natural serotonin|NN production|NN process|NN
+reasonable indication|NN effective respond well ssry|NN similar function|NN allow brain|NN use serotonin|NN effectively induce production|NN serotonin|NN
+citation|NN need methionine sam-e|NN derivative|NN amino|NN acid|NN methionine|NN found human body|NN act methyl|NN donor|NN participate biochemical reaction|NN
+available prescription|NN antidepressant|NN europe|NP over-the-counter dietary supplement|NN united|NP states|NP
+clinical trial|NN show effective standard antidepressant|NN medication|NN side|NN effect|NN study|NN report increase incidence|NN mania|NN result use|NN compare antidepressant|NN mode|NN action|NN unknown
+fatty acid|NN found naturally oily fish|NN flax|NN seed|NN hemp|NN seed|NN walnut|NN oil|NN found effective use dietary supplement|NN omega-3 fatty acid|NN show antidepressant efficacy|NN
+dhea available supplement|NN show effective small trial|NN
+chocolate|NN improve mood|NN probably raise|NN serotonin|NN
+indee chocolate|NN contain serotonin|NN case|NN report|NN interaction|NN chocolate|NN antidepressant|NN drug|NN
+magnesium|NN supplementation|NN gather attention|NN possible treatment|NN depression|NN
+case|NN report|NN demonstrate rapid recovery|NN major depression|NN use magnesium|NN treatment|NN
+possibility|NN magnesium|NN deficiency|NN cause|NN major depression|NN relate mental health|NN problem|NN iq|NN loss|NN addiction|NN enormously important public health|NN recommend immediate further study|NN st|NP johns|NP hypericum|NP traditionally use wise women|NN midwive|NN year|NN chase|NN devil|NN melancholia|NN anxiety|NN
+mood-enhance herbal substance|NN act antidepressant|NN increase availability|NN serotonin|NN dopamine|NN neuron|NN synapse|NN
+citation|NN need popular treate insomnia|NN mood|NN swing fatigue|NN pm|NN menopause|NN
+medical supervision|NN st|NP
+johns|NP wort|NP use ssris|NN due|NN risk|NN serotonin|NN syndrome|NN effective natural antidepressant|NN said stabilise cell|NN membrane|NN inhibit lipid breakdown|NN aid cell|NN use|NN oxygen|NN glucose|NN subsequently mental vascular stimulant|NN improve neurotransmitter|NN production|NN
+popular treate mental concentration|NN alzheimers|NP stroke|NN patient|NN siberian senticosus|NN true panax|NN ginseng|NN mood|NN enhancement|NN stress|NN
+popular treate depression|NN insomnia|NN fatigue|NN poor memory|NN lack|NN focus|NN mental tension|NN endurance|NN zinc|NP antidepressant effect|NN experiment|NN
+biotin deficiency|NN cause severe depression|NN
+patient|NN symptom|NN improve deficiency|NN correct vitamin|NN symptom|NN vitamin|NN deficiency|NN include depression|NN psychiatric disorder|NN amino|NN acid|NN phenylalanine tyrosine|NN favorable effect|NN easy form|NN depression|NN
+enhance neurotransmitter|NN dopamine|NN noradrenalin|NN
+citation|NN need edit|NN drug|NN antidepressant|NN found work effectively patient|NN use combination|NN drug|NN
+augmentor drug|NN include tryptan|NN buspirone|NN
+sedative|NN typically benzodiazepine|NN prescribe ease|NN anxiety|NN promote sleep|NN
+high potential|NN foster|NN dependence|NN medication|NN intend short-term occasional use|NN
+use primary function|NN exploit normally side|NN effect|NN
+fumarate seroquel|NN design primarily treat schizophrenia|NN bipolar disorder|NN frequently report side-effect|NN somnolence
+therefore drug|NN use place|NN antianxiety agent|NN klonopin rivotril|NN
+antipsychotics risperdal olanzapine|NN seroquel|NN prescribe mood|NN stabilizer|NN effective treate anxiety|NN
+use|NN mood|NN stabilizer|NN recent phenomenon|NN controversial patient|NN
+typical atypical prescribe attempt|NN augment antidepressant|NN make antidepressant blood|NN concentration|NN higher relieve psychotic paranoid symptom|NN accompany clinical depression|NN
+serious side|NN effect|NN particularly high dosage|NN include blure vision|NN muscle|NN spasm|NN restlessness|NN tardive|NN weight|NN gain|NN
+antidepressant nature|NN behave similarly
+medication|NN nature|NN depressant
+close medical supervision|NN critical proper treatment|NN patient|NN present illness|NN medication|NN tend work
+sometime ad antidepressant|NN regimen|NN patient|NN suffer hypersomnia|NN excessive eate|NN well low motivation|NN
+symptom|NN common atypical depression|NN quickly resolve addition|NN low|NN moderate dosage|NN amphetamine|NN brand name|NN respectivelya chemical|NN enhance motivation|NN social behavior|NN well suppress appetite|NN sleep|NN
+chemical|NN known restore sex|NN drive|NN
+extreme caution|NN use certain population|NN
+known trigger manic episode|NN people|NN suffer bipolar disorder|NN
+easily abuse effective substitute|NN street|NN speed|NN use
+close supervision|NN substance|NN abuse|NN disorder|NN urge
+emotionally labile patient|NN avoid stimulant|NN exacerbate mood|NN shift|NN
+remain standard treatment|NN bipolar disorder|NN use conjunction|NN medication|NN depend mania|NN depression|NN treate
+potential side|NN effect|NN include thirst|NN tremor|NN nausea|NN diarrhea|NN
+anticonvulsant|NN tegretol sodium|NN valproate|NN lamictal|NN use mood|NN stabilizer|NN particularly bipolar disorder|NN
+edit|NN psychotherapy|NN psychotherapy|NN receive assistance|NN understand|NN resolve habit|NN problem|NN contribute cause|NN depression|NN
+individually group|NN conduct mental health|NN professional|NN psychiatrist|NN psychologist|NN clinical social worker|NN psychiatric nurse|NN
+effective psychotherapy|NN result different habitual think|NN action|NN lead lower relapse|NN rate|NN antidepressant drug|NN alone
+yield quicker result|NN strongly indicate crisis|NN
+psychotherapy|NN generally complementary use time|NN
+important ask potential therapist|NN train|NN approach|NN close bond|NN form practitioner|NN client|NN important client|NN feel|NN understood clinician|NN
+moreover approache|NN convincingly demonstrate effective treate depression|NN
+help person|NN make change|NN think|NN pattern|NN deal|NN relationship|NN problem|NN detect deal relapse|NN understand factor|NN contribute depression|NN
+counsel approache|NN aim improve personal interpersonal function|NN
+cognitive behaviour|NN therapy|NN demonstrate carefully control study|NN foremost recent wave|NN method|NN achieve rapid last result|NN traditional talk|NN therapy|NN analysis|NN
+cognitive therapy|NN combine therapy|NN focuse people|NN think relationship|NN
+help depress people|NN learn replace negative depressive|NN thought|NN realistic well develop effective cope|NN skill|NN
+therapy|NN use help person|NN develop improve interpersonal skill|NN order|NN allow communicate effectively reduce stress|NN
+interpersonal psychotherapy|NN focuse social interpersonal trigger|NN cause depression|NN
+narrative therapy|NN give attention|NN person|NN dominant story|NN mean|NN therapeutic conversation|NN involve explor unhelpful idea|NN came prominence|NN
+possible social cultural influence|NN explor client|NN deem helpful
+therapy|NN base assumption|NN learn
+type|NN therapy|NN attempt|NN teach people|NN type|NN
+therapy|NN encourage people|NN discuss problem|NN provide emotional support|NN
+focus|NN share information|NN idea|NN strategy|NN cope daily life|NN
+family|NN therapy|NN help people|NN live together harmoniously undo pattern|NN destructive behavior|NN
+edit magnetic stimulation|NN magnetic stimulation|NN rtm|NN study|NN possible treatment|NN depression|NN
+initially design tool|NN physiological study|NN brain|NN technique|NN show promise|NN mean|NN alleviate depression|NN
+therapy|NN powerful magnetic field|NN use stimulate left|NN cortex|NN area|NN brain|NN typically show abnormal activity|NN depress people|NN
+recent work|NN poland|NP suggest weak variable|NN magnetic field|NN offer relief|NN depression|NN respond medication|NN
+exist work|NN question claim|NN effect|NN significant environmental condition|NN control
+edit nerve|NN stimulation|NN nerve|NN stimulation|NN therapy|NN treatment|NN use control|NN seizure|NN epileptic patient|NN recently approve treate resistant case|NN depression|NN
+vn therapy|NN device|NN implant patient|NN chest|NN wire|NN connect vagus nerve|NN stimulate reach region|NN brain|NN associate mood|NN
+device|NN deliver control electrical current|NN vagus nerve|NN regular interval|NN
+edit therapy|NN therapy|NN ect|NN known electroshock|NN therapy|NN use short burst|NN control current|NN electricity|NN typically fix ampere|NN brain|NN induce brief artificial seizure|NN patient|NN general
+ect|NP acquire fearsome reputation|NN part|NN use|NN tool|NN repression|NN ussr|NP barbaric fictional depiction|NN film|NN flew cuckoo nest|NN requiem|NN dream|NN remain common treatment|NN mean|NN treatment|NN fail use|NN drug|NN unacceptable
+contrast|NN direct electroshock|NN year|NN country|NN allow ect|NP administer anaesthesia|NN
+typical regimen|NN treatment|NN patient|NN receive treatment|NN week|NN week|NN
+repeat session|NN need
+short-term memory|NN loss|NN disorientation|NN headache|NN common side|NN effect|NN
+case|NN permanent memory|NN loss|NN occure detail neuropsychological test|NN clinical study|NN able prove permanent effect|NN memory|NN
+ect|NP offer benefit|NN fast response|NN response|NN show last maintenance|NN maintenance|NN medication|NN use
+antidepressant|NN usually take month|NN take effect|NN result|NN ect|NN show faster
+reason|NN treatment|NN choice|NN emergency|NN eg catatonic depression|NN patient|NN cease oral intake|NN fluid|NN nutrient|NN
+remain controversy|NN
+advocacy|NN group|NN scientific critics|NN dr|NP peter|NP call|NN restriction|NN use|NN complete abolishment|NN
+form|NN psychiatric treatment|NN give patient|NN consent|NN subject|NN legal condition|NN dependent jurisdiction|NN
+oregon|NP patient|NN consent|NN necessary statute|NN
+treatment|NN ect|NP use threat|NN psychiatric ward|NN staffer|NN unruly patient|NN
+citation|NN need edit|NN method|NN treatment|NN edit|NN light|NN therapy|NN bright light|NN sunlight|NN artificial light|NN show effective seasonal affective disorder|NN sometime effective type|NN depression|NN especially atypical depression|NN depression|NN seasonal phenotype|NN overeate|NN weight|NN gain|NN apathy|NN
+important note|NN antidepressant|NN effect|NN cause stimulation|NN retina|NN visible light|NN ultra-violet portion|NN
+necessary even dangerous case|NN get sunburn|NN
+walk daytime|NN take light therapy|NN use light box|NN
+recent discovery|NN existence|NN importance|NN kind|NN photoreceptor|NN eye|NN intrinsically photosensitive retinal ganglion|NN cell|NN critical human chronobiology|NN strongly suggest bluish light|NN helpful manufacturer|NN begine respond find|NN
+citation|NN need edit|NN exercise|NN widely believe physical activity|NN exercise|NN help|NN depress patient|NN promote quicker better relief|NN depression|NN
+thought help antidepressant|NN psychotherapy|NN work|NN better faster
+difficult find motivation|NN exercise|NN depression|NN severe sufferer|NN encourage take part|NN form|NN regularly schedul physical activity|NN
+workout|NN need strenuous find walk|NN example|NN great help|NN
+exercise|NN produce higher level|NN chemical|NN brain|NN notably dopamine|NN serotonin|NN norepinephrine|NN
+general lead|NN improvement|NN mood|NN effective counter depression|NN note begine exercise|NN regime|NN wise consult doctor|NN
+establish person|NN health|NN problem|NN contraindicate type|NN exercise|NN
+edit|NN meditation|NN meditation|NN increasingly seen useful treatment|NN case|NN depression|NN current professional opinion|NN meditation|NN represent complementary method|NN treate depression|NN view|NN endorse mayo|NP clinic|NN late research|NN carry determine meditation|NN affect brain|NN see main article|NN meditation|NN
+effect|NN mind|NN complex quite positive encourage calm reflective rational state|NN mind|NN great help|NN depression|NN
+citation|NN need religion|NN include meditative practice|NN necessary member|NN faith|NN meditate
+edit deep brain|NN stimulation|NN experimental new form|NN treatment|NN call deep brain|NN stimulation|NN offer hope|NN relief|NN treatment|NN resistant clinical depression|NN
+publish journal|NN neuron|NN helen|NP mayberg|NP describe implant|NN electrode|NN region|NN brain|NN known area|NN neuron|NN
+electrode|NN act|NN inhibitory fashion|NN otherwise overactive region|NN brain|NN
+further research|NN require become available method|NN treatment|NN offer hope|NN suffer|NN treatment|NN resistant depression|NN
+edit archaic method|NN insulin|NN shock|NN therapy|NN old largely abandon treatment|NN severe depression|NN psychose|NN catatonic state|NN mental disorder|NN
+consist induction|NN coma|NN intravenous infusion|NN insulin|NN
+treatment|NN potentially unsafe lethal case|NN patient|NN undergo insulin|NN coma|NN even proper monitor|NN
+contrast|NN ect|NN consider safe
+nevertheless insulin|NN shock|NN therapy|NN officially use russia|NP country|NN administer treatment-resistant patient|NN written consent|NN western country|NN
+citation|NN need shock|NN therapy|NN known coma|NN therapy|NN old rarely use method|NN
+consist induction|NN coma|NN rapid intravenous infusion|NN atropine|NN
+shock|NN treatment|NN consider safe entail prolong coma|NN hour|NN careful monitor|NN preparation|NN unpleasant side|NN effect|NN blure vision|NN
+use written consent|NN western country|NN patient|NN officially use russia|NP country|NN
+citation|NN drill hole|NN skull|NN release negative spirit|NN increase|NN brain|NN use ancient culturescitation|NN need
+edit|NN self|NN medication|NN article|NN section|NN contain original research|NN unverify|NN claim|NN
+please help|NN ad reference|NN
+see talk|NN page|NN detail|NN
+people|NN clinical depression|NN attempt dull feel|NN despair|NN consume alcohol|NN tobacco|NN illicit drug|NN
+people|NN depression|NN resort alcohol|NN cannabis|NN cocaine|NN opiate|NN amphetamine|NN mood-alter effect|NN
+attempt|NN self-medication|NN lead pattern|NN alcoholism|NN drug|NN abuse|NN further exacerbate depression|NN
+comfort|NN food|NN use
+food|NN chocolate|NN contain substance|NN fat|NN sugar|NN commonly active ingredient|NN
+edit adverse reaction|NN associate significant difference|NN number|NN severity|NN symptom|NN patient|NN history|NN depression|NN experiment|NN
+main find|NN study|NN replicate methodology|NN criticize basis|NN unrelate symptom|NN aggregate artificially thereby boost statistical difference|NN aspartame|NN placebo|NN condition|NN
+edit relapse|NN likely treatment|NN result full remission|NN symptoms4|NN fact|NN current guideline|NN antidepressant use|NN recommend month|NN continue treatment|NN symptom|NN resolution|NN prevent relapse|NN
+combine evidence|NN randomize control trial|NN indicate continue antidepressant|NN medication|NN recovery|NN substantially reduce halve|NN chance|NN relapse|NN
+preventive effect|NN probably last month|NN use|NN anecdotal evidence|NN suggest chronic disease|NN accompany relapse|NN prolong treatment|NN antidepressant|NN
+psychiatric text|NN suggest physician|NN respond relapse|NN increase dosage|NN complement medication|NN different class|NN chang medication|NN class|NN entirely
+reason|NN relapse|NN case|NN poorly understood change|NN brain|NN physiology|NN induce medication|NN
+possible reason|NN include age|NN brain|NN worsen|NN condition|NN
+psychiatric medication|NN develop short-term use|NN year|NN widely prescribe indefinite period|NN edit social attitude|NN depression|NN edit|NN employment|NN employer|NN reluctant consider hire|NN people|NN history|NN depression|NN discrimination|NN basis|NN illegal united|NP states|NP
+military standard|NN allow month|NN treatment|NN depression|NN become ineligible waiver|NN possible circumstance|NN
+citation|NN need edit|NN mental health|NN stigma|NN article|NN section|NN contain original research|NN unverify|NN claim|NN
+please help|NN ad reference|NN
+see talk|NN page|NN detail|NN
+discrimination|NN stand way|NN recovery|NN depression|NN mental illness|NN
+people|NN think shameful afflict mental illness|NN stigma|NN lead discrimination|NN
+discrimination|NN make difficult get education|NN attain worthwhile employment|NN
+discourage people|NN mental illness|NN get need treatment|NN
+lead people|NN assume depression|NN bipolar disorder|NN likely violent otherwise dangerous society|NN lead unnecessary fear|NN avoidance|NN mental illness|NN
+avoidance|NN isolate compound|NN effect|NN depression|NN
+mental illness|NN visible symptom|NN disorder|NN treatment|NN consider important deserve physical illness|NN
+insurance|NN plan|NN cover mental health|NN service|NN degree|NN illness|NN
+mental illness|NN cover coverage|NN limit inappropriate inadequate
+jurisdiction|NN introduce legislation|NN provide parity|NN coverage|NN mental non-mental illness|NN
+edit see syndrome|NN depression|NN beck|NP depression|NN inventory|NN disorder|NN chemical|NN imbalance|NN theory|NN emotion|NN memory|NN depression|NN scale|NN hamilton|NP depression|NN rate|NN scale|NN cover adrenal exhaustion|NN sometime call adrenal fatigue|NN list|NN people|NN suffer depression|NN mania|NN hierarchy|NN need|NN depression|NN stress|NN disorder|NN seasonal affective disorder|NN sad stress|NN edit|NN book|NN psychologist|NN psychiatrist|NN beck|NP
+t|NP rush|NP
+j|NP shaw|NP b|NP
+f|NP emery|NP g|NP
+cognitive therapy|NN depression|NN
+new|NP york|NP guilford|NP
+burns|NP david|NP d|NP
+feel good new mood|NN therapy|NN
+griffin|NP j|NP tyrrell|NP lift depression|NN fast
+isbn|NP 1-899398-41-4|NP jacobson|NP edith|NP depression|NN comparative study|NN normal neurotic|NN psychotic|NN condition|NN international university|NN press|NN isbn|NP klein|NP d|NP
+f|NP wender|NP p|NP
+understand|NN depression|NN complete guide|NN diagnosis|NN treatment|NN
+new|NP york|NP oxford|NP university|NN press|NN
+kramer|NP peter|NP d|NP
+new|NP york|NP vike|NN adult|NN
+plesman|NP j|NP
+get hook|NP sydney|NP australia|NP
+self-help book|NN available internet|NN
+rowe|NP dorothy|NP
+depression|NN way|NN prison|NN
+london|NP brunner-routledge|NP
+sarbadhikari|NP s|NP
+ed|NN depression|NN dementia|NN progress|NN brain|NN research|NN clinical application|NN future trend|NN
+hauppauge|NP nova|NP science|NN publisher|NN
+isbn|NP 1-59454-114-0|NP
+weissman|NP m|NP
+m|NP markowitz|NP j|NP
+c|NP klerman|NP g|NP
+comprehensive guide|NN interpersonal psychotherapy|NN
+new|NP york|NP basic book|NN
+edit|NN book|NN people|NN suffer|NN suffer depression|NN e|NP prozac|NP nation|NN young|NP depress america|NP memoir|NN
+isbn|NP 1-57322-512-6|NP p|NP
+m|NP munoz|NP r|NP
+f|NP youngren|NP m|NP
+control|NN depression|NN
+new|NP york|NP
+mays|NP john|NP bentley|NP
+jaw|NN black dog|NN memoir|NN depression|NN
+toronto|NP canada|NP penguin|NP book|NN
+isbn|NP 0-14-024650-9|NP agate|NP
+woman|NN amber heal|NN trauma|NN war|NN exile|NN new|NP york|NP penguin|NP book|NN
+isbn|NP 1-56947-046-4|NP isbn|NP pbk|NN
+sealey|NP robert|NP
+find care|NN depression|NN mental episode|NN brain|NN disorder|NN toronto|NP sear|NP publication|NN shields|NP brooke|NP
+came rain|NN journey|NN depression|NN
+isbn|NP 1-4013-0189-4|NP
+smith|NP jeffery|NP
+root|NN reach|NN water|NN personal natural history|NN
+new|NP york|NP north|NN point|NN press|NN
+solomon|NP andrew|NP
+noonday demon|NN atla|NN depression|NN
+new|NP york|NP
+styron|NP william|NP
+darkness|NN visible memoir|NN madness|NN
+new|NP york|NP vintage|NN house|NN
+wolpert|NP lewis|NP
+sadness|NN anatomy|NN depression|NN
+london|NP faber|NP faber|NP
+power|NN guide|NN spiritual enlightenment|NN new world|NN library|NN
+isbn|NP 1-57731-152-3|NP isbn|NP pbk|NN
+plath|NP sylvia|NP
+bell|NP jar|NN
+isbn|NP 0-06-093018-7|NP jill|NP
+mind|NN clear sun|NN time|NN guidebook|NN overcom depression|NN norman|NP ok illumine|NN publish|NN
+isbn|NP edit|NN historical account|NN david|NP healy|NP antidepressant era|NN paperback|NN edition|NN harvard|NP university|NN press|NN isbn|NP edit|NN source|NN
+american family|NN physician|NN march|NP
+schildkraut|NP jj|NP
+catecholamine hypothesis|NN affective disorder|NN review|NN support evidence|NN
+am|NP j|NP psychiatry|NP
+bland|NP rc|NP
+epidemiology|NN affective disorder|NN review|NN
+j|NP psychiatry|NP
+murray|NP cjl|NP lopez|NP ad
+alternative projection|NN mortality|NN disability|NN cause|NN global burden|NN disease|NN study|NN
+psychiatric review|NN symptom|NN screen|NN tool|NN family|NN physician|NN
+american family|NN physician|NN
+vol|NN november|NP
+access april|NP
+depression|NN major depression|NN criteria|NN
+access april|NP
+kathy|NP baby|NN motherhood|NN page|NN
+random house|NN nz|NP isbn|NP
+van|NP praag|NP hm|NP
+stress|NN cause|NN depression|NN
+world|NN j|NP biol|NP psychiatry|NP
+sapolsky|NP robert|NP m|NP phd|NN
+zebra get
+henry|NP holt|NP company|NN
+isbn|NP 0-8050-7369-8|NP
+manev|NP r|NP h|NP putative link|NN cardiovascular psychiatric disorder|NN
+critical review|NN neurobiology|NP
+lawrence|NP felicity|NP
+ready meal|NN kate|NP barker|NP label|NN
+isbn|NP 0-14-101566-7|NP
+use fatty acid|NN classroom|NN achievement|NN
+retrieve january|NP
+level|NN brain|NN link depression|NN
+watson|NP pj|NP andrews|NP pw|NP october|NP
+revise evolutionary adaptationist|NN analysis|NN depression|NN social navigation|NN hypothesis|NN
+journal|NN affective disorder|NN
+psychotherapy|NN pharmacotherapy|NN combination|NN treatment|NN choice|NN major depressive|NN disorder|NN
+delle roberto|NP paolo|NP
+oral intramuscular s-adenosyl-|NN treatment|NN major depression|NN comparison|NN imipramine|NN multicenter|NN study|NN
+am|NP j|NP clin|NP
+mischoulon|NP d|NP m|NP
+role|NN s-adenosyl-l-methionine|NN treatment|NN depression|NN review|NN evidence|NN
+am|NP j|NP clin|NP
+geddes|NP jr|NP sm|NP davies|NP c|NP dj|NN frank|NP e|NP goodwin|NP gm|NP february|NP
+prevention|NN antidepressant|NN drug|NN treatment|NN depressive|NN disorder|NN systematic review|NN
+edit external link|NN depression|NN open directory|NN project|NN national alliance|NN mental illness|NN support|NN advocacy|NN education|NN national manic depressive|NN association|NN national depressive|NN manic depressive|NN association|NN teen|NN depression|NN discussion|NN rise trend|NN depression|NN children|NN teen|NN
+keep kid|NN healthy tv|NN clinical depression|NN children|NN depression|NN research|NN new|NN depression|NN research|NN new|NN
+artqlhtml text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

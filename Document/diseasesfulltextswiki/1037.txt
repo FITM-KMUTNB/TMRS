@@ -1,0 +1,356 @@
+Asperger syndrome
+Asperger syndrome
+Asperger syndrome
+Classifications and external resources
+ICD-10
+F84.5
+ICD-9
+299.8
+OMIM
+608638
+DiseasesDB
+31268
+MedlinePlus
+001549
+eMedicine
+ped/147
+Asperger syndrome — also referred to as Asperger's syndrome, Asperger's, or just AS — is one of five neurobiological pervasive developmental disorders (PDD) that is characterized by deficiencies in social and communication skills. It is considered to be part of the autistic spectrum.
+Asperger syndrome is differentiated from other PDDs and from high functioning autism (HFA) in that early development is normal and there is no language delay. It is possible for people with AS to have learning disabilities concurrently with Asperger syndrome. In these cases, differential diagnosis is essential to identify subsequent support requirements. Conversely, IQ tests may show normal or superior intelligence,[1][2] and standard language development compared with the delays typical of classic autism. The diagnosis of AS is complicated by the lack of adoption of a standardized diagnostic screen, and, instead, the use of several different screening instruments and sets of diagnostic criteria. The exact cause of AS is unknown and the prevalence is not firmly established, due partly to the use of differing sets of diagnostic criteria.
+Asperger syndrome was named in honor of Hans Asperger (1906-1980), an Austrian psychiatrist and pediatrician, by researcher Lorna Wing, who first used the eponym in a 1981 paper.[3] In 1994, AS was recognized in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) as Asperger's Disorder.[4]
+AS is often not identified in early childhood, and many individuals do not receive diagnosis until after puberty or when they are adults. Assistance for core symptoms of AS consists of therapies that apply behavior management strategies and address poor communication skills, obsessive or repetitive routines, and physical clumsiness. Many individuals with AS can adopt strategies for coping and do lead fulfilling lives - being gainfully employed, getting married or having successful relationships, and having families. In most cases, they are aware of their differences and recognize when they need support to maintain an independent life.[5]
+Contents
+1 Classification and diagnosis
+2 Characteristics
+2.1 Social differences
+2.2 Speech and language differences
+2.3 Narrow, intense interests
+2.4 Other differences
+3 History
+4 Clinical perspective
+4.1 Research
+4.1.1 Research into causes
+4.1.2 Other research
+4.2 Treatment
+4.3 Prognosis
+4.4 Epidemiology
+4.5 Comorbidities
+5 Non-clinical perspective
+5.1 Shift in view
+5.2 Autistic culture
+5.3 Social impact
+5.4 Adults with AS as parents
+5.5 Notable cases
+6 See also
+7 Notes
+8 External links
+[edit]
+Classification and diagnosis
+AS correlates with Asperger's Disorder defined in section 299.80 of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) by six main criteria. These criteria define AS as a condition in which there is:
+Qualitative impairment in social interaction;
+The presence of restricted, repetitive and stereotyped behaviors and interests;
+Significant impairment in important areas of functioning;
+No significant delay in language;
+During the first three years of life, there can be no clinically significant delay in cognitive development such as curiosity about the existing environment or the acquisition of age appropriate learning skills, self-help skills, or adaptive behaviors (other than social interaction); and,
+The symptoms must not be better accounted for by another specific pervasive developmental disorder or schizophrenia.[4]
+AS is an autism spectrum disorder (ASD), one of five neurological conditions characterized by difference in language and communication skills, as well as repetitive or restrictive patterns of thought and behavior. The four related disorders or conditions are Autism, Rett syndrome, childhood disintegrative disorder, and PDD-NOS (pervasive developmental disorder not otherwise specified).[5]
+The diagnosis of AS is complicated by the use of several different screening instruments.[5] The diagnostic criteria of the Diagnostic and Statistical Manual are criticized for being vague and subjective.[6][7] Other sets of diagnostic criteria for AS are the ICD 10 World Health Organization Diagnostic Criteria, Szatmari Diagnostic Criteria,[8] Gillberg Diagnostic Criteria,[9] and Attwood & Gray Discovery Criteria.[10] The ICD-10 definition has similar criteria to the DSM-IV version.[10] Asperger's syndrome had at different times been called Autistic psychopathy and Schizoid disorder of childhood,[11] although those terms are now understood as archaic and inaccurate, and are therefore no longer accepted in common use.
+Some doctors believe that AS is not a separate and distinct disorder, referring to it as high functioning autism (HFA).[5] The diagnoses of AS or HFA are used interchangeably, complicating prevalence estimates: the same child can receive different diagnoses, depending on the screening tool the doctor uses, and some children will be diagnosed with HFA instead of AS, and vice versa.[5] Many experienced clinicians apply the early onset on High Functioning Autism or the regressive pattern of development as the distinguishing factor in differentiating between AS and HFA. The current classification of the pervasive developmental disorders (PDDs) is unsatisfying to many parents, clinicians, and researchers, and may not reflect the true nature of the conditions.[12] Peter Szatmari, a Canadian researcher of PDD, feels that greater precision is needed to better differentiate between the various PDD diagnoses. The DSM-IV and ICD-10 focus on the idea that discrete biological entities exist within PDD, which leads to a preoccupation with searching for cross-sectional differences between PDD subtypes rather than recognition of the conditions as distinct points on a spectrum, a strategy which has not been very useful in classification or in clinical practice.[12]
+[edit]
+Characteristics
+AS is characterized by:[4][5]
+Narrow interests or preoccupation with a subject to the exclusion of other activities;
+Repetitive behaviors or rituals;
+Peculiarities in speech and language;
+Extensive logical/technical patterns of thought (often compared to the personality traits of the popular Star Trek character, Spock);
+Socially and emotionally inappropriate behavior and interpersonal interaction;
+Problems with nonverbal communication;
+Clumsy and uncoordinated motor movements.
+The most common and important characteristics of AS can be divided into several broad categories: social impairments, narrow but intense interests, and peculiarities of speech and language. Other features are commonly associated with this syndrome, but are not always regarded as necessary for diagnosis. This section mainly reflects the views of Attwood, Gillberg, and Wing on the most important characteristics of AS; the DSM-IV criteria represent a slightly different view. Unlike most forms of PDDs, AS is often camouflaged, and many people with the disorder blend in with those that do not have it. The effects of AS depend on how an affected individual responds to the syndrome itself.[10]
+[edit]
+Social differences
+Although there is no single feature that all people with AS share, difficulties with social behavior are nearly universal and are one of the most important defining criteria. People with AS lack the natural ability to see the subtexts of social interaction, and may lack the ability to communicate their own emotional state, resulting in well-meaning remarks that may offend, or finding it hard to know what is "acceptable". The unwritten rules of social behavior that mystify so many with AS have been termed the "hidden curriculum".[13] People with AS must learn these social skills intellectually through seemingly contrived, dry, math-like logic rather than intuitively through normal emotional interaction.[14]
+Non-autistics are able to gather information about other people's cognitive and emotional states based on clues gleaned from the environment and other people's facial expression and body language, but, in this respect, people with AS are impaired; this is sometimes called mind-blindness.[15][16] Mind-blindness is also known as a lack of theory of mind.[17] Without Theory of Mind, AS individuals lack the ability to recognize and understand the thoughts and feelings of others. Deprived of this insightful information, they are unable to interpret or understand the desires or intentions of others and thereby are unable to predict what to expect of others or what others may expect of them. This often leads to social awkwardness and inappropriate behavior. In Asperger's Syndrome, Intervening in Schools, Clinics, and Communities, Tony Attwood categorizes the many ways that lack of "theory of mind" can negatively impact the social interactions of people with Aspergers[18]:
+Difficulty reading the social and emotional messages in the eyes - People with AS don't look at eyes often, and when they do, they can't read them.
+Making literal interpretation - AS individuals have trouble interpretting colloquialisms, sarcasm, and metaphors.
+Being considered disrespectful and rude - Prone to egocentric behavior, individuals with Aspergers miss cues and warning signs that this behavior is inappropriate.
+Honesty and deception - Children with Aspergers are often considered "too honest" and have difficulty being deceptive, even at the expense of hurting someone's feelings.
+Becoming aware of making social errors - As children with Aspergers mature, and become aware of their mindblindness, their fear of making a social mistake, and their self-criticism when they do so, can lead to social phobia.
+A sense of paranoia - Because of their mindblindness, persons with Aspergers have trouble distinguishing the difference between the deliberate or accidental actions of others, which can in turn lead to a feeling of paranoia.
+Managing conflict - Being unable to understand other points of view can lead to inflexibility and an inability to negotiate conflict resolution. Once the conflict is resolved, remorse may not be evident.
+Awareness of hurting the feelings of others - A lack of empathy often leads to unintentionally offensive or insensitive behaviors.
+Repairing someone's feelings - Lacking intuition about the feelings of others, people with AS have little understanding of how to console someone or how to make them feel better.
+Recognizing signs of boredom - Inability to understand other people's interests can lead AS persons to be inattentive to others. Conversely, people with AS often fail to notice when others are uninterested.
+Introspection and self-consciousness - Individuals with AS have difficulty understanding their own feelings or their impact on the feelings of other people.
+Clothing and personal hygiene - People with AS are unaffected by peer pressure. As a result, they often do what is comfortable and are unconcerned about their impact on others.
+Reciprocal love and grief - Since people with AS react more practically than emotionally, their expressions of affection and grief are often short and weak.
+Understanding of embarrassment and faux pas - Although persons with AS have an intellectual understanding of embarrassment and faux pas, they are unable to grasp concepts on an emotional level.
+Coping with criticism - People with AS are compelled to correct mistakes, even when they are made by someone in a position of authority, such as a teacher. For this reason, they can be unwittingly offensive.
+Speed and quality of social processing - Because they respond through reasoning and not intuition, AS individuals tend to process social information more slowly than the norm, leading to uncomfortable pauses or delays in response.
+Exhaustion - As people with AS begin to understand theory of mind, they must make a deliberate effort to process social information. This often leads to mental exhaustion.
+A person with AS may have trouble understanding the emotions of other people: the messages that are conveyed by facial expression, eye contact and body language are often missed. They also might have trouble showing empathy with other people. Thus, people with AS might be seen as egotistical, selfish or uncaring. In most cases, these are unfair labels because affected people are neurologically unable to understand other people's emotional states. They are usually shocked, upset and remorseful when told that their actions are hurtful or inappropriate. It is clear that people with AS do not lack emotions. The concrete nature of emotional attachments they might have (i.e., to objects rather than to people), however, often seems curious or can even be a cause of concern to people who do not share their perspective.[19]
+However, the problem may be exacerbated by the responses of those neurotypical people who interact with AS-affected persons. An Asperger patient's apparent emotional detachment may confuse and upset a neurotypical person, who may in turn react illogically and emotionally — reactions that many Asperger patients find especially irritating. This can often become a vicious cycle and can sometimes cause families with Asperger-affected members to become especially dysfunctional.
+Failing to show affection — or failing to do so in conventional ways — does not necessarily mean that people with AS do not feel affection. Understanding this can lead partners or care-givers to feel less rejected and to be more understanding. Increased understanding can also come from learning about AS and any comorbid disorders.[20] Sometimes, the opposite problem occurs; the person with AS is unusually affectionate to significant others and misses or misinterprets signals from the other partner, causing the partner stress.[21]
+Another important aspect of the social differences often found in people with Asperger's is a lack of central coherence.[22] People who have poor central coherence may be so focused on details that they miss "the big picture". A person with a central coherence deficit might remember a story or an incident in great detail but be unable to make a statement about what the details mean. Another might understand a set of rules in detail but be unclear how or where they apply. Frith and Happe explore the possibility that attention to details may be a bias rather than a deficit. There certainly appear to be many advantages to being detail oriented particularly in activities and professions that require a high level of meticulousness. One also can see that this would cause problems if most non-autistic (but certainly not all) people are able to move fluidly between detail and big picture orientations.
+[edit]
+Speech and language differences
+People with AS typically have a highly pedantic way of speaking, using a far more formal language register than appropriate for a context. A five-year-old child with this condition may regularly speak in language that could easily have come from a university textbook, especially concerning his or her special area of interest.[23]
+Literal interpretation is another common, but not universal hallmark of this condition. Attwood gives the example of a girl with AS who answered the telephone one day and was asked, "Is Paul there?" Although the Paul in question was in the house, he was not in the room with her, so after looking around to ascertain this, she simply said "no" and hung up. The person on the other end had to call back and explain to her that he meant for her to find him and get him to pick up the telephone.[24]
+Individuals with AS may use words idiosyncratically, including new coinages and unusual juxtapositions. This can develop into a rare gift for humor (especially puns, wordplay, doggerel and satire). A potential source of humor is the eventual realization that their literal interpretations can be used to amuse others. Some are so proficient at written language as to qualify as hyperlexic. Tony Attwood refers to a particular child's skill at inventing expressions, e.g., "tidying down" (the opposite of tidying up) or "broken" (when referring to a baby brother who cannot walk or talk).[25]
+Children with AS may show advanced abilities for their age in language, reading, mathematics, spatial skills, or music, sometimes into the 'gifted' range, but these talents may be counterbalanced by appreciable delays in the development of other cognitive functions.[26] Some other typical behaviors are echolalia, the repetition or echoing of verbal utterances made by another person, and palilalia, the repetition of one's own words.[27]
+A 2003 study investigated the written language of children and youth with AS. They were compared to neurotypical peers in a standardized test of written language skills and legibility of handwriting. In written language skills, no significant differences were found between standardized scores of both groups; however, in hand-writing skills, the AS participants produced significantly fewer legible letters and words than the neurotypical group. Another analysis of written samples of text, found that people with AS produce a similar quantity of text to their neurotypical peers, but have difficulty in producing writing of quality.[28]
+Tony Attwood states that a teacher may spend considerable time interpreting and correcting an AS child's indecipherable scrawl. The child is also aware of the poor quality of his or her handwriting and may be reluctant to engage in activities that involve extensive writing. Unfortunately for some children and adults, high school teachers and prospective employers may consider the neatness of handwriting as a measure of intelligence and personality. The child may require assessment by an occupational therapist and remedial exercises, but modern technology can help minimize this problem. A parent or teacher aide could also act as the child's scribe or proofreader to ensure the legibility of the child's written answers or homework.[29]
+[edit]
+Narrow, intense interests
+AS in children can involve an intense and obsessive level of focus on things of interest, many of which are those of ordinary children. The difference in children with AS is the unusual intensity of said interest.[30] Some have suggested that these "obsessions" are essentially arbitrary and lacking in any real meaning or context, but recent research has suggested that this isn't usually the case.[31]
+Sometimes these interests are lifelong; in other cases, they change at unpredictable intervals. In either case, there are normally one or two interests at any given time. In pursuit of these interests, people with AS often manifest extremely sophisticated reasoning, an almost obsessive focus, and a remarkably good memory for trivial facts (occasionally even eidetic memory).[3][32] Hans Asperger called his young patients "little professors" because he thought his patients had as comprehensive and nuanced an understanding of their field of interest as university professors.[33]
+Some clinicians do not entirely agree with this description. For example, Wing and Gillberg both argue that, in children with AS, these areas of intense interest typically involve more rote memorization than real understanding,[3] despite occasional appearances to the contrary. Such a limitation is an artifact of the diagnostic criteria, even under Gillberg's criteria, however.[9]
+People with AS may have little patience for things outside these narrow interests. In school, they may be perceived as highly intelligent underachievers or overachievers, clearly capable of outperforming their peers in their field of interest, yet persistently unmotivated to do regular homework assignments (sometimes even in their areas of interest). Others may be hypermotivated to outperform peers in school. The combination of social problems and intense interests can lead to unusual behavior, such as greeting a stranger by launching into a lengthy monologue about a special interest rather than introducing oneself in the socially accepted way. However, in many cases adults can outgrow this impatience and lack of motivation and develop more tolerance to new activities and meeting new people.[26]
+[edit]
+Other differences
+Those affected by AS may show a range of other sensory, developmental, and physiological anomalies. Children with AS may evidence a slight delay in the development of fine motor skills. In some cases, people with AS may have an odd way of walking, and may display compulsive finger, hand, arm or leg movements,[34] including tics and stims.[35][36]
+In general, orderly things appeal to people with AS. Some researchers mention the imposition of rigid routines (on self or others) as a criterion for diagnosing this condition. It appears that changes to their routines cause inordinate levels of anxiety for some people with this condition.[37]
+Some people with AS experience varying degrees of sensory overload and are extremely sensitive to touch, smells, sounds, tastes, and sights. They may prefer soft clothing, familiar scents, or certain foods. Some may even be pathologically sensitive to loud noises (as some people with AS have hyperacusis), strong smells, or dislike being touched; for example, certain children with AS exhibit a strong dislike of having their head touched or their hair disturbed while others like to be touched but dislike loud noises. Sensory overload may exacerbate problems faced by such children at school, where levels of noise in the classroom can become intolerable for them.[34] Some are unable to block out certain repetitive stimuli, such as the constant ticking of a clock. Whereas most children stop registering this sound after a short time and can hear it only if they consciously attend to it, a child with AS can become distracted, agitated, or even (in cases where the child has problems with regulating emotions such as anger) aggressive if the sound persists.[38] A study of parent measures of child temperament found that children with autism were rated as presenting with more extreme scores than typically-developing children.[39]
+[edit]
+History
+In 1944, the Austrian pediatrician Hans Asperger observed four children in his practice who had difficulty integrating socially. Although their intelligence appeared normal, the children lacked nonverbal communication skills, failed to demonstrate empathy with their peers, and were physically clumsy. Their way of speaking was either disjointed or overly formal, and their all-absorbing interest in a single topic dominated their conversations. Dr. Asperger called the condition “autistic psychopathy” and described it as a condition primarily marked by social isolation.[33] He also stated that "exceptional human beings must be given exceptional educational treatment, treatment which takes into account their special difficulties. Further, we can show that despite abnormality, human beings can fulfill their social role within the community, especially if they find understanding, love and guidance".[2]
+Hans Asperger and Leo Kanner identified essentially the same population, although the group identified by Asperger was perhaps more "socially functional" than Kanner's.[40] Traditionally, Kannerian autism is characterized by significant cognitive and communicative deficiencies, including delays in or lack of language.[41] A person with AS will not show delays in language, however.
+Asperger’s observations, published in German, were not widely known until 1981, when an English doctor named Lorna Wing published a series of case studies of children showing similar symptoms, which she called “Asperger’s Syndrome".[3] Wing’s writings were widely published and popularized. In 1992, the tenth published edition of the World Health Organization’s diagnostic manual and the International Classification of Diseases (ICD-10) included AS, making it a distinct diagnosis.[5] Later, in 1994, the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) and the American Psychiatric Association’s diagnostic reference book also added AS.[4][42]
+Uta Frith (an early researcher of Kannerian autism) wrote that people with AS seem to have more than a touch of autism to them.[43] Others, such as Lorna Wing and Tony Attwood, share Frith's assessment. Dr. Sally Ozonoff, of the University of California at Davis's MIND Institute, argues that there should be no dividing line between "high-functioning" autism and AS,[44] and that the fact that some people do not start to produce speech until a later age is no reason to divide the two groups because they are identical in the way they need to be treated.
+[edit]
+Clinical perspective
+[edit]
+Research
+Some research is to seek information about symptoms to aid in the diagnostic process. Other research is to identify a cause, although much of this research is still done on isolated symptoms. Many studies have exposed base differences in areas such as brain structure. To what end is currently unknown; research is ongoing, however.
+Peter Szatmari suggests that AS was promoted as a diagnosis to spark more research into the syndrome: "It was introduced into the official classification systems in 1994 and has grown in popularity as a diagnosis, even though its validity has not been clearly established. It is interesting to note that it was introduced not so much as an indication of its status as a 'true' disorder, but more to stimulate research ... its validity is very much in question."[45]
+[edit]
+Research into causes
+The direct cause(s) of AS is unknown. Even though no consensus exists for the cause(s) of AS, it is widely accepted that AS has a hereditary factor.[46] It is suspected that multiple genes play a part in causing AS, since the number and severity of symptoms vary widely among individuals.[5] Studies regarding the mirror neurons in the inferior parietal cortex have revealed differences which may underlie certain cognitive anomalies such as some of those which AS exhibits (e.g., understanding actions, learning through imitation, and the simulation of other people's behavior).[47][48] Non-neurological factors such as poverty, lack of sleep, substance abuse by the mother during pregnancy, discrimination, trauma during early childhood, and abuse may also contribute.[49]
+Other possible causative mechanisms include a serotonin dysfunction and cerebellar dysfunction.[50][51] Simon Baron-Cohen proposes a model for autism based on his empathising-systemising (E-S) theory.[52] The E-S theory holds that the female brain is predominantly hard-wired for empathy, while the male brain is predominantly hard-wired for understanding and building systems, and that AS is an extreme of the male brain.[53]
+Some genetic studies point to involvement of neuroligins in AS. Neuroligins are a family of proteins thought to mediate cell-to-cell interactions between neurons. Neuroligins function as ligands for the neurexin family of cell surface receptors. Mutations in two X-linked genes encoding neuroligins NLGN3 and NLGN4 have been reported. These mutations affect cell-adhesion molecules localized at the synapse and suggest that a defect of synaptogenesis may predispose to autism.[54]
+[edit]
+Other research
+There are other studies linking autism with differences in brain-volumes such as enlarged amygdala and hippocampus.[55] Current research points to structural abnormalities in the brain as a cause of AS.[5][56] These abnormalities impact neural circuits that control thought and behavior. Researchers suggest that gene/environment interactions cause some genes to turn on or turn off, or turn on too much or too little in the wrong places, and this interferes with the normal migration and wiring of embryonic brain cells during early development.[5]
+Other finds include brain region differences, such as decreased gray matter density in portions of the temporal cortex which are thought to play into the pathophysiology of ASDs (particularly in the integration of visual stimuli and affective information),[56] and differing neural connectivity.[57][58] Research on infants points to early differences in reflexes, which may be able to serve as an "early detector" of AS and autism.[59]
+Some professionals believe AS is not necessarily a disorder and thus should not be described in medical terms.[60]
+[edit]
+Treatment
+Treatment coordinates therapies that address the core symptoms of AS: poor communication skills, obsessive or repetitive routines, and physical clumsiness. AS and high-functioning autism may be considered together for the purpose of clinical management.[1]
+A typical treatment program generally includes:[5]
+social skills training, to teach the skills to more successfully interact with others;
+cognitive behavioral therapy, to help in better managing emotions that may be explosive or anxious, and to cut back on obsessive interests and repetitive routines;
+medication, for co-existing conditions such as depression, anxiety, and ADD/ADHD;
+occupational or physical therapy, to assist with sensory integration problems or poor motor coordination;
+specialized speech therapy, to help with the trouble of the "give and take" in normal conversation;
+parent training and support, to teach parents behavioral techniques to use at home; and,
+counseling to support individuals with AS to increase self-awareness skills and to help them develop and manage the emotions around social experiences.
+The techniques described above will work for most people with AS but the syndrome cannot be completely cured. AS can be modified and coping strategies can be put in place.
+Many studies have been done on early behavioral interventions. Most of these are single case with one to five participants.[61] The single case studies are usually about controlling non-core autistic problem-behaviors like self-injury, aggression, noncompliance, stereotypies, or spontaneous language. Packaged interventions such as those run by UCLA or TEACCH are designed to treat the entire syndrome and have been found to be somewhat effective.[61]
+Behavioral interventions, such as Applied Behavior Analysis (ABA), have been researched for many years. Empirical data demonstrate its effectiveness in the treatment of autism spectrum disorders because it is an individualized set of programs. In addition, ABA has the benefits of individualized functional analyses of exhibited behaviors. In 1982 Becker and Gersten found that ABA techniques were indeed educationally beneficial because they provide "motivational programs based on positive reinforcement such as a token system and a systematic task analysis for developing academic skills". ABA also promotes the foundation for academic and living skills. Once certain skills have been acquired, it is possible through ABA to generalize these skills and add new skills to the "existing repertoire through various techniques of shaping, extinction, backwards chaining, and prompting". (Schreibman, 1975, Sulzer & Mayer, 1972, Wolery et al, 1988)
+Glen Dunlap, Lee Kern and Jonathan Worcester reviewed studies of the effects of Applied Behavior Analysis and academic instruction, structuring existing studies into one article. The researchers noted that in a 1981 study by Weeks and Gaylord, subjects with severe disabilities who were given difficult tasks became self injurious and aggressive. When they incorporated the use of "errorless learning", a technique used in ABA treatment which eliminates a "wrong" answer through prompting and fading, there was an observable reduction in the challenging behaviors.
+The use of ABA treatments should not be discounted in the intervention of autism spectrum disorders because of its foundation in repeatable and observable studies that result in better educational techniques and skill acquisition.
+TEACCH is a teaching methodology developed primarily by Gary Mesibov and Eric Schopler at UNC-Chapel Hill. The TEACCH methodology believes in some appliction of behavioral methodologies, however another tenet of this teaching system is to instruct in "real life" settings and that children learn best when the instruction is personalized and thus, more meaningful. Most TEACCH programs and replication sites are designed with work stations in which activities have been developed and chosen for each child. The TEACCH approach is designed for younger age children and requires a substantially separate program for implementation. TEACCH, as a method, is less intrusive and aggressive toward students and their existing behaviors; a parent's comfort level watching this method may be higher. The model also offers various manuals and supports to help new programs establish themselves and supports existing programs implementing positive changes. However, research as to the efficacy of TEACCH over ABA is limited to anecdotal reports without empirical data to support this. ABA has been supported to be more effective in teaching functional and social language, bridging the gap of cognitive skills, and teaching self-help and functional independence. TEACCH presents with some challenges. Replication of the original program and the curriculum can be challenging although many of the programs can now be purchased. Training staff to implement this method requires significant time and personnel with excellent background knowledge. To be effectively implemented, classroom sizes and student to staff ratios must be small. However this is a challenge of most educational programs and academic and social interventions.
+Unintended side effects of medication and intervention have largely been ignored in the literature about treatment programs for children or adults,[61] and there are claims that some treatments are not ethical and do more harm than good.[62][63]
+[edit]
+Prognosis
+Persons with AS appear to have normal lifespans, but have an increased prevalence of comorbid psychiatric conditions such as depression, mood disorders, and obsessive-compulsive disorder.[1]
+Children with AS can learn to manage their differences, but they may continue to find social situations and personal relationships challenging. Many adults with AS are able to work successfully in mainstream jobs, although they may continue to need encouragement and moral support to maintain an independent life.[5]
+Individuals with AS may make great intellectual contributions: published case reports suggest an association with accomplishments in computer science, mathematics, and physics. The deficits associated with AS may be debilitating, but many individuals experience positive outcomes, particularly those who are able to excel in areas less dependent on social interaction, such as mathematics, music, and the sciences.[1]
+[edit]
+Epidemiology
+The prevalence of AS is not well established, but conservative estimates using the DSM-IV criteria indicate that two to three of every 10,000 children have the condition, making it rarer than autistic disorder itself. Three to four times as many boys have AS compared with girls.[5][64] The universality of AS across races, and validity of epidemiologic studies to date, is questioned.[65]
+A 1993 broad-based population study in Sweden found that 36 per 10,000 school-aged children met Gillberg's criteria for AS, rising to 71 per 10,000 if suspected cases are included.[7] The estimate is convincing for Sweden, but the findings may not apply elsewhere because they are based on a homogeneous population. The Sweden study demonstrated that AS may be more common than once thought and may be currently underdiagnosed.[1] Gillberg estimates 30-50% of all persons with AS are undiagnosed.[26] A survey found that 36 per 10,000 adults with an IQ of 100 or above may meet criteria for AS.[66]
+Leekam et al. documented significant differences between Gillberg's criteria and the ICD-10 criteria.[67] Considering its requirement for "normal" development of cognitive skills, language, curiosity and self-help skills, the ICD-10 definition is considerably more narrow than Gillberg's criteria, which more closely matches Hans Asperger's own descriptions.
+Like other autism spectrum disorders, AS prevalence estimates for males are higher than for females,[5] but some clinicians believe that this may not reflect the actual incidence rates. Tony Attwood suggests that females learn to compensate better for their impairments due to gender differences in the handling of socialization.[68] The Ehlers & Gillberg study found a 4:1 male to female ratio in subjects meeting Gillberg's criteria for AS, but a lower 2.3:1 ratio when suspected or borderline cases were included.[7]
+The prevalence of AS in adults is not well understood, but Baron-Cohen et al. documented that 2% of adults score higher than 32 in his Autism Spectrum Quotient (AQ) questionnaire, developed in 2001 to measure the extent to which an adult of normal intelligence has the traits associated with autism spectrum conditions.[69] All interviewed high-scorers met at least 3 DSM-IV criteria, and 63% met threshold criteria for an ASD diagnosis; a Japanese study found similar AQ Test results.[70]
+[edit]
+Comorbidities
+Most patients presenting in clinical settings with AS have other comorbid psychiatric disorders.[71] Children are likely to present with attention-deficit hyperactivity disorder (ADHD), while depression is a common diagnosis in adolescents and adults.[71] A study of referred adult patients found that 30% presenting with ADHD had ASD as well.[72]
+Research indicates people with AS may be far more likely to have the associated conditions.[73] People with AS symptoms may frequently be diagnosed with clinical depression, oppositional defiant disorder, antisocial personality disorder, Tourette syndrome, ADHD, general anxiety disorder, bipolar disorder, obsessive compulsive disorder or obsessive-compulsive personality disorder.[74] Dysgraphia, dyspraxia, dyslexia or dyscalculia may also be diagnosed.[75]
+The particularly high comorbidity with anxiety often requires special attention. One study reported that about 84 percent of individuals with a Pervasive Developmental Disorder (PDD) also met the criteria to be diagnosed with an anxiety disorder.[76] Because of the social differences experienced by those with AS, such as trouble initiating or maintaining a conversation or adherence to strict rituals or schedules, additional stress to any of these activities may result in feelings of anxiety, which can negatively affect multiple areas of one's life, including school, family, and work. Treatment of anxiety disorders that accompany a PDD can be handled in a number of ways, such as through medication[citation needed] or individual and group cognitive behavioral therapy, where relaxation or distraction-type activities may be used along with other techniques in order to diffuse the feelings of anxiety.[77]
+[edit]
+Non-clinical perspective
+Some professionals contend that, far from being a disease, AS is simply the pathologizing of neurodiversity that should be celebrated, understood and accommodated instead of treated or cured.[60]
+[edit]
+Shift in view
+Autistic people have contributed to a shift in perception of autism spectrum disorders as complex syndromes rather than diseases that must be cured.[78] Proponents of this view reject the notion that there is an 'ideal' brain configuration and that any deviation from the norm is pathological. They demand tolerance for what they call their neurodiversity in much the same way physically handicapped people have demanded tolerance.[79] These views are the basis for the autistic rights and autistic pride movements.[80] Researcher Simon Baron-Cohen has argued that high-functioning autism is a "difference" and is not necessarily a "disability."[81] He contends that the term "difference" is more neutral, and that this small shift in a term could mean the difference between a diagnosis of AS being received as a family tragedy, or as interesting information, such as learning that a child is left-handed.
+[edit]
+Autistic culture
+People with AS may refer to themselves in casual conversation as "aspies", coined by Liane Holliday Willey in 1999,[82] or as an "Aspergian".[83] The term neurotypical (NT) describes a person whose neurological development and state are typical, and is often used to refer to people who are non-autistic.
+A Wired magazine article, The Geek Syndrome,[84] suggested that AS is more common in the Silicon Valley, a haven for computer scientists and mathematicians. It posited that AS may be the result of assortative mating by geeks in mathematical and technological areas. AS can be found in all occupations, however, and is not limited to those in the math and science fields.[85]
+The popularization of the Internet has allowed individuals with AS to communicate with each other in a way that was not possible to do offline due to the rarity and the geographic dispersal of individuals with AS. As a result of increasing ability to connect with one another, a subculture of "Aspies" has formed. Internet sites have made it easier for individuals to connect with each other.[86]
+[edit]
+Social impact
+AS may lead to problems in social interaction with peers. These problems can be severe or mild depending on the individual. Children with AS are often the target of bullying at school due to their idiosyncratic behavior, language, interests, and impaired ability to perceive and respond in socially expected ways to nonverbal cues, particularly in interpersonal conflict. Children with AS may be extremely literal and may have difficulty interpreting and responding to sarcasm or banter.
+The above problems can even arise in the family; given an unfavorable family environment, the child may be subject to emotional abuse. A child or teen with AS is often puzzled by this mistreatment, unaware of what has been done incorrectly. Unlike other pervasive development disorders, most children with AS want to be social, but fail to socialize successfully, which can lead to later withdrawal and asocial behavior, especially in adolescence.[87] At this stage of life especially, they risk being drawn into unsuitable and inappropriate friendships and social groups. People with AS often get along a lot better with those considerably older or younger than them, rather than those their own age.
+Children with AS often display advanced abilities for their age in language, reading, mathematics, spatial skills, and/or music—sometimes into the "gifted" range—but this may be counterbalanced by considerable delays in other developmental areas. This may be especially evident when the children hit middle school where the educational philosophy switches from rote tasks and memorization (i.e.sight words, Math Facts) to higher ordered thinking that is often difficult with children with AS. This combination of traits can lead to problems with teachers and other authority figures. A child with AS might be regarded by teachers as a "problem child" or a "poor performer." The child’s extremely low tolerance for what they perceive to be ordinary and mediocre tasks, such as typical homework assignments, can easily become frustrating; a teacher may well consider the child arrogant, spiteful, and insubordinate. Lack of support and understanding, in combination with the child's anxieties, can result in problematic behavior (such as severe tantrums, violent and angry outbursts, and withdrawal).[88]
+Although adults with AS may have similar problems, they are not as likely to be given treatment as a child would. They may find it difficult finding employment or entering undergraduate or graduate schools because of poor interview skills or a low score on standardized or personality tests. They also may be more vulnerable to poverty and homelessness than the general population, because of their difficulty finding (and keeping) employment, lack of proper education, premature social skills, and other factors.[66] [89] If they do become employed, they may be misunderstood, taken advantage of, paid less than those without AS, and be subject to bullying and discrimination. Communication deficits may mean people at work have difficulty understanding the person with AS. The complex interpersonal dynamic of a workplace poses an assiduous challenge for those with AS, and problems with authority figures can continue as difficult, tense relations with bosses and supervisors become prevalent.
+People with AS report a feeling of being unwillingly detached from the world around them. They may have difficulty finding a life partner or getting married due to poor social skills and poverty. In a similar fashion to school bullying, the person with AS is vulnerable to problems in their neighbourhood, such as anti-social behaviour and harassment. Due to social isolation, they can be seen as the 'black sheep' in the community and thus may be at risk of wrongful suspicions and allegations from others. [66] Individuals with AS will need support if they desire to make connections on a personal level. In order for them to see the purpose or relevance of a relationship beyond a point of interest or concept it may represent to them, it will require facilitation from a skilled professional. These connections are crucial throughout the life of an individual with AS. When these connections become incredibly complex, however, is in adulthood and unfortunately this is when the fewest services are provided for this population. Direct teaching around how to identify and establish social boundaries as well as recognizing a person and relationship that he or she can trust is necessary for social success. The complexity and inconsistency of the social world can pose an extreme challenge for individuals with AS.
+On the other hand, some adults with AS do get married,[90] get graduate degrees, become wealthy, and hold jobs.[10] The intense focus and tendency to work things out logically often grants those people with AS a high level of ability in their field of interest. When these special interests coincide with a materially or socially useful task, the person with AS often can lead a profitable life. The child obsessed with naval architecture may grow up to be an accomplished shipwright.[91] More research is needed on adults with AS.[92]
+[edit]
+Adults with AS as parents
+One area of study in which more of such research is sorely needed concerns adults with AS who marry and subsequently become parents. Until recently, it was just assumed that autistic/AS adults did not function highly enough to marry, but this is now known as simply untrue. AS adults do marry. Those who marry, however, may find it difficult to stay married; some initial research puts the divorce rate at approximately eighty percent.[93] Inflexible routines or embarrassing social behavior (like reading a book while having guests) can undermine the marriage[94], as can the difficulty maintaining emotional closeness. The resulting split can be fraught with intense or high conflict or domestic violence.[95] Custody cases, already often difficult affairs, are complicated when one or both parties has AS. The parenting skills of a person with AS may be inadequate to the task to the point of inflicting long-term psychological damage on children, particularly neurotypical children, raised in such an environment.[96] Such damage may be even more pronounced when the AS parent goes undiagnosed and fails to receive the intensive help s/he may need in developing and maintaining adequate parenting skills.
+Even with support, AS parents simply may not be up to the enormous task. Raising a neurotypical child with corresponding needs involves complex emotional interaction between parent and child, as well as the ability to avoid parental behaviors damaging to a child's well-being. Typical adult symptoms of AS include the inability to empathize with others, lack of comprehension of the emotions and motives of others, difficulty in holding conversations and actively listening to others, and poor ability to control feelings of anxiety and, importantly, anger, and rage, especially in stressful situations, which can lead to violent aggression.[93] Sheila Jennings Linehan notes that these problems may at times be simply incompatible with successful parenting when the parent suffers from significant mind blindness associated with their AS (see article in family court review Oct. 2005) .[97] (It should be noted, however, that if the child of an AS parent has AS him/herself, that AS parent is probably more likely to understand what the AS child is dealing with and can, if motivated to do so, provide support not readily available from neurotypical parents. In contrast, neurotypical parents run the risk of not knowing what to do with an AS child and taking wrong or inappropriate corrective action until diagnosis, treatment, and parenting intervention are provided.)[98]
+The AS parent/NT child dynamic has only nascent understanding as yet. Kathy J. Marshack comments that neurotypical adults raised by AS parents (most often undiagnosed due to the relatively recent understanding of AS) often report "a lifetime of severe depression, 'nervous breakdowns' and a string of broken relationships because they came to believe that they had no worth. Remember it is the child’s experience that defines the parenting, not whether the AS parent loves their child."[99] Because it is the child's, rather than the parent's, perception -- both of the parent/child relationship and of the child's own worth -- that impacts the child's well-being, this finding is crucially important.
+Having AS does not mean, however, that these parents do not love their children. AS parents should not be stereotyped or categorized as evil, uncaring, or intentionally abusive. As Australia's Better Health Channel puts it, "Because the affected person is neurologically unable to understand other people's emotional states, they are usually shocked, upset and remorseful when told their actions were hurtful or inappropriate."[93] Jennings Linehan notes that "problems in parenting are linked directly to the core neuro-cognitive clinical features of Asperger's Syndrome itself",[97] rather than to "character flaws" or "ill will" on the part of parents. Thus it seems clear that more research and better coping strategies are needed on the part of everyone involved in the welfare of a child who has a parent or parents with AS.
+[edit]
+Notable cases
+Baron-Cohen speculates that Albert Einstein had AS.
+AS is sometimes viewed as a syndrome with both advantages and disadvantages,[100] and notable adults with AS or autism have achieved success in their fields. Prominent AS-diagnosed individuals include Nobel Prize-winning economist Vernon Smith,[101] electropop rocker Gary Numan,[102] Vines frontman Craig Nicholls[103] and Satoshi Tajiri, the creator of Pokémon.[104] Colorado State University professor and author Temple Grandin was diagnosed with autism at a young age, and has used her autism to her advantage in her profession as an animal behaviorist specializing in livestock handling.[105] [106]
+Some AS researchers speculate that well-known figures, including Jeremy Bentham[107], Albert Einstein, Isaac Newton,[108] Glenn Gould[109] and Ludwig Wittgenstein[110] had AS because they showed some AS-related tendencies or behaviors, such as intense interest in one subject, or social problems.[111][112] These speculative diagnoses, especially posthumous ones, remain controversial, as they work only from biographical information and sometimes ignore documented traits that would indicate against Asperger syndrome.[108] Autistic-rights activists use such speculative diagnoses to argue that it would be a loss to society if autism were cured. [113]
+[edit]
+See also
+Groups
+Aspies For Freedom
+Wrong Planet
+National Alliance for Autism Research
+Cure Autism Now
+Lists
+List of fictional characters on the autistic spectrum
+List of further reading on Asperger syndrome
+General
+Picture thinking
+Autistic Pride Day
+Controversies about functioning labels in the autism spectrum
+[edit]
+Notes
+? 1.0 1.1 1.2 1.3 1.4 Brasic, JR. Pervasive Developmental Disorder: Asperger Syndrome. eMedicine.com (April 10 2006). Retrieved 7 July 2006.
+? 2.0 2.1 Treffert, DA. Asperger's Disorder and Savant Syndrome. Wisconsin Medical Society. Retrieved on 19 July 2006.
+? 3.0 3.1 3.2 3.3 Wing, Lorna. Asperger syndrome: a clinical account. Retrieved 2 July 2006.
+? 4.0 4.1 4.2 4.3 BehaveNet® Clinical Capsule™. DSM-IV & DSM-IV-TR: Asperger's Disorder (AD). Retrieved 28 June 2006.
+? 5.00 5.01 5.02 5.03 5.04 5.05 5.06 5.07 5.08 5.09 5.10 5.11 5.12 5.13 NINDS (May 11 2006). Asperger Syndrome Fact Sheet. Retrieved 2 July 2006.
+? Timini S. "Diagnosis of autism: Adequate funding is needed for assessment services." BMJ. 2004 24 January;328(7433):226. PMID 14739199 Full Text
+? 7.0 7.1 7.2 Ehlers S, Gillberg C. "The epidemiology of Asperger's syndrome: a total population study". J Child Psychol Psychiatry. 1993 Nov;34(8):1327-50. PMID 8294522 Full Text.
+? Szatmari P, Brenner R, Nagy J. (1989) "Asperger's syndrome: A review of clinical features." Canadian Journal of Psychiatry 34, pp. 554-560.
+? 9.0 9.1 Gillberg IC, Gillberg C. "Asperger syndrome-some epidemiological considerations: A research note." J Child Psychol Psychiatry. 1989 Jul;30(4):631-8. PMID 2670981
+? 10.0 10.1 10.2 10.3 AS-IF.org. Asperger Syndrome Information and features: Definition. Retrieved 29 June 2006.
+? Fitzgerald M, Corvin A (2001). Diagnosis and differential diagnosis of Asperger syndrome. Advances in Psychiatric Treatment 7: pp. 310-318.
+? 12.0 12.1 Szatmari P. "The classification of autism, Asperger's syndrome, and pervasive developmental disorder." Can J Psychiatry. 2000 Oct;45(8):731-8. Review. PMID 11086556 Full text.
+? Myles, Brenda Smith; Trautman, Melissa; and Schelvan, Ronda (2004). The Hidden Curriculum: practical solutions for understanding unstated rules in social situations. Shawnee Mission, Kansas: Autism Asperger Publishing Co., 2004. ISBN 1-931282-60-9.
+? Levanthal-Belfer, Laurie and Coe, Cassandra (2004). "Asperger Syndrome in Young Children: A Developmental Approach for Parents and Professionals". London: Jessica Kingsley Publishers, p. 161. ISBN 1-84310-748-1
+? Romanowski, Patricia; Kirby, Barbara L. The Oasis Guide To Asperger Syndrome
+? Levanthal-Belfer and Coe (2004), pp. 160-161.
+? Baker, L. & Welkowitz, L.A. (eds.) Asperger’s Syndrome: Intervening in Clinics, Schools, and Communities (Erlbaum Assoc, 2005).
+? Baker, Linda & Welkowitz, Lawrence A. Asperger's Syndrome; Intervening in Schools, Clinics and Communities, New Jersey, Lawrence Erlbaum Associates, Inc., Publishers, 2005.
+? Attwood, Tony. "Asperger's Syndrome: A Guide for Parents and Professionals". Jessica Kingsley, London, 1997. ISBN 1-85302-577-1, pp. 89-92.
+? Attwood (1997), pp. 57-66.
+? Attwood (1997), pp. 165-169.
+? Happe, F. & Frith, U. (2006) The weak central coherence account: Detail-focused cognitive style in autism spectrum disorders. Journal of Autism and Developmental Disorders, 36 (1), 5-25.
+? Attwood (1997), pp. 80-82.
+? Attwood (1997), p. 78.
+? Attwood (1997), p. 82.
+? 26.0 26.1 26.2 Bauer S. Asperger Syndrome. The Source (2000). Retrieved 7 July 2006.
+? Attwood (1997), p. 109.
+? Myles BS, Huggins A, et al. Written language profile of children and youth with Asperger syndrome: From research to practice. Education and Training in Developmental Disabilities. 38:4 December 2003, 362-369. Abstract.
+? Attwood (1997), p. 106.
+? Attwood (1997). pp. 89-92.
+? Baron-Cohen S, Wheelwright S. "'Obsessions' in children with autism or Asperger syndrome. Content analysis in terms of core domains of cognition." Br J Psychiatry. 1999 Nov;175:484-90. PMID 10789283
+? Hippler K, Klicpera C. (2003-01-08). "A retrospective analysis of the clinical case records of ‘autistic psychopaths’ diagnosed by Hans Asperger and his team at the University Children’s Hospital, Vienna". The Royal Society. Retrieved on 2006-07-04.
+? 33.0 33.1 Asperger, H. (1944), Die 'Autistischen Psychopathen' im Kindesalter, Archiv fur Psychiatrie und Nervenkrankheiten, 117, pp. 76-136.
+? 34.0 34.1 Aquilla P, Yack E, Sutton S. "Sensory and motor differences for individuals with Asperger Syndrome: Occupational therapy assessment and intervention" in Stoddart, Kevin P. (Editor) (2005), p. 198.
+? Jankovic J, Mejia NI. "Tics associated with other disorders". Adv Neurol. 2006;99:61-8. PMID 16536352
+? Mejia NI, Jankovic J. Secondary tics and tourettism. Rev Bras Psiquiatr. 2005;27(1):11-7. PMID 15867978 Full-text PDF
+? Attwood (1997), p. 100.
+? Romanowski and Kirby (2005), pp. 420-421.
+? Hepburn SL, Stone WL. "Using Carey Temperament Scales to Assess Behavioral Style in Children with Autism Spectrum Disorders". J Autism Dev Disord. 2006 21 April; [Epub ahead of print] PMID 16628481
+? Attwood (1997), p. 15
+? Kanner, L. (1943), Autistic Disturbances of Affective Contact (pdf), Nervous Child, 2, pp.217-250.
+? Note: The NINDS Asperger Syndrome Fact Sheet lists 1995 as the date AS was included in the DSM, but the DSM-IV was published in 1994.
+? Frith, U. (1991) "Asperger and his syndrome." In U. Frith (ed) Autism and Aspergers Syndrome. Cambridge: Cambridge University Press
+? Ozonoff S, Rogers SJ, Pennington BF. "Asperger's syndrome: evidence of an empirical distinction from high-functioning autism." Journal of Child Psychology and Psychiatry. 1991 Nov;32(7):1107-22. PMID 1787139
+? Stoddart, K. P. (Editor) (2005). "Children, Youth and Adults with Asperger Syndrome: Integrating Multiple Perspectives". London: Jessica Kingsley Publishers. ISBN 1-84310-268-4. p. 239.
+? Muhle R, Trentacoste SV, Rapin I. "The genetics of autism." Pediatrics. 2004 May;113(5):e472-86. Review. PMID 15121991
+? Oberman LM, Hubbard EM, McCleery JP, Altschuler EL, Ramachandran VS, Pineda JA., EEG evidence for mirror neuron dysfunction in autism spectrum disorders, Brain Res Cogn Brain Res.; 24(2):190-8, 2005-06
+? Mirella Dapretto, Understanding emotions in others: mirror neuron dysfunction in children with autism spectrum disorders, Nature Neuroscience, Vol. 9, No. 1, pp. 28-30, 2006-01
+? Larsson HJ, Eaton WW, Madsen KM, Vestergaard M, et al. Risk factors for autism: perinatal factors, parental psychiatric history, and socioeconomic status. American Journal of Epidemiology. 2005 May 15;161(10):916-25; discussion 926-8. PMID 15870155Full text.
+? Murphy DG, Daly E, Schmitz N, et al. "Cortical serotonin 5-HT2A receptor binding and social communication in adults with Asperger's syndrome: an in vivo SPECT study." Am J Psychiatry. 2006 May;163(5):934-6. PMID 16648340
+? Gowen E, Miall RC. "Behavioural aspects of cerebellar function in adults with Asperger syndrome." Cerebellum. 2005;4(4):279-89. PMID 16321884
+? Lawson J, Baron-Cohen S, Wheelwright S. "Empathising and systemising in adults with and without Asperger Syndrome." J Autism Dev Disord. 2004 Jun;34(3):301-10. PMID 15264498
+? Baron-Cohen, Simon (April 17 2003). "They just can't help it." Guardian. Retrieved on 19 July 2006.
+? Mutations of the X-linked genes encoding neuroligins NLGN3 and NLGN4 are associated with autism. May 2003, retrieved December 7, 2006.
+? Schumann CM, Hamstra J, Goodlin-Jones BL, et al. "The amygdala is enlarged in children but not adolescents with autism; the hippocampus is enlarged at all ages." J Neurosci. 2004 14 July;24(28):6392-401. PMID 15254095
+? 56.0 56.1 Kwon H, Ow AW, Pedatella KE, et al. "Voxel-based morphometry elucidates structural neuroanatomy of high-functioning autism and Asperger syndrome." Dev Med Child Neurol. 2004 Nov;46(11):760-4. PMID 15540637
+? Belmonte MK, Allen G, Beckel-Mitchener A, et al. "Autism and Abnormal Development of Brain Connectivity." J Neurosci. 2004 20 October;24(42):9228-31 PMID 15496656 Full text
+? News-Medical.net (7 February 2005). Clues to autism's neural basis. Retrieved 11 December 2005. PMID 15694294
+? Teitelbaum O, Benton T, Shah PK, et al. "Eshkol-Wachman movement notation in diagnosis: the early detection of Asperger's syndrome." Proc Natl Acad Sci U S A. 2004 10 August;101(32):11909-14. Epub 2004 28 July. PMID 15282371 Full text.
+? 60.0 60.1 Clements, Colleen. Making intelligence a disease. The Medical Post, 2001. Retrieved 18 July 2006. Colleen Clements is clinical associate professor of psychiatry at the University of Rochester, Rochester, N.Y.
+? 61.0 61.1 61.2 Matson JL. "Determining treatment outcome in early intervention programs for autism spectrum disorders: A critical analysis of measurement issues in learning based interventions". Res Dev Disabil. 2006 May 5; [Epub ahead of print]. PMID 16682171
+? Dawson, Michelle. The Misbehaviour of Behaviourists. Retrieved 7 July 2006.
+? Autistic People Against Neuroleptic Abuse. Retrieved 7 July 2006.
+? Fombonne E. "Epidemiology of autistic disorder and other pervasive developmental disorders." J Clin Psychiatry. 2005;66 Suppl 10:3-8. PMID 16401144
+? Sanua VD. "Is infantile autism a universal phenomenon? An open question." Int J Soc Psychiatry. 1984 Autumn;30(3):163-77. PMID 6746221
+? 66.0 66.1 66.2 Barnard J, et al. "Ignored or Ineligible? : The reality for adults with ASD". The National Autistic Society, London, 2001. Full Text (PDF).
+? Leekam S, et al. (2000). Comparison of ICD-10 and Gillberg’s Criteria for Asperger Syndrome. The National Autistic Society, SAGE Publications, 2000.
+? Attwood (1997), p. 151–2.
+? Baron-Cohen S, Wheelwright S, Skinner R, Martin J, Clubley E. "The autism-spectrum quotient (AQ): evidence from Asperger syndrome/high-functioning autism, males and females, scientists and mathematicians." J Autism Dev Disord. 2001 Feb;31(1):5-17. Erratum in: J Autism Dev Disord 2001 Dec;31(6):603. PMID 11439754 Full Text.
+? Wakabayashi A, Tojo Y, et al. "[The Autism-Spectrum Quotient (AQ) Japanese version: evidence from high-functioning clinical group and normal adults]" Japanese. Shinrigaku Kenkyu. 2004 Apr;75(1):78-84. PMID 15724518
+? 71.0 71.1 Ghaziuddin M, Weidmer-Mikhail E, Ghaziuddin N. "Comorbidity of Asperger syndrome: a preliminary report." J Intellect Disabil Res 42 ( Pt 4):279-83 PMID 9786442
+? Stahlberg O, Soderstrom H, et al. "Bipolar disorder, schizophrenia, and other psychotic disorders in adults with childhood onset AD/HD and/or autism spectrum disorders." Journal of neural transmission. 2004 Jul;111(7):891-902. PMID 15206005
+? Stoddart, K. P. (Editor) (2005). "Children, Youth and Adults with Asperger Syndrome: Integrating Multiple Perspectives". London: Jessica Kingsley Publishers. ISBN 1-84310-268-4, p. 44.
+? Gillberg C, Billstedt E. "Autism and Asperger syndrome: coexistence with other clinical disorders." Acta Psychiatr Scand. 2000 Nov;102(5):321-30. PMID 11098802
+? AS-IF.org. Asperger Syndrome Information and features: Overlap. Retrieved 6 July 2006.
+? Muris P., et al (1998). Comorbid anxiety symptoms in children with pervasive developmental disorders. Journal of Anxiety Disorders, 12(4), 387-393.
+? Dasar, Meena. "Asperger's Syndrome and Anxiety".
+? Williams, Charmaine C. "In search of an Asperger culture," in Stoddart, Kevin. (Ed.) (2005), p. 246.
+? Williams (2005), p. 246. Williams writes: "The life prospects of people with AS would change if we shifted from viewing AS as a set of dysfunctions, to viewing it as a set of differences that have merit."
+? Dakin, Chris J. "Life on the outside: A personal perspective of Asperger syndrome," in Stoddart, Kevin (Ed.) (2005), pp. 352-353.
+? Baron-Cohen, Simon. "Is asperger syndrome/high-functioning autism necessarily a disability?" Development and Psychopathology. 2000 Summer;12(3):489-500. Full-text PDF. PMID 11014749
+? Willey, LH. Pretending to be Normal: Living with Asperger's Syndrome. Jessica Kingsley, London, 1999. ISBN 1-85302-749-9
+? Aspergian Pride. Retrieved 2 July 2006.
+? Silberman, S (2001). The Geek Syndrome. Wired.com Retrieved 31 May 2006.
+? J. Madeleine Nash (2002-05-06). The Secrets of Autism pp. 2-3. Time Magazine. Retrieved on 2006-07-04.
+? Dekker, Martijn. ON OUR OWN TERMS: Emerging Autistic Culture. Accessed 14 July 2006
+? Stoddart, Kevin P. (Editor) (2005), p. 22.
+? Myles, Brenda Smith; Southwick, Jack (2005). "Asperger Syndrome and Difficult Moments". Shawnee Mission, Kansas: Autism Asperger Publishing Co. ISBN 1-931282-70-6, pp. 14-17
+? Unlocking Autism.org
+? Asperger-Marriage info. Retrieved on 19 July 2006.
+? Stoddart, Kevin P. (2005), p. 24. Stoddart notes: "Adults who have succeeded in keeping employment may be found in vocations that rely on a circumscribed area of knowledge."
+? Stoddart, Kevin P. (2005), p. 239.
+? 93.0 93.1 93.2 Better Health Channel. Asperger syndrome and adults. Mental Health Matters. Retrieved on 2006-11-07.
+? The essential difference, Simon Baron Cohen, 2003
+? Jennings Linehan. High conflict and Asperger's syndrome. National Autistic Society. Retrieved on 2006-11-07.
+? FAAAS, Inc. (Families of Adults Affected by Asperger's Syndrome). Retrieved on 2006-11-07.
+? 97.0 97.1 Jennings Linehan. Asperger Syndrome and Parenting. Retrieved on 2006-11-07.
+? Treatment and Intervention. Retrieved on 2006-12-29.
+? http://www.kmarshack.com/news/current/as/faq.html
+? Grandin, Temple (2003). Genius May Be An Abnormality. (PDF) Paradigm. Retrieved 1 July 2006.
+? Herera, Sue (25 February 2005). Mildest autism has 'selective advantages'. MSNBC. Retrieved on 2006-03-27.
+? Numan has Aspergers? ContactMusic.com Retrieved 2 July 2006.
+? Vines singer diagnosis revealed. NME.com Retrieved 3 July 2006.
+? Plaza, Amadeo. A Salute to Japanese Game Designers. Retrieved 3 July 2006
+? An Inside View of Autism by Temple Grandin, PhD
+? book review of Animals in Translation by Temple Grandin, PhD
+? Lucas, Philip and Anne Sheeran (2006) "Asperger’s Syndrome and the Eccentricity and Genius of Jeremy Bentham", Journal of Bentham Studies 8.
+? 108.0 108.1 Muir, H. (2003-04-30). "Einstein and Newton showed signs of autism". Retrieved on 2006-01-13.
+? Fulford, Robert. "The source of Gould's genius?: Great musician may have suffered from Asperger's", The National Post (February 10 2004).
+? Fitzgerald M. (March 2000). Did Ludwig Wittgenstein have Asperger's syndrome?
+? Christopher Gillberg, Mary Coleman, The Biology of the Autistic Syndromes, Cambridge University Press, 2000.
+? Lyons, V (2005). Asperger syndrome : a gift or a curse?. New York: Nova Science Publishers.
+? Harmon, Amy. "How About Not 'Curing' Us, Some Autistics Are Pleading", New York Times (December 20 2004).
+[edit]
+External links
+Link directories
+Asperger and Autism organizations and services
+DMOZ category on Asperger's syndrome
+MedlinePlus Asperger Syndrome Resources
+AS Family Village library
+Wrong Planet Link Directory
+Further links
+Asperger syndrome fact sheets - Fact sheets on diagnosis, early intervention, behaviors, family issues & personal stories
+Stephen Shore's website offering his insight into life with Asperger syndrome
+CDC's "Learn the Signs. Act Early.” campaign - Information for parents on early childhood development and developmental disabilities
+Institute for the Study of the Neurologically Typical - 'Well-known parody of non-autistics by some people from the autism spectrum'
+Fresh Air with Terry Gross - 'National Public Radio (NPR) Program on Asperger's (May 5 2004)'
+Autism Asperger Publishing Company Independent Publisher specializing in books on Autism and Asperger syndrome
+Autism Key Run by and for parents of children with autism spectrum disorders
+Autism and Asperger's Syndrome: The 'Little Professors' at h2g2
+Boston Globe article on a woman with Asperger's Syndrome
+Pervasive developmental disorders / Autistic spectrum
+Diagnoses
+Autism | Asperger syndrome | Autistic enterocolitis | Childhood disintegrative disorder | Conditions comorbid to autism | Fragile X syndrome
+Rett syndrome | PDD-NOS | Sensory Integration Dysfunction | Multiple-complex Developmental Disorder
+Controversy
+Andrew Wakefield | Incidence | An epidemic? | Autism rights movement | Biomedical intervention | Causes | Chelation
+Generation Rescue | Heritability | Neurodiversity | Refrigerator mother | Therapies
+See also: List of autism-related topics
+Retrieved from "http://localhost../../../art/a/d/h.html"
+This text comes from Wikipedia the free encyclopedia. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. For a complete list of contributors for a given article, visit the corresponding entry on the English Wikipedia and click on "History" . For more details about the license of an image, visit the corresponding entry on the English Wikipedia and click on the picture.

@@ -1,0 +1,343 @@
+Clinical depression
+Clinical depression
+Depression
+Classifications and external resources
+ICD-10
+F32., F33.
+ICD-9
+296
+MedlinePlus
+003213
+Clinical depression (also called major depressive disorder, or sometimes unipolar when compared with bipolar disorder) is a state of intense sadness, melancholia or despair that has advanced to the point of being disruptive to an individual's social functioning and/or activities of daily living. Although a low mood or state of dejection that does not affect functioning is often colloquially referred to as depression, clinical depression is a clinical diagnosis and may be different from the everyday meaning of "being depressed". Many people identify the feeling of being depressed as "being blue", "feeling sad for no reason", or "having no motivation to do anything". One suffering from depression may feel tired, sad, irritable, lazy, unmotivated, and apathetic. Clinical depression is generally acknowledged to be more serious than normal depressed feelings. It often leads to constant negative thinking and often substance abuse.
+Without careful assessment, delirium can easily be confused with depression and a number of other psychiatric disorders because many of the signs and symptoms are conditions present in depression, as well as other mental illnesses including dementia and psychosis.[1]
+Vincent van Gogh, who himself suffered from depression and committed suicide, painted this picture in 1890 of a man that can symbolize the desperation and hopelessness felt in depression.
+Contents
+1 History
+2 Prevalence
+2.1 Symptoms
+2.2 Mnemonics
+3 Types of depression
+3.1 Major clinical depression
+3.2 Other categories of depression
+4 The role of anxiety in depression
+4.1 Anxiety
+4.2 Hypomania
+5 Causes of depression
+6 Treatment
+6.1 Medication
+6.2 Dietary supplements
+6.3 Augmentor drugs
+6.4 Psychotherapy
+6.5 Transcranial magnetic stimulation
+6.6 Vagus nerve stimulation
+6.7 Electroconvulsive therapy
+6.8 Other methods of treatment
+6.8.1 Light therapy
+6.8.2 Exercise
+6.8.3 Meditation
+6.9 Deep brain stimulation
+6.10 Archaic methods
+6.11 Self medication
+7 Adverse reactions
+8 Relapse
+9 Social attitudes towards depression
+9.1 Employment
+9.2 Mental health stigma
+10 See also
+10.1 Books by psychologists and psychiatrists
+10.2 Books by people suffering or having suffered from depression
+10.3 Historical account
+11 Sources
+12 External links
+[edit]
+History
+The modern idea of depression appears similar to the much older concept of melancholia. The name melancholia derives from "black bile", one of the "four humours" postulated by Galen.
+Clinical depression was originally considered to be a chemical imbalance in transmitters in the brain, a theory based on observations made in the 1950s of the effects of reserpine and isoniazid in altering monoamine neurotransmitter levels and affecting depressive symptoms.[2] Since these suggestions, many other causes for clinical depression have been proposed[citation needed].
+[edit]
+Prevalence
+Clinical depression affects about 16%[3] of the population on at least one occasion in their lives. In some countries, such as Australia, one in four women and one in eight men will suffer from depression. The mean age of onset, from a number of studies, is in the late 20s. About twice as many females as males report or receive treatment for clinical depression, though this imbalance is shrinking over the course of recent history; this difference seems to completely disappear after the age of 50 - 55, when most females have passed the end of menopause. Clinical depression is currently the leading cause of disability in North America as well as other countries, and is expected to become the second leading cause of disability worldwide (after heart disease) by the year 2020, according to the World Health Organization.[4]
+[edit]
+Symptoms
+According to the DSM-IV-TR criteria for diagnosing a major depressive disorder (cautionary statement) one of the following two elements must be present for a period of at least two weeks:
+Depressed mood, or
+Anhedonia
+It is sufficient to have either of these symptoms in conjunction with five of a list of other symptoms over a two-week period. These include:
+Feelings of overwhelming sadness and/or fear, or the seeming inability to feel emotion (emptiness).
+A decrease in the amount of interest or pleasure in all, or almost all, daily activities.
+Changing appetite and marked weight gain or loss.
+Disturbed sleep patterns, such as insomnia, loss of REM sleep, or excessive sleep (Hypersomnia).
+Psychomotor agitation or retardation nearly every day.
+Fatigue, mental or physical, also loss of energy.
+Intense feelings of guilt, helplessness, hopelessness, worthlessness, isolation/loneliness and/or anxiety.
+Trouble concentrating, keeping focus or making decisions or a generalized slowing and obtunding of cognition, including memory.
+Recurrent thoughts of death (not just fear of dying), desire to just "lie down and die" or "stop breathing", recurrent suicidal ideation without a specific plan, or a suicide attempt or a specific plan for committing suicide.
+Feeling and/or fear of being abandoned by those close to one.
+Other symptoms often reported but not usually taken into account in diagnosis include:
+Self-loathing.
+A decrease in self-esteem.
+Inattention to personal hygiene.
+Sensitivity to noise.
+Physical aches and pains, and the belief these may be signs of serious illness.
+Fear of 'going mad'.
+Change in perception of time.
+Periods of sobbing.
+Possible behavioral changes, such as aggression and/or irritability.
+Depression in children is not as obvious as it is in adults. Here are some symptoms that children might display:
+Loss of appetite.
+Irritability.
+Sleep problems, such as recurrent nightmares.
+Learning or memory problems where none existed before.
+Significant behavioral changes; such as withdrawal, social isolation, and aggression.
+An additional indicator could be the excessive use of drugs or alcohol. Depressed adolescents are at particular risk of further destructive behaviours, such as eating disorders and self-harm.
+One of the most widely used instruments for measuring depression severity is the Beck Depression Inventory, a 21-question multiple choice survey.
+It is hard for people who have not experienced clinical depression, either personally or by regular exposure to people suffering it, to understand its emotional impact and severity, interpreting it instead as being similar to "having the blues" or "feeling down." As the list of symptoms above indicates, clinical depression is a serious, potentially lethal systemic disorder characterized by the psychiatric profession as interlocking physical, affective, and cognitive symptoms that have consequences for function and survival well beyond sad or painful feelings.
+[edit]
+Mnemonics
+Mnemonics commonly used to remember the DSM-IV criteria are SIGECAPS[5] (sleep, interest (anhedonia), guilt, energy, concentration, appetite, psychomotor, suicidality) and DEAD SWAMP[6] (depressed mood, energy, anhedonia, death (thoughts of), sleep, worthlessness/guilt, appetite, mentation, psychomotor).
+[edit]
+Types of depression
+The diagnostic category major depressive disorder appears in the Diagnostic and Statistical Manual of Mental Disorders of the American Psychiatric Association. The term is generally not used in countries which instead use the ICD-10 system, but the diagnosis of depressive episode is very similar to an episode of major depression. Clinical depression also usually refers to acute or chronic depression severe enough to need treatment. Minor depression is a less-used term for a subclinical depression that does not meet criteria for major depression but where there are at least two symptoms present for two weeks.
+[edit]
+Major clinical depression
+Major Depression, or, more properly, Major Depressive Disorder (MDD), is characterized by a severely depressed mood that persists for at least two weeks. Major Depressive Disorder is specified as either "a single episode" or "recurrent"; periods of depression may occur as discrete events or as recurrent over the lifespan. Episodes of major or clinical depression may be further divided into mild, major or severe. Where the patient has already had an episode of mania or markedly elevated mood, a diagnosis of bipolar disorder (also called bipolar affective disorder) is usually made instead of MDD; depression without periods of elation or mania is therefore sometimes referred to as unipolar depression because their mood remains on one pole. The diagnosis also usually excludes cases where the symptoms are a normal result of bereavement.
+Diagnosticians recognize several possible subtypes of Major Depressive Disorder. ICD-10 does not specify a melancholic subtype, but does distinguish on presence or absence of psychosis.
+Depression with Melancholic Features - Melancholia is characterized by a loss of pleasure (anhedonia) in most or all activities, a failure of reactivity to pleasurable stimuli, a quality of depressed mood more pronounced than that of grief or loss, a worsening of symptoms in the morning hours, early morning waking, psychomotor retardation, anorexia (excessive weight loss, not to be confused with Anorexia Nervosa), or excessive guilt.
+Depression with Atypical Features - Atypical Depression is characterized by mood reactivity (paradoxical anhedonia) and positivity, significant weight gain or increased appetite, excessive sleep or somnolence (hypersomnia), leaden paralysis, or significant social impairment as a consequence of hypersensitivity to perceived interpersonal rejection.
+Depression with Psychotic Features - Some people with Major Depressive or Manic episode may experience psychotic features. They may be presented with hallucinations or delusions that are either mood-congruent (content coincident with depressive themes) or non-mood-congruent (content not coincident with depressive themes). It is clinically more common to encounter a delusional system as an adjunct to depression than to encounter hallucinations, whether visual or auditory.
+[edit]
+Other categories of depression
+Dysthymia is a long-term, mild depression that lasts for a minimum of two years. There must be persistent depressed mood continuously for at least two years. By definition the symptoms are not as severe as with Major Depression, although those with Dysthymia are vulnerable to co-occurring episodes of Major Depression. This disorder often begins in adolescence and crosses the lifespan. People who are diagnosed with major depressive episodes and dysthymic disorder are diagnosed with double depression. Dysthymic disorder develops first and then one or more major depressive episodes happen later.
+Bipolar I Disorder is an episodic illness in which moods may cycle between mania and depression. In the United States, Bipolar Disorder was previously called Manic Depression. This term is no longer favored by the medical community, however, even though depression plays a much stronger (in terms of disability and potential for suicide) role in the disorder. "Manic Depression" is still often used in the non-medical community.
+Bipolar II Disorder is an episodic illness that is defined primarily by depression but evidences episodes of hypomania.
+Postpartum Depression or Post-Natal Depression is clinical depression that occurs within two years of childbirth. Owing to physical, mental and emotional exhaustion combined with sleep-deprivation, motherhood can "set women up", so to speak, for clinical depression.[7]
+Premenstrual dysphoriais is a pattern of recurrent depressive symptoms tied to the menstrual cycle. The premenstrual decline in brain serotonin function is strongly correlated with the concomitant worsening of self-rated cardinal mood symptoms.[8] Of considerable clinical importance, the recent understanding of premenstrual dysphoria as depression points directly to effective treatment with Selective serotonin reuptake inhibitor (SSRI) antidepressants. Previously, disrupting ovarian cyclicity had been the only recognized treatment. A recent review of studies of a number of SSRIs has revealed that they can effectively ameliorate symptoms of premenstrual dysphoria and may actually work best when taken only during the part of the menstrual cycle when dysphoric symptoms are evident.[9]
+[edit]
+The role of anxiety in depression
+[edit]
+Anxiety
+The different types of Depression and Anxiety are classified separately by the DSM-IV-TR, with the exception of hypomania, which is included in the bipolar disorder category. Despite the different categories, depression and anxiety can indeed be co-occurring (occurring together, independently, and without mood congruence), or comorbid (occurring together, with overlapping symptoms, and with mood congruence). In an effort to bridge the gap between the DSM-IV-TR categories and what clinicians actually encounter, experts such as Herman Van Praag of Maastricht University have proposed ideas such as anxiety/aggression-driven depression[10]. This idea refers to an anxiety/depression spectrum for these two disorders, which differs from the mainstream perspective of discrete diagnostic categories.
+Although there is no specific diagnostic category for the comorbidity of depression and anxiety in the DSM or ICD, the National Comorbidity Survey (US) reports that 58 percent of those with major depression also suffer from lifetime anxiety. Supporting this finding, two widely accepted clinical colloquialisms include
+agitated depression - a state of depression that presents as anxiety and includes akathisia, suicide, insomnia (not early morning wakefulness), nonclinical (meaning "doesn't meet the standard for formal diagnosis") and nonspecific panic, and a general sense of dread.
+akathitic depression - a state of depression that presents as anxiety or suicidality and includes akathisia but does not include symptoms of panic.
+It is also clear that even mild anxiety symptoms can have a major impact on the course of a depressive illness, and the commingling of any anxiety symptoms with the primary depression is important to consider. A pilot study by Ellen Frank et al., at the University of Pittsburgh, found that depressed or bipolar patients with lifetime panic symptoms experienced significant delays in their remission. [citation needed] These patients also had higher levels of residual impairment, or the ability to get back into the swing of things. On a similar note, Robert Sapolsky of Stanford University and others also argue that the relationship between stress, anxiety, and depression could be measured and demonstrated biologically.[11] To that point, a study by Heim and Nemeroff et al., of Emory University, found that depressed and anxious women with a history of childhood abuse recorded higher heart rates and the stress hormone ACTH when subjected to stressful situations.
+[edit]
+Hypomania
+Hypomania, as the name suggests, is a state of mind or behavior that is "below" (hypo) mania. In other words, a person in a hypomanic state often displays behavior that has all the hallmarks of a full-blown mania (e.g., marked elevation of mood that is characterized by euphoria, over activity, disinhibition, impulsivity, a decreased need for sleep, hypersexuality), but these symptoms, though disruptive and seemingly out of character, are not so pronounced as to be considered a diagnosably manic episode. In a psychiatric context, it is important to identify the possible presence and characteristics of manic and hypomanic episodes, since these may lead to a diagnosis of bipolar disorder, which is medically treated differently from depression.
+Another important point is that hypomania is a diagnostic category that includes both anxiety and depression. It often presents as a state of anxiety that occurs in the context of a clinical depression. Patients in a hypomanic state often describe a sense of extreme generalized or specific anxiety, recurring panic attacks, night terrors, guilt, and agency (as it pertains to codependence and counterdependence). All of this happens while they are in a state of retarded or somnolent depression. This is the type of depression in which a person is lethargic and unable to move through life. The terms retarded and somnolent are shorthand for states of depression that include lethargy, hypersomnia, a lack of motivation, a collapse of ADLs (activities of daily living), and social withdrawal. This is similar to the shorthand used to describe an "agitated" or "akathitic" depression.
+In considering the hypomania-depression connection, a distinction should be made between anxiety, panic, and stress. Anxiety is a physiological state that is caused by the sympathetic nervous system. Anxiety does not need an outside influence to occur. Panic is related to the "fight or flight" mechanism. It is a reaction, induced by an outside stimulus, and is a product of the sympathetic nervous system and the cerebral cortex. More plainly, panic is an anxiety state that we are thinking about. Finally, stress is a psychosocial reaction, influenced by how a person filters nonthreatening external events. This filtering is based on one's own ideas, assumptions, and expectations. Taken together, these ideas, assumptions, and expectations are called social constructionism.
+On a final note, researchers at the University of California, San Diego, under the guidance of Hagop Akiskal MD, have found convincing evidence for the co-occurrence of hypomanic symptoms associated with a diagnosis of depression where the diagnosis does not meet criteria for Bipolar Disorder.[citation needed] Symptoms under consideration, such as irritability, misdirected anger, and compulsivity, also may not present sufficiently to be considered a hypomanic episode, as described by a Bipolar II Disorder. As noted in the Frank study [citation needed] mentioned above, this particular course of the disease, with the breakthrough of anxiety, may have a significant impact on the overall course of the depression.
+This idea of co-occurring anxiety and depression is supported in a study by Giovanni Cassano MD of the University of Pisa and his collaborators on the Spectrum Project, who found a correlation between lifetime hypomanic and manic symptoms and the severity of the depression.[citation needed]
+The presence of a significant number of manic/hypomanic items in patients with recurrent unipolar depression seems to challenge the traditional unipolar-bipolar dichotomy.
+These authors, along with many other researchers[citation needed], argue in support of a revision of the approach to psychiatric diagnosis into what is being called the mood spectrum, so as to "[make] more accurate diagnostic evaluation[s]." This approach, although controversial, has begun to be given consideration by many behavioral health professionals.
+[edit]
+Causes of depression
+No specific cause for depression has been identified, but a number of factors are believed to be involved.
+Heredity – The tendency to develop depression may be inherited; there is some evidence that this disorder may run in families. "Running in families" may indicate an environmental cause, however. For example, religion "runs in families". A 2004 press release from the National Institute of Mental Health declares "major depression is thought to be 40–70 percent heritable, but likely involves an interaction of several genes with environmental events". [1]
+Brain chemicals called neurotransmitters allow electrical signals to move from the axon of one nerve cell to the neuron of another. A shortage of neurotransmitters impairs brain communication.
+Physiology – There may be changes or imbalances in chemicals that transmit information in the brain, called neurotransmitters. Many modern antidepressant drugs increase levels of certain neurotransmitters, such as serotonin and norepinephrine (noradrenaline). Although the causal relationship is unclear, it is known that antidepressant medications can relieve certain symptoms of depression, although critics point out that the relationship between serotonin, SSRIs, and depression usually is typically greatly oversimplified when presented to the public (see here). Recent research has suggested that there may be a link between depression and neurogenesis of the hippocampus.[citation needed] This horseshoe-shaped structure is a center for both mood and memory. Loss of neurons in the hippocampus is found in depression and correlates with impaired memory and dysthemic mood. The hippocampus regains mass when exposed to treatments that increase brain serotonin, and when regrown, mood and memory tend to be restored.
+Seasonal affective disorder (SAD) is a type of depressive disorder that occurs in the winter when daylight hours are short. It is believed that the body's production of melatonin, which is produced at higher levels in the dark, plays a major part in the onset of SAD and that many sufferers respond well to bright light therapy, also known as phototherapy.
+Psychological factors – Low self-esteem and self-defeating or distorted thinking are connected with depression. Although it is not clear which is the cause and which is the effect, it is known that depressed persons who are able to make corrections in their thinking patterns can show improved mood and self-esteem.[citation needed] Psychological factors related to depression include the complex development of one's personality and how one has learned to cope with external environmental factors such as stress.[citation needed]
+Early experiences – Events such as the death of a parent, abandonment or rejection, neglect, chronic illness, and physical, psychological, or sexual abuse can also increase the likelihood of depression later in life. Post-traumatic stress disorder (PTSD) includes depression as one of its major symptoms.
+Life experiences – Job loss, poverty, financial difficulties, gambling addiction, long periods of unemployment, the loss of a spouse or other family member, divorce or the end of a committed relationship, involuntary celibacy, or other traumatic events may trigger depression. Long-term stress at home, work, or school can also be involved. Bullying in late adolescence is also thought to be a contributing factor.
+Medical conditions – Certain illnesses, including cardiovascular disease,[12] hepatitis, mononucleosis, hypothyroidism, and organic brain damage caused by degenerative conditions such as Parkinson disease, Multiple Sclerosis or by traumatic blunt force injury may contribute to depression, as may certain prescription drugs such as hormonal contraception methods and steroids. Gender dysphoria can also cause depression.
+Diet – The increase in depression in industrialised societies has been linked to diet, particularly to reduced levels of omega-3 fatty acids in intensively farmed food and processed foods.[13] This link has been at least partly validated by studies using dietary supplements in schools[14] and by a double-blind test in a prison. An excess of omega-6 fatty acids in the diet was shown to cause depression in rats.[15]
+Alcohol and other drugs – Alcohol can have a negative effect on mood, and misuse of alcohol, benzodiazepine-based tranquilizers, and sleeping medications can all play a major role in the length and severity of depression.
+Postpartum depression (also known as postnatal depression) – Dr. Ruta M Nonacs writes that while many women experience some mood changes after giving birth, "10-15% of women experience a more disabling and persistent form of mood disturbance (e.g., postpartum depression, postpartum psychosis)".[2] When it occurs, the onset typically is within three months after delivery, and it may last for several months. About two new mothers out of a thousand experience the more serious depressive disorder Postnatal Psychosis which includes hallucinations and/or delusions.
+Living with a depressed person – Those living with someone suffering from depression experience increased anxiety and life disruption, increasing the possibility of also becoming depressed.[citation needed]
+Evolutionary biological hypotheses of depression – Evolutionary analyses usually consider possible functions for depressed mood as well as clinical depression.
+The psychic pain hypothesis: psychic pain, such as depression, is analogous to physical pain. The function of physical pain is to inform the organism that it is suffering damage, to motivate it to withdraw from the source of damage, and to learn to avoid such damage-causing circumstances in the future. Analogously, depression informs the sufferer that current circumstances, such as the loss of a mate, are imposing a threat to biological fitness, it motivates the sufferer to cease activities that led to the costly situation, if possible, and it causes him or her to learn to avoid similar circumstances in the future. Proponents of this view tend to focus on low mood, and regard clinical depression as a dysfunctional extreme of low mood. See, e.g., Nesse 2000 and Keller and Nesse 2005; see also Hagen and Barrett n.d..
+Rank theory: If an individual is involved in a lengthy fight for dominance in a social group and is clearly losing, depression causes the individual to back down and accept the submissive role. In doing so, the individual is protected from unnecessary harm. In this way, depression helps maintain a social hierarchy. This theory is a special case of a more general theory derived from the psychic pain hypothesis: that the cognitive response that produces modern-day depression evolved as a mechanism that allows people to assess whether they are in pursuit of an unreachable goal, and if they are, to motivate them to desist. See, e.g., Nesse 2000.
+Honest signaling theory: When social partners have conflicts of interest, 'cheap' signals of need, such as crying, might not be believed. Biologists and economists have proposed that signals with inherent costs can credibly signal information when there are conflicts of interest. The symptoms of major depression, such as loss of interest in virtually all activities and suicidality, are inherently costly, but, as costly signaling theory requires, the costs differ for individuals in different states. For individuals who are not genuinely in need, the fitness cost of major depression is very high because it threatens the flow of fitness benefits. For individuals who are in genuine need, however, the fitness cost of major depression is low because the individual is not generating many fitness benefits. Thus, only an individual in genuine need can afford to suffer major depression. Major depression therefore serves as an honest, or credible, signal of need. See, e.g., Hagen 2003, Watson and Andrews 2002.
+Social navigation or niche change theory: The social navigation, bargaining, or niche change hypothesis [3] suggests that depression, operationally defined as a combination of prolonged anhedonia and psychomotor retardation or agitation, provides a focused sober perspective on socially imposed constraints hindering a person’s pursuit of major fitness enhancing projects. Simultaneously, publicly displayed symptoms, which reduce the depressive's ability to conduct basic life activities, serve as a social signal of need; the signal's costliness for the depressive certifies its honesty. Finally, for social partners who find it uneconomical to respond helpfully to an honest signal of need, the same depressive symptoms also have the potential to extort relevant concessions and compromises. Depression’s extortionary power comes from the fact that it retards the flow of just those goods and services such partners have come to expect from the depressive under status quo socioeconomic arrangements.
+Thus depression may be a social adaptation especially useful in motivating a variety of social partners, all at once, to help the depressive initiate major fitness-enhancing changes in their socioeconomic life. There are extraordinarily diverse circumstances under which this may become necessary in human social life, ranging from loss of rank or a key social ally which makes the current social niche uneconomic to having a set of creative new ideas about how to make a livelihood which begs for a new niche. The social navigation hypothesis emphasizes that an individual can become tightly ensnared in an overly restrictive matrix of social exchange contracts, and that this situation sometimes necessitates a radical contractual upheaval that is beyond conventional methods of negotiation. Regarding the treatment of depression, this hypothesis calls into question any assumptions by the clinician that the typical cause of depression is related to maladaptive perverted thinking processes or other purely endogenous sources. The social navigation hypothesis calls instead for a penetrating analysis of the depressive’s talents and dreams, identification of relevant social constraints (especially those with a relatively diffuse non-point source within the social network of the depressive), and practical social problem-solving therapy designed to relax those constraints enough to allow the depressive to move forward with their life under an improved set of social contracts.[16]
+Bargaining theory: This theory is similar to the honest signaling, niche change, and social navigation theory. It basically adds one additional element to honest signaling theory. The fitness of social partners is generally correlated. When a wife suffers depression and reduces her investment in offspring, for example, the husband's fitness is also put at risk. Thus, not only do the symptoms of major depression serve as costly and therefore honest signals of need, they also compel social partners to respond to that need in order to prevent their own fitness from being reduced. See, e.g., Hagen 1999, Hagen 2003.
+[edit]
+Treatment
+Treatment of depression varies broadly and is different for each individual. Various types and combinations of treatments may have to be tried, but without hope in a complete solution to the problem. There are two primary modes of treatment, typically used in conjunction: medication and psychotherapy. A third treatment, electroconvulsive therapy (ECT), may be used when chemical treatment fails.
+Alternative treatments used for depression include exercise and the use of vitamins, herbs, or other nutritional supplements.[citation needed]
+The effectiveness of treatment often depends on factors such as the amount of optimism and hope the sufferer is able to maintain, the control s/he has over stressors, the severity of symptoms, the amount of time the sufferer has been depressed, the results of previous treatments, and the degree of support of family, friends, and significant others.[citation needed]
+Although treatment is generally effective[citation needed], in some cases the condition does not respond. Treatment-resistant depression warrants a full assessment, which may lead to the addition of psychotherapy, higher medication dosages, changes of medication or combination therapy, a trial of ECT/electroshock, or even a change in the diagnosis, with subsequent treatment changes. Although this process helps many, some people's symptoms continue unabated.
+In emergencies, psychiatric hospitalization is used simply to keep suicidal people safe until they cease to be dangers to themselves. Another treatment program is partial hospitalization, in which the patient sleeps at home but spends the day, either five or seven days a week, in a psychiatric hospital setting in intense treatment. This treatment usually involves group therapy, individual therapy, psychopharmacology, and academics (in child and adolescent programs).
+[edit]
+Medication
+Medication that relieves the symptoms of depression has been available for several decades. These drugs are listed in order of historical development. Typical first-line therapy for depression is the use of an selective serotonin reuptake inhibitor, such as citalopram (Celexa), fluoxetine (Prozac), paroxetine (Paxil), and sertraline (Zoloft). Under some circumstances, medication and psychotherapy may be more effective than either treatment separately.[17]
+Monoamine oxidase inhibitors (MAOIs) such as Nardil may be used if other antidepressant medications are ineffective. Because there are potentially fatal interactions between this class of medication and certain foods and drugs, they are rarely prescribed anymore. MAOI's are used to block the enzyme monoamine oxidase which breaks down neurotransmitters such as serotonin and norepinephrine (noradrenaline). MAOI's are as effective as tricyclics, if not slightly more effective [citation needed]. A new MAOI has recently been introduced. Moclobemide (Manerix), known as a reversible inhibitor of monoamine oxidase A (RIMA), follows a very specific chemical pathway and does not require a special diet.
+Tricyclic antidepressants are the oldest and include such medications as amitriptyline and desipramine. Tricyclics block the reuptake of certain neurotransmitters such as norepinephrine (noradrenaline) and serotonin. They are used less commonly now because of their side effects, which include increased heart rate, drowsiness, dry mouth,constipation, urinary retention, blurred vision,dizziness, confusion, and sexual dysfunction. Most importantly, they have a high potential to be lethal in moderate overdose. However, tricyclic antidepressants are still used because of their high potency, especially in severe cases of clinical depression.
+Selective serotonin reuptake inhibitors (SSRIs) are a family of antidepressant considered to be the current standard of drug treatment. It is thought that one cause of depression is an inadequate amount of serotonin, a chemical used in the brain to transmit signals between neurons. SSRIs are said to work by preventing the reabsorption of serotonin by the nerve cell, thus maintaining the levels the brain needs to function effectively, although two researchers recently demonstrated that this is a marketing technique rather than a scientific portrayal of how the drugs actually work. [4]. Recent research indicates that these drugs may interact with transcription factors known as "clock genes"[5], which may be important for the addictive properties of drugs of abuse and possibly in obesity[6][7].
+This family of drugs includes fluoxetine (Prozac), paroxetine (Paxil), escitalopram (Lexapro), citalopram (Celexa), and sertraline (Zoloft). These antidepressants typically have fewer adverse side effects than the tricyclics or the MAOIs, although such effects as drowsiness, dry mouth, nervousness, anxiety, insomnia, decreased appetite, and decreased ability to function sexually may occur. Some side effects may decrease as a person adjusts to the drug, but other side effects may be persistent.
+Norepinephrine (noradrenaline) reuptake inhibitors (NRIs) such as reboxetine (Edronax) act via norepinephrine (also known as noradrenaline). NRIs are thought to have a positive effect on concentration and motivation in particular.[citation needed]
+Norepinephrine-dopamine reuptake inhibitors such as bupropion (Wellbutrin, Zyban) inhibit the neuronal reuptake of dopamine and norepinephrine (noradrenaline)[8].
+Serotonin-norepinephrine reuptake inhibitors (SNRIs) such as venlafaxine (Effexor) and duloxetine (Cymbalta) are a newer form of antidepressant that works on both noradrenaline and serotonin. They typically have similar side effects to the SSRIs, although there may be a withdrawal syndrome on discontinuation that may necessitate dosage tapering.
+Noradrenergic and specific serotonergic antidepressants (NASSAs) form a newer class of antidepressants which purportedly work to increase norepinephrine (noradrenaline) and serotonin neurotransmission by blocking presynaptic alpha-2 adrenergic receptors while at the same time minimizing serotonin related side-effects by blocking certain serotonin receptors. The only example of this class in clinical use is mirtazapine (Avanza, Zispin, Remeron).
+[edit]
+Dietary supplements
+5-HTP supplements are claimed to provide more raw material to the body's natural serotonin production process. There is a reasonable indication that 5-HTP may not be effective for those who haven't already responded well to an SSRI because of their similar function: SSRIs allow the brain to use its serotonin more effectively, while 5-HTP induces production of more serotonin.[citation needed]
+S-adenosyl methionine (SAM-e) is a derivative of the amino acid methionine that is found throughout the human body, where it acts as a methyl donor and participates in other biochemical reactions. It is available as a prescription antidepressant in Europe and an over-the-counter dietary supplement in the United States. Clinical trials have shown SAM-e to be as effective as standard antidepressant medication, with fewer side effects; however, some studies have reported an increased incidence of mania resulting from SAM-e use compared to other antidepressants.[18][19] Its mode of action is unknown.
+Omega-3 fatty acids (found naturally in oily fish, flax seeds, hemp seeds, walnuts, and canola oil) have also been found to be effective when used as a dietary supplement (although only fish-based omega-3 fatty acids have shown antidepressant efficacy [9].
+Dehydroepiandrosterone (DHEA), available as a supplement in the U.S., has been shown to be effective in small trials [10].
+Chocolate improves mood, probably by raising serotonin. [11]. Indeed, chocolate contains serotonin and there are case reports of interactions between chocolate and antidepressant drugs[12].
+Magnesium supplementation has gathered some attention as a possible treatment for depression [13][14]. Some case reports demonstrate rapid recovery from major depression using magnesium treatment. "The possibility that magnesium deficiency is the cause of most major depression and related mental health problems including IQ loss and addiction is enormously important to public health and is recommended for immediate further study." [15]
+St John's Wort [Hypericum perforatum] Traditionally used by 'wise women' and midwives for hundreds of years, to 'chase away the devil' of melancholia and anxiety. It is a mood-enhancing herbal substance which acts like an antidepressant and increases the availability of serotonin, norepinephrine and dopamine at the neuron synapses.[citation needed] Also popular for treating insomnia, mood swings, fatigue, PMS and menopause. Except under medical supervision, St. John's Wort should not be used with SSRIs or MAOIs due to the risk of serotonin syndrome.[16]
+Ginkgo Biloba Effective natural antidepressant [17] said to stabilise cell membranes, inhibiting lipid breakdown and aiding cell use of oxygen and glucose - so subsequently a mental and vascular stimulant that improves neurotransmitter production. Also popular for treating mental concentration (such as for Alzheimer's and stroke patients).[7]
+Siberian Ginseng [Eleutherococcus senticosus] Although not a true panax ginseng it is a mood enhancement supplment against stress. Also popular for treating depression, insomnia, moodiness, fatigue, poor memory, lack of focus, mental tension and endurance.[7]
+Zinc has had an antidepressant effect in an experiment [18].
+Biotin: a deficiency has caused a severe depression. The patient's symptoms improved after the deficiency was corrected. [19]
+Vitamin B-12: Symptoms of a vitamin B-12 deficiency can include depression and other psychiatric disorders. [20]
+The amino acids phenylalanine and tyrosine have also a favorable effect on easy forms of depression. They enhance the neurotransmitters dopamine and noradrenalin.[citation needed]
+[edit]
+Augmentor drugs
+Some antidepressants have been found to work more effectively in some patients when used in combination with another drug. Such "augmentor" drugs include tryptophan (Tryptan) and buspirone (Buspar).
+Tranquillizers and sedatives, typically the benzodiazepines, may be prescribed to ease anxiety and promote sleep. Because of their high potential for fostering dependence, these medications are intended only for short-term or occasional use. Medications often are used not for their primary function but to exploit what are normally side effects. Quetiapine fumarate (Seroquel) is designed primarily to treat schizophrenia and bipolar disorder, but a frequently reported side-effect is somnolence. Therefore, this drug can be used in place of an antianxiety agent such as clonazepam (Klonopin, Rivotril).
+Antipsychotics such as risperidone (Risperdal), olanzapine (Zyprexa), and Quetiapine (Seroquel) are prescribed as mood stabilizers and are also effective in treating anxiety. Their use as mood stabilizers is a recent phenomenon and is controversial with some patients. Antipsychotics (typical or atypical) may also be prescribed in an attempt to augment an antidepressant, to make antidepressant blood concentration higher, or to relieve psychotic or paranoid symptoms often accompanying clinical depression. However, they may have serious side effects, particularly at high dosages, which may include blurred vision, muscle spasms, restlessness, tardive dyskinesia, and weight gain.
+Antidepressants by their nature behave similarly to psychostimulants. Antianxiety medications by their nature are depressants. Close medical supervision is critical to proper treatment if a patient presents with both illnesses because the medications tend to work against each other.
+Psycho-stimulants are sometimes added to an antidepressant regimen if the patient suffers from anhedonia, hypersomnia and/or excessive eating as well as low motivation. These symptoms which are common in atypical depression can be quickly resolved with the addition of low to moderate dosages of amphetamine or methylphenidate (brand names Adderall and Ritalin, respectively)as these chemicals enhance motivation and social behavior, as well as suppress appetite and sleep. These chemicals are also known to restore sex drive. Extreme caution must be used however with certain populations. Stimulants are known to trigger manic episodes in people suffering from bipolar disorder. They are also easily abused as they are effective substitutes for street speed when used recreationaly. Close supervision of those with substance abuse disorders is urged. Emotionally labile patients should avoid stimulants, as they exacerbate mood shifting.
+Lithium remains the standard treatment for bipolar disorder and is often used in conjunction with other medications, depending on whether mania or depression is being treated. Lithium's potential side effects include thirst, tremors, light-headedness, and nausea or diarrhea. Some of the anticonvulsants, such as carbamazepine (Tegretol), sodium valproate (Epilim), and lamotrigine (Lamictal), are also used as mood stabilizers, particularly in bipolar disorder.
+[edit]
+Psychotherapy
+In psychotherapy, or counseling, one receives assistance in understanding and resolving habits or problems that may be contributing to or the cause of the depression. This may be done individually or with a group and is conducted by mental health professionals such as psychiatrists, psychologists, clinical social workers, or psychiatric nurses.
+Effective psychotherapy may result in different habitual thinking and action which leads to a lower relapse rate than antidepressant drugs alone. Medication, however, may yield quicker results and be strongly indicated in a crisis. Medication and psychotherapy are generally complementary, and both may be used at the same time.
+It is important to ask about potential therapists' training and approach; a very close bond often forms between practitioner and client, and it is important that the client feel understood by the clinician. Moreover, some approaches have been convincingly demonstrated to be much more effective in treating depression.
+Counselors can help a person make changes in thinking patterns, deal with relationship problems, detect and deal with relapses, and understand the factors that contribute to depression.
+There are many counseling approaches, but all are aimed at improving one's personal and interpersonal functioning. Cognitive behaviour therapy has been demonstrated in carefully controlled studies to be among the foremost of the recent wave of methods which achieve more rapid and lasting results than traditional "talk therapy" analysis. Cognitive therapy, often combined with behavioral therapy, focuses on how people think about themselves and their relationships. It helps depressed people learn to replace negative depressive thoughts with realistic ones, as well as develop more effective coping behaviors and skills. Therapy can be used to help a person develop or improve interpersonal skills in order to allow him or her to communicate more effectively and reduce stress. Interpersonal psychotherapy focuses on the social and interpersonal triggers that cause their depression. Narrative therapy gives attention to each person's "dominant story" by means of therapeutic conversations, which also may involve exploring unhelpful ideas and how they came to prominence. Possible social and cultural influences may be explored if the client deems it helpful. Behavioral therapy is based on the assumption that behaviors are learned. This type of therapy attempts to teach people more healthful types of behaviors. Supportive therapy encourages people to discuss their problems and provides them with emotional support. The focus is on sharing information, ideas, and strategies for coping with daily life. Family therapy helps people live together more harmoniously and undo patterns of destructive behavior.
+[edit]
+Transcranial magnetic stimulation
+Repetitive transcranial magnetic stimulation (rTMS) is under study as a possible treatment for depression. Initially designed as a tool for physiological studies of the brain, this technique shows promise as a means of alleviating depression. In this therapy, a powerful magnetic field is used to stimulate the left prefrontal cortex, an area of the brain that typically shows abnormal activity in depressed people.
+Recent work in Poland suggested that weak, variable magnetic fields may offer relief from depression in those who have not responded to medication. However, some of the existing work has been questioned, with claims that the effect is not as significant once environmental conditions are controlled for.
+[edit]
+Vagus nerve stimulation
+Vagus nerve stimulation therapy is a treatment used since 1997 to control seizures in epileptic patients and has recently been approved for treating resistant cases of treatment-resistant depression (TRD). The VNS Therapy device is implanted in a patient's chest with wires that connect it to the vagus nerve, which it stimulates to reach a region of the brain associated with moods. The device delivers controlled electrical currents to the vagus nerve at regular intervals.
+[edit]
+Electroconvulsive therapy
+Electroconvulsive therapy (ECT), also known as electroshock or electroshock therapy, uses short bursts of a controlled current of electricity (typically fixed at 0.9 ampere) into the brain to induce a brief, artificial seizure while the patient is under general anesthesia.
+ECT has acquired a fearsome reputation, in part from its use as a tool of repression in the former USSR and its barbaric fictional depiction in films such as One Flew Over the Cuckoo's Nest and Requiem for a Dream, but remains a common treatment where other means of treatment have failed or where the use of drugs is unacceptable. Also, in contrast to direct electroshock of years ago, most countries now allow ECT to be administered only under anaesthesia. In a typical regimen of treatment, a patient receives three treatments per week over three or four weeks. Repeat sessions may be needed. Short-term memory loss, disorientation, and headache are very common side effects. In some cases, permanent memory loss has occurred, but detailed neuropsychological testing in clinical studies has not been able to prove permanent effects on memory. ECT offers the benefit of a very fast response; however, this response has been shown not to last unless maintenance electroshock or maintenance medication is used. Whereas antidepressants usually take around a month to take effect, the results of ECT have been shown to be much faster. For this reason, it is the treatment of choice in emergencies (e.g., in catatonic depression in which the patient has ceased oral intake of fluid or nutrients).
+There remains much controversy over electroshock. Advocacy groups and scientific critics, such as Dr Peter Breggin[21], call for restrictions on its use or complete abolishment. Like all forms of psychiatric treatment, electroshock can be given without a patient's consent, but this is subject to legal conditions dependent on the jurisdiction. In Oregon patient consent is necessary by statute. Treatment with ECT has been used as a threat by psychiatric ward staffers against unruly patients.[citation needed]
+[edit]
+Other methods of treatment
+[edit]
+Light therapy
+Bright light (both sunlight and artificial light) is shown to be effective in seasonal affective disorder, and sometimes may be effective in other types of depression, especially atypical depression or depression with "seasonal phenotype" (overeating, oversleeping, weight gain, apathy).
+Important note: An antidepressant effect is caused by stimulation of the retina by the visible light, not by the ultra-violet portion. Thus, it is not necessary (and may be even dangerous in some cases) to get sunburn. It can be enough just to walk at daytime or to take light therapy using a light box. However, recent discoveries of the existence and importance of the third kind of photoreceptor in our eyes, the intrinsically photosensitive retinal ganglion cells (ipRGC), critical to human chronobiology, strongly suggest that bluish light is more helpful, and manufacturers are beginning to respond to this finding.[citation needed]
+[edit]
+Exercise
+It is widely believed that physical activity and exercise help depressed patients and promote quicker and better relief from depression. They are also thought to help antidepressants and psychotherapy work better and faster. It can be difficult to find the motivation to exercise if the depression is severe, but sufferers should be encouraged to take part in some form of regularly scheduled physical activity. A workout need not be strenuous; many find walking, for example, to be of great help. Exercise produces higher levels of chemicals in the brain, notably dopamine, serotonin, and norepinephrine. In general this leads to improvements in mood, which is effective in countering depression.[22]
+Note that before beginning an exercise regime, it is wise to consult a doctor. He or she can establish whether a person has any health problems that could contraindicate some types of exercise.
+[edit]
+Meditation
+Meditation is increasingly seen as a useful treatment for some cases of depression.[23] The current professional opinion on meditation is that it represents at least a complementary method of treating depression, a view that has been endorsed by the Mayo Clinic.[24] Since the late 1990s, much research has been carried out to determine how meditation affects the brain (see the main article on meditation). Although the effects on the mind are complex, they are often quite positive, encouraging a calm, reflective, and rational state of mind that can be of great help against depression.[citation needed] Although many religions include meditative practice, it is not necessary to be a member of any faith to meditate.
+[edit]
+Deep brain stimulation
+Though still experimental, a new form of treatment called deep brain stimulation offers some hope in the relief of treatment resistant clinical depression. Published in the journal Neuron (2005), Helen Mayberg described the implanting of electrodes in a region of the brain known as Area 25 (Neuron). The electrodes act in an inhibitory fashion, on an otherwise overactive region of the brain. Further research is required before it becomes available as a method of treatment, but it offers hope for those suffering from treatment resistant depression.
+[edit]
+Archaic methods
+Insulin shock therapy is an old and largely abandoned treatment of severe depressions, psychoses, catatonic states, and other mental disorders. It consists of induction of hypoglycemic coma by intravenous infusion of insulin. The treatment is potentially unsafe and can be lethal in some cases (about 1% of patients undergoing insulin coma), even with proper monitoring. In contrast, ECT is considered to be very safe.
+Nevertheless, insulin shock therapy is still officially used in Russia and some other countries and can be administered to a very treatment-resistant patient with written consent in many Western countries.[citation needed]
+Atropinic shock therapy, also known as atropinic coma therapy, is an old and rarely used method. It consists of induction of atropinic coma by rapid intravenous infusion of atropine.
+Atropinic shock treatment is considered safe, but it entails prolonged coma (4-5 hours), with careful monitoring and preparation, and it has many unpleasant side effects, such as blurred vision. It can be used with written consent in Western countries in very treatment-resistant patients and is still officially used in Russia and some other countries.[citation needed]Trepanation, drilling a hole through the skull to "release" the negative spirits or increase brain bloodflow, was used in many ancient cultures[citation needed].
+[edit]
+Self medication
+This article or section may contain original research or unverified claims.
+Please help Wikipedia by adding references. See the talk page for details.
+Some people with clinical depression may attempt to dull their feelings of despair by consuming alcohol, tobacco, or illicit drugs. Some people with depression may resort to alcohol, cannabis, cocaine, opiates or amphetamines for their mood-altering effects. These attempts at self-medication may lead to a pattern of alcoholism and drug abuse that further exacerbates the depression.
+"Comfort foods" are also used by some. While some foods like chocolate contain psychoactive substances, fat and sugar are most commonly the active ingredients.
+[edit]
+Adverse reactions
+Aspartame was associated with a significant difference in number and severity of symptoms for patients with a history of depression in an experiment [25]. However, the main findings of this 1993 study have not been replicated since, and its methodology has been criticized on the basis that unrelated symptoms were aggregated artificially, thereby boosting the statistical difference between the aspartame and the placebo conditions[26].
+[edit]
+Relapse
+Relapse is more likely if treatment has not resulted in full remission of symptoms.4 In fact, current guidelines for antidepressant use recommend 4 to 6 months of continuing treatment after symptom resolution to prevent relapse.
+Combined evidence from many randomized controlled trials indicates that continuing antidepressant medications after recovery substantially reduces (halves) the chances of relapse. This preventive effect probably lasts for at least the first 36 months of use.[20]
+Anecdotal evidence suggests that chronic disease is accompanied by relapses after prolonged treatment with antidepressants (tachyphylaxis). Psychiatric texts suggest that physicians respond to relapses by increasing dosage, complementing the medication with a different class, or changing the medication class entirely. The reason for relapse in these cases is as poorly understood as the change in brain physiology induced by the medications themselves. Possible reasons may include aging of the brain or worsening of the condition. Most SSRI psychiatric medications were developed for short-term use (a year or less) but are widely prescribed for indefinite periods.[27]
+[edit]
+Social attitudes towards depression
+[edit]
+Employment
+Some employers are reluctant to consider hiring people with a history of depression, but discrimination on this basis may be illegal in the United States. U.S. military standards do not allow more than six months of treatment for depression before someone becomes ineligible, though a waiver is possible in some circumstances.[citation needed]
+[edit]
+Mental health stigma
+This article or section may contain original research or unverified claims.
+Please help Wikipedia by adding references. See the talk page for details.
+Stigmatization and discrimination often stand in the way of recovery from depression and mental illness. Many people think that there is something shameful about being afflicted with mental illness, and this stigma can lead to discrimination. Such discrimination may make it more difficult to get an education or attain worthwhile employment. Stigma also often discourages people with mental illnesses from getting needed treatment.
+Stigma may also lead people to assume that those with depression or bipolar disorder are more likely to be violent or otherwise dangerous to society, which can lead to unnecessary fear and avoidance of those with mental illnesses. This avoidance can be isolating and compound the effects of depression.
+Because mental illness does not have the visible symptoms most non-mental disorders do, treatment has often been considered less important or deserved than for physical illness. Many insurance plans do not cover mental health services to the same degree as other illnesses. When mental illnesses are covered, coverage may be limited, inappropriate, or inadequate. Many jurisdictions are introducing legislation to provide parity in coverage between mental and non-mental illness.
+[edit]
+See also
+Asperger syndrome
+Atypical depression
+Beck Depression Inventory
+Bipolar disorder
+Chemical imbalance theory
+Cyclothymia
+Dysthymia
+Emotion and memory
+Geriatric Depression Scale
+Hamilton Depression Rating Scale
+Hypoadrenia (also covers 'adrenal exhaustion', sometimes called 'adrenal fatigue')
+List of people who have suffered from depression
+Mania
+Maslow's hierarchy of needs
+Melancholic Depression
+Post-traumatic stress disorder
+Seasonal affective disorder (SAD)
+Stress
+[edit]
+Books by psychologists and psychiatrists
+Beck, A. T., Rush, A. J., Shaw, B. F., Emery, G. (1987). Cognitive therapy of depression. New York: Guilford.
+Burns, David D. (1999). Feeling Good : The New Mood Therapy. Avon.
+Griffin, J., Tyrrell, I. (2004) How to lift Depression – Fast. HG Publishing. ISBN 1-899398-41-4
+Jacobson, Edith: "Depression; Comparative Studies of Normal, Neurotic, and Psychotic Conditions", International Universities Press, 1976, ISBN 0-8236-1195-7
+Klein, D. F., & Wender, P. H. (1993). Understanding depression: A complete guide to its diagnosis and treatment. New York: Oxford University Press.
+Kramer, Peter D. (2005). Against Depression. New York: Viking Adult.
+Plesman, J. (1986). Getting off the Hook, Sydney Australia. A self-help book available on the internet.
+Rowe, Dorothy (2003). Depression: The way out of your prison. London: Brunner-Routledge.
+Sarbadhikari, S. N. (ed.) (2005) Depression and Dementia: Progress in Brain Research, Clinical Applications and Future Trends. Hauppauge, Nova Science Publishers. ISBN 1-59454-114-0.
+Weissman, M. M., Markowitz, J. C., & Klerman, G. L. (2000). Comprehensive guide to interpersonal psychotherapy. New York: Basic Books.
+[edit]
+Books by people suffering or having suffered from depression
+Wurtzel, E. (1997) Prozac Nation: Young and Depressed in America: A Memoir. Riverhead Books. ISBN 1-57322-512-6
+Lewinsohn, P. M., Munoz, R. F, Youngren, M. A., Zeiss, A. M. (1992). Control your depression. New York: Fireside/Simon&Schuster.
+Mays, John Bentley (1995). In the Jaws of the Black Dogs: A Memoir of Depression. Toronto, Canada: Penguin Books. ISBN 0-14-024650-9
+Nesaule, Agate (1995). A Woman in Amber: Healing the Trauma of War and Exile New York: Penguin Books. ISBN 1-56947-046-4 (hc.); ISBN 0-14-026190-7 (pbk.)
+Sealey, Robert (2002). Finding Care for Depression, Mental Episodes & Brain Disorders, Toronto: Sear Publications www.searpubl.ca
+Shields, Brooke (2005). Down Came the Rain: My Journey Through Postpartum Depression. Hyperion. ISBN 1-4013-0189-4.
+Smith, Jeffery (2001). Where the Roots Reach for Water: A Personal and Natural History of Melancholia. New York: North Point Press.
+Solomon, Andrew (2001). The Noonday Demon: An Atlas of Depression. New York: Scribner.
+Styron, William (1992). Darkness Visible: A Memoir of Madness. New York: Vintage Books/Random House.
+Wolpert, Lewis (2001). Malignant sadness: The anatomy of depression. London: Faber and Faber.
+Tolle, Eckhart (1999). The Power of Now: A Guide to Spiritual Enlightenment, New World Library. ISBN 1-57731-152-3 (hc.); ISBN 1-57731-480-8 (pbk.)
+Plath, Sylvia (1963). The Bell Jar. Perennial. ISBN 0-06-093018-7
+Maschio, Jill. (2006). "When Your Mind Is Clear, the Sun Shines All the Time: A Guidebook for Overcoming Depression" Norman, OK: Illumines Publishing. ISBN 0-9777483-4-0
+[edit]
+Historical account
+David Healy, The Antidepressant Era, Paperback Edition, Harvard University Press 1999, ISBN 0-674-03958-0
+[edit]
+Sources
+? American Family Physician, March 1, 2003 Delirium
+? Schildkraut, J.J. (1965). "The catecholamine hypothesis of affective disorders: a review of supporting evidence". Am J Psychiatry 122 (5): 509-22.
+? Bland, R.C. (1997). "Epidemiology of Affective Disorders: A Review". Can J Psychiatry 42: 367?377.
+? Murray, C.J.L., Lopez, A.D. (1997). "Alternative projections of mortality and disability by cause 1990-2020: Global Burden of Disease Study". Lancet 349: 1498?1504.
+? Carlat DJ. The Psychiatric Review of Symptoms: A Screening Tool for Family Physicians. American Family Physician. Vol. 58/No. 7 (November 1 1998). Available at: http://www.aafp.org/afp/981101ap/carlat.html. Accessed on: April 30 2006.
+? Depression: major depression criteria. MedicalMnemonics.com. URL: http://www.medicalmnemonics.com/cgi-bin/return_browse.cfm?discipline=Psychiatry&browse=1. Accessed on: April 30 2006.
+? 7.0 7.1 7.2 Fray, Kathy: "Oh Baby...Birth, Babies & Motherhood Uncensored", pages 367-381. Random House NZ, 2005, ISBN 1-86941-713-5
+? http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=Abstract&list_uids=16515859&query_hl=2&itool=pubmed_docsum
+? http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=Abstract&list_uids=10471170&query_hl=1&itool=pubmed_docsum
+? van Praag, HM (2005). "Can Stress Cause Depression?". World J Biol Psychiatry 6 Suppl: 5-22.
+? Sapolsky, Robert M., Ph.D. (2004). Why Zebras Don't Get Ulcers. Henry Holt and Company, LLC, 291-298. ISBN 0-8050-7369-8.
+? Manev, R, Manev H (2004). "5-Lipoxygenase as a putative link between cardiovascular and psychiatric disorders". Critical Reviews in Neurobiology 16 (1?2): 181?6.
+? Lawrence, Felicity (2004). “The Ready Meal”, Kate Barker Not on the Label. Penguin, 214. ISBN 0-14-101566-7.
+? Using Fatty Acids for Enhancing Classroom Achievement. Retrieved on January, 2004.
+? Omega-6 Levels in Brain Linked to Depression. Retrieved on May, 2006.
+? Watson, PJ, Andrews PW (October 2002). "Toward a revised evolutionary adaptationist analysis of depression: the social navigation hypothesis". Journal of Affective Disorders 72: 1-14.
+? Thase, ME (1999). "When are psychotherapy and pharmacotherapy combinations the treatment of choice for major depressive disorder?". Psychiatr Q. 70 (4): 333-346.
+? Delle Chiaie, Roberto, Paolo Pancheri and Pierluigi Scapicchio (2002). "Efficacy and tolerability of oral and intramuscular S-adenosyl- L-methionine 1,4-butanedisulfonate (SAMe) in the treatment of major depression: comparison with imipramine in 2 multicenter studies". Am J Clin Nutr 76 (5): 1172S?1176S.
+? Mischoulon, D, Fava M. (2002). "Role of S-adenosyl-L-methionine in the treatment of depression: a review of the evidence". Am J Clin Nutr 76 (5): 1158S?61S.
+? Geddes, JR, Carney SM, Davies C, Furukawa TA, Kupfer DJ, Frank E, Goodwin GM (22 February 2003). "Relapse prevention with antidepressant drug treatment in depressive disorders: a systematic review". Lancet 361 (9358): 653?61. PMID 12606176.
+[edit]
+External links
+Depression at the Open Directory Project
+National Alliance on Mental Illness Support, advocacy, and education
+National Depressive and Manic Depressive Association - National Depressive and Manic Depressive Association
+Teen Depression - Discussion of rising trend of depression among children and teens.
+Keeping Kids Healthy TV - Clinical Depression in Children
+Depression Research News - ScienceDaily's Depression Research News
+Retrieved from "http://localhost../../art/q/l.html"
+This text comes from Wikipedia the free encyclopedia. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. For a complete list of contributors for a given article, visit the corresponding entry on the English Wikipedia and click on "History" . For more details about the license of an image, visit the corresponding entry on the English Wikipedia and click on the picture.

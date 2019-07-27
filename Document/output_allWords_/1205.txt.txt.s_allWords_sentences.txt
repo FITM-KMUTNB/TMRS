@@ -1,0 +1,219 @@
+lung|NN cancer|NN lung|NN cancer|NN lung|NN cancer|NN external resource|NN cross|NN section|NN human lung|NN
+white area|NN upper lobe|NN cancer|NN black area|NN indicate patient|NN smoker|NN
+diseasesdb|NN 007194|NN med1336|NN radio405|NN d002283 lung|NN cancer|NN malignant transformation|NN expansion|NN lung|NN tissue|NN lethal cancer|NN worldwide responsible death|NN annually
+lung|NN cancer|NN previously illness|NN predominantly affect male|NN incidence|NN women|NN increase decade|NN attribute rise ratio|NN female|NN male smoker|NN
+currently lung|NN cancer|NN lead cause|NN cancer|NN death|NN women|NN overshadow breast|NN cancer|NN ovarian cancer|NN uterine cancer|NN combine note|NN certain type|NN lung|NN cancer|NN appear otherwise healthy patient|NN smoke
+current research|NN indicate factor|NN greatest impact|NN risk|NN lung|NN cancer|NN long-term exposure|NN inhal carcinogen|NN
+common mean|NN exposure|NN tobacco|NN smoke|NN
+treatment|NN prognosis|NN depend histological type|NN cancer|NN stage|NN degree|NN spread|NN patient|NN performance|NN status|NN
+treatment|NN include surgery|NN chemotherapy|NN radiotherapy|NN
+content|NN sign|NN symptom|NN diagnosis|NN type|NN cell|NN lung|NN cancer|NN small cell|NN lung|NN cancer|NN type|NN cause|NN role|NN smoke|NN asbesto|NN radon|NP ga|NN genetics|NN viruse|NN lung|NN cancer|NN stage|NN treatment|NN surgery|NN therapy|NN radiotherapy|NN radiology|NN epidemiology|NN prevention|NN primary prevention|NN screen|NN secondary prevention|NN reference|NN external link|NN edit sign|NN symptom|NN symptom|NN suggest lung|NN cancer|NN include shortness|NN breath|NN cough blood|NN chronic cough|NN change|NN regular cough|NN pattern|NN wheez|NN chest|NN pain|NN pain|NN abdomen|NN weight|NN loss|NN fatigue|NN loss|NN appetite|NN hoarse voice|NN club fingernail|NN uncommon difficulty|NN swallow cancer|NN grow lumen|NN obstruct airway|NN cause breath|NN difficulty|NN
+lead accumulation|NN secretion|NN blockage|NN predispose patient|NN pneumonia|NN
+lung|NN cancer|NN rich blood|NN supply|NN
+surface|NN cancer|NN fragile lead bleed|NN cancer|NN airway|NN
+blood|NN subsequently cough
+type|NN tumor|NN so-cal paraneoplastic|NN phenomena|NN initially attract attention|NN disease|NN
+lung|NN cancer|NN lambert-eaton syndrome|NN muscle|NN weakness|NN due hypercalcemia|NN siadh|NN
+tumor top apex|NN lung|NN known tumor|NN invade local part|NN sympathetic nervous system|NN lead change sweate|NN pattern|NN eye|NN muscle|NN problem|NN combination|NN known syndrome|NN well muscle|NN weakness|NN hand|NN due invasion|NN brachial plexus|NN
+patient|NN cancer|NN spread original site|NN time|NN symptom|NN seek medical attention|NN
+common site|NN metastasis|NN include bone|NN spine|NN cause back pain|NN occasionally spinal cord|NN compression|NN liver|NN brain|NN
+edit|NN diagnosis|NN perform chest|NN x-ray|NN step|NN patient|NN report symptom|NN suggestive lung|NN cancer|NN
+reveal obvious mass|NN widen|NN mediastinum suggestive spread|NN lymph|NN node|NN collapse|NN consolidation|NN infection|NN pleural effusion|NN
+x-ray|NN find|NN suspicion|NN high eg heavy smoker|NN blood-stain sputum|NN ct|NN scan|NN provide necessary information|NN
+case|NN biopsy|NN necessary identify tumor|NN type|NN
+investigation|NN confirm lung|NN cancer|NN scan|NN result|NN positron|NN emission|NN tomography|NN pet|NN use determine disease|NN localise amenable surgery|NN spread point|NN cure surgically
+pet|NN useful screen|NN malignancy|NN positive pet|NN scan|NN carcinoma|NN lung|NN infection|NN positive pet|NN scan|NN
+blood|NN test|NN lung|NN function|NN test|NN necessary assess patient|NN well operate
+reveal poor respiratory reserve|NN occur chronic smoker|NN surgery|NN contraindicate
+edit|NN type|NN main type|NN lung|NN cancer|NN categorize size|NN appearance|NN malignant cell|NN seen histopathologist|NN microscope|NN cell|NN roughly lung|NN cancer|NN
+classification|NN base simple pathomorphological criteria|NN important implication|NN clinical management|NN prognosis|NN disease|NN
+edit cell|NN lung|NN cancer|NN non-smal cell|NN lung|NN cancer|NN group together prognosis|NN management|NN roughly identical
+subtype frequently code 80463
+subtype|NN m80703 squamous cell|NN carcinoma|NN account|NN start larger breath|NN tube|NN grow slower mean|NN size|NN tumour|NN vary diagnosis|NN
+common subtype|NN account|NN
+form|NN start gas-exchang surface|NN lung|NN
+case|NN adenocarcinoma|NN associate smoke|NN
+non-smoker|NN particular female non-smoker|NN adenocarcinoma|NN common form|NN lung|NN cancer|NN
+subtype|NN adenocarcinoma|NN bronchioalveolar carcinoma|NN common female non-smoker|NN different response|NN treatment|NN
+large cell|NN carcinoma|NN fast-grow form|NN grow surface|NN lung|NN
+primarily diagnosis|NN exclusion|NN investigation|NN usually reclassify squamous cell|NN carcinoma|NN adenocarcinoma|NN
+edit small cell|NN lung|NN cancer|NN lung|NN small cell|NN carcinoma|NN microscopic view|NN core|NN needle|NN biopsy|NN small cell|NN carcinoma|NN call oat|NN cell|NN carcinoma|NN common form|NN lung|NN cancer|NN
+tend start larger breath|NN tube|NN grow rapidly becom quite large
+oncogene|NN commonly involve
+oat|NN cell|NN contain dense neurosecretory|NN granule|NN give endocrineparaneoplastic syndrome|NN association|NN
+initially sensitive chemotherapy|NN ultimately carry worse prognosis|NN metastatic presentation|NN
+type|NN lung|NN cancer|NN strongly associate smoke|NN
+edit type|NN cystic carcinoma|NN carcinoma|NN edit|NN lung|NN common place|NN metastasis|NN tumor|NN part|NN body|NN
+cancer|NN identify site|NN origin|NN ie breast|NN cancer|NN metastasis|NN lung|NN known breast|NN cancer|NN
+adrenal gland|NN liver|NN brain|NN bone|NN common site|NN metastasis|NN primary lung|NN cancer|NN
+edit|NN cause|NN exposure|NN carcinogen|NN present|NN tobacco|NN smoke|NN immediately cause cumulative change|NN tissue|NN line bronchy|NN lung|NN bronchial mucous|NN membrane|NN tissue|NN get damage tumour|NN develop
+major cause|NN lung|NN cancer|NN cancer|NN general carcinogen|NN cigarette|NN smoke|NN radiation|NN exposure|NN genetic susceptibility|NN viral infection|NN edit role|NN smoke incidence|NN lung|NN cancer|NN highly correlate smoke|NN
+smoke|NN particularly cigarette|NN far main contributor|NN lung|NN cancer|NN theory|NN make easiest disease|NN prevent
+united|NP states|NP smoke|NN estimate account|NN lung|NN cancer|NN case|NN men|NN women|NN uk|NP
+cigarette|NN smoke|NN contain known carcinogen|NN radioisotope|NN radon|NN decay|NN sequence|NN
+additionally nicotine|NN appear depress immune response|NN malignant growth|NN expose tissue|NN
+length|NN time|NN person|NN continue smoke well amount|NN smoke increase|NN person|NN chance|NN contract lung|NN cancer|NN
+person|NN stop smoke chance|NN steadily decrease damage|NN lung|NN repair contaminant particle|NN gradually vacate
+recent work|NN show develop world|NN lung|NN cancer|NN death|NN cause smoke passive smokingthe inhalation|NN smoke|NN smoke|NN claim cause|NN lung|NN cancer|NN non-smoker|NN
+study|NN usa|NP europe|NP uk|NP australia|NP consistently show significant increase|NN relative risk|NN expose passive smoke|NN
+epa|NP claim lung|NN death|NN year|NN cause passive smoke|NN
+report|NN base study|NN alleg heavily biase rule federal judge|NN unscientific epa|NP report|NN declare null void federal judge|NN
+percentage|NN lung|NN cancer|NN death|NN attributable smoke|NN develop world|NN year|NN year|NN age|NN men|NN women|NN extensive attempt|NN made philip|NP morris|NP delay release|NN iarc study|NN affect word|NN conclusion|NN neutralise negative result|NN business|NN counteract impact|NN public|NN policymaker|NN opinion|NN document glantz|NN lancet|NN journal|NN work|NN base page|NN document|NN made public part|NN settlement|NN legal case|NN state|NN minnesota|NP blue crossblue|NN shield|NN minnesota|NP philip|NP morris|NP et|NP al|NP available philip|NP morris|NP recent investigation|NN smoke|NN suggest dangerous direct smoke|NN inhalation|NN edit|NN asbesto|NN asbesto|NN cause variety|NN lung|NN disease|NN
+increase risk|NN develop lung|NN cancer|NN
+synergistic effect|NN tobacco|NN smoke|NN asbesto|NN formation|NN lung|NN cancer|NN
+asbesto|NN cause cancer|NN pleura|NN call distinct lung|NN cancer|NN
+edit|NN radon|NN ga|NN radon|NP colorless|NN odourless ga|NN generate breakdown|NN radioactive radium|NN turn|NN decay|NN product|NN uranium|NN found earth|NN crust|NN
+radon|NP exposure|NN major cause|NN lung|NN cancer|NN smoke|NN
+radiation|NN decay|NN product|NN genetic material|NN cause mutation|NN sometime turn cancerous
+radon|NP ga|NN level|NN vary locality|NN composition|NN underly soil|NN rock|NN
+example|NN area|NN cornwall|NP uk|NP granite|NN radon|NN ga|NN major problem|NN build|NN force-ventilate fan|NN lower radon|NN ga|NN concentration|NN
+epa|NP estimate|NN home|NN radon|NN level|NN recommend guideline|NN
+iowa|NP highest average radon|NN concentration|NN united|NP states|NP
+study|NN perform r|NP
+william|NP field|NP daniel|NP j|NP
+steck|NP charles|NP f|NP
+lynch|NP brian|NP j|NP
+smith|NP colleague|NN university|NN iowa|NP demonstrate increase lung|NN cancer|NN risk|NN prolong radon|NN exposure|NN epa action|NN level|NN pcil|NN
+recent pool epidemiologic|NN radon|NN study|NN dan|NP et|NP al|NP sarah|NP darby|NP et|NP al|NP show increase lung|NN cancer|NN risk|NN radon|NN
+action|NN level|NN pcil|NN
+radon|NN cause lung|NN cancer|NN cause arbitrary damage|NN chromosome|NN dna|NN molecule|NN contain nucleus|NN cell|NN
+edit|NN genetics|NN viruse|NN gene|NN believe make people|NN susceptible cancer|NN
+believe turn oncogene|NN expose particular carcinogen|NN
+viruse|NN suspect cause cancer|NN human|NN link|NN proven animal|NN
+genetic susceptibility|NN viral infection|NN major importance|NN lung|NN cancer|NN influence pathogenesis|NN
+edit|NN lung|NN cancer|NN stage|NN lung|NN cancer|NN stage|NN important part|NN assessment|NN prognosis|NN potential treatment|NN lung|NN cancer|NN
+see cell|NN lung|NN cancer|NN stage|NN
+edit|NN treatment|NN treatment|NN lung|NN cancer|NN depend cancer|NN specific cell|NN type|NN far spread patient|NN performance|NN status|NN
+common treatment|NN include surgery|NN chemotherapy|NN radiation|NN therapy|NN
+see manchester|NP score|NN
+edit|NN surgery|NN surgery|NN usually option|NN cell|NN lung|NN cancer|NN disease|NN limit lung|NN spread confine|NN
+assess medical image|NN compute tomography|NN positron|NN emission|NN tomography|NN
+furthermore state sufficient respiratory reserve|NN need present allow removal|NN lung|NN tissue|NN
+procedure|NN perform include removal|NN lobe|NN lobe|NN removal|NN whole lung|NN
+smaller resection|NN include wedge|NN excision|NN part|NN lobe|NN
+role|NN sub lobar|NN resection|NN extend wedge|NN resection|NN continue debate primary management|NN
+overal survival|NN appear equivalent resection|NN local recurrence|NN rate|NN document time|NN common compare
+accordingly sub lobar|NN resection|NN historically use compromise|NN resection|NN approach|NN management|NN small centimeter|NN diameter|NN stage|NN peripheral identify patient|NN impair cardiopulmonary reserve|NN
+recent report|NN use|NN radioactive iodine|NN implant|NN margin|NN resection|NN suggest local recurrence|NN reduce use surgical adjunct|NN resection|NN
+role|NN anatomic|NN larger sublobar|NN resection|NN complete lymph|NN node|NN stage|NN found potential survival|NN benefit|NN similar
+resection|NN limit peripheral small cm|NN diameter|NN stage|NN nsclc margin|NN resection|NN equivalent|NN diameter|NN tumor|NN achieve
+prognosis|NN good follow complete resection|NN limit lesion|NN limit lung|NN tissue|NN lymph|NN node|NN spread|NN stage|NN disease|NN
+surgery|NN adjuvant|NN chemotherapy|NN recommend lymph|NN node|NN lung|NN tissue|NN resect stage|NN mediastinum lymph|NN node|NN peri-tracheal region|NN stage|NN found positive cancer|NN spread|NN
+survival|NN improve above patient|NN receive surgical resection|NN circumstance|NN
+role|NN adjuvant chemotherapy|NN patient|NN large stage|NN nsclc tumor|NN diameter|NN greater cm|NN lymph|NN node|NN involvement|NN stage|NN ib|NN remain controversial
+nci|NP canada|NP study|NN treate patient|NN stage|NN ib|NN iib|NP vinorelbine|NN cisplatin|NN chemotherapy|NN show significant survival|NN benefit|NN year|NN
+subgroup|NN analysis|NN patient|NN stage|NN ib|NN show chemotherapy|NN result survival|NN gain|NN
+similarly italian anita|NN study|NN show survival|NN benefit|NN year|NN vinorelbine|NN cisplatin|NN chemotherapy|NN stage|NN patient|NN subgroup|NN analysis|NN show benefit|NN ib|NN stage|NN
+cancer|NN group|NN study|NN randomize study|NN examine use|NN carboplatin|NN chemotherapy|NN patient|NN stage|NN disease|NN
+unfortunately initial result|NN encourage update|NN recent american society|NN clinical oncology|NN meet|NN june|NP report find|NN negative survival|NN advantage|NN use|NN adjuvant chemotherapy|NN patient|NN stage|NN disease|NN
+exploratory analysis|NN patient|NN calgb study|NN suggest perhap equal greater cm|NN size|NN benefit
+present|NN standard practice|NN offer|NN patient|NN resect stage|NN adjuvant generation|NN chemotherapy|NN eg cisplatin|NN vinorelbine|NN
+chemotherapy|NN patient|NN stage|NN remain controversial clinical trial|NN clearly demonstrate survival|NN benefit|NN
+edit small-cel lung|NN cancer|NN treate primarily chemotherapy|NN surgery|NN demonstrable influence|NN survival|NN
+primary chemotherapy|NN give metastatic nsclc|NN
+combination|NN regimen|NN depend tumour|NN type|NN cisplatin|NN carboplatin|NN combination|NN paclitaxel docetaxel|NN
+metastatic lung|NN cancer|NN addition|NN bevacizumab|NN ad carboplatin|NN found improve survival|NN study|NN patient|NN squamous cell|NN lung|NN cancer|NN exclude problem|NN pulmonary hemorrhage|NN group|NN past|NN
+cisplatin|NN carboplatin|NN combination|NN combination|NN paclitaxel vinorelbine|NN study
+edit therapy|NN recent year|NN various molecular target therapy|NN develop treatment|NN advance lung|NN cancer|NN
+drug|NN target|NN epidermal growth|NN factor|NN receptor|NN express case|NN
+excit start|NN show increase survival|NN female|NN asian|NN non-smoker|NN adenocarcinoma|NN cell|NN type|NN appear derive benefit|NN
+newer drug|NN call egf-r inhibitor|NN show increase|NN survival|NN lung|NN cancer|NN patient|NN recently approve fda|NN treatment|NN advance non-smal|NN cell|NN lung|NN cancer|NN
+similar gefitinib appear work best female|NN asian|NN non-smoker|NN adenocarcinoma|NN cell|NN type|NN
+number|NN target agent|NN early stage|NN clinical research|NN cox-2 inhibitor|NN pre-apoptic inhibitor|NN proteasome inhibitor|NN targretin|NN vaccine|NN treatment|NN cell|NN lung|NN cancer|NN evolve
+edit|NN radiotherapy|NN radiotherapy|NN give together chemotherapy|NN use curative intent|NN patient|NN eligible surgery|NN
+radiation|NN dose|NN gy fraction|NN commonly use curative intent|NN cell|NN lung|NN cancer|NN typically north|NP america|NP dose|NN prescribe gy|NN fraction|NN give daily day|NN week|NN week|NN
+small cell|NN lung|NN cancer|NN case|NN potentially curable addition|NN chemotherapy|NN chest|NN radiation|NN recommend
+small cell|NN lung|NN cancer|NN case|NN chest|NN radiation|NN dose|NN gy|NP fraction|NN commonly give typically north|NP america|NP dose|NN prescribe gy|NP give daily treatment|NN week|NN twice daily treatment|NN week|NN
+non-smal cell|NN lung|NN cancer|NN small cell|NN lung|NN cancer|NN patient|NN radiation|NN disease|NN chest|NN smaller dose|NN typically gy|NN fraction|NN use symptom|NN control|NN
+edit radiology|NN ablation|NN increase popularity|NN condition|NN nontoxic cause little pain|NN
+seem especially effective combine chemotherapy|NN catche cell|NN tumorthe difficult get chemotherapy|NN due reduce blood|NN supply|NN tumor|NN
+insert small heat|NN probe|NN tumor|NN cook tumor|NN cell|NN
+body|NN dispose cook cell|NN normal eliminative|NN process|NN
+edit|NN epidemiology|NN lung|NN cancer|NN distribution|NN united|NP states|NP
+population|NN segment|NN likely develop lung|NN cancer|NN over-fifty|NN history|NN smoke|NN
+lung|NN cancer|NN second|NN commonly occure form|NN cancer|NN western country|NN lead cancer-relate|NN cause|NN death|NN men|NN women|NN
+new case|NN expect 90700|NN men|NN 80000|NN women|NN
+rate|NN men|NN dy lung|NN cancer|NN decline western country|NN actually increase women|NN due increase takeup|NN smoke|NN group|NN
+lifetime|NN non-smoker|NN men|NN smoke higher age-standardize|NN lung|NN cancer|NN death|NN rate|NN women|NN
+80000 women|NN diagnose lung|NN cancer|NN approximately expect die lung|NN cancer|NN extremely rare prior|NN advent|NN cigarette|NN smoke|NN
+malignant lung|NN made cancer|NN seen autopsy|NN risen early
+case|NN report|NN medical literature|NN number worldwide
+british doctor|NN study|NN publish offer solid epidemiological evidence|NN link|NN lung|NN cancer|NN smoke|NN
+case|NN lung|NN cancer|NN due smoke|NN role|NN passive smoke|NN increasingly recognise risk|NN factor|NN lung|NN cancer|NN lead policy|NN intervention|NN decrease undesire exposure|NN non-smoker|NN tobacco|NN smoke|NN
+world|NN world|NN smoking-relate lung|NN cancer|NN rise rapidly incidence|NN
+country|NN china|NP expect see mark increase|NN lung|NN cancer|NN case|NN smoke|NN exceedingly common cause|NN death|NN infection|NN becom common reveal iceberg|NN pulmonary neoplasm|NN
+cheap tobacco|NN product|NN heavy advertise|NN seen health|NN campaigner|NN major problem|NN country|NN
+edit|NN prevention|NN edit|NN primary prevention|NN prevention|NN cost-effective mean|NN fight|NN lung|NN cancer|NN national global scale|NN
+country|NN industrial domestic carcinogen|NN identify ban tobacco|NN smoke|NN widespread
+eliminate tobacco|NN smoke|NN primary goal|NN fight|NN prevent lung|NN cancer|NN smoke|NN cessation|NN important preventative tool|NN process|NN
+policy|NN intervention|NN decrease passive smoke|NN eg restaurant|NN workplace|NN become common various western country|NN california|NP take lead|NN ban|NN smoke|NN public establishment|NN ireland|NP play similar role|NN europe|NP follow italy|NP norway|NP scotland|NP well
+new|NP zealand|NP recently ban smoke|NN public place|NN
+see smoke|NN ban|NN
+asian state|NN bhutan|NP complete smoke|NN ban|NN
+country|NN pressure|NN group|NN campaign similar ban|NN
+argument|NN cite ban|NN criminalisation smoke increase risk|NN smuggle|NN risk|NN ban|NN enforce
+edit|NN screen|NN secondary prevention|NN regular chest|NN radiography|NN sputum|NN examination|NN program|NN effective reduce mortality|NN lung|NN cancer|NN
+earlier study|NN mayo|NP lung|NN project|NN czechoslovakia|NP lung|NN cancer|NN screen|NN study|NN combine smoker|NN show earlier detection|NN lung|NN cancer|NN possible mortality|NN improve
+simply detect tumor|NN earlier stage|NN necessarily yield improve mortality|NN
+example|NN plain|NN radiography|NN result increase time|NN diagnosis|NN cancer|NN death|NN cancer|NN detect screen|NN tend earlier stage|NN
+patient|NN continue die rate|NN screen
+present|NN professional specialty|NN organization|NN advocate|NN screen|NN lung|NN cancer|NN outside|NN clinical trial|NN
+compute tomography|NN ct|NN scan|NN uncover visible x-ray|NN
+ct|NN scan|NN actively evaluate screen|NN tool|NN lung|NN cancer|NN high risk|NN patient|NN show promise result|NN
+usa-base national cancer|NN institute|NN currently complet randomize trial|NN compare ct|NN scan|NN chest|NN radiograph|NN
+single-institution trial|NN ongo world|NN
+international early lung|NN cancer|NN action|NN project|NN publish result|NN ct|NN screen|NN high-risk patient|NN late new|NP england|NP journal|NN medicine|NN
+study|NN detect lung|NN cancer|NN stage|NN highly treatable
+mathematically stage|NN patient|NN expect 10-year survival|NN
+randomization|NN patient|NN receive ct|NN scan|NN comparison|NN group|NN receive x-ray|NN patient|NN actually follow year|NN post|NN detection|NN median followup|NN month|NN
+study|NN underway area|NN see decrease long-term mortality|NN directly observe ct|NN screen|NN
+note screen|NN study|NN high risk|NN population|NN smoker|NN worker|NN occupational exposure|NN certain substance|NN
+important consider repeate radiation|NN exposure|NN screen|NN actually induce carcinogenesis|NN small percentage|NN screen subject|NN risk|NN mitigate relatively high prevalence|NN lung|NN cancer|NN population|NN screen
+edit|NN reference|NN
+national lung|NN cancer|NN partnership|NN lung|NN cancer|NN american women|NN
+everett|NP koop|NP
+smoke|NN smokeless tobacco|NN
+retrieve july|NP
+peto|NP r|NP r|NP lopez|NP ad|NN boreham|NP j|NP thun|NP m|NP heath|NP jr|NP c|NP
+mortality|NN smoke|NN develop country|NN indirect estimate|NN national vital statistics|NN
+oxford|NP oxford|NP university|NN press|NN
+isbn|NP 0-19-262535-7|NP
+department|NN health|NN human service|NN health|NN consequence|NN involuntary smoke|NN report|NN surgeon|NN general|NN pub|NN washington|NP dc|NP
+national research|NN council|NN environmental tobacco|NN smoke|NN measure exposure|NN assess health|NN effect|NN nrc|NP washington|NP dc|NP
+environmental protection|NN agency|NN respiratory health|NN effect|NN passive smoke|NN lung|NN cancer|NN disorder|NN epa|NP washington|NP dc|NP
+california|NP environmental protection|NN agency|NN health|NN effect|NN exposure|NN environmental tobacco|NN smoke|NN california|NP epa|NP sacramento|NP
+center|NN disease|NN control|NN prevention|NN cdc|NP
+prevalence|NN current cigarette|NN smoke|NN adult|NN policy|NN attitude|NN secondhand smoke--united|NP states|NP
+morb mortal wkly|NN rep|NN dec|NP
+alberg|NP aj|NP jm|NP
+epidemiology|NN lung|NN cancer|NN
+p|NP agudo|NN w|NN et al editor|NN case-control study|NN exposure|NN environmental tobacco|NN smoke|NN lung|NN cancer|NN europe|NP j|NP cancer|NN inst|NN pp|NN
+scientific committee|NN tobacco|NN health|NN report|NN scientific committee|NN tobacco|NN health|NN department|NN health|NN london|NP
+lung|NN cancer|NN passive smoke|NN
+method|NN med re|NN
+national health|NN medical research|NN council|NN health|NN effect|NN passive smoke|NN australian government|NN publish|NN service|NN canberra|NP
+ny|NP time|NN judge study|NN link|NN cancer|NN smoke|NN
+pbs|NP smoke|NN screen|NN
+ong sa|NP
+tobacco|NN industry|NN effort|NN subvert international agency|NN research|NN second-hand smoke|NN study|NN
+lancet|NN 3559211|NN
+schick|NP s|NP s|NP
+philip|NP morris|NP experiment|NN fresh sidestream smoke|NN toxic mainstream smoke|NN
+h-h|NP hansen|NP
+cell|NN cancer|NN update|NN
+lung|NN cancer|NN united|NP states|NP fact|NN national lung|NN cancer|NN partnership|NN new case|NN lung|NN cancer|NN
+new survey|NN find women|NN know lung|NN cancer|NN even lead cancer|NN killer|NN women|NN national lung|NN cancer|NN partnership|NN new|NN
+witschi|NP h|NP
+short history|NN lung|NN cancer|NN
+scy nov6414-6|NN
+primary malignant growth|NN lung|NN bronchy|NN
+new|NP york|NP longmans|NP green|NP company|NN cite spiro|NP sg|NP ga|NP
+year|NN lung|NN cancer|NN
+am|NP j|NP care|NN med sep|NP
+edit external link|NN lung|NN cancer|NN resource|NN page|NN national cancer|NN institute|NN
+tobacco|NN smoke|NN smoke|NN summary|NN data|NN report evaluation|NN iarc|NN
+lung|NN cancer|NN article|NN information|NN stop|NN smoke|NN article|NN information|NN radiologyinfo|NN radiology|NN information|NN resource|NN patient|NN lung|NN cancer|NN relate structure|NN cancer|NN oncology|NN edit|NN benign|NN premalignant situ|NN topography|NN anus|NN bladder bone|NN brain|NN breast|NN cervix duodenum esophagus eye|NN gallbladder liver|NN larynx lung|NN mouth|NN pancrea prostate kidney|NN ovary skin|NN stomach|NN testicle morphology|NN papillomacarcinoma|NN choriocarcinoma soft tissue|NN sarcoma|NN melanoma metastasis leiomyomaleiomyosarcoma mesothelioma osteomaosteosarcoma glioma treatment|NN surgery|NN chemotherapy radiation|NN therapy|NN immunotherapy experimental cancer|NN treatment|NN relate structure|NN dysplasia neoplasia polyp misc|NN suppressor|NN genesoncogene|NN staginggrade carcinogen research|NN phenomenon|NN icd-o list|NN oncology-relate term|NN
+artvjhtml text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

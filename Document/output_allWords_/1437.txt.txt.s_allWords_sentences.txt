@@ -1,0 +1,361 @@
+asthma|NN asthma|NN asthma|NN external resource|NN
+omim 600807|NN emedicine|NN mesh|NN asthma|NN chronic disease|NN respiratory system|NN airway|NN occasionally become inflam line excessive amount|NN mucus|NN response|NN trigger|NN
+acute episode|NN trigger thing|NN exposure|NN environmental stimulant|NN cold air|NN exercise|NN exertion|NN emotional stress|NN
+children|NN common trigger|NN viral illness|NN cause|NN common cold|NN airway|NN narrow|NN cause symptom|NN wheez shortness|NN breath|NN chest|NN tightness|NN cough|NN respond bronchodilator|NN
+episode|NN patient|NN feel fine
+disorder|NN chronic recure inflammatory condition|NN airway|NN develop increase responsiveness|NN various stimuly|NN characterize bronchial hyper-responsiveness inflammation|NN increase mucus|NN production|NN intermittent airway|NN obstruction|NN
+symptom|NN asthma|NN range mild life|NN threaten usually control combination|NN drug|NN environmental change|NN
+public attention|NN develop world|NN recently focuse asthma|NN rapidly increase prevalence|NN affect urban children|NN content|NN history|NN sign|NN symptom|NN diagnosis|NN differential diagnosis|NN inflammation|NN asthma|NN sleep|NN asthma|NN reflux|NN disease|NN treatment|NN relief|NN medication|NN prevention|NN medication|NN
+emergency|NN treatment|NN alternative|NN complementary medicine|NN epidemiology|NN socioeconomic|NN factor|NN asthma|NN athletics|NN cause|NN see reference|NN external link|NN edit history|NN word|NN asthma|NN derive greek aazein|NN mean|NN sharp breath|NN
+word|NN appear iliad|NP hippocrates|NP use reference|NN medical condition|NN bc
+hippocrates|NP thought spasm|NN associate asthma|NN likely occur tailor|NN angler|NN metalworker|NN
+century|NN later galen|NP wrote asthma|NN note cause partial complete bronchial obstruction|NN
+ad moses|NP maimonide influential medieval rabby|NN philosopher|NN physician|NN wrote treatise|NN asthma|NN describe prevention|NN diagnosis|NN treatment|NN century|NN bernardino|NP ramazzini|NP note connection|NN asthma|NN organic dust|NN
+use|NN bronchodilator|NN start inflammatory component|NN asthma|NN recognize anti-inflammatory medication|NN ad regimen|NN
+edit|NN sign|NN symptom|NN individual|NN asthma|NN characterize chronic respiratory impairment|NN
+intermittent illness|NN mark episodic symptom|NN result number|NN trigger event|NN upper respiratory infection|NN airborne allergen|NN exercise|NN
+acute exacerbation|NN asthma|NN refer asthma|NN attack|NN
+clinical hallmark|NN attack|NN shortness|NN breath|NN wheez stridor
+regard sine|NN asthma|NN victim|NN present primarily cough|NN late stage|NN attack|NN air|NN motion|NN impair wheez|NN heard
+present cough|NN sometime produce clear sputum|NN
+onset|NN sudden sense|NN constriction|NN chest|NN breath|NN become difficult wheez|NN occur primarily expiration|NN respiratory phase|NN
+sign|NN asthmatic episode|NN asthma|NN attack|NN stridor wheez rapid breath|NN prolong expiration|NN rapid heart|NN rate|NN tachycardia|NN lung|NN sound|NN audible stethoscope|NN over-inflation|NN chest|NN
+serious asthma|NN attack|NN accessory|NN muscle|NN respiration|NN muscle|NN neck|NN use show in-draw|NN tissue|NN rib|NN sternum|NN clavicle|NN presence|NN paradoxical pulse|NN pulse|NN weaker inhalation|NN stronger exhalation|NN
+severe attack|NN asthma|NN sufferer|NN turn blue lack|NN oxygen|NN experience chest|NN pain|NN even loss|NN consciousness|NN
+severe asthma|NN attack|NN lead respiratory arrest|NN death|NN
+severity|NN symptom|NN asthmatic episode|NN attack|NN asthmatic show sign|NN disease|NN
+edit|NN diagnosis|NN case|NN physician|NN diagnose asthma|NN basis|NN typical find|NN patient|NN clinical history|NN examination|NN
+asthma|NN strongly suspect patient|NN suffer eczema|NN allergic conditionssuggest|NN general atopic|NN constitutionor|NN family|NN history|NN asthma|NN
+measurement|NN airway|NN function|NN possible adult|NN new case|NN diagnose children|NN unable perform test|NN
+diagnosis|NN children|NN base careful compilation|NN analysis|NN patient|NN medical history|NN subsequent improvement|NN inhal bronchodilator|NN medication|NN
+adult|NN diagnosis|NN made peak|NN flow|NN meter|NN test airway|NN restriction|NN look diurnal variation|NN follow inhal medication|NN
+test|NN peak|NN flow|NN rest|NN baseline|NN exercise|NN helpful especially young asthmatics|NN experience asthma|NN
+diagnosis|NN doubt|NN formal lung|NN function|NN test|NN conduct
+diagnosis|NN asthma|NN made patient|NN use peak|NN flow|NN meter|NN test|NN monitor severity|NN disease|NN
+edit differential diagnosis|NN diagnose asthmatic alternative possibility|NN consider
+physician|NN take history|NN check patient|NN use known bronchoconstrictor|NN substance|NN cause|NN narrow|NN airway|NN eg certain anti-inflammatory agent|NN beta-blocker|NN
+chronic obstructive pulmonary disease|NN closely resemble asthma|NN correlate exposure|NN cigarette|NN smoke|NN older patient|NN symptom|NN administration|NN measure spirometry|NN decrease likelihood|NN family|NN history|NN
+pulmonary aspiration|NN direct due|NN dysphagia|NN swallow disorder|NN indirect due|NN acid|NN reflux|NN show similar symptom|NN asthma|NN
+aspiration|NN fever|NN indicate aspiration|NN pneumonia|NN
+direct aspiration|NN dysphagia|NN diagnose perform modify barium|NN swallow|NP test|NN treate feed|NN therapy|NN qualify speech|NN therapist|NN
+aspiration|NN indirect acid|NN reflux|NN treatment|NN direct indicate
+minority|NN asthma|NN sufferer|NN identifiable allergy|NN trigger|NN
+majority|NN trigger|NN identify history|NN instance|NN asthmatics|NN hay|NN fever|NN pollen|NN allergy|NN seasonal symptom|NN allergy|NN pet|NN experience abatement|NN symptom|NN home|NN occupational asthma|NN improve leave|NN work|NN
+occasionally allergy|NN test|NN warrant positive help identify avoidable symptom|NN trigger|NN
+pulmonary function|NN measure radiological test|NN chest|NN x-ray|NN ct|NN scan|NN require exclude possibility|NN lung|NN disease|NN
+people|NN asthma|NN trigger reflux|NN disease|NN treate suitable antacid|NN
+occasionally specialize test|NN inhalation|NN methacholine|NN even commonly histamine|NN perform
+asthma|NN categorize united|NP states|NP national heart|NN lung|NN blood|NN institute|NN fall category|NN mild intermittent mild persistent moderate persistent severe persistent
+diagnosis|NN severe persistent asthma|NN occur symptom|NN continual frequent exacerbation|NN frequent nighttime|NN symptom|NN result|NN limit physical activity|NN lung|NN function|NN measure pev|NN fev1|NN test|NN predict variability|NN greater
+cure|NN asthma|NN
+doctor|NN found way|NN prevent attack|NN relieve symptom|NN tightness|NN chest|NN trouble|NN breath|NN
+edit|NN airway|NN bronchoconstriction|NN asthma|NN
+airway|NN narrow result|NN inflammatory response|NN cause|NN wheez|NN
+edit|NN bronchoconstriction|NN asthma|NN episode|NN inflam airway|NN react environmental trigger|NN smoke|NN dust|NN pollen|NN
+airway|NN narrow produce excess mucus|NN make difficult breathe
+essence|NN asthma|NN result|NN immune response|NN bronchial airway|NN airway|NN asthmatics|NN hypersensitive certain trigger|NN known stimuly|NN see
+response|NN exposure|NN trigger|NN bronchy|NN large airway|NN contract|NN spasm|NN asthma|NN attack|NN
+soon follow lead further narrow|NN airway|NN excessive mucus|NN production|NN lead cough|NN breath|NN difficulty|NN
+category|NN stimuly|NN air|NN pollution|NN nature|NN typically inhal include waste|NN common household|NN insect|NN house|NN dust|NN mite|NN cockroach|NN grass|NN pollen|NN mould|NN spore|NN pet|NN epithelial cell|NN medication|NN aspirin|NN
+antagonist|NN beta|NN blocker|NN use|NN fossil|NN fuel|NN relate air|NN pollution|NN ozone|NN smog|NN summer|NN smog|NN nitrogen|NN dioxide|NN dioxide|NN thought major reason|NN high prevalence|NN asthma|NN urban area|NN various industrial compound|NN chemical|NN notably sulfite chlorinate swim|NN pool|NN generate nh2cl dichloramine|NN ncl3in air|NN known induce asthma|NN early childhood|NN infection|NN especially viral respiratory infection|NN
+person|NN age|NN asthma|NN trigger cold|NN respiratory infection|NN even normal stimuly|NN category|NN eg pollen|NN absent time|NN infection|NN asthma|NN attack|NN adult|NN children|NN cause respiratory viruse|NN
+exercise effect|NN differ somewhat trigger|NN country|NN indoor air|NN pollution|NN newsprint|NN literature|NN junk|NN mail|NN leaflet|NN glossy magazine|NN
+emotional stress|NN poorly understood trigger|NN
+edit inflammation|NN mechanism|NN allergic asthmaie asthma|NN result immune response|NN inhal allergensare|NN best understood causal factor|NN
+asthmatics|NN inhal allergen|NN find way|NN inner airway|NN ingest type|NN cell|NN known antigen|NN present cell|NN apcs|NN
+present piece|NN allergen|NN immune system|NN cell|NN
+people|NN immune cell|NN cell|NN check|NN usually ignore allergen molecule|NN
+asthmatics|NN cell|NN transform different type|NN cell|NN reason|NN well understood
+resultant th2|NN cell|NN activate important arm|NN immune system|NN known humoral immune system|NN
+humoral immune system|NN produce antibody|NN inhal allergen|NN
+later asthmatic inhale|NN antibody|NN recognize activate humoral response|NN
+result|NN chemical|NN produce cause|NN airway|NN constrict release mucus|NN cell-mediate arm|NN immune system|NN activate
+inflammatory response|NN responsible clinical manifestation|NN asthma|NN attack|NN
+follow section|NN describe complex series|NN event|NN detail|NN
+edit|NN fundamental problem|NN asthma|NN appear immunological young children|NN early stage|NN asthma|NN show|NN sign|NN excessive inflammation|NN airway|NN
+epidemiological find|NN give clue|NN pathogenesis|NN incidence|NN asthma|NN seem increase worldwide asthma|NN common affluent country|NN
+andor|NN describe beta|NN theory|NN asthma|NN blockage|NN beta-2 receptor|NN pulmonary smooth muscle|NN cell|NN cause asthma|NN beta|NN theory|NN citation|NN classic|NN cite time|NN article|NN history|NN journal|NN
+colleague|NN demonstrate block|NN receptor|NN overproduction|NN ige|NN central atopic disease|NN watersh|NN moment|NN world|NN allergy|NN beta-adrenergic theory|NN cite scholarship|NN note investigator|NN richard|NP f|NP
+lockey president|NN american academy|NN asthma|NN immunology|NN charles|NP reed|NP chief|NN allergy|NN mayo|NP medical school|NN craig|NP human genome|NN project|NN theory|NN pathogenesis|NN asthma|NN disease|NN hygiene|NN
+nature|NN baby|NN expose bacteria|NN antigen|NN soon birth|NN switch|NN th1 lymphocyte|NN cell|NN immune system|NN deal|NN bacterial infection|NN
+stimulus|NN insufficient modern clean environment|NN cell|NN predominate asthma|NN allergic disease|NN develop
+hygiene|NN hypothesis|NN explain increase|NN asthma|NN affluent population|NN
+th2 lymphocyte|NN eosinophil cell|NN protect parasite|NN infectious agent|NN cell|NN responsible allergic reaction|NN
+charcot-leyden crystal|NN form crystalline material|NN eosinophil|NN coalesce
+crystal|NN significant sputum|NN sample|NN people|NN asthma|NN
+develop world|NN parasite|NN rarely encounter immune response|NN remain|NN wrongly trigger individual|NN certain allergen|NN
+theory|NN base correlation|NN air|NN pollution|NN incidence|NN asthma|NN
+well known substantial exposure|NN certain industrial chemical|NN cause acute asthmatic episode|NN proven air|NN pollution|NN responsible development|NN asthma|NN
+western europe|NP atmospheric pollutant|NN fallen significantly year|NN prevalence|NN asthma|NN risen
+finally postulate form|NN asthma|NN relate infection|NN particular chlamydia|NN issue|NN remain controversial relationship|NN borne meta-analysis|NN research|NN correlation|NN seem onset|NN accelerate loss|NN lung|NN function|NN adult|NN new onset|NN asthma|NN possible explanation|NN asthmatics|NN alter immune response|NN facilitate long-term chlamydia|NN pneumonia|NN infection|NN response|NN target antibiotics|NN investigate temporary benefit|NN report study|NN reflect anti-inflammatory activity|NN antimicrobic action|NN edit|NN asthma|NN sleep|NN recognize increase frequency|NN patient|NN obstructive sleep|NN apnea|NN bronchial asthma|NN improve tremendously sleep|NN apnea|NN diagnose treate effective patient|NN nocturnal asthma|NN edit|NN asthma|NN reflux|NN disease|NN reflux|NN disease|NN present patient|NN repetitive episode|NN acid|NN aspiration|NN result airway|NN inflammation|NN asthma|NN
+citation|NN need common asthma|NN generally speak treate seem affect asthma|NN edit|NN treatment|NN effective treatment|NN asthma|NN identify trigger|NN pet|NN aspirin|NN limit eliminate exposure|NN
+desensitization allergen|NN show treatment|NN option|NN certain patient|NN common respiratory disease|NN smoke|NN adversely affect asthmatics|NN way|NN increase severity|NN symptom|NN rapid decline|NN lung|NN function|NN decrease response|NN preventive medication|NN smoke typically require additional medication|NN help control disease|NN
+furthermore exposure|NN non-smoker|NN smoker|NN second-hand smoke|NN detrimental result severe asthma|NN emergency|NN room|NN visit|NN hospital|NN admission|NN smoke|NN cessation|NN avoidance|NN second-hand smoke|NN strongly encourage asthmatics|NN specific medical treatment|NN recommend patient|NN asthma|NN depend severity|NN illness|NN frequency|NN symptom|NN
+specific treatment|NN asthma|NN broadly classify preventer|NN emergency|NN treatment|NN
+expert|NN panel|NN report|NN guideline|NN diagnosis|NN management|NN asthma|NN epr-2|NN
+national asthma|NN education|NN prevention|NN program|NN british guideline|NN management|NN asthma|NN broadly use support doctor|NN
+recommend short-term relief|NN patient|NN
+experience occasional attack|NN medication|NN need
+mild persistent disease|NN attack|NN week|NN inhal glucocorticoid|NN alternatively oral leukotriene|NN modifier|NN mast-cel stabilizer|NN theophylline|NN administer
+suffer daily attack|NN higher dose|NN glucocorticoid|NN conjunction|NN long-act|NN inhal
+agonist|NN prescribe alternatively leukotriene|NN modifier|NN theophylline|NN substitute
+severe asthmatics|NN oral glucocorticoid|NN ad treatment|NN severe attack|NN
+exercise|NN trigger asthma|NN attack|NN asthma|NN higher level|NN ventilation|NN cold dry air|NN tend exacerbate attack|NN
+reason|NN activity|NN patient|NN breathe large amount|NN cold air|NN sky|NN run|NN tend worse asthmatics|NN swim indoor heate pool|NN warm humid air|NN likely provoke response|NN researcher|NN harvard|NP medical school|NN hms|NP come convince evidence|NN answer|NN cause asthma|NN ly|NN special type|NN natural killer|NN cell|NN
+find|NN mean physician|NN treate asthma|NN sufferer|NN right kind|NN drug|NN
+example|NN natural killer|NN cell|NN seem resistant corticosteroid|NN widely use inhaler|NN novel therapeutic target|NN currently investigation|NN a2b receptor|NN cell|NN surface|NN couple receptor|NN express lung|NN inflammatory cell|NN express asthma|NN
+animal|NN model|NN confirm critical role|NN a2b antagonist|NN pulmonary inflammation|NN fibrosis|NN airway|NN remodel|NN edit|NN relief|NN medication|NN control|NN episode|NN wheez|NN shortness|NN breath|NN generally achieve fast-act bronchodilator|NN
+typically provide pocket-size metered-dose inhaler|NN
+young sufferer|NN difficulty|NN coordination|NN necessary use inhaler|NN poor ability|NN hold breath|NN second|NN inhaler|NN use|NN generally elderly asthma|NN spacer|NN see top image|NN use
+spacer|NN plastic|NN cylinder|NN mixe medication|NN air|NN simple tube|NN make easier patient|NN receive full dose|NN drug|NN allow active agent|NN disperse smaller fully inhal bit|NN
+nebulizer|NN provide larger continuous dose|NN use
+work|NN vaporize|NN dose|NN medication|NN saline solution|NN steady stream|NN foggy vapour|NN patient|NN continuously full dosage|NN administer
+clear evidence|NN effective inhaler|NN use spacer|NN
+helpful patient|NN experience severe attack|NN
+patient|NN able inhale deeply regular inhaler|NN deliver medication|NN deeply lung|NN even repeate attempt|NN
+nebulizer|NN deliver medication|NN continuously thought inhalation|NN relax airway|NN allow follow inhalation|NN draw medication|NN
+include selective beta2-adrenoceptor|NN agonist|NN salbutamol|NN levalbuterol|NN
+tremor major side|NN effect|NN greatly reduce inhal delivery|NN allow drug|NN target lung|NN specifically oral inject medication|NN deliver body|NN
+cardiac side|NN effect|NN higher dose|NN due agonist|NN activity|NN elevate heart|NN rate|NN blood|NN pressure|NN advent|NN selective agent|NN side|NN effect|NN become common
+patient|NN caution use medicine|NN frequently use|NN efficacy|NN decline produce result exacerbation|NN symptom|NN lead refractory asthma|NN death|NN
+older selective adrenergic agonist|NN inhal epinephrine|NN ephedrine|NN tablet|NN available counter|NN
+cardiac side|NN effect|NN occur agent|NN similar lesser rate|NN albuterol use solely relief|NN medication|NN inhal epinephrine|NN show effective agent|NN terminate acute asthmatic exacerbation|NN emergency|NN drug|NN sometime administer injection|NN
+use|NN injection|NN decline due relate adverse effect|NN
+medication|NN bromide|NN use
+cardiac side|NN effect|NN use patient|NN heart|NN disease|NN take hour|NN achieve full effect|NN powerful
+edit|NN prevention|NN medication|NN current treatment|NN protocol|NN recommend prevention|NN medication|NN inhal corticosteroid|NN help suppress inflammation|NN reduce swell|NN line|NN airway|NN frequent greater twice week|NN need|NN reliever|NN severe symptom|NN
+symptom|NN persist additional preventive drug|NN ad asthma|NN control
+proper use|NN prevention|NN drug|NN asthmatics|NN avoid complication|NN result|NN overuse|NN relief|NN medication|NN
+sometime stop take preventive medication|NN feel fine problem|NN breath|NN
+result|NN further attack|NN long-term improvement|NN
+preventive agent|NN include follow
+widely use prevention|NN medication|NN normally come inhaler|NN device|NN flunisolide fluticasone|NN
+long-term use|NN corticosteroid|NN side|NN effect|NN redistribution|NN fat increase appetite|NN blood|NN glucose|NN problem|NN weight|NN gain|NN
+particular high dose|NN steroid|NN cause osteoporosis|NN
+reason|NN inhal steroid|NN generally use prevention|NN smaller dose|NN target lung|NN higher dose|NN oral preparation|NN
+nevertheless patient|NN high dose|NN inhal steroid|NN require prophylactic treatment|NN prevent osteoporosis|NN
+deposition|NP steroid|NN mouth|NN cause hoarse voice|NN oral thrush|NN due decrease immunity|NN
+minimise rinse mouth|NN water|NN inhaler|NN use|NN well use spacer|NN increase amount|NN drug|NN reache lung|NN
+modifier|NN zafirlukast|NN
+cell|NN stabilizer|NN cromolyn|NN nedocromil|NN
+ipratropium|NN mix reliever|NN effect|NN
+rarely use preventive treatment|NN asthma|NN patient|NN tolerate
+theophylline|NN aminophylline|NN sometime consider sufficient control|NN achieve inhal glucocorticoid|NN long-act|NN
+use treat allergic symptom|NN underlie chronic inflammation|NN
+severe case|NN allergy|NN shot|NN recommend
+omalizumab ige blocker|NN help patient|NN severe allergic asthma|NN respond drug|NN
+expensive inject
+occasionally use difficult-to-treat patient|NN
+chronic acid|NN indigestion|NN contribute patient|NN asthma|NN treate prolong respiratory problem|NN
+2-agonist typical inhaler|NN salmeterol|NN long-act bronchodilator|NN
+bronchodilator|NN similar structure|NN short-act selective beta2-adrenoceptor|NN agonist|NN longer sidechain result 12-hour effect|NN use give smooth symptomatic relief|NN use morn|NN night|NN
+patient|NN report improve symptom|NN control|NN drug|NN replace need|NN routine|NN slow onset|NN mean short-act dilator|NN require
+november|NP american fda|NN release health|NN advisory alert public|NN find|NN show use|NN
+lead worsen|NN symptom|NN case|NN death|NN currently available beta2-adrenoceptor agonist|NN include salmeterol|NN oral albuterol|NN
+combination|NN inhal steroid|NN long-act bronchodilator|NN becom widespread common combination|NN currently use|NN fluticasonesalmeterol advair united|NP states|NP seretide|NP united|NP kingdom|NP
+recent meta-analysis|NN role|NN beta-agonist|NN indicate danger|NN asthma|NN patient|NN
+agent|NN improve symptom|NN bronchodilation|NN time|NN increase underly inflammation|NN bronchial worsen asthma|NN control|NN warn|NN increase symptom|NN said shelley|NP cornell|NP study|NN
+study|NN goe say common asthma|NN inhaler|NN contain drug|NN salmeterol|NN cause death|NN year|NN taken market|NN edit|NN emergency|NN treatment|NN asthma|NN attack|NN unresponsive patient|NN usual medication|NN treatment|NN available physician|NN hospital|NN oxygen|NN alleviate hypoxia|NN asthma|NN se|NN result|NN extreme asthma|NN attack|NN salbutamol|NN short-act beta-2-agonist|NN combine ipratropium|NN anticholinergic systemic steroid|NN oral intravenous prednisone|NN prednisolone|NN dexamethasone|NN bronchodilator|NN occasionally effective usual drug|NN fail nonspecific inject inhal epinephrine|NN metaproterenol|NN systemic effect|NN atropine|NN theophylline|NN inhalation|NN bronchodilatory effect|NN halothane|NN dissociative anaesthetic|NN ketamine|NN use tube|NN induction|NN magnesium|NN intravenous intubation|NN mechanical ventilation|NN patient|NN approach respiratory arrest|NN
+edit|NN alternative|NN complementary medicine|NN asthmatics|NN suffer chronic disorder|NN use alternative treatment|NN survey|NN show roughly asthma|NN patient|NN use form|NN unconventional therapy|NN data|NN support effectiveness|NN therapy|NN
+cochrane|NP systematic review|NN acupuncture|NN asthma|NN found evidence|NN efficacy|NN similar review|NN air|NN found evidence|NN improve asthma|NN symptom|NN benefit|NN lung|NN function|NN apply equally positive negative ion|NN generator|NN study|NN manual therapy|NN asthma|NN chiropractic physiotherapeutic|NN respiratory therapeutic manoeuver|NN found insufficient evidence|NN support|NN refute use|NN treate asthma|NN manoeuver|NN include various osteopathic|NN chiropractic technique|NN increase|NN movement|NN rib|NN cage|NN spine|NN try improve work|NN lung|NN circulation|NN chest|NN tap|NN shake vibration|NN use|NN posture|NN help shift|NN cough|NN phlegm|NN
+hand|NN meta-analysis|NN found homeopathy|NN potentially mild benefit|NN reduce symptom|NN intensity|NN number|NN patient|NN involve analysis|NN small subsequent study|NN support find|NN small trial|NN suggest benefit|NN various yoga|NN practice|NN rang integrate yoga|NN program|NN meditation|NN sahaja yoga|NN form|NN meditation|NN
+buteyko method|NN russian therapy|NN base breath|NN exercise|NN investigate mix degree|NN effect|NN show
+randomize control trial|NN patient|NN suggest moderately reduce need|NN beta-agonist|NN asthmatics|NN found objective improvement|NN lung|NN function|NN trial|NN new|NP zealand|NP show reduce beta-agonist|NN medication|NN inhal steroid week|NN give research|NN identify negative association|NN infection|NN hookworm|NN asthma|NN hay|NN fever|NN suggest hookworm|NN infestation|NN medically sanction cure asthma|NN
+evidence|NN support see complementary alternative medicine|NN
+edit|NN prognosis|NN asthmatics|NN good especially children|NN mild disease|NN
+asthmatics|NN diagnose childhood|NN longer carry diagnosis|NN decade|NN
+extent|NN permanent lung|NN damage|NN asthmatics|NN unclear
+remodel|NN observe unknown represent harmful beneficial change|NN conclusion|NN study|NN mix study|NN show early treatment|NN glucocorticoid|NN prevent decline|NN lung|NN function|NN measure parameter|NN continue suffer mild symptom|NN corticosteroid|NN help live live|NN disability|NN
+mortality|NN rate|NN asthma|NN low death|NN year|NN population|NN patient|NN united|NP states|NP better control|NN condition|NN help prevent death|NN
+edit|NN epidemiology|NN prevalence|NN childhood|NN asthma|NN increase especially younger children|NN
+children|NN united|NP states|NP diagnose asthma|NN increase|NN recent decade|NN
+rate|NN soar population|NN urban children|NN
+asthma|NN usually diagnose childhood|NN
+risk|NN factor|NN asthma|NN include personal family|NN history|NN asthma|NN atopy|NN trigger|NN see pathophysiology above premature birth|NN low birth|NN weight|NN viral respiratory infection|NN early childhood|NN maternal smoke|NN male|NN asthma|NN prepubertal children|NN female|NN persistence|NN asthma|NN adulthood|NN
+reduce occurrence|NN asthma|NN people|NN breast-f baby|NN
+current research|NN suggest prevalence|NN childhood|NN asthma|NN increase
+center|NN disease|NN control|NN national health|NN interview|NN survey|NN children|NN year|NN age|NN asthma|NN compare see figure|NN
+world|NN health|NN organization|NN report swiss population|NN suffer asthma|NN today compare 2530 year|NN asthma|NN common affluent country|NN mean|NN problem|NN restrict affluent estimate|NN asthmatics|NN india|NP
+urban resident|NN hispanics|NN african american|NN affect population|NN whole|NN
+asthma|NN responsible death|NN annually remote south|NN atlantic|NP island|NN tristan|NP da|NP cunha|NP population|NN asthmatics|NN due heredity|NN transmission|NN mutation|NN gene|NN
+edit factor|NN incidence|NN asthma|NN higher low-income population|NN society|NN even common develop country|NN develop country|NN western world|NN disproportionately minority|NN likely live industrial area|NN
+additionally asthma|NN strongly associate presence|NN cockroache|NN live quarter|NN likely neighbourhood|NN quality|NN asthma|NN treatment|NN vary racial line|NN likely low-income people|NN afford health|NN insurance|NN correlation|NN class|NN race|NN
+example|NN black american|NN likely receive outpatient|NN treatment|NN asthma|NN higher prevalence|NN disease|NN
+likely emergency|NN room|NN visit|NN hospitalization|NN asthma|NN time|NN likely die asthma|NN attack|NN compare white|NN
+prevalence|NN severe persistent asthma|NN greater low-income community|NN compare community|NN better access|NN treatment|NN edit|NN asthma|NN athletics|NN asthma|NN appear prevalent athlete|NN general population|NN
+survey|NN participant|NN summer|NN olympic game|NN atlanta|NP georgia|NP show diagnose asthma|NN asthma|NN medication|NN statistics|NN question base|NN
+athlete|NN mild asthma|NN likely diagnose condition|NN non-athlete even subtle symptom|NN interfere performance|NN lead|NN pursuit|NN diagnosis|NN
+suggest professional athlete|NN suffer asthma|NN claim|NN order|NN obtain special permit|NN use certain performance-enhance|NN drug|NN
+appear relatively high incidence|NN asthma|NN sport|NN cycle|NN mountain|NN bike|NN long-distance run|NN relatively lower incidence|NN weightlift|NN dive|NN
+unclear disparity|NN effect|NN train|NN sport|NN sport|NN appear minimize trigger|NN asthma|NN addition|NN exist variant|NN asthma|NN call asthma|NN share feature|NN allergic asthma|NN
+occur independently concurrent
+exercise|NN study|NN helpful diagnose assess condition|NN
+edit|NN cause|NN study|NN link asthma|NN bronchitis|NN acute respiratory illness|NN air|NN quality|NN experience children|NN largest study|NN california|NP children|NN health|NN study|NN press|NN release|NN study|NN show children|NN high ozone|NN community|NN play sport|NN develop asthma|NN rate|NN time|NN higher low ozone|NN community|NN
+participation|NN sport|NN result child|NN draw time|NN normal amount|NN air|NN lung|NN young athlete|NN likely develop asthma|NN
+edit see hopkins|NP syndrome|NN hygiene|NN hypothesis|NN immune response|NN asthma|NN foundation|NN america|NP edit|NN reference|NN
+zhao|NP j|NP m|NP odajima|NN
+alter eosinophil|NN level|NN result|NN viral infection|NN asthma|NN exacerbation|NN childhood|NN
+j|NP pediatr|NP allergy|NP
+lilly|NP cm|NN
+diversity|NN asthma|NN concept|NN pathophysiology|NN lesson|NN genetics|NN
+j|NP allergy|NP immunol|NP
+marketos|NP sg|NP cn|NP
+asthma|NN medical literature|NN greek antiquity|NN
+j|NP asthma|NN
+rosner|NP f|NP
+moses|NP treatise|NN asthma|NN
+mcfadden|NP er|NP jr|NP
+kasper|NP longo|NP et|NP al|NP ed|NN
+harrisons|NP principle|NN internal medicine|NN edition|NN pp|NN
+new|NP york|NP
+maddox|NP l|NP schwartz|NP da|NP
+pathophysiology|NN asthma|NN
+med 53477-98|NN
+jenkins|NP c|NP costello|NP j|NP hodge|NP l|NP
+systematic review|NN prevalence|NN aspirin|NN induce asthma|NN implication|NN clinical practice|NN
+bmj|NP 2004328434|NP
+nemery|NP b|NP ph|NN nowak|NP d|NP
+indoor swim|NN pool|NN water|NN respiratory health|NN
+eur j|NP 2002195790-3|NP
+beta|NN theory|NN atopic abnormality|NN asthma|NN
+lockey|NP richard|NP last tribute|NN md|NN
+clinical immunology|NN january|NP
+szentivanyy ali|NP k|NP eg brooks|NP sm|NP coffey|NP rg|NP rf|NP
+vitro effect|NN imunnoglobulin|NP e|NP cyclic amp|NN concentration|NN human pulmonary epithelial cell|NN beta|NN adrenergic stimulation|NN
+clin|NN part|NN abstract|NN anniversary|NN american academy|NN allergy|NN immunology|NN annual meet|NN
+chicago|NP illinois|NP march|NP
+j|NP allergy|NP clin|NP
+jp|NP hughes|NP et|NP al|NP ed|NN professional guide|NN disease|NN ed|NN
+lockey|NP richard|NP f|NP
+disease|NN resource|NN center|NN
+world|NN organization|NN
+retrieve september|NP
+ouellette|NP j|NP
+j|NP c|NP
+reed|NP march|NP
+effect|NN partial beta|NN adrenergic blockade|NN bronchial response|NN hay|NN fever|NN subject|NN aerosol|NN
+fraser|NP claire|NP m|NP j|NP
+craig|NP venter|NP
+synthesis|NN beta-adrenergic receptor|NN culture human lung|NN cell|NN induction|NN
+biochemical biophysical research|NN communication|NN
+hh|NN m|NP j|NP t|NP r|NP q|NN t|NP j|NP rytila|NP p|NP p|NP
+distribution|NN pathogenic bacteria|NN viruse|NN induce sputum|NN pharyngeal secretion|NN adult|NN stable asthma|NN
+l|NP ferrara|NP g|NP lm|NP tj|NP gibson|NP pg|NP
+macrolide chronic asthma|NN
+cochrane|NP database|NN rev|NP
+pasternack|NP r|NP h|NP j|NP
+chlamydia pneumoniae|NN asthma|NN adult|NN longitudinal analysis|NN
+j|NP allergy|NP clin|NP
+ronchetti|NP r|NP gl|NP f|NP mp|NP martella|NP s|NP c|NP c|NP m|NP villa|NN mp|NN
+pneumoniae|NN associate asthma|NN chronic condition|NN
+suggestion|NN survey|NN unselect year|NN old schoolchildren|NN
+university|NN michigan|NP health|NN system|NN
+breath|NN disorder|NN sleep|NN common asthmatics|NN help predict severe asthma|NN
+press|NN release|NN
+basner|NP robert|NP c|NP
+asthma|NN osa|NN
+resource|NN publication|NN
+american sleep|NN association|NN
+retrieve september|NP
+leggett|NP julian|NP j|NP brian|NP t|NP
+johnston|NP moyra|NP mills|NP jackie|NP gamble|NP liam|NP g|NP
+heaney|NP april|NP
+prevalence|NN reflux|NN difficult asthma|NN
+american journal|NN respiratory critical care|NN medicine|NN
+thomson|NP nc|NP spears|NP m|NP
+influence|NN smoke|NN treatment|NN response|NN patient|NN asthma|NN
+opin|NN immunol 20055157-63|NN
+eisner|NP md|NN yelin|NN katz|NP pp|NN et|NP al|NP
+exposure|NN indoor combustion|NN adult|NN asthma|NN outcome|NN environmental tobacco|NN smoke|NN ga|NN stove|NN wood-smoke|NN
+national asthma|NN education|NN prevention|NN program|NN
+expert|NN panel|NN report|NN guideline|NN diagnosis|NN management|NN asthma|NN
+national institute|NN health|NN pub|NN 97-4051|NN
+bethesda|NP md|NN
+british thoracic|NN society|NN scottish intercollegiate|NN guideline|NN network|NN sign|NN
+british guideline|NN management|NN asthma|NN
+full pdf|NP summary|NN pdf|NP
+cromie|NP william|NP j|NP
+researcher|NN uncover cause|NN asthma|NN harvard|NP university|NN gazette|NN harvard|NP new|NN office|NN
+zeng|NP r|NP
+novel therapeutic target|NN asthma|NN a2b adenosine|NN
+l|NP pl|NP et|NP al|NP
+response|NN epinephrine inhaler|NN nocturnal asthma|NN
+ann|NP asthma|NN
+rodrigo|NP gj|NP lj|NP
+comparison|NN adrenaline|NN beta2|NN agonist|NN treatment|NN acute asthma|NN
+meta-analysis|NN randomize trial|NN
+am|NP j|NP med|NP
+diskus advair|NN information|NN long act beta|NN agonist|NN drug|NN information|NN
+fda|NP 2006-03-03|NP
+ramanujan|NP krishna|NP
+common asthma|NN inhaler|NN cause percent|NN asthma-relate death|NN cornell|NP stanford|NP researcher|NN assert
+cornell|NP chronicle|NN online
+cornell|NP new|NN service|NN
+rodrigo|NP gj|NP rodrigo|NP c|NP hall|NN jb|NP
+acute asthma|NN adult|NN review|NN
+blanc|NP pd|NP l|NP earnest g|NP et|NP al|NP
+alternative therapy|NN adult|NN report diagnosis|NN asthma|NN data|NN population-base survey|NN
+shenfield|NP g|NP lim|NP e|NP allen|NP h|NP
+survey|NN use|NN complementary medicine|NN therapy|NN children|NN asthma|NN
+j|NP child|NN health|NN
+mccarney|NP rw|NP b|NP tj|NP et|NP al|NP
+acupuncture|NN chronic asthma|NN
+cochrane|NP database|NN rev|NP 20041cd000008|NP
+blackhall|NP k|NP appleton|NP s|NP cj|NP
+ioniser chronic asthma|NN
+cochrane|NP database|NN rev|NP 20033cd002986|NP 12917939|NP
+hondras|NP ma|NP linde|NP k|NP jones|NP ap|NP
+manual|NN therapy|NN asthma|NN
+cochrane|NP database|NN rev|NP 20052cd001002|NP
+reilly|NP d|NP taylor|NP ma|NP beattie|NP et|NP al|NP
+evidence|NN homoeopathy|NN reproducible
+white|NP slade|NP p|NP hunt|NP c|NP et|NP al|NP
+homeopathy|NN adjunct|NN treatment|NN childhood|NN asthma|NN randomise placebo|NN control trial|NN
+hr|NN r|NP
+integrate approach|NN yoga|NN therapy|NN bronchial asthma|NN 3-54-month prospective study|NN
+j|NP asthma|NN
+manocha|NP r|NP marks|NP gb|NP p|NP et|NP al|NP
+yoga|NN management|NN moderate severe asthma|NN randomise control trial|NN
+bowler|NN sd|NP green|NP mitchell|NP ca|NP
+breath|NN technique|NN asthma|NN blind randomise control trial|NN
+med|NP j|NP aust|NP
+mchugh|NP p|NP f|NP duncan|NP b|NP houghton|NP f|NP
+breath|NN technique|NN asthma|NN effective intervention|NN
+nz|NP med|NP j|NP pmid|NP 16718299|NP
+worm|NN infestation|NN beat asthma|NN bbc|NP new|NN
+beckett|NP pa|NN howarth|NP ph|NN
+airway|NN remodel|NN asthma|NN
+world|NN health|NN organization|NN
+asthma|NN scope|NN problem|NN
+education|NN fast fact|NN asthma|NN
+american academy|NN asthma|NN immunology|NN
+national heart|NN lung|NN blood|NN institute|NN
+mortality|NN chart|NN book|NN cardiovascular lung|NN blood|NN disease|NN
+national institute|NN health|NN
+national center|NN health|NN statistics|NN april|NP
+asthma|NN prevalence|NN health|NN care|NN use|NN mortality|NN
+center|NN disease|NN control|NN prevention|NN
+jm|NP layton|NP t|NP hunt|NP m|NP
+asthma|NN united|NP states|NP olympic athlete|NN participate summer|NN game|NN
+j|NP allergy|NP immunol|NP 19981025722-6|NP
+asthma|NN elite|NN summer|NN sport|NN athlete|NN
+j|NP allergy|NP 20001063444-52 pmid|NN
+asthma|NN air|NN quality|NN
+california|NP children|NN health|NN study|NN
+edit external link|NN world|NN health|NN organization|NN site|NN asthma|NN world|NN health|NN organization|NN fact|NN sheet|NN asthma|NN national heart|NN lung|NN blood|NN institute|NN asthma|NN
+information|NN patient|NN public page|NN
+national heart|NN lung|NN blood|NN institute|NN asthma|NN
+information|NN health|NN professional|NN page|NN
+national library|NN medicine|NN page|NN
+american academy|NN asthma|NN immunology|NN organization|NN medical professional|NN special interest|NN treate research condition|NN allergic rhinitis|NN asthma|NN atopic|NN
+asthma|NN foundation|NN america|NP national nonprofit patient|NN advocacy|NN organization|NN information|NN asthma|NN
+asthma|NN uk|NP patient-orient site|NN information|NN asthma|NN way|NN uk|NP resident|NN help improve policy|NN
+asthma|NN foundation|NN queensland|NP information|NN education|NN australian asthma|NN sufferer|NN
+case|NN study|NN environmental medicine|NN environmental trigger|NN asthma|NN agency|NN toxic substance|NN disease|NN registry|NN
+department|NN health|NN human service|NN
+asthma|NN inflammatory disease|NN aspect|NN asthma|NN
+link|NN inflammatory disorder|NN
+art4nhtml text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

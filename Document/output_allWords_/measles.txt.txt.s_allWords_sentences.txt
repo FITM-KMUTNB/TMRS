@@ -1,0 +1,53 @@
+measle|NN school|NN selection|NN
+relate subject|NN health|NN medicine|NN measle|NN external resource|NN measle|NN affect skin|NN
+b|NP 055|NN medlineplus|NN derm259|NN virus|NN measle|NN virus|NN measle|NN virus|NN virus|NN classification|NN group|NN group|NN order|NN family|NN genus|NN specy|NN measle|NN virus|NN
+measle|NN known rubeola|NN disease|NN cause virus|NN specifically paramyxovirus|NN genus|NN
+report|NN measle|NN go back bce|NP scientific description|NN disease|NN distinction|NN smallpox|NN attribute persian physician|NN ibn|NP razi|NP rhazes|NP publish book|NN entitle measle|NN arabic kitab|NN fi|NN
+virus|NN cause disease|NN isolate license vaccine|NN prevent disease|NN became available
+measle|NN spread respiration|NN contact|NN fluid|NN infect person|NN nose|NN mouth|NN directly aerosol|NN transmission|NN highly contagious90 people|NN immunity|NN share house|NN infect person|NN catch
+airborne precaution|NN taken suspect case|NN measle|NN
+incubation|NN period|NN usually last day|NN symptom|NN
+people|NN remain contagious appearance|NN symptom|NN day|NN rash|NN appear
+classical symptom|NN measle|NN include fever|NN day|NN cs|NP cough|NN coryza|NN runny nose|NN red eye|NN
+fever|NN reach fahrenheit|NN celsius|NN
+spot|NN seen mouth|NN pathognomonic diagnostic measle|NN seen even real case|NN measle|NN transient disappear day|NN arise
+characteristic measle|NN rash|NN classically describe generalize maculopapular|NN rash|NN begin day|NN fever|NN start
+start head|NN spread cover body|NN cause itch|NN
+rash|NN said stain chang colour|NN red|NN dark brown|NN disappear
+detail history|NN taken course|NN disease|NN far vaccination|NN history|NN contact|NN history|NN travel|NN history|NN
+clinical diagnosis|NN measle|NN require history|NN fever|NN day|NN together cs|NP
+observation|NN koplik spot|NN diagnostic measle|NN
+alternatively laboratory|NN diagnosis|NN measle|NN confirmation|NN positive measle|NN igm|NN antibody|NN isolation|NN measle|NN virus|NN rna|NN respiratory specimen|NN
+positive contact|NN patient|NN known measle|NN add strong epidemiological evidence|NN diagnosis|NN
+specific treatment|NN uncomplicate measle|NN
+patient|NN uncomplicate measle|NN recover rest|NN supportive treatment|NN
+complication|NN measle|NN relatively common rang relatively common serious diarrhea|NN pneumonia|NN encephalitis|NN sclerose panencephalitis|NN
+complication|NN usually severe adult|NN catch virus|NN
+fatality|NN rate|NN measle|NN otherwise healthy people|NN develop country|NN low approximately death|NN case|NN
+underdevelop nation|NN high rate|NN malnutrition|NN poor healthcare|NN fatality|NN rate|NN percent|NN common
+patient|NN fatality|NN rate|NN approximately percent|NN
+measle|NN estimate kill people|NN develop country|NN annually
+public health|NN
+develop country|NN children|NN immunise measle|NN age|NN month|NN generally part|NN three-part mmr|NN vaccine|NN measle|NN mump|NN rubella|NN
+vaccination|NN generally give earlier children|NN younger month|NN usually retain immunoglobulin|NN antibody|NN transmit mother|NN pregnancy|NN
+booster|NN vaccine|NN give age|NN
+vaccination|NN rate|NN high make measle|NN relatively uncommon
+even single case|NN college|NN dormitory|NN similar set|NN met local vaccination|NN program|NN case|NN people|NN expose immune
+develop country|NN measle|NN remain common
+recent vaccine|NN controversy|NN unit kingdom|NN potential link|NN combine mmr|NN vaccine|NN children|NN mump|NN measle|NN rubella|NN autism|NN prompt resurgence|NN popularity|NN measle|NN party|NN parent|NN deliberately infect child|NN measle|NN order|NN build child immunity|NN require injection|NN
+practice|NN pose health|NN risk|NN child|NN discourage national health|NN service|NN
+measle|NN significant infectious disease|NN rate|NN complication|NN high disease|NN infectious sheer number|NN people|NN suffer complication|NN outbreak|NN people|NN quickly overwhelm available hospital|NN resource|NN
+vaccination|NN rate|NN fall number|NN non-immune person|NN community|NN rise|NN risk|NN outbreak|NN measle|NN consequently rise
+world|NN health|NN organization|NN measle|NN lead cause|NN vaccine|NN preventable childhood|NN case|NN 875000 death|NN cause measle|NN year|NN
+unit nation|NN children|NN fund|NN unicef|NP report global immunization|NN drive|NN cut measle|NN death|NN nearly estimate 454000|NN thank|NN major national immunization|NN activity|NN better access|NN routine|NN childhood|NN immunization|NN
+confuse world|NN health|NN organization|NN measle|NN initiative|NN
+government|NN america|NP pan|NP american health|NN organization|NN launch plan|NN eradicate measle|NN rubella region|NN
+indigenous measle|NN eliminate north|NN central south|NP america|NP endemic case|NN region|NN report november|NP
+occure follow importation|NN measle|NN viruse|NN world|NN region|NN
+currently outbreak|NN boston|NP result boston|NP resident|NN recently visit india|NP
+outbreak|NN index|NN case|NN describe extensively npr report|NN
+plan|NN underway eliminate region|NN
+endemic case|NN report bolivia|NP brazil|NP colombia|NP guatemala|NP mexico|NP peru|NP venezuela|NP currently vaccinate dominican republic|NN
+smaller organization|NN propose global mmr|NN eradication|NN none likely take place|NN worldwide eradication|NN
+retrieve reference|NN article|NN mainly select english wikipedia|NN minor check|NN change|NN see wwwwikipediaorg detail|NN author|NN source|NN available gnu free documentation|NN
+see disclaimer|NN

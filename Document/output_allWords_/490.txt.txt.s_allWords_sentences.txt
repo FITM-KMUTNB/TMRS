@@ -1,0 +1,313 @@
+syndrome|NN syndrome|NN syndrome|NN external resource|NN boy|NN syndrome|NN use electric drill|NN
+7580|NN diseasesdb|NN 000997 emedicine|NN d004314 syndrome|NN trisomy|NN syndrome|NN genetic disorder|NN cause presence|NN part|NN extra chromosome|NN
+name john|NP langdon|NP british doctor|NN describe
+condition|NN characterize combination|NN major minor difference|NN body|NN structure|NN
+syndrome|NN associate impairment|NN cognitive ability|NN physical growth|NN well facial appearance|NN
+syndrome|NN usually identify birth|NN
+individual|NN syndrome|NN lower average cognitive ability|NN rang mild moderate mental retardation|NN
+developmental disability|NN manifest tendency|NN concrete think|NN navet|NN
+small number|NN severe profound mental retardation|NN
+incidence|NN syndrome|NN estimate birth|NN
+common physical feature|NN syndrome|NN appear people|NN standard set|NN chromosome|NN
+include single transverse palmar|NN crease|NN single instead double crease|NN palm|NN almond|NN shape|NN eye|NN cause epicanthic fold|NN eyelid|NN shorter limb|NN protrude tongue|NN
+health|NN concern|NN individual|NN syndrome|NN include higher risk|NN congenital heart|NN defect|NN reflux|NN disease|NN recurrent ear|NN infection|NN obstructive sleep|NN thyroid dysfunction|NN
+early childhood|NN intervention|NN screen|NN common problem|NN medical treatment|NN indicate conducive family|NN environment|NN vocational train|NN improve overal development|NN children|NN syndrome|NN
+physical genetic limitation|NN syndrome|NN overcome education|NN proper care|NN improve quality|NN life|NN content|NN characteristics|NN genetics|NN translocation|NN duplication|NN portion|NN chromosome|NN incidence|NN screen|NN cognitive development|NN health|NN genetic research|NN sociological cultural aspect|NN history|NN notable individual|NN fiction|NN reference|NN bibliography|NN external link|NN society|NN association|NN conference|NN edit characteristics|NN individual|NN syndrome|NN follow physical characteristics|NN oblique eye|NN fissure|NN skin|NN fold|NN inner corner|NN eye|NN muscle|NN poor muscle|NN tone|NN flat nasal bridge|NN single palmar|NN fold|NN known simian crease|NN protrude tongue|NN due small oral cavity|NN enlarge tongue|NN tonsil|NN short neck|NN white spot|NN iris|NN known brushfield spot|NN excessive flexibility|NN joint|NN congenital heart|NN defect|NN excessive space|NN large toe|NN second|NN toe|NN single flexion|NN furrow|NN finger|NN
+individual|NN syndrome|NN mental retardation|NN mild iq|NN moderate iq|NN range|NN score|NN children|NN mosaic syndrome|NN explain typically point|NN higher addition|NN individual|NN syndrome|NN serious abnormality|NN affect body|NN system|NN
+edit|NN genetics|NN trisomy|NN syndrome|NN
+notice copy|NN chromosome|NN
+syndrome|NN chromosomal abnormality|NN characterize presence|NN extra copy|NN genetic material|NN chromosome|NN whole trisomy|NN part|NN due translocation
+effect|NN extra copy|NN vary greatly individual|NN depend extent|NN extra copy|NN genetic background|NN environmental factor|NN random chance|NN
+syndrome|NN occur human population|NN analogous effect|NN found specy|NN chimpanzee|NN mice|NN
+recently researcher|NN create transgenic mice|NN human chromosome|NN addition|NN normal mouse|NN chromosome|NN extra chromosomal material|NN come distinct way|NN
+normal human karyotype|NN designate 46xx|NN 46xy|NN indicate chromosome|NN xx|NP arrangement|NN female|NN chromosome|NN arrangement|NN male|NN edit|NN cause meiotic nondisjunction|NN event|NN
+gamete|NN ie sperm|NN egg|NN cell|NN produce extra copy|NN chromosome|NN gamete|NN chromosome|NN
+combine normal gamete|NN parent|NN embryo|NN chromosome|NN copy|NN chromosome|NN
+cause|NN approximately observe syndrome|NN come|NN nondisjunction|NN maternal gamete|NN come nondisjunction|NN paternal gamete|NN edit|NN generally cause conception|NN cell|NN body|NN affect
+cell|NN body|NN normal cell|NN trisomy|NN call mosaic syndrome|NN occur way|NN nondisjunction event|NN early cell|NN division|NN normal embryo|NN lead fraction|NN cell|NN trisomy|NN syndrome|NN embryo|NN undergoe cell|NN embryo|NN revert back normal chromosomal arrangement|NN
+considerable variability|NN fraction|NN trisomy|NN whole|NN tissue|NN
+cause|NN observe syndrome|NN edit translocation|NN extra chromosome|NN material|NN cause syndrome|NN due robertsonian translocation|NN
+case|NN long arm|NN chromosome|NN attach chromosome|NN chromosome|NN call isochromosome 45xx|NN
+normal disjunction|NN lead gamete|NN significant chance|NN create gamete|NN extra chromosome|NN
+syndrome|NN refer familial syndrome|NN
+cause|NN observe case|NN syndrome|NN show maternal age|NN effect|NN likely come father|NN mother|NN
+edit|NN duplication|NN portion|NN chromosome|NN rarely region|NN chromosome|NN undergo duplication|NN event|NN
+lead extra copy|NN gene|NN chromosome|NN duplicate region|NN gene|NN responsible syndrome|NN physical mental characteristics|NN individual|NN show characteristics|NN
+cause|NN rare rate|NN estimate|NN available
+edit|NN incidence|NN graph|NN show increase chance|NN syndrome|NN compare maternal age|NN incidence|NN syndrome|NN estimate birth|NN center|NN disease|NN control|NN estimate rate|NN live birth|NN united|NP states|NP new case|NN year|NN approximately trisomy|NN
+syndrome|NN occur ethnic group|NN economic class|NN
+maternal age|NN influence risk|NN conceive baby|NN syndrome|NN
+maternal age|NN risk|NN 11490 age|NN risk|NN age|NN risk|NN risk|NN increase|NN maternal age|NN children|NN syndrome|NN born women|NN age|NN reflect overal fertility|NN age|NN group|NN
+maternal age|NN risk|NN factor|NN known
+appear paternal age|NN effect|NN
+edit screen|NN pregnant women|NN screen various complication|NN pregnancy|NN
+standard prenatal screen|NN discover syndrome|NN
+genetic counsel|NN genetic test|NN amniocentesis|NN chorionic villus sample|NN percutaneous umbilical blood|NN sample|NN usually offer family|NN increase chance|NN child|NN syndrome|NN normal prenatal exam|NN indicate possible problem|NN
+genetic screen|NN perform pregnant women|NN older
+consider invasive procedure|NN involve insert instrument|NN uterus|NN therefore carry small risk|NN cause fetal injury|NN miscarriage|NN
+common non-invasive screen|NN indicate fetus|NN syndrome|NN
+normally perform late trimester|NN early second|NN trimester|NN
+due nature|NN screen|NN significant chance|NN false positive|NN suggest fetus|NN syndrome|NN fact|NN fetus|NN genetic abnormality|NN
+screen|NN positive|NN verify syndrome|NN diagnosis|NN made
+common screen|NN procedure|NN syndrome|NN give table|NN
+table|NN common trimester|NN syndrome|NN screen|NN screen|NN perform week|NN gestation|NN detection|NN rate|NN false positive rate|NN description|NN triple screen|NN test|NN measure maternal serum|NN alpha|NN protein|NN fetal liver|NN protein|NN pregnancy|NN hormone|NN human chorionic gonadotropin|NN pregnancy|NN hormone|NN quad|NN screen|NN test|NN measure maternal serum|NN alpha|NN protein|NN fetal liver|NN protein|NN pregnancy|NN hormone|NN human chorionic gonadotropin|NN pregnancy|NN hormone|NN high inhibin-alpha|NN beta|NN screen|NN test|NN measure alpha|NN protein|NN produce fetus|NN free beta|NN produce placenta|NN
+translucencyfree|NN screen|NN use|NN ultrasound|NN measure translucency|NN addition|NN freebeta|NN pregnancy-associate plasma|NN protein|NN mendelian inheritance|NN man|NN
+nih|NP confirm trimester|NN test|NN accurate second|NN trimester|NN screen|NN method|NN ultrasound|NN fetus|NN syndrome|NN megacystis|NN
+even best non-invasive screen|NN detection|NN rate|NN 9095 rate|NN false positive|NN
+false positive|NN cause undetect multiple fetuse|NN rare ultrasound|NN test|NN incorrect date|NN pregnancy|NN normal variation|NN protein|NN
+confirmation|NN screen|NN positive normally accomplish amniocentesis|NN
+invasive procedure|NN involve take amniotic fluid|NN mother|NN identify fetal cell|NN
+lab|NN work|NN take week|NN detect 998|NN numerical chromosomal problem|NN low false positive rate|NN low incidence|NN syndrome|NN vast majority|NN early screen|NN positive|NN false false positive|NN typically prompt amniocentesis|NN confirm result|NN amniocentesis|NN carry small risk|NN induce miscarriage|NN risk|NN miscarry|NN healthy fetus|NN
+ad miscarriage|NN risk|NN amniocentesis|NN traditionally quote recent study|NN suggest considerably smaller literature|NN review|NN elective abortion|NN rate|NN found 9193|NN pregnancy|NN diagnosis|NN syndrome|NN terminate physician|NN ethicist|NN concern ethical ramification|NN commentator|NN call eugenics|NN abortion|NN member|NN disability|NN right|NN movement|NN believe public support|NN prenatal diagnosis|NN abortion|NN base disability|NN contravene movement|NN basic philosophy|NN goal|NN
+edit cognitive development|NN cognitive development|NN children|NN syndrome|NN quite variable
+possible birth|NN predict capability|NN number|NN appearance|NN physical feature|NN predictive future ability|NN
+identification|NN best method|NN teach|NN particular child|NN ideally begin soon birth|NN early intervention|NN program|NN children|NN syndrome|NN wide range|NN ability|NN success|NN school|NN vary greatly stress importance|NN evaluate children|NN individually
+cognitive problem|NN found children|NN syndrome|NN found typical children|NN
+therefore parent|NN use general program|NN offer school|NN mean|NN
+language|NN skill|NN show difference|NN understand|NN speech|NN express speech|NN
+common children|NN syndrome|NN need|NN speech|NN therapy|NN help expressive language|NN fine motor|NN skill|NN delay lag gross motor|NN skill|NN interfere cognitive development|NN
+occupational therapy|NN address issue|NN education|NN mainstream|NN children|NN syndrome|NN controversial
+process|NN whereby student|NN differ ability|NN place class|NN chronological peer|NN
+children|NN syndrome|NN age intellectually rate|NN children|NN syndrome|NN time|NN intellectual emotional gap|NN children|NN syndrome|NN widen
+complex think|NN require science|NN history|NN art|NN subject|NN ability|NN achieve later children|NN
+therefore children|NN syndrome|NN benefit provide adjustment|NN made curriculum|NN european country|NN germany|NP denmark|NP advise two-teacher system|NN whereby second|NN teacher|NN take group|NN children|NN disability|NN class|NN
+popular alternative|NN cooperation|NN special education|NN school|NN mainstream school|NN
+cooperation|NN core|NN subject|NN taught separate class|NN neither slow typical student|NN neglect student|NN disability|NN
+social activity|NN sport|NN art|NN activity|NN perform together break|NN meal|NN edit health|NN medical consequence|NN extra genetic material|NN syndrome|NN highly variable affect function|NN organ|NN system|NN bodily process|NN
+health|NN aspect|NN syndrome|NN encompass anticipate prevent effect|NN condition|NN recognize complication|NN disorder|NN manage individual symptom|NN assist individual|NN family|NN cope|NN thrive relate disability|NN illness|NN common manifestation|NN syndrome|NN characteristic facial feature|NN cognitive impairment|NN congenital heart|NN disease|NN hear|NN deficit|NN short stature|NN thyroid|NN disorder|NN alzheimers|NP disease|NN
+common serious illness|NN include immune deficiency|NN epilepsy|NN
+health|NN benefit|NN syndrome|NN include greatly reduce incidence|NN common malignancy|NN leukemia|NN testicular cancer|NN unclear reduce incidence|NN various fatal cancer|NN people|NN syndrome|NN direct result|NN tumour-suppressor gene|NN chromosome|NN reduce exposure|NN environmental factor|NN contribute cancer|NN risk|NN unspecify factor|NN
+syndrome|NN result different genetic mechanism|NN
+result|NN wide variability|NN individual symptom|NN due complex gene|NN environment|NN interaction|NN
+prior birth|NN possible predict symptom|NN individual|NN syndrome|NN develop
+problem|NN present birth|NN certain heart|NN malformation|NN
+become apparent time|NN epilepsy|NN
+factor|NN contribute significantly shorter lifespan|NN people|NN syndrome|NN
+study|NN carry united|NP states|NP show average lifespan|NN year|NN considerable variation|NN different ethnic socio-economic group|NN fertility|NN male|NN female|NN reduce record instance|NN male|NN syndrome|NN father|NN need edit|NN genetic research|NN syndrome|NN disorder|NN base copy|NN gene|NN locate chromosome|NN
+general lead|NN overexpression|NN gene|NN understand gene|NN involve help target medical treatment|NN individual|NN syndrome|NN
+estimate chromosome|NN contain gene|NN recent research|NN identify region|NN chromosome|NN contain main gene|NN responsible pathogenesis|NN syndrome|NN locate proximal
+search|NN major gene|NN involve syndrome|NN characteristics|NN normally region|NN
+recent use|NN transgenic mice|NN study specific gene|NN syndrome|NN critical region|NN yield result|NN
+app|NN amyloid beta|NN precursor|NN protein|NN
+suspect major role|NN cognitive difficulty|NN gene|NN erythroblastosis virus|NN homolog
+researcher|NN demonstrate overexpression|NN ets2 result|NN apoptosis|NN
+mice|NN develop smaller thymus|NN lymphocyte|NN abnormality|NN similar feature|NN observe syndrome|NN
+edit sociological cultural aspect|NN advocate|NN people|NN syndrome|NN point|NN various factor|NN special education|NN parental support|NN group|NN make life|NN easier parent|NN
+stride|NN made education|NN house|NN social set|NN create environment|NN accessible supportive people|NN syndrome|NN
+develop country|NN early century|NN people|NN syndrome|NN house institution|NN colony|NN exclude society|NN
+century|NN change|NN parent|NN educator|NN professional|NN generally advocate policy|NN inclusion|NN bring people|NN form|NN mental physical disability|NN general society|NN possible
+country|NN people|NN syndrome|NN educate normal school|NN system|NN increasingly higher-quality opportunity|NN mix special education|NN regular education|NN set|NN change|NN reduce ability|NN people|NN syndrome|NN pose challenge|NN parent|NN family|NN
+live family|NN preferable institutionalization|NN people|NN people|NN syndrome|NN encounter patronize attitude|NN discrimination|NN wider community|NN
+past decade|NN need couple|NN syndrome|NN marry start family|NN overcom stereotype|NN associate condition|NN
+citation|NN need world|NN syndrome|NN day|NN held march|NP
+day|NN month|NN chosen correspond trisomy|NN respectively
+proclaim syndrome|NN international edit|NN history|NN english|NN physician|NN john|NP langdon|NP characterize syndrome|NN distinct form|NN mental retardation|NN widely publish report|NN entitle observation|NN ethnic classification|NN idiot|NN due perception|NN children|NN syndrome|NN share physical facial similarity|NN fold|NN mongolian race|NN use term|NN mongolian idiocy|NN medical term|NN use time|NN refer severe degree|NN intellectual impairment|NN
+wrote represent appearance|NN mongoloid trait|NN children|NN allegedly advance caucasian parent|NN
+century|NN mongolian idiocy|NN become recognizable form|NN mental retardation|NN
+individual|NN syndrome|NN institutionalize associate medical problem|NN treate dy infancy|NN early adult|NN life|NN
+rise|NN eugenics|NN movement|NN state|NN country|NN began program|NN involuntary sterilization|NN individual|NN syndrome|NN comparable degree|NN disability|NN
+ultimate expression|NN type|NN public policy|NN german euthanasia|NN program|NN aktion|NN begun
+court|NN challenge|NN public revulsion|NN led discontinuation|NN repeal|NN program|NN decade|NN world|NN war|NN
+middle|NN century|NN cause|NN syndrome|NN remain unknown
+presence|NN race|NN association|NN older maternal age|NN rarity|NN recurrence|NN notice
+standard medical text|NN assume cause combination|NN inheritable factor|NN identify
+theory|NN focuse injury|NN sustain birth|NN discovery|NN karyotype technique|NN became possible identify abnormality|NN chromosomal number|NN shape|NN
+professor|NP discover syndrome|NN result extra chromosome|NN extra chromosome|NN subsequently label condition|NN trisomy|NN
+geneticist|NN wrote editor|NN lancet|NN suggest mongolian idiocy|NN mislead connotation|NN become embarrass term|NN change lancet|NN support syndrome|NN
+world|NN health|NN organization|NN officially drop reference|NN mongolism request|NN mongolian delegate|NN united|NP states|NP national institute|NN health|NN conven conference|NN standardize nomenclature|NN malformation|NN
+recommend eliminate possessive form|NN possessive use|NN eponym|NN discontinue author|NN neither own disorder|NN
+possessive non-possessive form|NN use general population|NN syndrome|NN accept term|NN professional|NN usa|NP canada|NP country|NN syndrome|NN use unit kingdom|NN area|NN edit notable individual|NN notable people|NN syndrome|NN include chris|NP burke|NP actor|NN life|NN goe anne|NP de|NP gaulle|NP daughter|NN charles|NP de|NP gaulle|NP stephane|NP actor|NN duo|NN actor|NN syndrome|NN lead|NN part|NN motion|NN picture|NN joey|NP moss|NP edmonton|NP locker|NN room|NN attendant|NN isabella|NP pujols|NP adopt daughter|NN st|NP
+louis|NP cardinal|NN baseman|NN albert|NP pujols|NP inspiration|NN pujol family|NN foundation|NN judith|NP scott|NP artist|NN johnny|NP stallings|NP son|NN university|NN alabama|NP head|NN footbal|NN coach|NN gene|NN subject|NN book|NN season|NN coach story|NN raise exceptional son|NN
+isbn|NP 0767902556|NP miguel|NP singer|NN argentinian avant-rock band|NN syndrome|NN association|NN los|NP angeles|NP maintain list|NN individual|NN syndrome|NN role|NN tv|NN movy|NN edit portrayal fiction|NN bret|NP lott|NP jewel|NN bernice|NP rubens|NP solitary grief|NN paul|NP m|NP robert|NP wolterstorff|NP quantum|NN leap|NN jimmy|NP emily|NP kingsley|NP welcome holland|NP kingdom|NN american counterpart|NN kingdom|NN hospital|NN stephen|NP king|NP dean|NP bad place|NP jeffrey|NP virgin|NN mitchell|NP character|NN eastender|NN kim|NP edwards|NP memory|NN keeper|NN daughter|NN june|NP rae|NP wood|NP man|NN love clown|NN edit reference|NN
+roizen|NP nj|NP patterson|NP syndrome|NN
+wood|NP debra|NP
+definition|NN brushfield spot|NN
+keep kid|NN healthy article|NN syndrome|NN
+strom|NP c|NP
+faq mosaic syndrome|NN society|NN
+mcclure|NP hm|NP kh|NP pieper|NP wa|NP jacobson|NP cb|NP
+trisomy|NN chimpanzee|NN resemblance|NN syndrome|NN
+syndrome|NN recreate mice|NN
+bbc|NP new|NN
+description|NN human karyotype|NN see
+international system|NN human cytogenetic|NN
+syndrome|NN occurrence|NN rate|NN nih|NN
+mosaic syndrome|NN web|NN
+petersen|NP mb|NN l|NP mccormick|NP mk|NP n|NP m|NP se|NP
+clinical cytogenetic molecular genetic characterization|NN unrelate patient|NN different duplication|NN
+am|NP j|NP med|NP genet|NP 19907104-9|NP
+rate|NN chromosomal abnormality|NN different maternal age|NN
+base estimate|NN national institute|NN child|NN health|NN human development|NN syndrome|NN rate|NN
+center|NN disease|NN control|NN january|NP
+improve national prevalence|NN estimate|NN select major birth|NN defect|NN united|NP states|NP
+mortality|NN weekly report|NN
+estimate national syndrome|NN center|NN
+current estimate|NN rate|NN see benn|NP pa|NN j|NP ying|NP t|NP jfx|NP egan|NP
+estimate|NN sensitivity|NN false-positive|NN rate|NN second|NN trimester|NN serum|NN screen|NN syndrome|NN trisomy|NN adjustment|NN cross-identification|NN double-positive|NN result|NN
+practice|NN report|NN ad bone|NN measurement|NN increase detection|NN rate|NN false positive rate|NN
+nih|NP faster study|NN 3532001|NN
+editorial|NN 35319|NN
+assume false positive rate|NN low end|NN incidence|NN syndrome|NN high side|NN detection|NN ascertainment|NN bia|NN
+screen|NN syndrome|NN screen|NN detect
+99800 normal pregnancy|NN give positive result|NN
+2186 positive test|NN result|NN false positive|NN true positive|NN
+eddleman|NP keith|NP et|NP al|NP
+pregnancy|NN loss|NN rate|NN amniocentesis|NN
+caroline|NP mansfield|NP hopfer|NP theresa|NP m|NP
+termination|NN rate|NN prenatal diagnosis|NN syndrome|NN spina|NN bifida|NN turner|NP klinefelter|NP syndrome|NN systematic literature|NN review|NN
+pmid similar result|NN found david|NP w|NP
+britt|NP samantha|NP t|NP
+risinger|NP virginia|NP miller|NP mary|NP k|NP
+mans|NP eric|NP l|NP
+determinants|NP parental decision|NN prenatal diagnosis|NN syndrome|NN bring context|NN
+american journal|NN medical genetics|NN
+glover|NP nm|NP glover|NP sj|NP
+ethical legal issue|NN selective abortion|NN fetuse|NN syndrome|NN
+eugenics|NN abortion|NN perfection|NN entitlement|NN
+washington|NP post|NN
+erik|NP parens|NP adrienne|NP
+disability|NN right|NN critique|NN prenatal genetic test|NN reflection|NN recommendation|NN
+mental retardation|NN developmental disability|NN research|NN review|NN
+new parent|NN guide|NN
+national syndrome|NN society|NN
+research|NN project|NN early intervention|NN education|NN
+bird|NP g|NP s|NP
+effective speech|NN language|NN therapy|NN children|NN syndrome|NN mainstream set|NN case|NN example|NN
+syndrome|NN new|NN update|NN
+comprehensive speech|NN language|NN treatment|NN infant|NN toddler|NN children|NN syndrome|NN d|NP
+patterson|NP syndrome|NN promise future|NN together
+new|NP york|NP
+development|NN fine motor|NN skill|NN syndrome|NN
+occupational therapy|NN child|NN syndrome|NN
+inclusion|NN educating|NP student|NN syndrome|NN non-disable peer|NN
+see debra|NP l|NP
+benefit|NN student|NN syndrome|NN inclusion|NN classroom|NN
+finally see survey|NN ndss|NN inclusion|NN gloria|NP
+educational challenge|NN inclusion|NN study|NN
+national syndrome|NN society|NN
+describe action|NN alliance|NN children|NN
+special need|NN mainstream classroom|NN
+see flores|NP k|NP
+special need|NN mainstream classroom|NN
+american academy|NN committee|NN genetics|NN feb|NP
+american academy|NN health|NN supervision|NN children|NN syndrome|NN
+yang|NP q|NP rasmussen|NP sa|NP friedman|NP jm|NP
+mortality|NN associate syndrome|NN usa|NP population-base study|NN
+young|NP emma|NP
+syndrome|NN lifespan|NN double new scientist|NN
+ying-hui|NP h|NP
+hsiang|NP gary|NP d|NP
+berkovitz|NP gail|NP l|NP
+bland|NP claude|NP j|NP
+migeon|NP andrew|NP c|NP
+warren|NP john|NP m|NP
+opitz|NP james|NP f|NP
+function|NN patient|NN syndrome|NN
+american journal|NN medical genetics|NN 449--458|NN
+r|NP mao|NP cl|NP hr|NN j|NP pevsner|NP
+global up-regulation|NN chromosome|NN gene|NN expression|NN develop syndrome|NN brain|NN
+rong|NP mao|NP wang|NP el|NP et|NP al|NP
+primary secondary transcriptional effect|NN develop human syndrome|NN brain|NN heart|NN
+genome|NN biology|NN
+leshin|NP l|NP
+story|NN syndrome|NN
+zohra jean-louis|NP nicole|NP paul|NP c|NP
+watkins|NP jean-franois|NP marc|NP poissonnier|NP marguerite|NN prieur|NN annie|NP nicole|NP alain|NP sinet jean-maurice|NN
+syndrome|NN critical region|NN d21s55|NN proximal 21q223|NN
+american journal|NN medical genetics|NN
+mendelian inheritance|NN man|NN gene|NN locate
+shekhar|NP chandra|NP
+syndrome|NN trace gene|NN
+mendelian inheritance|NN man|NN omim|NN locate
+avian|NN virus|NN homolog
+inclusion|NN educating|NP student|NN syndrome|NN non-disable peer|NN
+national syndrome|NN society|NN
+world|NN syndrome|NN day|NN
+observation|NN ethnic classification|NN idiot|NN
+clinical lecture|NN report|NN london|NP hospital|NN
+history|NN disorder|NN see oc|NP ward|NP
+john|NP langdon|NP
+royal society|NN medicine|NN press|NN
+isbn|NP 1-85315-374-5|NP conor|NP ward|NP
+john|NP langdon|NP downs|NP syndrome|NN
+john|NP langdon|NP man|NN message|NN
+syndrome|NN research|NN practice|NN
+warkany|NP j|NP
+congenital malformation|NN
+chicago|NP year|NN book|NN medical publisher|NN
+isbn|NP 0-8151-9098-0|NP
+lejeune foundation|NN
+gordon|NP allen|NP ce|NP
+benda|NP ja|NP
+carter|NP ce|NP
+ford|NP ehy|NP
+chu|NP e|NP
+hanhart|NP george|NP jervis|NP w|NP
+langdon-down|NP j|NP
+lejeune|NP h|NP
+nishimura|NP j|NP
+oster|NP ls|NP
+penrose|NP pe|NN
+polani|NP edith|NP l|NP
+potter|NP curt|NP stern|NP r|NP
+turpin|NP j|NP
+howard-jones|NP norman|NP
+diagnostic term|NN disease|NN
+medical history|NN
+plan|NN meet|NN held march|NP result letter|NN lancet|NN classification|NN nomenclature|NN malformation|NN discussion|NN
+conference|NN held february-11|NP february|NP report lancet|NN shortly afterward classification|NN nomenclature|NN morphological defect|NN discussion|NN
+leshin|NP len|NP
+chris|NP burke|NP joe|NP john|NP demasi|NP
+official site|NN
+jenny|NP vaughan|NP
+charles|NP de|NP gaulle|NP
+channel|NN history|NN
+stephane|NP ginnsz|NP
+film|NN actor|NN syndrome|NN
+lomon|NP chris|NP
+alumny|NN all-star award|NN dinner|NN alumny|NN
+family|NN foundation|NN home|NN page|NN
+joyce|NP scott|NP
+entwine life|NN judith|NP scott|NP
+judith|NP scott|NP foundation|NN
+mason|NP carolyn|NP
+life|NN ranchgene stall|NN live texas|NP taken piece|NN alabama|NP
+tuscaloosa new|NN september|NP
+dan|NP warburton|NP
+judith|NP scott|NP foundation|NN
+syndrome|NN association|NN los|NP angeles|NP
+media|NN archive|NN television|NN film|NN include individual|NN syndrome|NN
+edit|NN bibliography|NN beck|NP
+expect adam|NP
+new|NP york|NP berkley|NP book|NN
+buckley|NP s|NP
+live|NN syndrome|NN
+portsmouth|NP uk|NP syndrome|NN educational trust|NN
+syndrome|NN research|NN foundation|NN
+bright begine|NN guide|NN new parent|NN
+buckinghamshire|NP uk|NP syndrome|NN research|NN foundation|NN
+hassold|NP tj|NP d|NP
+patterson|NP ed|NN
+syndrome|NN promise future|NN together
+new|NP york|NP wiley|NP liss|NP
+kingsley|NP j|NP m|NP
+count|NP grow syndrome|NN
+san|NP diego|NP harcourt|NP brace|NN
+pueschel|NP sm|NP m|NP
+adolescent|NN syndrome|NN fulfil life|NN
+baltimore|NP md|NN paul|NP h|NP
+selikowitz|NP m|NP
+syndrome|NN fact|NN edition|NN oxford|NP uk|NP oxford|NP university|NN press|NN
+van|NP dyke|NP dc|NP pj|NP
+mattheis|NP s|NP
+schoon j|NP
+medical surgical care|NN children|NN syndrome|NN
+bethesda|NP md|NN woodbine|NP house|NN
+zuckoff|NP m|NP
+choose family journey|NN
+new|NP york|NP beacon|NP press|NN
+edit external link|NN comprehensive list|NN syndrome|NN link|NN see directory|NN syndrome|NN internet|NN site|NN base contain international link|NN uk|NP resource|NN syndrome|NN edit|NN society|NN association|NN syndrome|NN international syndrome|NN educational trust|NN syndrome|NN research|NN treatment|NN foundation|NN country|NN canadian|NN syndrome|NN society|NN canada|NP syndrome|NN research|NN foundation|NN canada|NP syndrome|NN scotland|NP scotland|NP syndrome|NN association|NN uk|NP scotland|NP syndrome|NN research|NN foundation|NN uk|NP national syndrome|NN society|NN usa|NP national syndrome|NN congress|NN usa|NP international mosaic syndrome|NN association|NN usa|NP heart|NN group|NN heart|NN condition|NN relate syndrome|NN edit|NN conference|NN world|NN syndrome|NN congress|NN vancouver|NP bright begine|NN conference|NN parent|NN professional|NN london|NP --|NN report|NN
+artad8html text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

@@ -1,0 +1,187 @@
+disease|NN disease|NN disease|NN external resource|NN george|NP huntington|NP wrote paper|NN describe disease|NN
+3334|NN dementia|NN disease|NN external resource|NN icd-9|NN disease|NN hd|NP known huntington|NP disease|NN previously chorea|NN maior|NN rare inherit neurological disorder|NN affect people|NN
+take name|NN ohio|NP physician|NN george|NP huntington|NP describe precisely medical paper|NN
+hd|NP heavily research decade|NN inherit genetic disorder|NN accurate test|NN perform
+hd|NP cause trinucleotide repeat|NN expansion|NN huntingtin|NN gene|NN polyglutamine|NN polyq|NN disease|NN
+produce extend form|NN mutant|NN protein|NN cause cell|NN death|NN selective area|NN brain|NN
+obvious symptom|NN abnormal body|NN movement|NN call lack|NN coordination|NN affect number|NN mental ability|NN aspect|NN personality|NN
+physical symptom|NN commonly become noticeable person|NN occur age|NN
+age|NN onset|NN year|NN known juvenile hd|NP
+genetic disorder|NN currently cure|NN symptom|NN manage medication|NN appropriate care|NN
+content|NN sign|NN symptom|NN physical cognitive cause|NN mechanism|NN diagnosis|NN management|NN nutrition|NN potential treatment|NN gene|NP silence|NN epidemiology|NN ethical aspect|NN cultural reference|NN history|NN research|NN discovery|NN relevant organization|NN reference|NN bibliography|NN external link|NN professional research|NN support|NN advocacy|NN edit|NN sign|NN symptom|NN sudden loss|NN ability|NN exhibition|NN symptom|NN progressive decline|NN symptom|NN disappear disease|NN progress
+physical sign|NN usually notice unknown long cognition|NN psychiatric condition|NN affect
+physical symptom|NN alway show cognitive symptom|NN exhibit differently person|NN person|NN psychiatric problem|NN evident
+edit physical people|NN hd|NP eventually exhibit jerky random uncontrollable rapid movement|NN exhibit|NN slow movement|NN stiffness|NN
+abnormal movement|NN gradually increase disease|NN progress initially exhibit general lack|NN coordination|NN unsteady gait|NN
+cause problem|NN loss|NN facial expression|NN call mask|NN movement|NN exaggerate facial gesture|NN ability|NN sit stand stably speech|NN chew|NN swallow lead weight|NN loss|NN diet|NN eate|NN method|NN adjust accordingly loss|NN determination|NN
+later stage|NN disease|NN speak eate|NN mobility|NN extremely difficult impossible full-time care|NN require
+edit cognitive selective cognitive ability|NN progressively impair remain intact
+affect executive|NN function|NN plan|NN cognitive flexibility|NN abstract think|NN rule|NN acquisition|NN initiate appropriate action|NN inhibit inappropriate action|NN function|NN slow|NN thought|NN process|NN control|NN muscle|NN speech|NN actual language|NN skill|NN perceptual spatial skill|NN self|NN surround environment|NN selection|NN correct method|NN remember information|NN actual memory|NN ability|NN learn new skill|NN depend affect part|NN brain|NN edit|NN symptom|NN vary cognitive physical symptom|NN include anxiety|NN depression|NN reduce display|NN emotion|NN call aggressive behaviour|NN cause addiction|NN alcoholism|NN gamble|NN hypersexuality|NN
+patient|NN unable recognize expression|NN disgust|NN show|NN reaction|NN disgust|NN foul odor|NN taste|NN inability|NN recognize disgust|NN appear carrier|NN huntington|NP gene|NN disease|NN broken number|NN relate study|NN publish edit|NN cause|NN see hd|NP gene|NN hd|NP inherit autosomal dominant fashion|NN
+gene|NN involve hd|NP call hd|NP gene|NN locate short arm|NN chromosome|NN
+end|NN hd|NP gene|NN sequence|NN dna|NN base|NN repeate multiple time|NN ie call trinucleotide repeat|NN
+codon|NN amino|NN acid|NN glutamine|NN
+sequence|NN glutamine|NN amino|NN acid|NN residue|NN normal form|NN produce kda|NN cytoplasmic protein|NN call
+repeat|NN cag|NN mutate form|NN htt|NN cause disease|NN mhtt|NN produce
+continuous build|NN mhtt molecule|NN neuronal cell|NN cause die select region|NN brain|NN
+speed|NN cell|NN degeneration|NN generally proportional number|NN extra cag|NN repeat|NN cause earlier onset|NN symptom|NN
+hd|NP autosomal dominant need affect allele|NN parent|NN inherit disease|NN
+generally mean chance|NN inherit disorder|NN affect parent|NN inheritance|NN hd|NP trinucleotide|NN repeat|NN disorder|NN complex
+gene|NN copy|NN repeate trinucleotide|NN sequence|NN dna|NN replication|NN process|NN become unstable number|NN repeat|NN change successive generation|NN
+gene|NN inherit mother|NN count|NN usually similar tend increase inherit father|NN progressive increase|NN length|NN repeat|NN disease|NN tend increase severity|NN earlier onset|NN successive generation|NN
+known anticipation|NN
+edit|NN mechanism|NN see continuous build|NN mhtt molecule|NN neuronal cell|NN cause cell|NN death|NN especially frontal lobe|NN basal ganglia|NN mainly caudate nucleus|NN
+degeneration|NP striatum|NN part|NN brain|NN consist caudate nucleus|NN putamen|NN found
+neuronal loss|NN astrogliosis|NN well loss|NN medium spiny neuron|NN gabaergic|NN chief inhibitory neurotransmitter|NN vertebrate central nervous system|NN result|NN
+result|NN selective degeneration|NN indirect inhibitory pathway|NN basal ganglia|NN lateral pallidum|NN subthalamic nucleus|NN couple pacemaker|NN system|NN
+inclusion|NN stain|NN ubiquitin|NN seen well htt|NN cortical neurite|NN
+suspect cross-link|NN htt result|NN aggregate|NN toxic cause mitochondrial dysfunction|NN proteasome system|NN lead neuron|NN damage excitotoxicity|NN oxidative stress|NN
+exact link|NN cag repeat|NN produce mhtt mitochondrial failure|NN unknown
+evidence|NN aggregate|NN trap critical enzyme|NN involve energy|NN metabolism|NN
+citation|NN need think cause|NN cell|NN death|NN split|NN lysosome|NN hydrolytic enzyme|NN release
+citation|NN neededthis|NN cause cell|NN membrane|NN split|NN cell|NN die
+theory|NN mutation|NN bring disease|NN remain diverse speculative researcher|NN identify specific subcellular|NN abnormality|NN associate well unusual property|NN protein|NN
+example|NN max|NP et|NP al|NP discover glutamine|NN residue|NN form nanotube|NN vitro|NN mutate form|NN long principle|NN pierce cell|NN membrane|NN june|NP issue|NN cell|NN scientist|NN university|NN british columbia|NP merck|NP lab|NN present find|NN neurodegeneration|NN cause mhtt|NN relate caspase-6 enzyme|NN cleave htt protein|NN
+mice|NN resistant show effect|NN hd|NP researcher|NN found substantial support|NN hypothesis|NN cleavage|NN caspase-6 site|NN mhtt|NN represent crucial rate-limit|NN event|NN pathogenesis|NN hd|NP
+study|NN highlight importance|NN prevent cleavage|NN htt|NN site|NN reinforce importance|NN modulate excitotoxicity|NN potential therapeutic approach|NN hd|NP
+essence|NN scientist|NN manage prevent appearance|NN hd|NP genetically modify mice|NN
+marian|NP difiglia world-renown hd|NP researcher|NN neurobiologist|NN harvard|NP university|NN call find important extremely intrigue edit|NN diagnosis|NN determine initial symptom|NN evident physical psychological examination|NN require
+uncontrollable movement|NN symptom|NN cause initial alarm|NN lead|NN diagnosis|NN disease|NN begin cognitive emotional symptom|NN alway recognize
+child|NN person|NN hd|NP percent|NN chance|NN inherit gene|NN disease|NN
+test|NN possible mean|NN blood|NN test|NN count number|NN repetition|NN gene|NN
+negative blood|NN test|NN mean individual|NN carry gene|NN develop symptom|NN pass|NN children|NN
+positive blood|NN test|NN mean individual|NN carry gene|NN develop disease|NN chance|NN pass children|NN
+pre-symptomatic positive blood|NN test|NN consider diagnosis|NN decade|NN onset|NN
+ramification|NN life|NN at-risk individual|NN cure|NN disease|NN proven way|NN slow counsel|NN session|NN usually require blood|NN test|NN
+child|NN show significant symptom|NN juvenile form|NN children|NN test
+member|NN huntington disease|NN society|NN america|NP strongly encourage restriction|NN test|NN protocol|NN
+pre-symptomatic test|NN life-chang event|NN personal decision|NN
+live|NN america|NP list|NN test|NN center|NN available hdsa|NN embryonic genetic screen|NN possible give|NN individual|NN option|NN make sure children|NN clear disease|NN
+ethical consideration|NN abortion|NN potential drawback|NN procedure|NN
+full pathological diagnosis|NN establish neurological examination|NN find|NN demonstration|NN cell|NN loss|NN especially caudate nucleus|NN support cranial ct|NN mry scan|NN find|NN
+edit|NN management|NN treatment|NN fully stop progression|NN disease|NN symptom|NN reduce alleviate use|NN correct medication|NN care|NN method|NN
+edit|NN treatment|NN available help control|NN chorea|NN side|NN effect|NN aggravate bradykinesia|NN dystonia|NN
+standard|NN treatment|NN alleviate emotional symptom|NN include use|NN antidepressant|NN sedative|NN antipsychotics|NN low dose|NN psychotic symptom|NN
+care|NN need taken usage|NN people|NN suffer psychotic symptom|NN organic origin|NN sensitive side|NN effect|NN drug|NN
+edit|NN nutrition|NN nutrition|NN important part|NN treatment|NN hd|NP sufferer|NN need|NN time|NN calory|NN average person|NN maintain body|NN weight|NN nutritionist|NN advice|NN need normal population|NN average daily intake|NN approximately calory|NN women|NN children|NN men|NN
+speech|NN therapy|NN help improve speech|NN swallow method|NN
+advice|NN sought early ability|NN learn reduce disease|NN progress
+aid|NN swallow|NN ad drink|NN
+option|NN use stomach|NN peg|NN available eate|NN become hazardous uncomfortable reduce chance|NN due|NN aspiration|NN food|NN increase amount|NN nutrient|NN calory|NN ingest
+epa|NP omega-iiy fatty acid|NN slow possibly reverse progression|NN disease|NN
+currently fda|NP clinical trial|NN lax-101|NN prescription|NN use|NN
+clinical trial|NN utilize gram|NN day|NN epa|NP
+united|NP states|NP available counter|NN lower concentration|NN omega-iiy|NN fish|NN oil|NN supplement|NN
+calorie|NN restrictive diet|NN delay|NN onset|NN symptom|NN hd|NP mice|NN edit potential treatment|NN trial|NN research|NN conduct drosophila|NP fruit|NN fly|NN mice|NN genetically modify exhibit hd|NP move human trial|NN
+research|NN review various website|NN hd|NP sufferer|NN family|NN huntington disease|NN lighthouse|NN disease|NN foundation|NN stanford|NP hope|NN
+primary research|NN found search national library|NN medicine|NN
+clinical trial|NN various treatment|NN ongo initiate
+example|NN registrar|NN trial|NN currently recruit volunteer|NN edit gene|NP silence hopeful prospective treatment|NN currently study base gene|NN silence|NN
+hd|NP cause expression|NN single gene|NN silence|NN gene|NN theoretically halt progression|NN disease|NN
+study|NN mouse|NN model|NN hd|NP treate therapy|NN achieve knockdown|NN expression|NN defective gene|NN
+progression|NN disease|NN halt full recovery|NN motor|NN function|NN observe late stage|NN mice|NN addition|NN edit|NN agent|NN measure|NN show promise|NN initial experiment|NN include dopamine|NN receptor|NN blocker|NN creatine antibiotic|NN exercise|NN food|NN nutrient|NN antidepressant|NN notably exclusively selective serotonin|NN reuptake|NN inhibitor|NN fluoxetine|NN paroxetine|NN select dopamine|NN antagonist|NN
+pig|NN cell|NN implant|NN hd|NP trial|NN live|NN cell|NN technology|NN new|NP zealand|NP attempt trial|NN positive result|NN primate|NN conduct human trial|NN foldinghome project|NN largest distribute process|NN project|NN internet|NN
+model protein|NN fold|NN hd|NP list potential benefactor|NN result|NN
+edit onset|NN hd|NP seem correlate number|NN cag|NN repeat person|NN hd|NP gene|NN
+generally higher number|NN repeat|NN sooner onset|NN number|NN repeat|NN change slightly successive generation|NN age|NN onset|NN vary well
+symptom|NN disease|NN usually become noticeable mid mid
+juvenile hd|NP age|NN onset|NN anywhere infancy|NN year|NN age|NN
+symptom|NN juvenile hd|NP different hd|NP generally progress faster likely exhibit rigidity|NN bradykinesia slow movement|NN instead
+mortality|NN due infection|NN mostly pneumonia|NN injury|NN complication|NN result hd|NP suicide|NN suicide|NN rate|NN hd|NP sufferer|NN greater national average|NN disease|NN
+life|NN expectancy|NN generally year|NN onset|NN obvious symptom|NN
+edit|NN epidemiology|NN prevalence|NN vary geographically
+percent|NN hd|NP case|NN occur people|NN age|NN year|NN
+refer juvenile|NN hd|NP akinetic-rigid|NP variant|NN hd|NP
+edit ethical aspect|NN test|NN hd|NP genetic counsel|NN provide perspective|NN risk|NN disease|NN
+choose undergo hd|NP test|NN due numerous concern|NN example|NN
+test|NN grandchildren|NN sufferer|NN serious ethical implication|NN parent|NN decline test|NN positive result|NN grandchild test|NN automatically diagnose parent|NN
+parent|NN grandparent|NN decide tell children|NN grandchildren|NN
+issue|NN disclosure|NN come sible|NN diagnose disease|NN especially case|NN identical twin|NN
+unusual entire segment|NN family|NN become alienate result|NN information|NN withhold|NN
+risk|NN known disease|NN consideration|NN necessary children|NN due genetically dominant nature|NN disease|NN
+vitro|NN embryonic genetic screen|NN make possible certainty|NN hd-free child|NN cost|NN process|NN easily reach dollar|NN
+financial institution|NN face question|NN use genetic test|NN result|NN assess individual|NN eg life|NN insurance|NN
+country|NN organization|NN agree use information|NN
+edit cultural reference|NN hd|NP depict book|NN film|NN television|NN programme|NN episode|NN bbc|NP drama|NN waterloo|NP road|NP film|NN restaurant|NN johan|NP norwegian novel|NN daimler|NP main character|NN daniel|NP grimsgaard|NP afflict kurt|NP novel|NN galapagos|NP valley|NN doll|NN jacqueline|NP night|NN club|NN singer|NN tony|NP polar hd|NP book|NN save|NN diane|NP trist|NN grandfather|NN
+ian|NP mcewan|NP novel|NN saturday|NP character|NN baxter|NP suffer|NN hd|NP protagonist|NN dr|NP henry|NP diagnose|NN correctly
+comment|NN publish lancet|NN nancy|NP wexler|NP michael|NP deplore mc|NN ewan|NP sadly reinforce stigma|NN stereotype|NN family|NN disease|NN suffer make hide inheritance|NN destiny|NN
+woody|NP guthrie|NP suffer disease|NN finally dy
+tv|NN series|NN character|NN father|NN hd|NP undergoe test|NN see inherent gene|NN
+afraid learn result|NN relieve test|NN negative
+edit|NN history|NN edit|NN research|NN discovery|NN evidence|NN doctor|NN far back|NN middle age|NN knew disease|NN
+known condition|NN abnormal movement|NN st|NP vitus|NP dance|NN
+st|NP vitus|NP christian patron|NN saint|NN epileptics|NN martyr
+middle age|NN
+people|NN condition|NN persecute witche|NN possess spirit|NN shun exil worse
+speculate witche|NN salem|NP witch|NN trial|NN hd|NP early medical description|NN hd|NP made norwegian district|NN physician|NN johan|NP christian|NP lund|NP
+note remote seclude area|NN high prevalence|NN dementia|NN associate pattern|NN jerk|NN movement|NN disorder|NN tend run family|NN
+reason|NN disease|NN commonly refer setesdalenthe location|NN movement|NN norwegian|NN george|NP huntington|NP generation|NN medical practitioner|NN long island|NN
+combine experience|NN generation|NN family|NN symptom|NN realise condition|NN link set describe
+year|NN leave medical school|NN present accurate definition|NN disease|NN medical society|NN middleport|NP ohio|NP
+c1923|NP smith|NP ely|NP 1866-1945|NP frederick|NP tilney|NP 1875-1938|NP began analyze history|NN hd|NP sufferer|NN new|NP england|NP p|NP
+expand jelliffe|NN work|NN trace people|NN hd|NP back|NN brother|NN family|NN left bures|NP essex|NP suffolk|NP bound|NN boston|NP us-venezuela|NN disease|NN collaborative research|NN project|NN began extensive study|NN gave basis|NN gene|NN discover
+conduct small isolate venezuelan fish|NN village|NN barranquita|NN laguneta|NN
+family|NN high presence|NN disease|NN prove invaluable research|NN disease|NN professor|NP james|NP david|NP housman|NP p|NP
+michael|NP conneally|NP colleague|NN find general location|NN gene|NN use dna|NN mark|NN method|NN time|NN important step|NN human genome|NN project|NN anita|NP al|NP find repeat|NN affect disease|NN severity|NN huntington disease|NN collaborative research|NN group|NN isolate precise gene|NN 4p163|NP transgenic mouse|NN create made exhibit hd|NP greatly advance experimentation|NN achieve researcher|NN discover bunche|NN misfold|NN form nuclear inclusion|NN christopher|NP ross|NP team|NN johns|NP hopkins|NP university|NN describe cause death|NN cell|NN full record|NN research|NN extensive edit|NN relevant organization|NN woody|NP guthry|NN wife|NN marjorie|NP guthrie|NP help found committee|NN combat|NN disease|NN death|NN suffer hd|NP
+eventually became huntington disease|NN society|NN america|NP lay organization|NN form country|NN world|NN experience hd|NP wife family|NN dr|NP
+milton|NP wexler|NP inspire start hereditary disease|NN foundation|NN hdf|NP
+professor|NP nancy|NP s|NP
+wexler|NP dr|NP
+daughter|NN research|NN team|NN venezeula|NN president|NN hdf|NP international meet|NN took place|NN founder|NN canadian hd|NP society|NN ralph|NP walker|NP british hd|NP society|NN jones|NP attend annual meet|NN american hd|NP society|NN second|NN meet|NN organize dutch huntington|NP society|NN verenig van|NN huntington|NP representative|NN country|NN present international huntington|NP association|NN form international meet|NN oxford|NP england|NP organize hda|NN england|NP biennial|NN meet|NN held iha|NN became world|NN congress|NN hd|NP world|NN congress|NN disease|NN held toronto|NP
+biennial|NN meet|NN association|NN researcher|NN share|NN idea|NN research|NN held odd-number year|NN
+euro-hd network|NN start part|NN huntington|NP project|NN fund high-q foundation|NN
+edit|NN reference|NN
+mitchell|NP ij|NP h|NP neville|NP ea|NP rickards|NP h|NP
+disease|NN patient|NN show impair perception|NN disgust|NN gustatory|NN olfactory modality|NN
+journal|NN neuropsychiatry|NN clinical neuroscience|NP february|NP
+sprengelmeyer|NP r|NP schroeder|NP u|NP young|NP jt|NP
+disgust|NN huntington disease|NN longitudinal study|NN
+search|NN disease|NN disgust|NN
+rm|NP ridley|NP cd|NN frith|NP tj|NP crow|NP pm|NN
+anticipation|NN disease|NN inherit male line|NN originate female|NN
+journal|NN medical genetics|NN
+perutz jt|NP
+finch|NP j|NP
+proceed|NN national academy|NN science|NN
+graham|NP rk|NP y|NP deng|NP slow b|NP haigh|NP n|NP g|NP lu|NP j|NP pearson|NP j|NP l|NP bertram|NP z|NP murphy|NP s|NP roy|NP cl|NP wellington|NP br|NP leavitt|NP la|NP raymond|NP dw|NP nicholson|NP hayden|NP
+cleavage caspase-6 site|NN require neuronal dysfunction|NN degeneration|NN due mutant|NN
+canadian researcher|NN cure|NN disease|NN mice|NN
+fasting|NP forestal disease|NN mice|NN
+disease|NN overview|NN
+miguel|NP daz-hernndez|NP jess|NP alejandro|NP mara|NP
+morn|NP pilar|NP jordi|NP jos|NP j|NP
+lucas|NP october|NP
+full motor|NN recovery|NN neuron|NN loss|NN formation|NN amyloid-like inclusion|NN conditional mouse|NN model|NN disease|NN
+journal|NN neuroscience|NP
+world|NN health|NN article|NN
+huntington|NP disease|NN
+prejudice|NN portrayal|NN disease|NN nancy|NP s|NP michael|NP d|NP rawlins|NP lancet|NN vol|NN september|NP
+brief history|NN hd|NP
+achievement|NN disease|NN foundation|NN
+research|NN new|NN medical research|NN treatment|NN prevention|NN
+disease|NN society|NN america|NP
+huntington|NP project|NN
+foundation|NN edit|NN bibliography|NN john|NP p|NP
+md|NN jd|NP
+george|NP sumner|NP huntington|NP disease|NN bear name|NN
+transmission|NN chorea|NN year|NN bures|NP family|NN group|NN
+journal|NN nervous mental disease|NN baltimore|NP
+huntington|NP 1872-04-13|NP
+medical surgical reporter|NN philadelphia|NP
+gillian|NP bates|NP peter|NP harper|NP lesley|NP jones|NP
+disease|NN edition|NN
+oxford|NP oxford|NP university|NN press|NN
+isbn|NP 0-19-851060-8|NP
+article|NN 143100|NN huntington|NP disease|NN online mendelian inheritance|NN man|NP johns|NP hopkins|NP university|NN article|NN 606438|NN huntington online mendelian inheritance|NN man|NP johns|NP hopkins|NP university|NN history|NN medicine|NN johns|NP hopkins|NP university|NN biography|NN george|NP huntington|NP relevant information|NN
+edit external link|NN edit professional research|NN huntington|NP project|NN worldwide umbrella|NN organization|NN clinical research|NN effort|NN hd|NP
+huntington|NP study|NN group|NN disease|NN research|NN research|NN abstract|NN hd|NP
+outreach|NN project|NN education|NN stanford|NP hope|NN layperson guide|NN hd|NP worldwide education|NN awareness|NN movement|NN disorder|NN hd|NP section|NN university|NN college|NN london|NP huntingtons|NP disease|NN research|NN edit|NN support|NN advocacy|NN international huntington|NP association|NN support|NN organization|NN country|NN individual contact|NN
+disease|NN foundation|NN venezuela|NP collaborative huntington|NN disease|NN project|NN
+disease|NN lighthouse|NN report|NN latest research|NN study|NN
+disease|NN advocacy|NN center|NN provide community|NN support|NN share story|NN forum|NN
+disease|NN support|NN club|NN disease|NN society|NN america|NP huntington|NP society|NN canada|NP resource|NN material|NN latest canadian international hd|NP research|NN description|NN comprehensive service|NN portfolio|NN help family|NN struggle hd|NP european hd|NP network|NN australian huntington|NN disease|NN association|NN nsw|NP inc
+disease|NN association|NN uk|NP retrieved|NP
+artadlhtml text|NN come free encyclopedia|NN
+permission|NN grant copy|NN distribute modify document|NN term|NN gnu free documentation|NN version|NN later version|NN publish free software|NN foundation|NN invariant section|NN front-cover text|NN back-cover text|NN
+complete list|NN contributor|NN give article|NN visit|NN correspond entry|NN english wikipedia|NN click|NN history|NN
+detail|NN license|NN image|NN visit|NN correspond entry|NN english wikipedia|NN click|NN picture|NN

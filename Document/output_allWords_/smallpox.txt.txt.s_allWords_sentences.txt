@@ -1,0 +1,253 @@
+school|NN selection|NN
+relate subject|NN health|NN medicine|NN smallpox|NN external resource|NN child|NN infect smallpox|NN b|NP
+050|NN medlineplus|NN emerg885|NN ivariola virus|NN virus|NN classification|NN group|NN group|NN dsdna family|NN genus|NN specy|NN vera|NN
+known latin name|NN vera|NN highly contagious viral disease|NN unique human|NN
+cause virus|NN variant|NN call major variola minor
+major deadly form|NN typical mortality|NN percent|NN infect
+type|NN minor kill|NN victim|NN
+survivor|NN left blind eye|NN corneal ulceration|NN persistent skin|NN nearly universal
+responsible estimate 300500|NN death|NN century|NN
+recently world|NN health|NN organization|NN estimate people|NN contract disease|NN dy year|NN
+successful vaccination|NN campaign|NN certify eradication|NN smallpox|NN culture|NN virus|NN kept center|NN disease|NN control|NN prevention|NN cdc|NP united|NP states|NP institute|NN virus|NN preparation|NN siberia|NP russia|NP
+scientist|NN certify eradicate december|NP formally ratify resolution|NN vaccination|NN discontinue country|NN morbidity|NN mortality|NN vaccination|NN exceed risk|NN infection|NN disease|NN extinct wild
+nonetheless anthrax attack|NN took place|NN united|NP states|NP concern smallpox|NN resurface possible agent|NN
+result|NN increase concern|NN availability|NN vaccine|NN stock|NN
+moreover president|NP george|NP w|NP
+bush|NP order american military personnel|NN vaccinate smallpox|NN implement voluntary program|NN emergency|NN medical personnel|NN
+famous victim|NN disease|NN include v|NP see note|NN shunzhy emperor|NN emperor|NN china|NP official history|NN mary|NP england|NP louis|NP france|NP peter|NP russia|NP
+henry|NP wife|NN anne|NP cleves|NP survive disease|NN scare henry|NP daughter|NN elizabeth|NP i|NP england|NP guru|NN guru|NN sikh|NN peter|NP russia|NP abraham|NP lincoln|NP
+joseph|NP stalin|NP badly scare disease|NN early life|NN photograph|NN make pockmark|NN apparent
+contact|NN european|NN african|NN death|NN large part|NN native population|NN new world|NN cause old world|NN disease|NN
+chief culprit|NN
+occasion|NN germ|NN warfare|NN attempt british army|NN jeffery|NP amherst|NP smallpox-infect|NN blanket|NN deliberately give representative|NN besieg delaware|NP indian|NN rebellion|NN
+amherst|NP intend spread disease|NN native|NN doubt historian|NN attempt|NN succeed matter|NN debate|NN
+describe ayurveda book|NN
+ameliorate inoculation|NN year-old smallpox|NN matter|NN
+inoculator|NN travel india|NP prick skin|NN arm|NN small metal|NN instrument|NN use matter|NN taken pustule|NN produce previous year|NN inoculation|NN
+effectiveness|NN system|NN confirm british doctor|NN
+holwel account|NN college|NN physician|NN london|NP
+edward|NP jenner|NP develop smallpox|NN vaccine|NN use fluid|NN name|NN vaccination|NN derive latin vacca|NN cow|NN vaccination|NN occure
+person|NN record vaccinate|NN smallpox|NN benjamin|NP farmer|NN
+note common knowledge|NN previously contract severe suffer smallpox|NN even nurse ill family|NN member|NN
+smallpox|NN outbreak|NN summer|NN inoculate wife|NN children|NN
+wife|NN became ill recover treatment|NN
+jenner|NP establish technique|NN practice|NN vaccination|NN
+practice|NN vaccination|NN smallpox|NN spread|NN quickly europe|NP america|NP
+prior cowpox vaccine|NN new|NP england|NP settler|NN inoculate mean|NN make small incision|NN arm|NN healthy patient|NN scrape pustule|NN smallpox|NN victim|NN spread pus|NN arm|NN incision|NN
+inoculate patient|NN sick week|NN generally recover
+prior abigail|NP adams|NP massachusetts|NP wrote husband|NN john|NP adams|NP congress|NN philadelpha|NN take children|NN boston|NP inoculate severe outbreak|NN rural home|NN kill entire neighbor|NN family|NN
+smallpox|NN vaccination|NN north|NP america|NP occure june|NP
+national law|NN require vaccination|NN began appear early
+case|NN wild smallpox|NN occure october|NP
+victim|NN claim disease|NN uk|NP september|NP janet|NP parker|NP photographer|NN university|NN birmingham|NP medical school|NN contract disease|NN dy
+research|NN project|NN smallpox|NN conduct build|NN time|NN exact route|NN
+parker|NP became infect fully elucidate
+note recent study|NN centre|NN disease|NN control|NN atlanta|NP cdc|NP found people|NN carrier|NN smallpox|NN quite possibly infect horrify disease|NN
+disease|NN moderately infectious far chickenpox|NN
+chickenpox|NN smallpox|NN notably infectious prodromal|NN shed|NN delay appearance|NN rash|NN
+transmission|NN risk|NN prolong social contact|NN direct contact|NN infect body|NN fluid|NN contaminate object|NN
+infection|NN natural disease|NN lung|NN
+incubation|NN period|NN obvious disease|NN day|NN
+initial growth|NN phase|NN virus|NN seem move cell|NN cell|NN day|NN lysis|NN infect cell|NN occur virus|NN found bloodstream|NN large number|NN
+initial prodromal symptom|NN essentially similar viral disease|NN influenza|NN common cold fever|NN muscle|NN pain|NN stomach|NN ache|NN
+digestive tract|NN commonly involve lead vomit
+case|NN prostrate
+virus|NN preferentially attack skin|NN cell|NN day|NN smallpox|NN infection|NN become obvious
+attack|NN skin|NN cell|NN cause characteristic pimple|NN associate disease|NN
+pimple|NN tend erupt mouth|NN arm|NN hand|NN later rest|NN body|NN
+point|NN pimple|NN call fairly small
+stage|NN victim|NN contagious
+day|NN condition|NN point|NN disease|NN take vastly different course|NN
+form|NN classical ordinary smallpox|NN pimple|NN grow vesicle|NN fill pus|NN turn
+ordinary smallpox|NN generally take basic course|NN
+discrete ordinary smallpox|NN pustule|NN stand skin|NN separatelythere|NN greater chance|NN survive form|NN
+confluent ordinary smallpox|NN blister|NN merge together sheet|NN begin detach outer layer|NN skin|NN underly fleshthis|NN form|NN usually fatal
+patient|NN survive course|NN disease|NN pustule|NN deflate time|NN duration|NN variable start dry usually begine day|NN
+eventually pustule|NN completely dry start flake|NN
+pustule flake|NN patient|NN consider cure
+form|NN major smallpox|NN known smallpox|NN mortality|NN percent|NN report
+entirely different set|NN symptom|NN start develop
+skin|NN blister remain smooth
+instead bleed occur skin|NN make skin|NN look|NN chare black known black pox|NN
+eye|NN make white|NN eye|NN turn deep red|NN victim|NN live|NN long eventually black
+time|NN bleed begin organ|NN
+death|NN occur bleed fatal loss|NN blood|NN cause|NN brain|NN loss|NN fluid|NN
+entry|NN infectious organism|NN skin|NN intestine|NN longer barrier|NN lead failure|NN
+form|NN smallpox|NN occur anywhere fatal case|NN depend virulence|NN smallpox|NN strain|NN
+historical mode|NN death|NN similar burn|NN catastrophic loss|NN fluid|NN protein|NN electrolyte|NN capacity|NN body|NN replace assimilate fulminate sepsis|NN due removal|NN barrier|NN internal milieu|NN outside world|NN
+treatment|NN improve large smallpox|NN epidemics|NN grossly optimistic imagine even small number|NN patient|NN intensive modern treatment|NN ensure survival|NN even damage|NN predominantly skin|NN
+reduction|NN severity|NN disease|NN raise|NN immunity|NN likely make large difference|NN number|NN reach threshold|NN death|NN supportive treatment|NN small elevate threshold|NN
+historical epidemics|NN pandemics|NN believe historian|NN early outbreak|NN smallpox|NN
+contemporary record|NN detail make definite diagnosis|NN distance|NN
+plague|NN athens|NP devastate city|NN athens|NP bc|NP kill|NN population|NN thucydides|NP
+historian|NN long consider example|NN disease|NN plague|NN recent examination|NN report symptom|NN led scholar|NN believe cause|NN measle|NN smallpox|NN typhus|NN
+antonine plague|NN swept roman empire|NN italy|NP thought smallpox|NN measle|NN
+major outbreak|NN disease|NN empire|NN known plague|NN smallpox|NN measle|NN
+major epidemic|NN believe smallpox|NN occure india|NP
+exact date|NN unknown
+indian medical book|NN record disease|NN mark pustule|NN say pustule|NN red yellow white accompany burn pain|NN skin|NN seem stude grain|NN rice|NN
+indian epidemic|NN thought punishment|NN god|NN survivor|NN create goddess|NN anthropomorphic personification|NN disease|NN
+regard possession|NN
+hinduism|NN goddess|NN cause|NN cure|NN high fever|NN rashe|NN hot flashe|NN pustule|NN
+symptom|NN smallpox|NN
+enter europe|NP
+detail|NN epidemic|NN follow lost probably due scarcity|NN survive written record|NN early medieval society|NN
+hernn|NN land shore|NN mexico|NP aztec empire|NN
+group|NN spanish|NN came cuba|NP land mexico|NP
+african slave|NN smallpox|NN
+heard group|NN went defeate
+contact|NN men|NN contract disease|NN
+return tenochtitlan brought disease|NN
+soon aztecs|NN rose rebellion|NN
+outnumber spanish|NN force flee
+fight|NN spanish soldier|NN carry smallpox|NN dy
+battle|NN aztecs|NN contract virus|NN invader|NN body|NN
+cortes|NP return capital|NN august|NP
+meantime|NN smallpox|NN devastate aztec population|NN
+kill aztec army|NN emperor|NN overal population|NN
+spanish priest|NN left description|NN indian|NN know remedy|NN diseasethey|NN dy heap|NN
+place|NN happen house|NN dy impossible bury great number|NN dead pull house|NN home|NN become tomb|NN return|NN found aztec army|NN chain|NN command|NN ruin|NN
+soldier|NN live weak disease|NN
+easily defeate aztecs|NN enter found smallpox|NN kill aztecs|NN cannon|NN
+spaniard|NN said walk street|NN step|NN body|NN smallpox|NN victim|NN
+effect|NN smallpox|NN tahuantinsuyu|NN inca empire|NN even devastate
+begine|NN colombia|NP smallpox|NN spread|NN rapidly spanish invader|NN arrive empire|NN
+spread|NN probably aid efficient inca road|NN system|NN
+month|NN disease|NN kill sapa inca huayna|NN successor|NN leader|NN
+survive son|NN power|NN bloody costly war|NN become new inca
+return capital|NN cuzco|NP francisco|NP pizarro|NP arrive series|NN deceit|NN capture young leader|NN best general
+year|NN smallpox|NN claim inca population|NN wave|NN european disease|NN weaken further
+historian|NN think serious native disease|NN call responsible outbreak|NN illness|NN
+even mighty empire|NN americas|NP defeate virus|NN smallpox|NN continue march|NN death|NN
+plymouth|NP massachusetts|NP native american|NN struck virus|NN
+elsewhere virus|NN wipe entire population|NN group|NN native american|NN
+reach lake|NP ontario|NP land|NN iroquois|NN kill|NN
+worst sequence|NN smallpox|NN attack|NN took place|NN boston|NP massachusetts|NP
+boston|NP endure epidemics|NN
+severe epidemic|NN occure
+entire population|NN fled city|NN bring virus|NN rest|NN colony|NN
+late american revolutionary war|NN smallpox|NN return kill estimate 125000|NN people|NN
+see population|NN history|NN american indigenous people|NN discussion|NN disease|NN issue|NN time|NN european contact|NN
+time|NN preventive treatment|NN smallpox|NN finally arrive
+process|NN call inoculation|NN known insufflation|NN variolation|NN
+sudden innovation|NN known practice india|NP early bc
+indian|NN rub pus|NN skin|NN lesion|NN
+chinese|NN blew powder smallpox|NN scab|NN nose|NN healthy discovery|NN inoculate people|NN buddhist nun|NN
+patient|NN develop mild case|NN disease|NN immune
+technique|NN known variolation|NN 05-2 mortality|NN rate|NN considerably mortality|NN rate|NN disease|NN
+process|NN spread|NN turkey|NP lady|NP mary|NP wortley|NP montagu|NP wife|NN british ambassador|NN learn emmanuel|NP timoni|NP ca 16701718 doctor|NN affiliate british embassy|NN istanbul|NP
+procedure|NN perform son|NN daughter|NN respectively
+recover quickly procedure|NN hail success|NN report royal society|NN england|NP
+timony university|NN padova|NP italy|NP member|NN royal society|NN london|NP publish account|NN history|NN procure|NN smallpox|NN incision|NN december|NP philosophical transaction|NN
+work|NN publish leipzig|NP follow maitland|NP
+epidemic|NN smallpox|NN hit london|NP left british royal family|NN fear|NN
+read success|NN lady|NP wortley|NP effort|NN want use inoculation|NN
+doctor|NN told dangerous procedure|NN decide try people|NN
+subject|NN use condemn prisoner|NN
+doctor|NN inoculate prisoner|NN recover couple|NN week|NN
+assure british royal family|NN inoculate reassure english people|NN safe
+inoculation|NN critics|NN
+prominent religious preacher|NN claim smallpox|NN god|NN way|NN punish people|NN inoculation|NN tool|NN satan|NP
+resistance|NN encourage montagu|NP work even harder
+inoculation|NN extremely common england|NP even scientific opposition|NN fellow|NN royal college|NN physician|NN pierce|NP dod|NP continue time|NN
+onesimus|NN slave|NN boston|NP preacher|NN smallpox|NN came boston|NP ship|NN arrive barbados|NP owner|NN cotton|NP mather|NP ask slave|NN ever smallpox|NN
+said explain technique|NN homeland|NN africa|NP thought sudan|NP
+explain pus|NN infect person|NN deliberately rub scratch|NN cut|NN non-infect person|NN successful person|NN immunity|NN
+remedy|NN african slave|NN precursor|NN inoculation|NN
+cotton|NP mather|NP son|NN harvard|NP university|NN dean|NN wage campaign|NN promote process|NN religious resistance|NN inoculation|NN strong
+point|NN cotton|NP mather|NP danger|NN crowd|NN want hang
+patient|NN dy procedure|NN call murderer|NN
+population|NN boston|NP return end|NN smallpox|NN epidemic|NN instant hero|NN
+population|NN boston|NP dy smallpox|NN
+people|NN chose inoculate dy
+english magazine|NN magazine|NN reprint pamphlet|NN argue support|NN smallpox|NN inoculation|NN
+consider odd choose inoculation|NN
+later freed mather|NP knowledge|NN help|NN combate smallpox|NN mather|NP consider disobedient
+even inoculation|NN powerful method|NN control smallpox|NN far perfect
+cause mild case|NN smallpox|NN result death|NN case|NN
+difficult administer
+sick patient|NN lock prevent transmit disease|NN
+george|NP washington|NP initially hesitate revolutionary war|NN troop|NN inoculate smallpox|NN outbreak|NN february|NP write|NN inoculate generally enemy|NN know certainly take advantage|NN situation|NN virulence|NN outbreak|NN soon prompt order|NN troop|NN recruit|NN disease|NN
+young boy|NN england|NP name|NN edward|NP jenner|NP inoculate
+suffer disease|NN entire month|NN
+even recover determine find better method|NN prevent smallpox|NN
+age|NN jenner|NP apprentice dr|NP
+observe people|NN caught work|NN cow|NN known catch smallpox|NN
+assume causal connection|NN
+idea|NN taken dr|NP
+ludlow|NP time|NN
+jenner|NP return medical school|NN london|NP smallpox|NN epidemic|NN struck home|NN town|NN berkeley|NP england|NP
+advise local cow|NN worker|NN inoculate
+farmer|NN told prevent smallpox|NN
+confirm childhood|NN suspicion|NN study further present paper|NN local medical society|NN
+perhap informal public understand|NN connection|NN disease|NN resistance|NN work|NN cow|NN
+beautiful milkmaid|NN seem frequent image|NN art|NN literature|NN period|NN
+sarah|NP local milkmaid|NN contract went jenner|NP treatment|NN
+jenner|NP took opportunity|NN test theory|NN
+inoculate james|NP phipps|NP eight-year-old son|NN gardener|NN smallpox|NN
+extremely weak bout|NN cowpox|NP james|NP recover
+jenner|NP try infect james|NP smallpox|NN boy|NN immune smallpox|NN
+jenner|NP report observation|NN royal society|NN
+further work|NN suggest jenner|NP publish series|NN case|NN son|NN edward|NP none suffer severely smallpox|NN
+year|NN later society|NN oppose vaccination|NN establish boston|NP massachusetts|NP indication|NN rapid spread|NN deep interest|NN
+work|NN publish major european language|NN
+process|NN perform europe|NP united|NP states|NP
+death|NN rate|NN close zero|NN process|NN became known vaccination|NN continue uk|NP
+typical death|NN rate|NN time|NN roughly make|NN vaccination|NN smallpox|NN vaccinia|NN dangerous immunisation|NN widely provide modern time|NN
+balmis expedition|NN carry vaccine|NN spanish america|NP philippines|NP china|NP commission|NN spanish crown|NN
+year|NN dr|NP
+jenner|NP benjamin|NP farmer|NN yetminster|NN dorset|NP later move bury worth|NP matravers|NP record observe milkmaid live|NN family|NN immune smallpox|NN family|NN cowpox|NP protect smallpox|NN
+adequately verify question|NN initiate smallpox|NN settle day|NN
+louis|NP t|NP
+wright|NP african-american harvard|NP medical school|NN graduate|NN introduce vaccination|NN smallpox|NN soldier|NN serve army|NN
+jenner|NP said annihilation|NN dreadful scourge|NN human racewil|NN final result|NN vaccination|NN dream|NN ultimately realize
+world|NN attempt|NN made annihilate smallpox|NN
+england|NP ban inoculation|NN later progress mandatory vaccination|NN
+united|NP states|NP massachusetts|NP state|NN require vaccination|NN
+alteration|NN relationship|NN state|NN citizen|NN universally approve
+protest|NN coordinate effort|NN smallpox|NN went disease|NN continue diminish wealthy country|NN
+poorer country|NN vaccine|NN necessary infrastructure|NN affordable available
+soviet union|NN call eradication|NN smallpox|NN planet|NN
+point|NN people|NN dy year|NN
+international team|NN form leadership|NN american donald|NP henderson|NP
+eradicate smallpox|NN outbreak|NN stop spread|NN isolation|NN case|NN vaccination|NN live close
+process|NN known ring|NN vaccination|NN
+initial problem|NN team|NN face inadequate report|NN arrangement|NN smallpox|NN case|NN notify authority|NN
+begin eradicate smallpox|NN necessary establish smallpox|NN carrier|NN exist smallpox|NN exist wild|NN disease|NN yellow fever|NN
+fact|NN case|NN smallpox|NN confirm fact|NN certain medical science|NN
+network|NN expert|NN establish world|NN
+disease|NN emerge assistance|NN offer local government|NN vaccinate area|NN
+smallpox|NN require huge effort|NN concentration|NN
+india|NP bangladesh|NP religion|NN round-the-clock civil war|NN became obstacle|NN
+fear|NN offend goddess|NN associate disease|NN hindus|NN refuse vaccine|NN
+civil war|NN bigger problem|NN
+troop|NN movement|NN crowd encampment|NN long associate spread|NN disease|NN smallpox|NN
+team|NN answer|NN civil war|NN vaccinate troop|NN permission|NN general|NN command army|NN
+team|NN place great danger|NN even told stop
+surprisingly team|NN member|NN hurt process|NN
+natural event|NN imped vaccination|NN team|NN effort|NN
+monsoon|NN rain burst|NN dam|NN dike|NN
+rain|NN flood|NN force people|NN flee allow smallpox|NN spread
+outbreak|NN took team|NN whole year|NN stop
+major european outbreak|NN smallpox|NN outbreak|NN smallpox|NN yugoslavia|NP
+pilgrim|NN return middle east|NN contract virus|NN epidemic|NN infect people|NN cause death|NN
+authority|NN declare martial law|NN enforce quarantine|NN undertook massive revaccination|NN population|NN enlist help|NN donald|NP henderson|NP
+month|NN outbreak|NN
+naturally occure case|NN variola|NP minor|NP diagnose somalia|NP cook|NN name ali|NP maalin|NN date|NN october|NP
+naturally occure case|NN deadly major|NP detect october|NP two-year-old bangladesh|NP girl|NN rahima|NN
+end|NN united|NP states|NP dollar|NN apply eradication|NN process|NN
+evidently escape|NN smallpox|NN containment|NN research|NN laboratory|NN birmingham|NP england|NP
+medical photographer|NN janet|NP parker|NP dy disease|NN professor|NP responsible unit|NN professor|NP henry|NP bedson|NP kill
+light|NN accident|NN known stock|NN smallpox|NN destroy stock|NN united|NP states|NP centre|NN disease|NN control|NN cdc|NP russian state|NN research|NN centre|NN virology|NN biotechnology|NN known vector|NN institute|NN siberia|NP regiment|NN troop|NN guard|NN
+tight control|NN smallpox|NN thought let
+even destruction|NN virus|NN stock|NN order destroy number|NN researcher|NN wish retain stock|NN scientific purpose|NN
+fear additional stock|NN virus|NN exist research|NN collection|NN product|NN accumulatory nature|NN
+additional collection|NN virus|NN certainly exist result|NN certain military biological warfare|NN program|NN undertaken vector|NN institute|NN maintain stock|NN separate held moscow|NP institute|NN viral preparation|NN
+march|NP smallpox|NN scab|NN found tuck envelope|NN book|NN civil war|NN medicine|NN santa|NP fe|NP new|NP mexico|NP
+envelope|NN label contain scab|NN list name|NN patient|NN vaccinate
+assume content|NN dangerous librarian|NN found open envelope|NN
+scab|NN end employee|NN national center|NN disease|NN control|NN respond quickly inform discovery|NN
+discovery|NN raise concern|NN smallpox|NN dna|NN extract scab|NN use biological attack|NN
+even sequence assemble|NN virus|NN scratch|NN remain challeng
+retrieve reference|NN article|NN mainly select english wikipedia|NN minor check|NN change|NN see wwwwikipediaorg detail|NN author|NN source|NN available gnu free documentation|NN
+see disclaimer|NN
