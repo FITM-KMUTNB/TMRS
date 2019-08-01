@@ -1,0 +1,3 @@
+Micheal|NN prefer to|VB ride|NN
+Jack|NN prefer|VB to|NN Run|NN
+Jack|NN live|VB IN|NN LA|NN
