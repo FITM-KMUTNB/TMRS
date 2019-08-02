@@ -84,11 +84,12 @@ def CreateCoocurrenceGraph():
 
                 print("Read text file [", DocName, "] ... Done\n") 
                 
-                
+            
         except IOError as exc:
             print("Error")
             if exc.errno != errno.EISDIR:
                 raise
+    #UpdateDiceandCost()
     main()
 
 def CreateNodeAndRelation(SentenceVector, DocName, Sline, AllSline):
@@ -106,32 +107,27 @@ def CreateNodeAndRelation(SentenceVector, DocName, Sline, AllSline):
         f_flag = 0
         tempS.append(tempword)
         # checking if the node is already present
-        for record in matcher.match("SINGLE_NODE"):
-               
-            wordnode = record["name"]
-            # if node already present --> Update Count!!    
-            if wordnode == tempword:
+                      
+            
+        # if node already present --> Update Count!!    
+        if matcher.match("SINGLE_NODE", name=tempword):
+            for record in matcher.match("SINGLE_NODE", name=tempword):
                 occur = record["occur"]
                 occur += 1
                 record["occur"] = occur
-                tx = graph.begin() 
-                tx.push(record)
-                tx.commit()
+                graph.push(record)
                 f_flag = 1
                 print("[", DocName," [",Sline,"/",AllSline,"] \"", tempword, "\" node was already present. Count updated.")    
+        
         # Create new node   
         if f_flag != 1:
             if temppos != None:
                 wordnode = Node("SINGLE_NODE", name=tempword, occur=1, pos=temppos) 
-                tx = graph.begin() 
-                tx.create(wordnode)
-                tx.commit()
+                graph.create(wordnode)
                 print("[", DocName," [",Sline,"/",AllSline,"] \"", tempword, "\" node added.")  
             else:
                 wordnode = Node("SINGLE_NODE", name=tempword, occur=1) 
-                tx = graph.begin() 
-                tx.create(wordnode)
-                tx.commit()
+                graph.create(wordnode)
                 print("[", DocName," [",Sline,"/",AllSline,"] \"", tempword, "\" node added.")  
 
       
@@ -149,7 +145,7 @@ def CreateNodeAndRelation(SentenceVector, DocName, Sline, AllSline):
                 #Get Node ID
                 nodeid1 = 0
                 for nid in graph.run("match (n:SINGLE_NODE {name: '"+tempS[p]+"'}) return id(n) as NODEID"):
-                     nodeid1 = nid["NODEID"]
+                    nodeid1 = nid["NODEID"]
                      
                 nodeid2 = 0
                 for nid in graph.run("match (n:SINGLE_NODE {name: '"+tempS[q]+"'}) return id(n) as NODEID"):
@@ -164,9 +160,9 @@ def CreateNodeAndRelation(SentenceVector, DocName, Sline, AllSline):
                         count = rel["count"]
                         count += 1
                         rel["count"] = count
-                        tx = graph.begin()
-                        tx.push(rel)
-                        tx.commit()
+                        
+                        graph.push(rel)
+                        
                         print("[", DocName," [",Sline,"/",AllSline,"] Relation already existed between nodes \"", tempS[p], "\" and \"", tempS[q], "\" Count updated.")
                     rel_found = True
 
@@ -175,9 +171,9 @@ def CreateNodeAndRelation(SentenceVector, DocName, Sline, AllSline):
                         count = rel["count"]
                         count += 1
                         rel["count"] = count
-                        tx = graph.begin()
-                        tx.push(rel)
-                        tx.commit()
+                        
+                        graph.push(rel)
+                        
                         print("[", DocName," [",Sline,"/",AllSline,"] Relation already existed between nodes \"", tempS[p], "\" and \"", tempS[q], "\" Count updated.")
                     rel_found = True
                         
@@ -194,12 +190,20 @@ def CreateNodeAndRelation(SentenceVector, DocName, Sline, AllSline):
                     n1 = graph.nodes[n1id]
                     n2 = graph.nodes[n2id]
                     relationship = Relationship(n1, "IS_CONNECTED", n2, count=1, dice=0, cost=0)
-                    tx = graph.begin()
-                    tx.create(relationship)
-                    tx.commit()
+                    graph.create(relationship)
                     print("[", DocName," [",Sline,"/",AllSline,"] Relation inserted with nodes \"", tempS[p], "\" and \"", tempS[q],"\"")
                     
-
+def UpdateDiceandCost():
+    print("DICE!!")
+    for node in matcher.match("SINGLE_NODE"):
+        nodeid = 0
+        for nid in graph.run("match (n:SINGLE_NODE {name: '"+node["name"]+"'}) return id(n) as NODEID"):
+            nodeid = nid["NODEID"]
+        for rel in relmatcher.match(start_node=nodeid, r_type="IS_CONNECTED"):
+            print(rel)
+            print("END NODE:",rel.end_node()["name"])
+            
+        
 
     
 if __name__ == "__main__":
