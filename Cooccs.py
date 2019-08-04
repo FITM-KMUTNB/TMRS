@@ -1,5 +1,5 @@
-import os
 import sys
+import os
 from natsort import natsorted #For retrieve list file from directory
 import nltk #For Categorize And TaggingWord
 from py2neo import Graph, Node, Relationship, NodeMatcher, RelationshipMatcher #Working with Neo4j
