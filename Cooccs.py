@@ -3,12 +3,15 @@ import sys
 from natsort import natsorted #For retrieve list file from directory
 import nltk #For Categorize And TaggingWord
 from py2neo import Graph, Node, Relationship, NodeMatcher, RelationshipMatcher #Working with Neo4j
+import atexit
+from time import time, strftime, localtime
+from datetime import timedelta
 
 
 #Document Directory
 path = "Document/output_allWords_/"
 diseasedir = natsorted(os.listdir(path))
-#Neo4j Database
+#Py2neo 
 print('Connect to database...', end="", flush=True)
 graph = Graph(password = "tmrs_2019")
 try:
@@ -57,32 +60,29 @@ def CategorizeAndTaggingWord():
     main()
 
 def CreateCoocurrenceGraph():
+    start = time()  
     print("\n")
     print("-> Start Create Co-Occurrence Graph")
-    SentenceVector = []
+    print("-> Retrieve Document file")
     
     for DocName in diseasedir:
-        print("-> Retrieve Document file")
+        
         try:       
             with open(path+"/"+DocName, "r", encoding="latin-1") as f: # open txt file from directory and keep in f variable
                 Sline = 1
                 AllSline = len(open(path+"/"+DocName).readlines())
+                
                 for text in f: # Read Document of each line(Sentence) --> Store in text
-                    
-                    VectorRow = []
+                    text = text.rstrip('\n')
                     sentence = text.split(" ") # Seperate word from each line and store in sentence valiable {w1,w2,w3}
-                                       
-                    
-                    # Retrieve word from each sentence               
-                    for word in sentence:
-                        VectorRow.append(word) # Words form each sentence store to VectorRow[] {Word|POS}
-                    
+                              
                     # Sent Sentence to Database 
-                    CreateNodeAndRelation(VectorRow, DocName, Sline, AllSline)
+                    CreateNodeAndRelation(sentence, DocName, Sline, AllSline)
                     Sline +=1
+                print("Read text file [", DocName, "] ... Done")    
                     
 
-                print("Read text file [", DocName, "] ... Done\n") 
+                
                 
             
         except IOError as exc:
@@ -90,6 +90,9 @@ def CreateCoocurrenceGraph():
             if exc.errno != errno.EISDIR:
                 raise
     #UpdateDiceandCost()
+    end = time()
+    xtime = end - start
+    print('Execute Time:', secondsToStr(xtime)) 
     main()
 
 def CreateNodeAndRelation(SentenceVector, DocName, Sline, AllSline):
@@ -98,7 +101,9 @@ def CreateNodeAndRelation(SentenceVector, DocName, Sline, AllSline):
     # Seperate word|POS
     tempword = ""
     temppos = ""
+    
     for word in SentenceVector:
+        
         if "|" in word:
             tempword, temppos = word.split("|")
         else:
@@ -129,8 +134,10 @@ def CreateNodeAndRelation(SentenceVector, DocName, Sline, AllSline):
                 wordnode = Node("SINGLE_NODE", name=tempword, occur=1) 
                 graph.create(wordnode)
                 print("[", DocName," [",Sline,"/",AllSline,"] \"", tempword, "\" node added.")  
+        
+          
 
-      
+     
 
     # Add relationship between node.
     for p in range(len(tempS)):
@@ -140,17 +147,13 @@ def CreateNodeAndRelation(SentenceVector, DocName, Sline, AllSline):
             rel_found = False
             # Check if node the same node
             if not (tempS[p] == tempS[q]):
+                
                 rel_found = False
                 
                 #Get Node ID
-                nodeid1 = 0
-                for nid in graph.run("match (n:SINGLE_NODE {name: '"+tempS[p]+"'}) return id(n) as NODEID"):
-                    nodeid1 = nid["NODEID"]
-                     
-                nodeid2 = 0
-                for nid in graph.run("match (n:SINGLE_NODE {name: '"+tempS[q]+"'}) return id(n) as NODEID"):
-                    nodeid2 = nid["NODEID"]
-                
+                nodeid1 = graph.run("match (n:SINGLE_NODE {name: '"+tempS[p]+"'}) return id(n) as NODEID").evaluate()
+                nodeid2 = graph.run("match (n:SINGLE_NODE {name: '"+tempS[q]+"'}) return id(n) as NODEID").evaluate()
+                                
                 n1 = graph.nodes[nodeid1]
                 n2 = graph.nodes[nodeid2]
                 
@@ -179,19 +182,17 @@ def CreateNodeAndRelation(SentenceVector, DocName, Sline, AllSline):
                         
                 # Create new relationship
                 if not rel_found:
-                    n1id = 0
-                    n2id = 0
-                    for nid in graph.run("match (n:SINGLE_NODE {name: '"+tempS[p]+"'}) return id(n) as NODEID"):
-                        n1id = nid["NODEID"]
-                        
-                    for nid in graph.run("match (n:SINGLE_NODE {name: '"+tempS[q]+"'}) return id(n) as NODEID"):
-                        n2id = nid["NODEID"]
-                        
-                    n1 = graph.nodes[n1id]
-                    n2 = graph.nodes[n2id]
+                    #Get Node ID
+                    nodeid1 = graph.run("match (n:SINGLE_NODE {name: '"+tempS[p]+"'}) return id(n) as NODEID").evaluate()
+                    nodeid2 = graph.run("match (n:SINGLE_NODE {name: '"+tempS[q]+"'}) return id(n) as NODEID").evaluate()
+                    #Get Node from DB                  
+                    n1 = graph.nodes[nodeid1]
+                    n2 = graph.nodes[nodeid2]
                     relationship = Relationship(n1, "IS_CONNECTED", n2, count=1, dice=0, cost=0)
                     graph.create(relationship)
                     print("[", DocName," [",Sline,"/",AllSline,"] Relation inserted with nodes \"", tempS[p], "\" and \"", tempS[q],"\"")
+                
+               
                     
 def UpdateDiceandCost():
     print("DICE!!")
@@ -203,8 +204,12 @@ def UpdateDiceandCost():
             print(rel)
             print("END NODE:",rel.end_node()["name"])
             
-        
+def secondsToStr(elapsed=None):
+    if elapsed is None:
+        return strftime("%Y-%m-%d %H:%M:%S", localtime())
+    else:
+        return str(timedelta(seconds=elapsed))   
 
-    
+  
 if __name__ == "__main__":
     main()

@@ -3,29 +3,11 @@ graph = Graph(password = "tmrs_2019")
 matcher = NodeMatcher(graph)
 relmatcher = RelationshipMatcher(graph)
 
-count = len(open("Document/output_allWords_/2.txt.txt.s_allWords_sentences.txt").readlines())
-print(count)
 nodeid1 = 0
-for nid in graph.run("match (n:SINGLE_NODE {name: 'KEY'}) return id(n) as NODEID"):
-        nodeid1 = nid["NODEID"]
-        print(nodeid1)
-    
-nodeid2 = 0
-for nid in graph.run("match (n:SINGLE_NODE {name: 'ROOM'}) return id(n) as NODEID"):
-        nodeid2 = nid["NODEID"]
-        print(nodeid2)
+query = graph.run("match (n:SINGLE_NODE {name: 'KEY'}) return id(n)").evaluate()
 
-n1 = graph.nodes[nodeid1]
-n2 = graph.nodes[nodeid2]
+print(query)
 
-ckrel = relmatcher.match(nodes=(n1, n2), r_type="IS_CONNECTED")
-print(list(ckrel))
-relfound = False
-if relmatcher.match(nodes=(n2, n1), r_type="IS_CONNECTED"):
-    print("Match!!")
-    relfound = True
-if not relfound:
-    print("IN!!")
 
 result = matcher.match("SINGLE_NODE", name="KEY")
 a = Node("SINGLE_NODE", name="KEY")
