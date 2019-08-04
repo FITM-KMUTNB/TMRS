@@ -26,11 +26,14 @@ def matchNode(name):
     except Exception:
         return None
 
-def setProperty(driver, id, props):
-    Label = 'SINGLE_NODE'
-    with driver.session() as session:
-        session.run("MATCH (a) WHERE id(a)= {id} " 
-                    "SET a+= {props}", {'id':id, 'props':props})
+def setProperty(id, props):
+    session.run("MATCH (a) WHERE id(a)= {id} " 
+                "SET a+= {props}", {'id':id, 'props':props})
+   
+def setRelProperty(id, props):
+    session.run("MATCH ()-[r]-() WHERE id(r)= {id} " 
+                "SET r+= {props}", {'id':id, 'props':props})
+
 def getProps(id, props):
     try:
         return session.run("MATCH (a) WHERE id(a)= {id} " 
@@ -48,9 +51,9 @@ def matchRelationship(n1,n2):
     return session.run("MATCH (a:"+Label+")-[rel:IS_CONNECTED]-(b:"+Label+") WHERE id(a)= $n1 and id(b)= $n2 " 
                        "RETURN id(rel)", n1=n1,n2=n2).single().value()
                       
-props = getProps(1078793,'count')      
-print(props)
-
-
+def findRelation(start_node):
+    Label = 'SINGLE_NODE'
+    return session.run("MATCH (a:"+Label+")-[rel:IS_CONNECTED]-(b:"+Label+") WHERE id(a)= $start_node " 
+                       "RETURN id(b)", start_node=start_node).value()
 
 driver.close()

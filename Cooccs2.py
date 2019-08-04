@@ -8,7 +8,7 @@ from time import time, strftime, localtime
 from datetime import timedelta
 
 #Document Directory
-path = "Document/output_allWords_/"
+path = "Document/test2/"
 diseasedir = natsorted(os.listdir(path))
 
 #Neo4j-Driver
@@ -64,14 +64,15 @@ def CreateCoocurrenceGraph():
                     # Sent Sentence to Database 
                     CreateNodeAndRelation(sentence, DocName, Sline, AllSline)
                     Sline +=1
-                print("Read text file [", DocName, "] ... Done")    
+                print("Read text file [", DocName, "] ... Done!!")    
                  
             
         except IOError as exc:
             print("Error")
             if exc.errno != errno.EISDIR:
                 raise
-    #UpdateDiceandCost()
+    # Update Dice and Cost of relation edge
+    UpdateDiceandCost()
     end = time()
     xtime = end - start
     print('Execute Time:', secondsToStr(xtime)) 
@@ -100,7 +101,7 @@ def CreateNodeAndRelation(SentenceVector, DocName, Sline, AllSline):
             occur = getProps(nodeID,'occur')
             occur +=1
             props = {'occur':occur}
-            setProperty(nodeID, props)
+            setNodProperty(nodeID, props)
             f_flag = 1
             print("[", DocName," [",Sline,"/",AllSline,"] \"", tempword, "\" node was already present. Count updated.") 
         # Create new node   
@@ -128,7 +129,7 @@ def CreateNodeAndRelation(SentenceVector, DocName, Sline, AllSline):
                 if relID:
                     count = getProps(relID,'count')
                     count +=1
-                    setProperty(relID, {'count':count})
+                    setRelProperty(relID, {'count':count})
                                
                     print("[", DocName," [",Sline,"/",AllSline,"] Relation already existed between nodes \"", tempS[p], "\" and \"", tempS[q], "\" Count updated.")
                     rel_found = True
@@ -138,7 +139,35 @@ def CreateNodeAndRelation(SentenceVector, DocName, Sline, AllSline):
                     createRelation(nodeid1, nodeid2,{'count':1, 'dice':0, 'cost':0})
                     print("[", DocName," [",Sline,"/",AllSline,"] Relation inserted with nodes \"", tempS[p], "\" and \"", tempS[q],"\"")
                 
-                
+
+def UpdateDiceandCost():
+    print("Update Dice and Cost... ", end="", flush=True)
+    nodelist = hashNext()
+
+    for node1 in nodelist:
+        countA = getProps(node1, 'occur')
+        for node2 in findRelation(node1):
+            relAB = matchRelationship(node1, node2)
+            countB = getProps(node2, 'occur')
+            countAB = getProps(relAB, 'count')
+
+            helpk = 0
+            if countB <= countA:
+                helpk = countB
+            else:
+                helpk = countA
+            if countAB >= helpk:
+                countAB = helpk
+            
+            dice = (2*countAB)/(countA+countB)
+
+            if dice > 1:
+                dice = 1.0
+
+            setRelProperty(relAB, {'dice': dice})
+            setRelProperty(relAB, {'cost': 1/(dice+0.01)})
+    print('Done!!')
+    
 def createNode(props):
     Label = 'SINGLE_NODE'
     return session.run("CREATE (a:"+Label+" {props}) "
@@ -171,10 +200,22 @@ def getProps(id, props):
         return session.run("MATCH ()-[r]-() WHERE id(r)= {id} " 
                            "RETURN r."+props+"", {'id':id}).value()[0]
 
-def setProperty(id, props):
+def setNodProperty(id, props):
     Label = 'SINGLE_NODE'
     session.run("MATCH (a) WHERE id(a)= {id} " 
                 "SET a+= {props}", {'id':id, 'props':props})
+def setRelProperty(id, props):
+    session.run("MATCH ()-[r]-() WHERE id(r)= {id} " 
+                "SET r+= {props}", {'id':id, 'props':props})
+def hashNext():
+    Label = 'SINGLE_NODE'
+    return session.run("MATCH (n:"+Label+") " 
+                       "RETURN id(n)").value()
+
+def findRelation(start_node):
+    Label = 'SINGLE_NODE'
+    return session.run("MATCH (a:"+Label+")-[rel:IS_CONNECTED]-(b:"+Label+") WHERE id(a)= $start_node " 
+                       "RETURN id(b)", start_node=start_node).value()
 
 def secondsToStr(elapsed=None):
     if elapsed is None:
