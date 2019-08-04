@@ -8,7 +8,7 @@ from time import time, strftime, localtime
 from datetime import timedelta
 
 #Document Directory
-path = "Document/output_allWords_/"
+path = "Document/test/"
 diseasedir = natsorted(os.listdir(path))
 
 #Neo4j-Driver
@@ -141,31 +141,36 @@ def CreateNodeAndRelation(SentenceVector, DocName, Sline, AllSline):
                 
 
 def UpdateDiceandCost():
-    print("Update Dice and Cost... ", end="", flush=True)
+    print("Update Dice and Cost ... ", end="", flush=True)
     nodelist = hashNext()
-
+    tempRel = []
+    
     for node1 in nodelist:
         countA = getProps(node1, 'occur')
         for node2 in findRelation(node1):
             relAB = matchRelationship(node1, node2)
-            countB = getProps(node2, 'occur')
-            countAB = getProps(relAB, 'count')
 
-            helpk = 0
-            if countB <= countA:
-                helpk = countB
-            else:
-                helpk = countA
-            if countAB >= helpk:
-                countAB = helpk
+            if relAB not in tempRel:
+                tempRel.append(relAB)
+                countB = getProps(node2, 'occur')
+                countAB = getProps(relAB, 'count')
+
+                helpk = 0
+                if countB <= countA:
+                    helpk = countB
+                else:
+                    helpk = countA
+                if countAB >= helpk:
+                    countAB = helpk
             
-            dice = (2*countAB)/(countA+countB)
+                dice = (2*countAB)/(countA+countB)
 
-            if dice > 1:
-                dice = 1.0
+                if dice > 1:
+                    dice = 1.0
 
-            setRelProperty(relAB, {'dice': dice})
-            setRelProperty(relAB, {'cost': 1/(dice+0.01)})
+                setRelProperty(relAB, {'dice': dice})
+                setRelProperty(relAB, {'cost': 1/(dice+0.01)})
+
     print('Done!!')
     
 def createNode(props):

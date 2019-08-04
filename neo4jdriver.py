@@ -56,4 +56,7 @@ def findRelation(start_node):
     return session.run("MATCH (a:"+Label+")-[rel:IS_CONNECTED]-(b:"+Label+") WHERE id(a)= $start_node " 
                        "RETURN id(b)", start_node=start_node).value()
 
+tempRel = [1234,1423]
+if 4444 not in tempRel:
+    print("add")
 driver.close()
