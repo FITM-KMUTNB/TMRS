@@ -8,7 +8,7 @@ from time import time, strftime, localtime
 from datetime import timedelta
 
 #Document Directory
-path = "Document/test/"
+path = "Document/output_allWords_/"
 diseasedir = natsorted(os.listdir(path))
 
 #Neo4j-Driver
