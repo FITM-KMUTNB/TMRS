@@ -92,7 +92,7 @@ def CreateCoocurrenceGraph():
     #UpdateDiceandCost()
     end = time()
     xtime = end - start
-    print('Execute Time:', secondsToStr(xtime)) 
+    print('Processing Time:', secondsToStr(xtime)) 
     main()
 
 def CreateNodeAndRelation(SentenceVector, DocName, Sline, AllSline):
