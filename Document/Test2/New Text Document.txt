@@ -1,4 +1,0 @@
-man|NN woman|NN
-year|NN man|NN woman|NN
-man|NN woman|NN baby|NP
-woman|NP baby|NM

@@ -30,7 +30,7 @@ Please Enter Your Choice :: """)
 
     if choice == "T" or choice == "t":
         start = time() 
-        listfile("Document/output_allWords_/")
+        listfile("Document/corpus 226/")
         end = time()
         xtime = end - start
         print('Processing Time:', secondsToStr(xtime)) 
