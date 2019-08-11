@@ -1,0 +1,19 @@
+-Python
+
+-Pip
+
+-neo4j-driver
+ :pip install neo4j-driver
+
+-py2neo // library and comprehensive toolkit for working with Neo4j
+ :pip install py2neo
+
+-natsorted // For sort file in directory
+ :pip install natsort
+
+-nltk //Categorizing and Tagging Words
+ :pip install nltk
+ (Cmd)
+      :py
+      :import nltk
+      :nltk.download()
