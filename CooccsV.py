@@ -22,7 +22,7 @@ def main():
     print("Thai Traditional Medical Recommendation System.")
     print("===============================================")
     choice = input("""
-
+(F) ind Centroid
 (T)he Co-Occurrence Graph
 (E)xit
 \n
@@ -35,11 +35,18 @@ Please Enter Your Choice :: """)
         xtime = end - start
         print('Processing Time:', secondsToStr(xtime)) 
         #dbClose()
-    
+    elif choice == "F" or choice == "f":
+        query = input("Insert Query ::")
+        calcentroid(query)
     elif choice == "E" or choice == "e":
         #dbClose()
         sys.exit
-    
+
+def calcentroid(query):
+    Cooccs = nx.read_gml('GML/CooccsDB40.gml')
+    shortest = nx.dijkstra_path(Cooccs, 'disease', 'lyme')
+    print(shortest)
+
 
  # ======================================== Text Processing ==================================================== #
 def listfile(path):
@@ -159,7 +166,7 @@ def creatgraphX():
         
         G.add_edge(words[0], words[1], count= BrainLink[word_pair], dice = BrainLinkDice[word_pair], cost= BrainLinkCost[word_pair])
     
-    nx.write_gml(G, "CooccsDB.gml")    
+    nx.write_gml(G, "C:/Users/Kaow/Documents/Project/TMRS/GML/CooccsDB.gml")    
     
     
  
