@@ -43,7 +43,12 @@ Please Enter Your Choice :: """)
         sys.exit
 
 def calcentroid(query):
-    Cooccs = nx.read_gml('GML/CooccsDB40.gml')
+    start = time() 
+    Cooccs= nx.read_gml("GML/CooccsDB40.gml")
+    print("Create Graph")
+    end = time()
+    xtime = end - start
+    print('Processing Time:', secondsToStr(xtime)) 
     shortest = nx.dijkstra_path(Cooccs, 'disease', 'lyme')
     print(shortest)
 
