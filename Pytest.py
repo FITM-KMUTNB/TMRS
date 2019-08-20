@@ -1,8 +1,38 @@
-import networkx as nx
-G = nx.Graph()
+import os
+import glob
+from fuzzywuzzy import fuzz
 
-G.add_node("String1" occur = 3)
-G.add_node("String2")
-G.add_edge("String1", "String2", weight = 1)
+path = "Document/corpus 226/Tag"
 
-nx.write_gml(G, "test.gml")
+a = fuzz.ratio("new y YANKEES".lower(), "NEW YORK YANKEES".lower())
+print(a)
+
+def listfile(path):
+    
+    os.chdir(path)
+    doc_no = 1
+    for DocName in glob.glob("*.txt"):
+        print(doc_no," :: "+DocName)
+        listsentence(DocName)
+        doc_no+=1
+     
+    
+
+def listsentence(fname):
+    c_file = open(fname, 'r', encoding="latin-1")
+    disease = {}
+    for sents in c_file:
+        nline = sents.replace("{", "")
+        pline = nline.replace("}", "")
+        pline = pline.rstrip('\n')
+        words = pline.split(",")
+        for d in words:
+            n, s = d.split("=")
+            disease[n.lower()] = s
+        
+    #print(disease)    
+    
+    c_file.close()
+
+listfile(path)
+    
