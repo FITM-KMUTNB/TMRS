@@ -8,6 +8,7 @@ for n in Cooccs.nodes:
         noded += 1
     except:
         pass
+print("Node :: ", noded, "(Disease)")
 #nx.set_node_attributes(Cooccs, {"test": {'disease':222}} )
 #nx.write_gml(Cooccs, "C:/Users/Kaow/Documents/Project/TMRS/GML/test.gml")
 

@@ -6,6 +6,7 @@ import atexit
 from time import time, strftime, localtime
 from datetime import timedelta
 import networkx as nx
+import operator
 
 MyBrain = dict() 
 BrainLink = dict()
@@ -95,7 +96,7 @@ def calcentroid(query):
                     # Find Max Distance Between words in query.
                     if maxshortdistance < cost:
                         maxshortdistance = cost
-                        print(maxshortdistance)
+                        #print(maxshortdistance)
                     
    
             print("Reached Node :: ", reachednode)
@@ -138,6 +139,7 @@ def calcentroid(query):
             
             #print("Centroid Candidates (", len(centroidcandidates), ") :: ", centroidcandidates)
             print("Centroid Candidates (", len(centroidcandidates), ")")
+            
             if len(centroidcandidates) > 10:
                 break                     
             count +=1
@@ -169,7 +171,7 @@ def calcentroid(query):
                 
                 
                     
-        print("Centroid :: ", centroid)
+        print("Centroid :: ", sorted(centroid.items(), key=operator.itemgetter(1)))
         end = time()
         xtime = end - start
         print('Processing Time:', secondsToStr(xtime)) 

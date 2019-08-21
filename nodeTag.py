@@ -35,13 +35,16 @@ def listsentence(fname):
 
 def diseasetag(dtag):
     Cooccs = nx.read_gml("C:/Users/Kaow/Documents/Project/TMRS/GML/226.gml")
+    num = 0
     for n in Cooccs.nodes:
         for t in dtag:
             ratio = fuzz.ratio(n.lower(), t.lower())
-            if ratio > 80:
-                print("Node : ", n, " ,Tag : ", t)
+            if ratio > 78:
+                print("Node : ", n, " ,Tag : ", t , "Matching ratio :: ", ratio)
                 nx.set_node_attributes(Cooccs, {n: {'disease' : dtag[t]}})
+                num += 1
     nx.write_gml(Cooccs, "C:/Users/Kaow/Documents/Project/TMRS/GML/226.gml")
+    print("Node :: ", num," Tag")
 
 listfile(path)
     
