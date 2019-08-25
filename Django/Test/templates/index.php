@@ -9,8 +9,16 @@
                 }
                 h1 {
                     background-color: #fbaf51;
+                    
                     color: black;
                 }
+                input[type=text] {
+                   background-color: white;
+                   background-position: 10px 10px; 
+                    background-repeat: no-repeat;
+                    padding-left: 40px;
+                    
+}
                 </style>
 
 <body bgcolor="black">
