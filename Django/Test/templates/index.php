@@ -17,7 +17,15 @@
 
     <center>
 <h1>Thai Traditional Medical Recommendation System </h1>
-<h2>Django</h2>
+
+
+<form action="#" method="post">
+  
+  <input type="text" name="word" >
+  <input type="submit" value="Search">
+  <br>
+  </form>
+
         </center>
 
 </body>
