@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html>
+    <meta charset="UTF-8">
+<title>TMRS</title>
+
         <style>
                 body {
-                  color: black;
+                  color: white;
                 }
                 h1 {
                     background-color: #fbaf51;
+                    color: black;
                 }
                 </style>
 
