@@ -31,7 +31,7 @@ Please Enter Your Choice :: """)
 
     if choice == "T" or choice == "t":
         start = time() 
-        listfile("Document/corpus 226/")
+        listfile("Document/corpus 40/")
         end = time()
         xtime = end - start
         print('Processing Time:', secondsToStr(xtime)) 
@@ -290,7 +290,7 @@ def calcost():
 def creatgraphX():
     
     G = nx.Graph()
-       
+    
     for word in MyBrain:
         G.add_node(word, occur=MyBrain[word])
        
@@ -299,7 +299,8 @@ def creatgraphX():
         
         G.add_edge(words[0], words[1], count= BrainLink[word_pair], dice = BrainLinkDice[word_pair], cost= BrainLinkCost[word_pair])
     
-    nx.write_gml(G, "C:/Users/Kaow/Documents/Project/TMRS/GML/226.gml")    
+    print(nx.info(G))
+    nx.write_gml(G, "C:/Users/Kaow/Documents/Project/TMRS/GML/DB40.gml")    
     
     
  

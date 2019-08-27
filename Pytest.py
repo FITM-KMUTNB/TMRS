@@ -1,38 +1,15 @@
-import os
-import glob
-from fuzzywuzzy import fuzz
+import operator
+c_file = open("Result1000(2).txt", 'r', encoding="latin-1")
+file = open("Result1000(3).txt","w") 
 
-path = "Document/corpus 226/Tag"
-
-a = fuzz.ratio("new y YANKEES".lower(), "NEW YORK YANKEES".lower())
-print(a)
-
-def listfile(path):
-    
-    os.chdir(path)
-    doc_no = 1
-    for DocName in glob.glob("*.txt"):
-        print(doc_no," :: "+DocName)
-        listsentence(DocName)
-        doc_no+=1
-     
-    
-
-def listsentence(fname):
-    c_file = open(fname, 'r', encoding="latin-1")
-    disease = {}
-    for sents in c_file:
-        nline = sents.replace("{", "")
-        pline = nline.replace("}", "")
-        pline = pline.rstrip('\n')
-        words = pline.split(",")
-        for d in words:
-            n, s = d.split("=")
-            disease[n.lower()] = s
+for c in c_file: 
+        text = c.translate(str.maketrans({"'":None}))
+        #print(text)     
+        text2 = text.split(":") 
+        print(text2[1])    
+        file.write(text2[1]) 
+               
         
-    #print(disease)    
-    
-    c_file.close()
+file.close() 
 
-listfile(path)
-    
+c_file.close()

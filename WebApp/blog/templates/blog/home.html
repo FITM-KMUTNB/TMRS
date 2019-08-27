@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+<html>
+<body>
+{% block body %}
+<center>
+<div class="container">
+    <div class="row">
+        <form action ="." method="POST">{% csrf_token %}
+        <div id="custom-search-input">
+            <div class="input-group col-md-12">
+                
+                <input type="text" name="query" class="search-query form-control" placeholder="Search" />
+                <span class="input-group-btn">
+                <button class="btn btn-danger" type="submit">
+                <span class=" glyphicon glyphicon-search"></span>
+                </button>
+                </span>
+           
+            </div>
+        </div>
+    </form>
+    </div>
+
+</div>
+
+<div class="diseasebox">
+{% if disease %}
+<table id="table">
+<tr>
+<th>Disease</th>
+<th>Distance</th>
+<th>Document</th>
+</tr>
+
+{% for d, dis, doc in disease %}
+<tr>
+<td>
+{{ d }}
+</td>
+<td>
+{{ dis }}
+</td>
+<td>
+{{ doc }}
+</td>
+</tr>
+{% endfor %}
+
+</table>
+{% endif %}
+</div>
+</center>
+{% endblock %}   
+</body>
+</html>

@@ -1,7 +1,8 @@
 import networkx as nx
 
-Cooccs = nx.read_gml("GML/226.gml")
+Cooccs = nx.read_gml("GML/CooccsDB40.gml")
 noded = 0
+visited = nx.neighbors(Cooccs, i)
 for n in Cooccs.nodes:
     try:
         Cooccs.node[n]['disease']
