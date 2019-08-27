@@ -10,7 +10,11 @@ centroid = dict()
 def ReadG():
     global Cooccs
     print("Read Graph...")
+<<<<<<< HEAD
     Cooccs = nx.read_gml("GML/DB40.gml")
+=======
+    Cooccs = nx.read_gml("GML/CooccsDB40.gml")
+>>>>>>> 417f0510f7bfa8a3a2f3974b1325d2ce84a8ba85
     print("Find High Frequency Rang")
     Findhighfrequency()
     
@@ -24,10 +28,17 @@ def Findhighfrequency():
     
     descend = sorted(nodes.items(), key=operator.itemgetter(1), reverse=True)
     
+<<<<<<< HEAD
     for n in range(0, 2000):
         words.append([descend[n][0], descend[n][1]])
     print(words)
     #Randomsixword()
+=======
+    for n in range(0, 1500):
+        words.append(descend[n][0])
+
+    Randomsixword()
+>>>>>>> 417f0510f7bfa8a3a2f3974b1325d2ce84a8ba85
 
 def Randomsixword():
     global words
@@ -70,7 +81,11 @@ def Calcentroid(query, file):
     arearadius = (maxp / 2.0) + 1
     round = 1
     
+<<<<<<< HEAD
     while len(candidate) < 10:
+=======
+    while len(candidate) < 5:
+>>>>>>> 417f0510f7bfa8a3a2f3974b1325d2ce84a8ba85
         if round > 1:
             arearadius = arearadius + (arearadius/2)
             candidate = []
@@ -86,9 +101,14 @@ def Calcentroid(query, file):
                         neighbor[r] = 1
     
         for n in neighbor:
+<<<<<<< HEAD
             if neighbor[n] == len(query) and len(candidate) < 30:
                 candidate.append(n)
         round += 1
+=======
+            if neighbor[n] == len(query) and len(candidate) < 5:
+                candidate.append(n)
+>>>>>>> 417f0510f7bfa8a3a2f3974b1325d2ce84a8ba85
 
     Shortestaveragedistance(query, candidate)
     print("Centroid :: ", centroid)
