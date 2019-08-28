@@ -1,15 +1,9 @@
 import networkx as nx
 
-Cooccs = nx.read_gml("GML/CooccsDB40.gml")
+Cooccs = nx.read_gml("GML/man.gml")
 noded = 0
-visited = nx.neighbors(Cooccs, i)
-for n in Cooccs.nodes:
-    try:
-        Cooccs.node[n]['disease']
-        noded += 1
-    except:
-        pass
-print("Node :: ", noded, "(Disease)")
+neighbor = nx.single_source_dijkstra_path_length(Cooccs, "Baby", weight='cost') 
+print(neighbor['Man'])
 #nx.set_node_attributes(Cooccs, {"test": {'disease':222}} )
 #nx.write_gml(Cooccs, "C:/Users/Kaow/Documents/Project/TMRS/GML/test.gml")
 

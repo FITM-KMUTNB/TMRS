@@ -10,7 +10,6 @@ class HomeView(TemplateView):
     def post(self, request):
         query = request.POST.get("query")
         disease = calcentroid(query)
-        print(disease)
         context = {'disease' : disease}
         return render(request, self.template_name, context)
 

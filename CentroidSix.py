@@ -5,16 +5,14 @@ import random
 Cooccs = None
 nodes = dict()
 words = []
-centroid = dict()
+centroid = ""
+candidatesum = dict()
+writetextline = ""
 
 def ReadG():
     global Cooccs
     print("Read Graph...")
-<<<<<<< HEAD
     Cooccs = nx.read_gml("GML/DB40.gml")
-=======
-    Cooccs = nx.read_gml("GML/CooccsDB40.gml")
->>>>>>> 417f0510f7bfa8a3a2f3974b1325d2ce84a8ba85
     print("Find High Frequency Rang")
     Findhighfrequency()
     
@@ -27,101 +25,116 @@ def Findhighfrequency():
         nodes[n] = occur
     
     descend = sorted(nodes.items(), key=operator.itemgetter(1), reverse=True)
-    
-<<<<<<< HEAD
-    for n in range(0, 2000):
-        words.append([descend[n][0], descend[n][1]])
-    print(words)
-    #Randomsixword()
-=======
-    for n in range(0, 1500):
-        words.append(descend[n][0])
 
+    for n in range(0, 2000):
+        words.append(descend[n][0])
+    
     Randomsixword()
->>>>>>> 417f0510f7bfa8a3a2f3974b1325d2ce84a8ba85
 
 def Randomsixword():
     global words
-    #print(words)
+    global writetextline
     r = 1
     file = open("Result.txt","w") 
     while r < 1000:
         query = []
-
+        writetextline = ""
         while len(query) < 6:
             rand = random.randint(0, 1499)
             w = words[rand]
             if w not in query:
                 query.append(w)
+                writetextline += w+", "
         print(r, " : ", query)
-        file.write(str(r)+" : ""%s\n" % query +"\n") 
+        
+        #file.write(str(r)+" : ""%s\n" % query +"\n") 
         Calcentroid(query, file)
         r += 1
     file.close() 
-def Calcentroid(query, file):
 
+def Calcentroid(query, file):
+    
     neighbor = dict()
     maxp = 0
     candidate = []
     global centroid
-    centroid = dict()
-    for wp in query:
-        for wn in query:
+    global candidatesum
+    global writetextline
+    centroid = ""
 
-            if wp == wn:
-                continue
+    # Examine if keywords existing in db
+    for q in query:
+        if q in Cooccs:
+            pass
+        else:
+            query.remove(q)
 
+    # Find largest length between keywords
+    for wp in range(len(query)):
+        for wn in range(wp+1, len(query)):
+            if wn > len(query):
+                break
             try:
-                cost = nx.dijkstra_path_length(Cooccs, wp, wn, weight='cost')
+                cost = nx.dijkstra_path_length(Cooccs, query[wp], query[wn], weight='cost')
                 if cost > maxp:
                     maxp = cost
             except nx.NetworkXNoPath:
-                print("No Path Between :: ", wp, " and ", wn)
+                print("No Path Between :: ", query[wp], " and ", query[wn])
              
     arearadius = (maxp / 2.0) + 1
     round = 1
     
-<<<<<<< HEAD
+    # Find Related node within keywords radius
     while len(candidate) < 10:
-=======
-    while len(candidate) < 5:
->>>>>>> 417f0510f7bfa8a3a2f3974b1325d2ce84a8ba85
+        print("Activat round::", round)
+        
         if round > 1:
             arearadius = arearadius + (arearadius/2)
             candidate = []
-
+            neighbor = dict()
+            candidatesum = dict()
+        print("Radius : ", arearadius)
         for q in query:
+                            
             rel_link = nx.single_source_dijkstra_path_length(Cooccs, q, weight = 'cost', cutoff = arearadius)
 
             for r in rel_link:
+                
                 if r != q:
                     if r in neighbor:
                         neighbor[r] += 1
+                        candidatesum[r] += rel_link[r]
                     else:
                         neighbor[r] = 1
-    
+                        candidatesum[r] = rel_link[r]
+     
+        
+        # Find node that related to all keywords (Candidate Centroid)
+        
         for n in neighbor:
-<<<<<<< HEAD
-            if neighbor[n] == len(query) and len(candidate) < 30:
+            if neighbor[n] == len(query):
                 candidate.append(n)
-        round += 1
-=======
-            if neighbor[n] == len(query) and len(candidate) < 5:
-                candidate.append(n)
->>>>>>> 417f0510f7bfa8a3a2f3974b1325d2ce84a8ba85
 
+        if round > 10 and len(candidate > 0):
+            break
+        round += 1
+        print("Cadidate : ", len(candidate))
+    
+    #Find node that have most minimun average distance. (Centroid)     
     Shortestaveragedistance(query, candidate)
     print("Centroid :: ", centroid)
-    file.write("Centroid :: ""%s\n" % centroid +"\n") 
+    writetextline += centroid
+    file.write(str(writetextline)+"\n") 
 
+#Find Average Distance --> Sum/N
 def Shortestaveragedistance(query, candidate):
-    
+    global candidatesum
+    global centroid
+    minaverage = 1000
     for cd in candidate:
-        sum = 0
-        for wd in query:
-            sum += nx.dijkstra_path_length(Cooccs, cd, wd, weight='cost')
-        
-        average = sum / len(query)
-        centroid[cd] = average
+        average = candidatesum[cd] / len(query)
+        if average < minaverage:
+            minaverage = average
+            centroid = cd
 
 ReadG()
