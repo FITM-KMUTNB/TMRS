@@ -91,6 +91,8 @@ def calcentroid(inputq):
     #print("Centroid :: ", centroid[:10])
     return(centroid[:10])
 
+def CheckkeywordinDB():
+    
 #Find Average Distance --> Sum/N
 def Shortestaveragedistance(query, candidate):
     global candidatesum
