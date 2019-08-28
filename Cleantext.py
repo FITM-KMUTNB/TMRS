@@ -5,7 +5,7 @@ import os
 import glob
 
 def dir():
-    path = "Document/corpus 40/"
+    path = "Document/4file/"
     os.chdir(path)
     for file in glob.glob("*.txt"):
         print("file name: ", file)

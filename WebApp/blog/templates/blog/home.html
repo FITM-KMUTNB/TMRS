@@ -23,8 +23,17 @@
 
 </div>
 
+{% if symptom %}
+<h4>Symptoms : 
+{% for symp in symptom %}
+{{ symp }} 
+{% endfor %}
+</h4>
+{% endif %}
+
 <div class="diseasebox">
 {% if disease %}
+
 <table id="table">
 <tr>
 <th>Disease</th>

@@ -80,7 +80,7 @@ def calcentroid(inputq):
             if neighbor[n] == len(query):
                 candidate.append(n)
 
-        if round > 10 and len(candidate > 0):
+        if round > 10 and len(candidate) > 0:
             break
         round += 1
         print("Cadidate : ", len(candidate))
@@ -89,10 +89,8 @@ def calcentroid(inputq):
     Shortestaveragedistance(query, candidate)
     findDoc(sorted(centroid.items(), key=operator.itemgetter(1)))
     #print("Centroid :: ", centroid[:10])
-    return(centroid[:10])
+    return(query, centroid[:10])
 
-def CheckkeywordinDB():
-    
 #Find Average Distance --> Sum/N
 def Shortestaveragedistance(query, candidate):
     global candidatesum

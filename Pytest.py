@@ -15,10 +15,3 @@ file.close()
 
 c_file.close()
 """
-
-lists = {'strocl':2}
-
-print(lists['strocl'])
-
-
-

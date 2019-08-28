@@ -1,6 +1,8 @@
 import networkx as nx
 import operator
 import random
+import os
+import glob
 
 Cooccs = None
 nodes = dict()
@@ -9,13 +11,61 @@ centroid = ""
 candidatesum = dict()
 writetextline = ""
 
+docfile = dict()
+
 def ReadG():
     global Cooccs
     print("Read Graph...")
-    Cooccs = nx.read_gml("GML/DB40.gml")
-    print("Find High Frequency Rang")
-    Findhighfrequency()
+    Cooccs = nx.read_gml("GML/DB4.gml")
+    print("Find High Frequency Range")
+    #Findhighfrequency()
+    listdoc()
     
+def listdoc():
+    
+    os.chdir("Document/4file/")
+    docnum = 1
+    for file in glob.glob("*.txt"):
+
+        print("file name: ", file)
+        listline(file, docnum)
+        docnum += 1
+    Random2word()
+
+def listline(fname, filenum):
+    global docfile
+    c_file = open(fname, 'r', encoding="latin-1")
+    num = 1
+    for line in c_file:
+        #print(line)
+        wordlist = line.split()
+        if num == 1:
+            docfile[filenum] = wordlist
+            num = 2
+        else:
+            docfile[filenum] += wordlist
+
+def Random2word():
+    global docfile
+    global writetextline
+
+    file = open("Result.txt", "w") 
+    for f in docfile:
+        for allword in range(250):
+            query = []
+            writetextline = ""
+            for twoword in range(2):
+                randword = random.randint(0, len(docfile[f])-1)
+                word = docfile[f][randword]
+                query.append(word)
+                writetextline += word
+                if twoword == 0:
+                    writetextline += ", "
+
+            Calcentroid(query, file)
+
+    file.close() 
+
 
 def Findhighfrequency():
     global Cooccs
@@ -95,7 +145,7 @@ def Calcentroid(query, file):
             candidatesum = dict()
         print("Radius : ", arearadius)
         for q in query:
-                            
+                  
             rel_link = nx.single_source_dijkstra_path_length(Cooccs, q, weight = 'cost', cutoff = arearadius)
 
             for r in rel_link:
@@ -115,7 +165,7 @@ def Calcentroid(query, file):
             if neighbor[n] == len(query):
                 candidate.append(n)
 
-        if round > 10 and len(candidate > 0):
+        if round > 10 and len(candidate) > 0:
             break
         round += 1
         print("Cadidate : ", len(candidate))
@@ -123,7 +173,7 @@ def Calcentroid(query, file):
     #Find node that have most minimun average distance. (Centroid)     
     Shortestaveragedistance(query, candidate)
     print("Centroid :: ", centroid)
-    writetextline += centroid
+    writetextline += " : "+centroid
     file.write(str(writetextline)+"\n") 
 
 #Find Average Distance --> Sum/N
