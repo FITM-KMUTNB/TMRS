@@ -15,3 +15,10 @@ file.close()
 
 c_file.close()
 """
+import Tokenization as tk
+import chardet   
+
+rawdata = open("Document/corpus 226/Lesch–NyhanSyndrome.txt.txt.s_nouns_sentences_untagged.txt", 'rb').read()
+result = chardet.detect(rawdata)
+
+print(result['encoding'])

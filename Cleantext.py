@@ -3,17 +3,22 @@ from nltk.corpus import words
 import operator
 import os
 import glob
+import chardet
 
 def dir():
-    path = "Document/4file/"
+    path = "Document/corpus 221/"
     os.chdir(path)
     for file in glob.glob("*.txt"):
         print("file name: ", file)
         readline(file)
 
 def readline(file):
+    #Detect file encoding type of file
+    rawdata = open(file, 'rb').read()
+    FileCode = chardet.detect(rawdata)
+    Encode = FileCode['encoding']
     
-    c_file = open(file, 'r', encoding="latin-1")
+    c_file = open(file, 'r', encoding=Encode)
     file = open("cleanword/"+ file,"w")
     for c in c_file:
         cleantxt(c, file)

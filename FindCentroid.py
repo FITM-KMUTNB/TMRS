@@ -1,133 +1,144 @@
 from time import time, strftime, localtime
 from datetime import timedelta
 import networkx as nx
-import glob
 import operator
 import os
-from fuzzywuzzy import fuzz
 
-dir_path = os.path.dirname(os.path.realpath(__file__))
+Cooccs = None
 
-print("Read Graph ... ")
-Cooccs = nx.read_gml(dir_path+"/GML/226.gml")
-centroid = dict()
-candidatesum = dict()
-
-def calcentroid(inputq):
+def Centroid(keywords):
+    start = time()
+    keywords = keywords.split()
+  
+    print("Input Keyword : ", keywords)
+    node = CheckNodeExist(keywords)
+    print("Node in DB : ", node)
+   
+    print("Calculate sum distance")
+    costsum = SumDistance(node)
     
-    query = inputq.split()
-    neighbor = dict()
-    maxp = 0
+    print("Calculate average distance")
+    nodeaverage = AverageDistance(costsum, node)
+    #print(sorted(nodeaverage.items(), key=operator.itemgetter(1))[:20])
+    print("Calculate hop sum")
+    hopsum, nodereach = Sumhop(node)
     candidate = []
-    global centroid
-    global candidatesum
-    centroid = dict()
+    for n in nodereach:
+        if nodereach[n] == len(node):
+            candidate.append(n)
+    #print(sorted(hopsum.items(), key=operator.itemgetter(1))[:20])
+    allcentroid, diseasecentroid = SortCentroid(nodeaverage, hopsum, candidate)
 
-    # Examine if keywords existing in db
-    for q in query:
-        if q in Cooccs:
-            pass
-        else:
-            query.remove(q)
+    print("Centroid :", allcentroid)
+    print("Disease :", diseasecentroid)
+    end = time()
+    xtime = end - start
+    print('Processing Time:', secondsToStr(xtime)) 
+    return(allcentroid, diseasecentroid)
 
-    print("query : ", query)
+def SortCentroid(nodeaverage, hopsum, candidate):
+    allcentroid = []
+    diseasecentroid = []
+    minhopkey = min(hopsum, key=hopsum.get)
+    minhop = hopsum[minhopkey]
+    calround = 1
 
-    # Find largest length between keywords
-    for wp in range(len(query)):
-        for wn in range(wp+1, len(query)):
-            if wn > len(query):
-                break
-            try:
-                cost = nx.dijkstra_path_length(Cooccs, query[wp], query[wn], weight='cost')
-                if cost > maxp:
-                    maxp = cost
-            except nx.NetworkXNoPath:
-                print("No Path Between :: ", query[wp], " and ", query[wn])
-             
-    arearadius = (maxp / 2.0) + 1
-    round = 1
-    
-    # Find Related node within keywords radius
-    while len(candidate) < 10:
-        print("Activat round::", round)
-        
-        if round > 1:
-            arearadius = arearadius + (arearadius/2)
-            candidate = []
-            neighbor = dict()
-            candidatesum = dict()
-        print("Radius : ", arearadius)
-        for q in query:
-                            
-            rel_link = nx.single_source_dijkstra_path_length(Cooccs, q, weight = 'cost', cutoff = arearadius)
-
-            for r in rel_link:
+    while len(diseasecentroid) < 2:
+        centroid = dict()
+        disease = dict()
+        if calround > 1:
+            minhop += 1
+        for c in candidate:
+            if hopsum[c] == minhop:
                 try:
-                    Cooccs.node[r]['disease']
-                    if r != q:
-                        if r in neighbor:
-                            neighbor[r] += 1
-                            candidatesum[r] += rel_link[r]
-                        else:
-                            neighbor[r] = 1
-                            candidatesum[r] = rel_link[r]
+                    Cooccs.node[c]['disease']
+                    disease[c] = nodeaverage[c]
                 except:
                     pass
-        
-        # Find node that related to all keywords (Candidate Centroid)
-        
-        for n in neighbor:
-            if neighbor[n] == len(query):
-                candidate.append(n)
+                centroid[c] = nodeaverage[c]
+        if len(centroid) > 0:
+            allcentroid.append(sorted(centroid.items(), key=operator.itemgetter(1)))
+                    
+        if len(disease) > 0:
+            diseasecentroid.append(sorted(disease.items(), key=operator.itemgetter(1)))
+        calround += 1
 
-        if round > 10 and len(candidate) > 0:
-            break
-        round += 1
-        print("Cadidate : ", len(candidate))
+    return(allcentroid, diseasecentroid)
     
-    #Find node that have most minimun average distance. (Centroid)     
-    Shortestaveragedistance(query, candidate)
-    findDoc(sorted(centroid.items(), key=operator.itemgetter(1)))
-    #print("Centroid :: ", centroid[:10])
-    return(query, centroid[:10])
+#Find sum hop to input keyword
+def Sumhop(node):
+    hopsum = dict()
+    nodereach = dict()
+    for n in node:
+        hop_link = nx.single_source_dijkstra_path_length(Cooccs, n)
+        for c in hop_link:
+            if c in node:
+                continue
+            if c in hopsum:
+                hopsum[c] += hop_link[c]
+                nodereach[c] += 1
+            else:
+                hopsum[c] = hop_link[c]
+                nodereach[c] = 1
+    return(hopsum, nodereach)
 
-#Find Average Distance --> Sum/N
-def Shortestaveragedistance(query, candidate):
-    global candidatesum
-    
-    for cd in candidate:
-        average = candidatesum[cd] / len(query)
-        centroid[cd] = average
-       
-#Find Disease Document
-def findDoc(getcentroid):
-    global centroid
-    path = dir_path+"/Document/corpus 226/Wiki"
-    os.chdir(path)
-    
-    for c in range(len(getcentroid)):
-        maxratio = 0
-        diseasebook = ""
-        for TextName in glob.glob("*.txt"):
-            docname = TextName.replace(".txt", "")
-        
-            ratio = fuzz.ratio(docname.lower(), getcentroid[c][0].lower())
+#Find average distance to input keyword  
+def AverageDistance(nodesum, query):
+    nodeaverage = dict()
+
+    for n in nodesum:
+        average = nodesum[n]/len(query)   
+        nodeaverage[n] = average                                                                          
+    return nodeaverage
+
+#Find sum distance to input keyword
+def SumDistance(node):
+    costsum = dict()
+    for n in node:
+        cost_link = nx.single_source_dijkstra_path_length(Cooccs, n, weight="cost")
+        for c in cost_link:
+            if c in node:
+                continue
+            if c in costsum:
+           
+                costsum[c] += cost_link[c]
+            else:
             
-            if ratio > maxratio:
-                maxratio = ratio
-                diseasebook = TextName
+                costsum[c] = cost_link[c]
+    return costsum
 
-        if diseasebook != "":    
-            getcentroid[c] = (*getcentroid[c], diseasebook)
+#Check if have input word in database -> Has = True, Not Has = False
+def CheckNodeExist(keywords):
+    node = []
+    for word in keywords:
+        if NodeExist(word):
+            node.append(word)
+    return node
 
-        if len(getcentroid[c]) == 2:
-            getcentroid[c] = (*getcentroid[c], "None")
-    
-    centroid = getcentroid
+def NodeExist(word):
+    hasnode = Cooccs.has_node(word)
+    return hasnode
+#Check Node Can Reach To Each Other -> Reached = True, Unreached = False
+def NodeReach(source, target):
+    reach = nx.has_path(Cooccs, source, target)
+    return reach
 
+#Read Graph from gpickle file and stored in Cooccs variable
+def ReadGraph():
+    global Cooccs
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+    Cooccs = nx.read_gpickle(dir_path+"/Database/Pickle/221.gpickle")
+    print("Read Graph ... Done.")
+    print(nx.info(Cooccs))
+
+#Covert Time from second to HH.MM.SS format
 def secondsToStr(elapsed=None):
     if elapsed is None:
         return strftime("%Y-%m-%d %H:%M:%S", localtime())
     else:
         return str(timedelta(seconds=elapsed))   
 
+ReadGraph()
+
+#keywords = "skin red rash"
+#Centroid(keywords)

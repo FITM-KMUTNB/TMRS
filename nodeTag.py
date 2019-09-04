@@ -39,8 +39,8 @@ def diseasetag(dtag):
     for n in Cooccs.nodes:
         for t in dtag:
             ratio = fuzz.ratio(n.lower(), t.lower())
-            if ratio > 78:
-                print("Node : ", n, " ,Tag : ", t , "Matching ratio :: ", ratio)
+            if ratio > 90:
+                print("Node : ", n, " ,Tag : ", t , "| Matching ratio :: ", ratio)
                 nx.set_node_attributes(Cooccs, {n: {'disease' : dtag[t]}})
                 num += 1
     nx.write_gml(Cooccs, "C:/Users/Kaow/Documents/Project/TMRS/GML/226.gml")
