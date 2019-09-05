@@ -31,10 +31,19 @@ def Centroid(keywords):
 
     print("Centroid :", allcentroid)
     print("Disease :", diseasecentroid)
+
+    topdisease = dict()
+ 
+    
+    for index in range(len(diseasecentroid)):
+        for tuples in range(len(diseasecentroid[index])):
+            topdisease[diseasecentroid[index][tuples][0]] = diseasecentroid[index][tuples][1]
+    
     end = time()
     xtime = end - start
     print('Processing Time:', secondsToStr(xtime)) 
-    return(allcentroid, diseasecentroid)
+    return(node, allcentroid[:10], list(topdisease.items())[:5])
+
 
 def SortCentroid(nodeaverage, hopsum, candidate):
     allcentroid = []
@@ -140,5 +149,5 @@ def secondsToStr(elapsed=None):
 
 ReadGraph()
 
-#keywords = "skin red rash"
+#keywords = "itch vomit muscle pain"
 #Centroid(keywords)

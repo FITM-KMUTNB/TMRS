@@ -41,7 +41,7 @@
 <th>Document</th>
 </tr>
 
-{% for d, dis, doc in disease %}
+{% for d, dis in disease %}
 <tr>
 <td>
 {{ d }}
@@ -50,7 +50,7 @@
 {{ dis }}
 </td>
 <td>
-{{ doc }}
+None
 </td>
 </tr>
 {% endfor %}
@@ -66,9 +66,8 @@
 </tr>
 <tr>
 <td colspan="3">
-{% for c, dis,g in centroid %}
-{{ c }},
-{{ dis }} | 
+{% for c in centroid %}
+{{ c }}
 
 {% endfor %}
 </td>

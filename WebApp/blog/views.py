@@ -9,7 +9,7 @@ class HomeView(TemplateView):
 
     def post(self, request):
         query = request.POST.get("query")
-        allcentroid, diseasecentroid = fc.Centroid(query)
-        #context = {'symptom' : keyword, 'disease' : disease, 'centroid' : centroid}
-        #return render(request, self.template_name, context)
+        keyword, allcentroid, topdisease = fc.Centroid(query)
+        context = {'symptom' : keyword, 'centroid' : allcentroid, 'disease' : topdisease}
+        return render(request, self.template_name, context)
 
