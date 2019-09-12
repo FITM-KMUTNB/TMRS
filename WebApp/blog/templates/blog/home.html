@@ -1,0 +1,108 @@
+{% extends 'base.html' %}
+<html>
+<body>
+{% block body %}
+<center>
+<div class="container">
+    <div class="row">
+        <form action ="." method="POST">{% csrf_token %}
+        <div id="custom-search-input">
+            <div class="input-group col-md-12">
+                
+                <input type="text" name="query" class="search-query form-control" placeholder="Search" />
+                <span class="input-group-btn">
+                <button class="btn btn-danger" type="submit">
+                <span class=" glyphicon glyphicon-search"></span>
+                </button>
+                </span>
+           
+            </div>
+        </div>
+    </form>
+    </div>
+
+</div>
+
+{% if symptom %}
+<h4>Symptoms : 
+{% for symp in symptom %}
+{{ symp }} 
+{% endfor %}
+</h4>
+{% endif %}
+
+<div class="diseasebox">
+{% if disease %}
+
+<table id="table">
+<tr>
+<th>Disease</th>
+<th>Average Distance</th>
+<th>Hop Distance</th>
+<th>Document</th>
+</tr>
+
+{% for d, dis in disease.items %}
+<tr>
+<td>
+{{ d }}
+</td>
+<td>
+{{ dis }}
+</td>
+<td>
+{% if diseasehop %}
+{{ diseasehop|get_item:d }}
+{% endif %}
+{% if not diseasehop %}
+None
+{% endif %}
+</td>
+<td>
+<a href="">{{ document|get_item:d }}</a>
+
+</td>
+</tr>
+{% endfor %}
+
+
+{% endif %}
+</div>
+
+{% if centroid %}
+
+<tr>
+<th colspan="4">Centroid</th>
+</tr>
+<tr>
+
+{% for c, dis in centroid.items %}
+<tr>
+<td colspan="2">
+{% if c in disease %}
+<font color="red">{{ c }}</font>
+{% endif %}
+{% if c not in disease %}
+{{ c }}
+{% endif %}
+</td>
+<td colspan="2">
+{% if c in disease %}
+<font color="red">{{ dis }}</font>
+{% endif %}
+{% if c not in disease %}
+{{ dis }}
+{% endif %}
+</td>
+</tr>
+{% endfor %}
+
+
+</tr>
+</table>
+{% endif %}
+
+</center>
+{% endblock %}   
+</body>
+</html>
