@@ -4,13 +4,14 @@ import operator
 import os
 import glob
 import chardet
-
+import PreTextProcessing as pt
+import Tokenization as tk
 def dir():
-    path = "Document/corpus 221/"
-    os.chdir(path)
-    for file in glob.glob("*.txt"):
-        print("file name: ", file)
-        readline(file)
+    path = "C:/Users/Kaow/Documents/Project/TMRS/Document/corpus221/cleanword/ADHD.txt.txt.s_nouns_sentences_untagged.txt"
+    #os.chdir(path)
+    #for file in glob.glob("*.txt"):
+        #print("file name: ", file)
+    readline(path)
 
 def readline(file):
     #Detect file encoding type of file
@@ -19,19 +20,19 @@ def readline(file):
     Encode = FileCode['encoding']
     
     c_file = open(file, 'r', encoding=Encode)
-    file = open("cleanword/"+ file,"w")
+    file = open("C:/Users/Kaow/Documents/Project/TMRS/Document/corpus221/cleanword2/test.txt","w", encoding="utf-8")
     for c in c_file:
         cleantxt(c, file)
     file.close()     
     c_file.close()   
 
 def cleantxt(line, cleanfile):
-    text = []
+  
+    #word_list = tk.TokenizeMultiWord(line, Taglist)
     word_list = line.split()
-    word_list = list(dict.fromkeys(word_list))
     for word in word_list:
-        if word in words.words() and len(word) > 1:
-                cleanfile.write(word)
+        if not word.isnumeric() and len(word) > 1 and word in words.words():
+            cleanfile.write(word)
         cleanfile.write(" ")
     cleanfile.write("\n") 
     

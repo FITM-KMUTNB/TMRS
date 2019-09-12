@@ -1,1 +1,0 @@
-{1{'tachycardia':20, 'ventilation':56, 'matthew':3, 'copper':13, 'thyroidectomy':3, 'breed':25, 'south-eastern':1, 'landouzy':1, 'virology':4, 'proxy':1, 'share':37, 'dvt':10, 'rub':14, 'spot':57, 'union':19, 'antihistamine':19, 'nucleocapsid':4, 'crank':1, 'christianity':2, 'gulu':1, 'thesis':6, 'quicken':1, '026':1, 'keratose':1, 'dysrhythmia':2, 't' : 'alice' }}

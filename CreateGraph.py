@@ -22,7 +22,7 @@ def CreatGraphX():
     
     print(nx.info(G))
     #print(sorted(wordlist))
-    nx.write_gpickle(G, "C:/Users/Kaow/Documents/Project/TMRS/Database/Pickle/221.gpickle")  
+    nx.write_gpickle(G, "C:/Users/Kaow/Documents/Project/TMRS/Database/Pickle/221clean.gpickle")  
   
 CreatGraphX()
 print("Tags ", Tags)

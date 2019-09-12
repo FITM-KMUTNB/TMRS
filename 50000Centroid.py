@@ -1,9 +1,9 @@
 import networkx as nx
 import random
 import operator
-
-fileResult = open("Centroid Result/50000.txt", "w") 
-Cooccs = nx.read_gpickle("Database/Pickle/221.gpickle")
+import SpreadingActivation as sa
+fileResult = open("Result Centroid/50000.txt", "w") 
+Cooccs = nx.read_gpickle("Database/Pickle/221clean.gpickle")
 print(nx.info(Cooccs))
 centroid = ""
 candidatesum = dict()
@@ -42,8 +42,8 @@ def Random100(file):
                     writetextline = ""
                     writetextline += str(t+1)+"{"
        
-        Calcentroid(query, file,t+1)
-
+        #Calcentroid(query, file,t+1)
+        sa.MaxDistance(Cooccs, query)
 
 def Calcentroid(query, file, roundnum):
     
@@ -58,7 +58,7 @@ def Calcentroid(query, file, roundnum):
     for q in query:
            
         rel_link = nx.single_source_dijkstra_path_length(Cooccs, q, weight = 'cost')
-           
+        
         for r in rel_link:
                 
             if r not in query:

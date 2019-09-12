@@ -10,7 +10,7 @@ LinkCost = dict() #{ W1|W2 : cost, W1|W3 : cost, W2|W3 : cost ... N}
 DiseaseName = dict() #{Disease1 : doc, Disease2/1_Desease2/2 : doc}
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
-path = dir_path+"/Document/corpus 221"
+path = dir_path+"/Document/corpus 221/cleanword/"
 
 #List file in directory
 def ListTextFile(path):
@@ -30,10 +30,17 @@ def ReadTextFile(file):
     #Open and read
     Text_file = open(file, 'r', encoding=Encode, )      
     print("Read...")
-    for line in Text_file:
-            sentence = tk.TokenizeMultiWord(line, Taglist)
-            WordCount(sentence)
-            LinkCount(sentence)
+    if Taglist:
+        for line in Text_file:
+                sentence = tk.TokenizeMultiWord(line, Taglist)
+                WordCount(sentence)
+                LinkCount(sentence)
+    else:
+        for line in Text_file:
+                sentence = line.split()
+                WordCount(sentence)
+                LinkCount(sentence)
+
     print("Add Word And Link Done !")
 
 #Add Word Frequency {W1 : occur, W2 : occur} 
@@ -84,6 +91,7 @@ def WordTags():
         #For Tag Disease Node
         replaceu = removen.lower().replace(" ", "_")
         DiseaseName[replaceu] = file
+    return Taglist
 
 # calculate Dice-coefficien using formular
 # 2*relations count / count of word a + count of word b
