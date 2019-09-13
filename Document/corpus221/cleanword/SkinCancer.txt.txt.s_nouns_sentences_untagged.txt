@@ -1,78 +1,78 @@
 encyclopedia jump navigation jump search skin_cancer cell skin_cancer 
 appearance telangiectasia 
-oncology dermatology symptom area skin blood vessel run ulceration lump top mole size shape color edge type skin_cancer bcc skin_cancer scc melanoma cause radiation sun tan bed factor skin function method tissue biopsy prevention exposure radiation sunscreen treatment surgery radiation therapy frequency death 
+oncology dermatology symptom area skin blood vessel run ulceration lump top mole size shape color edge type skin_cancer skin_cancer melanoma cause radiation sun tan bed factor skin function method tissue biopsy prevention exposure radiation treatment surgery radiation therapy frequency death 
 skin_cancer cancer skin 
-development cell ability part body type skin_cancer basal-cel skin_cancer bcc skin_cancer scc melanoma number skin_cancer skin_cancer cancer tissue area result death area skin blood vessel area ulcer skin_cancer lump top ulcer 
+development cell ability part body type skin_cancer skin_cancer skin_cancer melanoma number skin_cancer skin_cancer cancer tissue area result death area skin blood vessel area ulcer skin_cancer lump top ulcer 
 sign mole size shape color edge color 
 greater case exposure radiation sun exposure risk type skin_cancer exposure ozone layer tanning bed source radiation melanoma cancer exposure childhood skin_cancer exposure melanoma mole people light skin risk function medication diagnosis biopsy 
-exposure radiation use sunscreen method melanoma squamous-cel skin_cancer sunscreen risk cancer skin_cancer treatment removal radiation therapy medication treatment melanoma combination surgery chemotherapy radiation therapy therapy people disease area body care quality life melanoma survival rate cancer people uk united states year 
-skin_cancer form cancer account case type skin_cancer people year estimate statistics skin_cancer cancer skin_cancer skin_cancer death united states cause cancer death melanoma people death people australia new zealand south africa rate melanoma world type skin_cancer year area content 
+exposure radiation use method melanoma skin_cancer risk cancer skin_cancer treatment removal radiation therapy medication treatment melanoma combination surgery chemotherapy radiation therapy therapy people disease area body care quality life melanoma survival rate cancer people united states year 
+skin_cancer form cancer account case type skin_cancer people year estimate statistics skin_cancer cancer skin_cancer skin_cancer death united states cause cancer death melanoma people death people new south rate melanoma world type skin_cancer year area content 
 classification sign symptom skin_cancer skin_cancer cause diagnosis prevention treatment reconstruction epidemiology reference link 
-type skin_cancer basal-cel skin_cancer carcinoma bcc squamous-cell skin_cancer carcinoma scc melanoma 
+type skin_cancer skin_cancer carcinoma skin_cancer carcinoma melanoma 
 cancer description illustration carcinoma translucency color blood vessel surface ulceration characteristics 
 cell skin carcinoma patch bump 
-cell melanoma appearance area border color variation mm diameter 
+cell melanoma appearance area border color variation diameter 
 carcinoma area skin face 
 cause death 
 surgery radiation 
 skin_cancer cancer 
-metastasis rate exception scc lip ear people 
-skin_cancer protuberan cell carcinoma sarcoma spindle cell carcinoma carcinoma disease breast fibroxanthoma 
-bcc scc mutation cancer uvb radiation dna damage 
-melanoma uva radiation dna damage 
-dna damage radical oxygen specy 
+metastasis rate exception lip ear people 
+skin_cancer cell carcinoma sarcoma spindle cell carcinoma carcinoma disease breast 
+mutation cancer radiation damage 
+melanoma uva radiation damage 
+damage radical oxygen 
 research absorption ingredient skin exposure lead increase radical skin quantity researcher cream compound combination ingredient compound surface skin 
-re-application risk formation 
+risk formation 
 sign symptom 
 variety skin_cancer symptom 
 change skin skin skin change mole edge mole enlargement mole 
-skin_cancer bcc bump skin head neck shoulder 
+skin_cancer bump skin head neck shoulder 
 blood vessel tumor 
 center tumor 
 form skin_cancer treatment scare 
-skin_cancer scc scale patch skin 
+skin_cancer scale patch skin 
 nodule dome 
-scc mass 
+mass 
 second skin_cancer 
 melanoma colour shade brown 
 number melanoma colour melanoma 
 warn sign melanoma change size shape color elevation mole 
 sign appearance mole adulthood pain itch ulceration redness site bleed site 
-mnemonic  border coast maine sign  color  diameter mm size pencil eraser  
+mnemonic border coast sign color diameter size pencil eraser 
 cell carcinoma purple skin bump 
 cyst type cancer cause 
 radiation sun exposure cause skin_cancer profession farm 
 risk factor role 
-smoke tobacco hpv infection risk squamous-cel skin_cancer syndrome melanocytic syndrome presence nevy mole size birth month birth 
-mm size risk 
-non-heal wound ulcer appearance skin_cancer 
-radiation x-ray carcinogen radiation bed age light skin color bed cause skin_cancer world health organization people bed risk category skin_cancer alcohol consumption drink increase risk sunburn use medication risk skin_cancer 
-inhibitor example risk time azathioprine time 
+smoke tobacco infection risk skin_cancer syndrome syndrome presence mole size birth month birth 
+size risk 
+wound ulcer appearance skin_cancer 
+radiation carcinogen radiation bed age light skin color bed cause skin_cancer world health organization people bed risk category skin_cancer alcohol consumption drink increase risk sunburn use medication risk skin_cancer 
+inhibitor example risk time time 
 micrograph melanoma aspiration field stain 
 tumor epidermis mucosa area metaplasia carcinoma 
 tumor border 
 tumor cell basement membrane form sheet mass tissue 
-carcinoma tumor cell keratinocyte prickle layer cytoplasm nucleus 
-disposal epidermis cell periphery centre tumor mass 
+carcinoma tumor cell prickle layer cytoplasm nucleus 
+disposal epidermis cell periphery tumor mass 
 cell cell form nodule layer cell nest pearl 
 stroma lymphocyte 
 carcinoma cell keratinization 
 factor disease process mutation gene play role hedgehog pathway diagnosis 
 diagnosis biopsy examination 
-skin_cancer detection method photography microscopy raman spectroscopy fluorescence spectroscopy spectroscopy coherence tomography image technique bio-impedance tape strip analysis prevention 
+skin_cancer detection method photography microscopy spectroscopy fluorescence spectroscopy spectroscopy coherence tomography image technique tape strip analysis prevention 
 melanoma carcinoma evidence carcinoma advice rate skin_cancer cloth sunglass hat sun exposure period peak exposure 
 service task force people year age light 
-risk skin_cancer number measure tan day sun exposure use sunscreen use tobacco product 
+risk skin_cancer number measure tan day sun exposure use use tobacco product 
 evidence screen skin_cancer vitamin supplement supplement effect prevention evidence melanoma risk measure evidence trial 
-zinc oxide titanium oxide sun screen protection uva uvb range 
-food risk sunburn protection sunscreen 
-meta-analysis skin_cancer prevention risk individual evidence application lotion rate appearance cell carcinoma people pigmentosum mouth skin benefit people kidney transplant treatment 
+zinc oxide titanium oxide sun screen protection uva range 
+food risk sunburn protection 
+meta-analysis skin_cancer prevention risk individual evidence application lotion rate appearance cell carcinoma people mouth skin benefit people kidney transplant treatment 
 treatment type cancer location cancer age person cancer recurrence 
-basal-cel cancer person treatment cure rate surgery 
+cancer person treatment cure rate surgery 
 case man problem excise cancer nose radiation therapy cure rate treatment 
-chemotherapy basal-cel carcinoma outcome basal-cel carcinoma squamous-cel carcinoma 
+chemotherapy carcinoma outcome carcinoma carcinoma 
 citation melanoma radiation chemotherapy 
-disease radiation therapy beam radiotherapy chemotherapy 5-fluorouracil freez cancer control disease cure rate type surgery 
+disease radiation therapy beam radiotherapy chemotherapy cancer control disease cure rate type surgery 
 modality treatment therapy chemotherapy curettage discussion carcinoma carcinoma 
 surgery surgery technique cancer amount tissue edge tumor 
 opportunity amount tissue cosmetically result 
@@ -81,7 +81,7 @@ cure rate excision
 train technique 
 method pathologist surgery 
 case disease procedure chemotherapy 
-treatment melanoma agent pembrolizumab nivolumab inhibitor inhibitor reconstruction 
+treatment melanoma agent inhibitor inhibitor reconstruction 
 excision form treatment skin_cancer 
 goal surgery restoration appearance function 
 choice technique reconstruction size location defect 
@@ -105,25 +105,25 @@ form flap disruption tissue outcome reconstruction
 skin flap method skin blood supply region body 
 example reconstruction forehead flap repair skin defect 
 flap source blood supply form bed pedicle 
-mortality rate basal-cel carcinoma death year 
+mortality rate carcinoma death year 
 comparison mortality rate melanoma death melanoma skin_cancer death 
 survival rate people melanoma treatment 
 cure rate melanoma stage 
 prognosis melanoma part body year cure rate surgery percent cell carcinoma 
-australia new zealand exhibit rate skin_cancer incidence world time rate united states uk canada 
+new exhibit rate skin_cancer incidence world time rate united states canada 
 people treatment skin_cancer melanoma 
 type cancer people year country 
-incidence skin_cancer incidence melanoma auckland resident descent case people year century effect ozone depletion time lag sun exposure melanoma development 
-epidemiology death melanoma skin_cancer inhabitant data  
-skin_cancer result death year  melanoma  skin_cancer  
+incidence skin_cancer incidence melanoma resident descent case people year century effect ozone depletion time lag sun exposure melanoma development 
+epidemiology death melanoma skin_cancer inhabitant data 
+skin_cancer result death year melanoma skin_cancer 
 case skin_cancer state form cancer country 
-american skin_cancer point live 
+skin_cancer point live 
 form skin_cancer carcinoma cell carcinoma 
 cancer cell skin_cancer registry united states 
-people melanoma people australia case melanoma year die disease 
-australia incidence melanoma world 
+people melanoma people case melanoma year die disease 
+incidence melanoma world 
 rate cancer united states incidence melanoma melanoma report cancer institute 
-cancer uk people melanoma disease account cancer death people non-melanoma 
+cancer people melanoma disease account cancer death people 
 people cell skin_cancer skin_cancer united states year 
 rate year 
 death people doctor cancer people system disorder 

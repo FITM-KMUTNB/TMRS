@@ -2,7 +2,7 @@ encyclopedia attack jump navigation jump search transient_ischemic_attack name t
 transient_ischemic_attack transient_ischemic_attack episode dysfunction loss blood flow brain cord retina tissue death infarction transient_ischemic_attack mechanism stroke 
 disruption blood flow brain blood flow 
 definition transient_ischemic_attack duration symptom 
-widely-accept definition image time 
+definition image time 
 heart association stroke association transient_ischemic_attack episode dysfunction cause symptom hour evidence infarction image 
 transient_ischemic_attack symptom stroke weakness numbness side body 
 weakness side body hemisphere brain 
@@ -12,88 +12,88 @@ result disruption blood flow system
 stroke symptom day 
 transient_ischemic_attack symptom hour 
 occurrence transient_ischemic_attack risk factor stroke risk death disability 
-recognition transient_ischemic_attack opportunity treatment medication lifestyle change stroke 
+recognition transient_ischemic_attack opportunity treatment medication change stroke 
 transient_ischemic_attack definition symptom stroke 
-stroke infarct scy infarction present image symptom 
-scy transient_ischemic_attack stroke content 
-sign symptom transient_ischemic_attack mimics cause risk factor diagnosis laboratory image diagnosis prevention treatment lifestyle modification antiplatelet medication medication blood pressure control cholesterol control diabete control surgery epidemiology reference link 
+stroke infarct infarction present image symptom 
+transient_ischemic_attack stroke content 
+sign symptom transient_ischemic_attack mimics cause risk factor diagnosis laboratory image diagnosis prevention treatment modification antiplatelet medication medication blood pressure control cholesterol control control surgery epidemiology reference link 
 sign symptom 
-sign symptom transient_ischemic_attack neurologic condition context exam rule diagnosis 
+sign symptom transient_ischemic_attack condition context exam rule diagnosis 
 symptom transient_ischemic_attack deficit 
 loss vision droop motor weakness vision problem balance orientation 
-neurologic exam nerve exam find mimicker transient_ischemic_attack 
+exam nerve exam find mimicker transient_ischemic_attack 
 symptom weakness amaurosis vision odd transient_ischemic_attack memory loss headache vision table symptom presentation percentage time transient_ischemic_attack condition transient_ischemic_attack 
 deficit transient_ischemic_attack absence find diagnosis evaluation suspicion transient_ischemic_attack diagnosis section transient_ischemic_attack mimics symptom transient_ischemic_attack mimics transient_ischemic_attack paresis memory impairment headache vision blindness 
 symptom transient_ischemic_attack order minute hour period time transient_ischemic_attack event brain hour variation duration symptom definition significance study patient transient_ischemic_attack hospital hour hour hour patient symptom hour damage diagnosis treatment recovery cause 
-pathology transient_ischemic_attack stroke condition fibrillation coordination contraction formation clot chamber travel artery stroke blood flow prior infarction resolution symptom culprit transient_ischemic_attack plaque artery bifurcation carotid embolism brain clot example portion plaque lead pathology vessel 
+pathology transient_ischemic_attack stroke condition fibrillation contraction formation clot chamber travel artery stroke blood flow prior infarction resolution symptom culprit transient_ischemic_attack plaque artery bifurcation carotid embolism brain clot example portion plaque lead pathology vessel 
 thrombosis obstruction form vasculature embolism occurrence presentation transient_ischemic_attack stenosis atherosclerosis diameter lumen blood flow cause transient_ischemic_attack individual stenosis transient_ischemic_attack symptom symptom risk factor 
-risk factor transient_ischemic_attack modifiable non-modifiable 
-risk factor age sex family history genetics risk factor cigarette smoke hypertension blood pressure diabete level artery stenosis activity level risk factor treatment option attempt risk transient_ischemic_attack stroke 
+risk factor transient_ischemic_attack modifiable 
+risk factor age sex family history genetics risk factor cigarette smoke hypertension blood pressure level artery stenosis activity level risk factor treatment option attempt risk transient_ischemic_attack stroke 
 mechanism ischemia brain embolism brain occlusion vessel parenchyma brain stenosis vessel perfusion diameter vessel artery part body 
 mechanism stroke transient_ischemic_attack stroke mechanism frequency pattern number infarct occlusion territory 
 artery artery embolism clearance region branch disease hemodynamic 
 lesion diagnosis 
 diagnosis transient_ischemic_attack combination patient question symptom history exam head image 
-history take symptom mimick symptom 
+history take symptom symptom 
 symptom detail 
 time course onset duration resolution event risk factor 
 review symptom item diagnosis transient_ischemic_attack 
 laboratory test rule condition transient_ischemic_attack status addition patient risk factor event 
 patient blood count platelet count blood glucose panel prothrombin ratio thromboplastin time part initial test screen condition 
 electrocardiogram heart rhythm fibrillation patient clot formation embolic event lab test hypercoagulable state serum drug screen situation factor age patient family history panel patient risk disease ischemic event image 
-guideline heart association stroke association stroke council patient transient_ischemic_attack head image hour symptom onset resonance image diffusion sequence mri image modality transient_ischemic_attack tomography ct ischemic lesion ct 
-ct rule diffusion sequence area ischemia indicator presence lesion diffusion image risk stroke transient_ischemic_attack 
+guideline heart association stroke association stroke council patient transient_ischemic_attack head image hour symptom onset resonance image diffusion sequence image modality transient_ischemic_attack tomography ischemic lesion 
+rule diffusion sequence area ischemia indicator presence lesion diffusion image risk stroke transient_ischemic_attack 
 vessel head neck lesion intervention 
-vasculature image modality resonance angiography mra ct angiography ultrasonographytranscranial doppler ultrasonography ultrasonography screen artery stenosis person radiation 
-image method sensitivity specificity image method diagnosis example screen disease ultrasonography cta diagnosis artery stenosis treatment condition endarterectomy risk patient heart attack stroke procedure reason 
+vasculature image modality resonance angiography angiography screen artery stenosis person radiation 
+image method sensitivity specificity image method diagnosis example screen disease diagnosis artery stenosis treatment condition risk patient heart attack stroke procedure reason 
 service task force screen artery stenosis adult population recommendation patient patient transient_ischemic_attack fact symptom artery disease cause pathogenesis 
 patient transient_ischemic_attack discussion clinician risk benefit screen artery stenosis risk treatment condition 
 image head neck image cause patient transient_ischemic_attack atherosclerosis artery vessel head neck 
-patent foramen stenosis atherosclerosis arch source clot transient_ischemic_attack echocardiography lesion rhythm monitor rule arrhythmia fibrillation formation transient_ischemic_attack cause transient_ischemic_attack diagnosis diagnosis find brain_tumor headache nausea system infection meningitis encephalitis fever headache confusion neck stiffness nausea change status headache confusion confusion weakness headache age sclerosis limb weakness retention optic disorder confusion loss consciousness incontinence tongue movement headache onset vertigo generalize dizziness diaphoresis hear loss 
-patient history neurologic exam neurologic deficit attention nerve motor coordination component exam 
+patent foramen stenosis atherosclerosis arch source clot transient_ischemic_attack lesion rhythm monitor rule arrhythmia fibrillation formation transient_ischemic_attack cause transient_ischemic_attack diagnosis diagnosis find brain_tumor headache nausea system infection meningitis encephalitis fever headache confusion neck stiffness nausea change status headache confusion confusion weakness headache age sclerosis limb weakness retention optic disorder confusion loss consciousness incontinence tongue movement headache onset vertigo generalize dizziness diaphoresis hear loss 
+patient history exam deficit attention nerve motor component exam 
 history exam clinician laboratory image 
-lack study efficacy lifestyle change transient_ischemic_attack professional 
+lack study efficacy change transient_ischemic_attack professional 
 smoke fat amount plaque build diet plenty fruit vegetable sodium diet blood pressure intake alcohol stimulant 
 addition condition risk stroke transient_ischemic_attack 
-hypertension cholesterol diabete mellitus fibrillation 
+hypertension cholesterol mellitus fibrillation 
 definition transient_ischemic_attack impairment 
 risk ischemic stroke management center prevention future stroke risk factor 
 regimen cause transient_ischemic_attack 
-lifestyle modification 
-lifestyle change risk stroke transient_ischemic_attack study diet prevention stroke study diet stroke risk patient disease diet fruit vegetable grain meat sweet 
+modification 
+change risk stroke transient_ischemic_attack study diet prevention stroke study diet stroke risk patient disease diet fruit vegetable grain meat sweet 
 vitamin supplementation stroke prevention medication 
-medication aspirin clopidogrel prevention stroke risk transient_ischemic_attack clopidogrel day exception transient_ischemic_attack blood clot heart case transient_ischemic_attack stroke aspirin therapy risk stroke 60-70 risk stroke 
-therapy aspirin combination aspirin dipyridamole clopidogrel aspirin efficacy side effect profile 
-risk gi ticlopidine side effect medication 
+medication aspirin prevention stroke risk transient_ischemic_attack day exception transient_ischemic_attack blood clot heart case transient_ischemic_attack stroke aspirin therapy risk stroke risk stroke 
+therapy aspirin combination aspirin aspirin efficacy side effect profile 
+risk side effect medication 
 transient_ischemic_attack fibrillation 
 fibrillation heart rhythm formation blood clot brain transient_ischemic_attack stroke 
-fibrillation stroke risk time cause stroke anticoagulant therapy risk stroke fibrillation warfarin anticoagulant anticoagulant risk bleed combination risk decrease stroke risk therapy patient artery disease addition fibrillation 
+fibrillation stroke risk time cause stroke anticoagulant therapy risk stroke fibrillation anticoagulant anticoagulant risk bleed combination risk decrease stroke risk therapy patient artery disease addition fibrillation 
 infarction heart attack formation blood clot chamber heart 
-cause transient_ischemic_attack people warfarin anticoagulant risk stroke blood pressure control 
+cause transient_ischemic_attack people anticoagulant risk stroke blood pressure control 
 blood pressure control transient_ischemic_attack risk stroke 
-patient stroke hypertension blood pressure blood pressure mmhg half blood pressure goal mmhg mmhg study goal mmhg benefit blood pressure control diuretics combination diuretics angiotensin converter enzyme inhibitor treatment regimen cholesterol control 
+patient stroke hypertension blood pressure blood pressure half blood pressure goal study goal benefit blood pressure control diuretics combination diuretics converter enzyme inhibitor treatment regimen cholesterol control 
 evidence effect level stroke risk transient_ischemic_attack 
-cholesterol stroke risk risk stroke role stroke prevention statin therapy mortality transient_ischemic_attack diabete control 
-diabete mellitus risk stroke time ischemic stroke glucose control complication diabete kidney damage damage evidence risk stroke death data  pioglitazone stroke risk surgery 
-transient_ischemic_attack area artery ultrasound scan stenosis narrow artery 
-people stenosis artery endarterectomy risk stroke stenosis endarterectomy risk stroke stenosis endarterectomy stroke risk case efficacy endarterectomy artery stent stroke risk patient artery stenosis 
-endarterectomy surgeon incision neck artery plaque blood vessel 
+cholesterol stroke risk risk stroke role stroke prevention therapy mortality transient_ischemic_attack control 
+mellitus risk stroke time ischemic stroke glucose control complication kidney damage damage evidence risk stroke death data stroke risk surgery 
+transient_ischemic_attack area artery scan stenosis narrow artery 
+people stenosis artery risk stroke stenosis risk stroke stenosis stroke risk case efficacy artery stent stroke risk patient artery stenosis 
+surgeon incision neck artery plaque blood vessel 
 artery graft vessel body patch 
-patient endarterectomy transient_ischemic_attack stroke day risk death stroke 
-artery stent alternative endarterectomy patient artery stenosis 
+patient transient_ischemic_attack stroke day risk death stroke 
+artery stent alternative patient artery stenosis 
 procedure surgeon cut groin tube catheter patient artery 
 balloon site stenosis open artery blood flow brain 
 vessel wire mesh coil balloon 
 remain place balloon 
-patient age endarterectomy death stroke artery stent patient difference outcome endarterectomy artery stent people endarterectomy artery stent stroke prevention statin intervention prognosis 
+patient age death stroke artery stent patient difference outcome artery stent people artery stent stroke prevention intervention prognosis 
 people transient_ischemic_attack 
 warn stroke 
 transient_ischemic_attack duration blood flow damage brain 
 stroke time period blood supply impairment duration neuron area brain damage 
-one-third people transient_ischemic_attack transient_ischemic_attack stroke 
+people transient_ischemic_attack transient_ischemic_attack stroke 
 source transient_ischemic_attack stroke day day transient_ischemic_attack risk stroke transient_ischemic_attack score 
 limitation score level artery stenosis cause stroke transient_ischemic_attack patient 
 patient age risk factor level stenosis transient_ischemic_attack epidemiology 
 difficulty transient_ischemic_attack due symptom dysfunction presentation differential mimics incidence disease 
-incidence case year heart association transient_ischemic_attack incidence trend stroke incidence age gender raceethnicity population risk factor age blood pressure disease diabete hypertension atherosclerosis fibrillation 
+incidence case year heart association transient_ischemic_attack incidence trend stroke incidence age gender population risk factor age blood pressure disease hypertension atherosclerosis fibrillation 
 percent stroke transient_ischemic_attack episode 

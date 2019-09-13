@@ -1,4 +1,4 @@
-encyclopedia bone cancer jump navigation jump search bone cancer osteosarcoma magjpg micrograph osteosarcoma bone_tumor 
+encyclopedia bone cancer jump navigation jump search bone cancer osteosarcoma micrograph osteosarcoma bone_tumor 
 bone_tumor growth tissue bone 
 growth bone 
 survival united states bone cancer content 
@@ -8,7 +8,7 @@ symptom bone_tumor pain time
 person week month year help pain increase growth tumor 
 symptom fatigue fever weight loss bone fracture 
 patient symptom mass 
-bone_tumor structure bone fracture diagnosis classification x-ray cell bone_tumor head metacarpal hand 
+bone_tumor structure bone fracture diagnosis classification cell bone_tumor head metacarpal hand 
 arm bone_tumor 
 bone_tumor tumor bone cell tissue tumor site spread skeleton 
 carcinomas prostate breast lung thyroid kidney carcinoma bone 
@@ -18,9 +18,9 @@ tumor osteochondroma
 location tumor femur tibia knee joint 
 example bone_tumor osteochondroma cell tumor bone bone cyst 
 bone_tumor sarcoma type 
-histiocytoma mfh sarcoma bone paradigm diagnosis trend study test tumor tumor class 
+sarcoma bone paradigm diagnosis trend study test tumor tumor class 
 myeloma cancer bone marrow bone lesion 
-cell midline sacrum 
+cell sacrum 
 sacrococcygeal treatment 
 stage bone cancer 
 stage bone cancer 
@@ -41,23 +41,23 @@ treatment bone cancer surgery limb amputation limb surgery combination chemother
 limb surgery limb salvage surgery limb amputation 
 amputation bone way bone graft bone body bone 
 leg surgery limb salvage 
-surgery van rotation rotationplasty form amputation patient foot degree turn foot knee 
+surgery van rotation form amputation patient foot degree turn foot knee 
 type amputation 
 knee knee symes hip disarticulation leg half pelvis 
 elbow elbow shoulder amputation arm shoulder blade clavicle 
-amputation waist amputation leg pelvis system system area male vaginavulva female 
+amputation waist amputation leg pelvis system system area male female 
 operation stage 
 stage colostomy conduit stage amputation 
-mutilate operation resort exenteration case pelvicreproductive cancer ablation technique 
-decade ct ablation alternative resection care bone_tumor 
-technique sedation rf probe tumor needle ct guidance heat tumor cell 
-procedure treatment osteoma study result bone destruction safety efficacy technique patient freedom symptom success rate rfa symptom recurrence rfa treatment study recurrence rate treatment 
+mutilate operation resort exenteration case cancer ablation technique 
+decade ablation alternative resection care bone_tumor 
+technique sedation probe tumor needle guidance heat tumor cell 
+procedure treatment osteoma study result bone destruction safety efficacy technique patient freedom symptom success rate symptom recurrence treatment study recurrence rate treatment 
 ablation technique treatment bone disease 
 beam radiation therapy standard care patient bone pain disease 
 majority patient experience relief pain radiation therapy effect study patient patient therapy radiation therapy chemotherapy surgery analgesic medication ablation technique alternative pain reduction 
-trial efficacy rfa treatment pain patient bone disease decrease pain treatment study patient site pain tumor therapy 
-alternative area destruction technique ct rfa advantage structure 
+trial efficacy treatment pain patient bone disease decrease pain treatment study patient site pain tumor therapy 
+alternative area destruction technique advantage structure 
 outlook type tumor 
 outcome people tumor type tumor 
 bone_tumor patient cure cure rate type cancer location size factor 
-bone scintigraphy 
+bone 

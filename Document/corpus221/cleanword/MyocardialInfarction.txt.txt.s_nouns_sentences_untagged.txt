@@ -1,148 +1,148 @@
 encyclopedia jump navigation jump search myocardial_infarction 
-use myocardial_infarction disambiguation 
-myocardial_infarction name myocardial_infarction myocardial_infarction myocardial_infarction myocardial_infarction diagram blood supply heart blood vessel left artery rca 
+use myocardial_infarction 
+myocardial_infarction name myocardial_infarction myocardial_infarction myocardial_infarction myocardial_infarction diagram blood supply heart blood vessel left artery 
 myocardial_infarction blockage branch artery 
-emergency medicine symptom chest pain shortness breath nausea feel sweat feel arm neck back jaw stomach pain complication heart_failure heartbeat shock arrest cause artery disease risk factor blood pressure smoke diabete lack exercise obesity blood cholesterol method blood test angiography treatment intervention thrombolysis aspirin heparin myocardial_infarction risk death world frequency 
+emergency medicine symptom chest pain shortness breath nausea feel sweat feel arm neck back jaw stomach pain complication heart_failure heartbeat shock arrest cause artery disease risk factor blood pressure smoke lack exercise obesity blood cholesterol method blood test angiography treatment intervention thrombolysis aspirin heparin myocardial_infarction risk death world frequency 
 myocardial_infarction myocardial_infarction myocardial_infarction blood flow decrease stop part heart damage heart muscle symptom chest pain discomfort shoulder arm back neck jaw center side chest minute discomfort heartburn symptom shortness breath nausea feel sweat feel people symptom women chest pain neck pain arm pain year myocardial_infarction history symptom myocardial_infarction heart_failure heartbeat shock arrest 
-myocardial_infarction artery disease risk factor blood pressure smoke diabete lack exercise obesity blood cholesterol diet alcohol intake blockage artery rupture plaque mechanism myocardial_infarction myocardial_infarction artery spasm cocaine stress cold number test diagnosis blood test angiography ecg record heart activity st elevation myocardial_infarction myocardial_infarction st elevation blood test kinase mb 
-treatment myocardial_infarction aspirin treatment myocardial_infarction opioid chest pain outcome oxygen oxygen level shortness breath ste myocardial_infarction treatment attempt blood flow heart intervention pci artery thrombolysis blockage medication people elevation myocardial_infarction myocardial_infarction blood heparin use pci risk people blockage artery diabete artery bypass surgery angioplasty myocardial_infarction lifestyle modification term treatment aspirin beta blocker statin 
+myocardial_infarction artery disease risk factor blood pressure smoke lack exercise obesity blood cholesterol diet alcohol intake blockage artery rupture plaque mechanism myocardial_infarction myocardial_infarction artery spasm cocaine stress cold number test diagnosis blood test angiography record heart activity st elevation myocardial_infarction myocardial_infarction st elevation blood test kinase 
+treatment myocardial_infarction aspirin treatment myocardial_infarction chest pain outcome oxygen oxygen level shortness breath myocardial_infarction treatment attempt blood flow heart intervention artery thrombolysis blockage medication people elevation myocardial_infarction myocardial_infarction blood heparin use risk people blockage artery artery bypass surgery angioplasty myocardial_infarction modification term treatment aspirin beta blocker 
 myocardial_infarction people st elevation myocardial_infarction myocardial_infarction myocardial_infarction men women people myocardial_infarction year united states world risk death myocardial_infarction rate myocardial_infarction age myocardial_infarction top condition inpatient cost hospital content 
-terminology sign symptom pain symptom women cause diet genetics mechanism cause tissue death diagnosis criteria type biomarker image diagnosis management pain rehabilitation prevention prevention prevention complication epidemiology society culture implication reference read link 
+terminology sign symptom pain symptom women cause diet genetics mechanism cause tissue death diagnosis criteria type image diagnosis management pain rehabilitation prevention prevention prevention complication epidemiology society culture implication reference read link 
 terminology article syndrome 
 myocardial_infarction myocardial_infarction tissue death infarction heart muscle myocardium 
-type syndrome change symptom blood flow heart cause syndrome angina myocardial_infarction cell death blood test biomarker protein enzyme evidence myocardial_infarction st elevation myocardial_infarction myocardial_infarction elevation myocardial_infarction myocardial_infarction result ecg 
+type syndrome change symptom blood flow heart cause syndrome angina myocardial_infarction cell death blood test protein enzyme evidence myocardial_infarction st elevation myocardial_infarction myocardial_infarction elevation myocardial_infarction myocardial_infarction result 
 phrase myocardial_infarction myocardial_infarction death 
 myocardial_infarction heart organ death 
 heart_failure pump action heart 
 myocardial_infarction heart_failure sign symptom view chest area myocardial_infarction view back area myocardial_infarction area pain myocardial_infarction red light red area chest back 
-chest pain symptom myocardial_infarction sensation tightness pressure squeez 
+chest pain symptom myocardial_infarction sensation tightness pressure 
 pain arm jaw neck right arm back abdomen pain myocardial_infarction likelihood ratio pain arm shoulder chest pain myocardial_infarction pain myocardial_infarction position minute sign person chest pain fist sternum chest pain study value pain nitroglycerin presence absence myocardial_infarction symptom 
-chest pain nausea vomit symptom pain women symptom myocardial_infarction shortness breath weakness fatigue shortness breath symptom damage heart output ventricle breathlessness oxygen blood symptom weakness palpitation abnormality heart rate blood pressure symptom surge catecholamine system response pain blood pressure loss consciousness blood flow brain shock death development fibrillation myocardial_infarction arrest symptom palpitation women diabete people surgery patient 
+chest pain nausea vomit symptom pain women symptom myocardial_infarction shortness breath weakness fatigue shortness breath symptom damage heart output ventricle breathlessness oxygen blood symptom weakness palpitation abnormality heart rate blood pressure symptom surge system response pain blood pressure loss consciousness blood flow brain shock death development fibrillation myocardial_infarction arrest symptom palpitation women people surgery patient 
 myocardial_infarction symptom case electrocardiogram blood enzyme test autopsy person 
-myocardial_infarction infarction diabete mellitus heart transplantation 
-people diabete difference pain threshold neuropathy factor explanation lack symptom heart transplantation donor heart system recipient women range myocardial_infarction symptom women 
+myocardial_infarction infarction mellitus heart transplantation 
+people difference pain threshold neuropathy factor explanation lack symptom heart transplantation donor heart system recipient women range myocardial_infarction symptom women 
 women myocardial_infarction symptom 
 presentation chest pain women 
 women experience back neck pain indigestion heartburn shortness breath fatigue nausea pain back jaw 
 symptom condition cause 
-risk factor myocardial_infarction age blood pressure diabete mellitus cholesterol lipoprotein level risk factor myocardial_infarction artery disease cause myocardial_infarction risk factor sex level activity family history obesity alcohol use risk factor disease risk factor stratification score framingham risk score age men risk women development disease level blood cholesterol risk factor lipoprotein lipoprotein triglyceride 
-risk factor myocardial_infarction tobacco smoke smoke smoke cause obesity cause artery disease lack activity  case cause cause job stress case stress level diet 
+risk factor myocardial_infarction age blood pressure mellitus cholesterol lipoprotein level risk factor myocardial_infarction artery disease cause myocardial_infarction risk factor sex level activity family history obesity alcohol use risk factor disease risk factor stratification score risk score age men risk women development disease level blood cholesterol risk factor lipoprotein lipoprotein triglyceride 
+risk factor myocardial_infarction tobacco smoke smoke smoke cause obesity cause artery disease lack activity case cause cause job stress case stress level diet 
 evidence importance fat development myocardial_infarction 
 fat fat study risk myocardial_infarction study evidence fat fat intake myocardial_infarction risk cholesterol effect blood cholesterol recommendation consumption trans fat risk intake quantity drink increase risk myocardial_infarction genetics 
 family history heart disease myocardial_infarction relative father brother myocardial_infarction age year relative mother sister age person risk myocardial_infarction 
-association study variant risk myocardial_infarction association myocardial_infarction chromosome arm  locus gene nucleotide polymorphism region majority variant region artery disease 
-gene association myocardial_infarction sort1 myocardial_infarction phactr1 zc3hc1 abo mnf1asm283 smad3 smg6 slc5a3 
-risk myocardial_infarction increase age activity status myocardial_infarction morn hour 6am noon evidence myocardial_infarction time morn even shift work risk myocardial_infarction analysis increase myocardial_infarction start daylight save time 
+association study variant risk myocardial_infarction association myocardial_infarction chromosome arm locus gene nucleotide polymorphism region majority variant region artery disease 
+gene association myocardial_infarction myocardial_infarction 
+risk myocardial_infarction increase age activity status myocardial_infarction morn hour noon evidence myocardial_infarction time morn even shift work risk myocardial_infarction analysis increase myocardial_infarction start daylight save time 
 women pill risk myocardial_infarction presence risk factor use drug nsaids week risk 
 women age risk factor 
 air pollution modifiable risk 
 exposure air pollution carbon monoxide nitrogen dioxide dioxide ozone myocardial_infarction event death increment unit standard index risk arrest day exposure extreme temperature 
-number infection influenza helicobacter pylory porphyromona atherosclerosis myocardial_infarction  evidence benefit antibiotics vaccination association question myocardial_infarction consequence kawasaki disease 
-calcium deposit artery ct scan 
-calcium artery information risk factor blood level amino acid homocysteine atherosclerosis homocysteine range 
+number infection influenza atherosclerosis myocardial_infarction evidence benefit antibiotics vaccination association question myocardial_infarction consequence disease 
+calcium deposit artery scan 
+calcium artery information risk factor blood level amino acid atherosclerosis range 
 people artery disease cause myocardial_infarction spasm dissection mechanism file myocardial_infarction media animation plaque buildup artery spasm myocardial_infarction blood flow artery myocardial_infarction 
 myocardial_infarction plaque line artery thrombus formation artery blood flow 
 cause myocardial_infarction rupture plaque artery heart muscle rupture formation blood clot artery minute 
 blockage artery tissue death tissue artery plaque decade result symptom 
 buildup cholesterol tissue plaque wall artery artery decade atherosclerosis atherosclerosis inflammation wall artery cell move wall 
-time cholesterol product ldl foam cell 
+time cholesterol product foam cell 
 cholesterol core form foam cell 
 response growth factor macrophage muscle cell move plaque act 
 plaque cap 
 inflammation cap 
 pressure blood flow plaque line formation blood clot thrombus cholesterol crystal plaque rupture injury inflammation cause 
 disease cause myocardial_infarction cause 
-myocardial_infarction heart blood supply subject oxygen demand fever heart rate blood cell bloodstream blood pressure 
+myocardial_infarction heart blood supply subject oxygen demand fever heart rate blood cell blood pressure 
 damage failure procedure intervention artery bypass graft myocardial_infarction 
 spasm artery angina blockage tissue death draw heart ventricle wall infarction 
 blood flow heart process cascade heart cell territory artery die infarction necrosis 
-collagen scar form place artery cell lack oxygen atp mitochondria 
-atp maintenance electrolyte balance atpase 
+collagen scar form place artery cell lack oxygen mitochondria 
+maintenance electrolyte balance 
 cascade change necrosis apoptosis cell 
-cell area blood supply surface heart region region tissue minute loss blood supply tissue zone ischemia infarct wave infarction place hour change pathology presence absence  wave ecg position size extent infarct artery totality blockage duration blockage presence collateral blood vessel oxygen demand success procedure 
+cell area blood supply surface heart region region tissue minute loss blood supply tissue zone ischemia infarct wave infarction place hour change pathology presence absence wave position size extent infarct artery totality blockage duration blockage presence collateral blood vessel oxygen demand success procedure 
 tissue death scare conduction pathway heart area 
 size location person risk heart rhythm arrhythmia heart block aneurysm heart inflammation heart wall infarction rupture heart wall consequence diagnosis article myocardial_infarction diagnosis criteria 
-myocardial_infarction consensus biomarker rise trend 
-symptom change electrocardiogram ecg st segment change bundle branch block  wave change motion heart wall image demonstration thrombus angiogram autopsy 
+myocardial_infarction consensus rise trend 
+symptom change electrocardiogram st segment change bundle branch block wave change motion heart wall image demonstration thrombus autopsy 
 type myocardial_infarction 
 myocardial_infarction st elevation myocardial_infarction myocardial_infarction elevation myocardial_infarction myocardial_infarction 
-change ecg myocardial_infarction myocardial_infarction classification system consensus 
+change myocardial_infarction myocardial_infarction classification system consensus 
 myocardial_infarction type 
-myocardial_infarction plaque erosion rupture dissection myocardial_infarction oxygen demand supply artery spasm embolism arrhythmia blood pressure blood pressure death arrest symptom myocardial_infarction ecg change blood clot artery angiography autopsy blood sample time appearance biomarker blood angioplasty stent intervention pci thrombosis angiography autopsy artery dissection women 
-number biomarker presence muscle damage 
-blood test sensitivity specificity injury heart muscle test rise troponin hour injury heart muscle peak day 
-level troponin change time myocardial_infarction accuracy test time troponin myocardial_infarction ecg 
-test troponin injury surgery inflammation hour return day myocardial_infarction ecg myocardial_infarction 
+myocardial_infarction plaque erosion rupture dissection myocardial_infarction oxygen demand supply artery spasm embolism arrhythmia blood pressure blood pressure death arrest symptom myocardial_infarction change blood clot artery angiography autopsy blood sample time appearance blood angioplasty stent intervention thrombosis angiography autopsy artery dissection women 
+number presence muscle damage 
+blood test sensitivity specificity injury heart muscle test rise hour injury heart muscle peak day 
+level change time myocardial_infarction accuracy test time myocardial_infarction 
+test injury surgery inflammation hour return day myocardial_infarction myocardial_infarction 
 elevation st segment lead 
-series lead person chest measure activity contraction heart muscle take ecg part workup myocardial_infarction minute hour response change sign symptom 
-ecg product waveform feature addition rise biomarker rise st segment change shape flip  wave wave bundle branch block myocardial_infarction addition st elevation st segment myocardial_infarction myocardial_infarction 
-mm mv male 
-mm mv female 
-mm mv chest limb st elevation infarction change st depression inversion  wave abnormality location infarct lead change myocardial_infarction  wave ecg abnormality complication myocardial_infarction fibrillation image 
-image role diagnosis characterisation myocardial_infarction test chest x-ray cause person symptom test stress perfusion image diagnosis person history examination examination ecg biomarker likelihood problem 
-ultrasound scan heart heart size shape motion heart wall myocardial_infarction 
-flow blood contrast dye image scan contrast ct-scan thallium myocardial_infarction scan tetrofosmin pet scan fludeoxyglucose medicine scan perfusion heart muscle viability tissue area ischemia 
-society guideline physician person risk myocardial_infarction image test diagnosis test management result cost patient ecg example routine image 
-ultrasound week media 
-movement heart myocardial_infarction ultrasound ultrasound week media 
-myocardial_infarction ultrasound 
-cause chest pain heart lung tract aorta muscle bone nerve chest addition myocardial_infarction cause angina blood supply heart muscle evidence cell death reflux disease embolism tumor lung pneumonia rib fracture heart_failure musculoskeletal injury diagnose dissection rupture tension effusion chest pain myocardial_infarction heartburn cause breathlessness lung heart pneumonia reaction asthma distress syndrome acidosis cause fatigue myocardial_infarction cause management article management syndrome 
+series lead person chest measure activity contraction heart muscle take part myocardial_infarction minute hour response change sign symptom 
+product feature addition rise rise st segment change shape flip wave wave bundle branch block myocardial_infarction addition st elevation st segment myocardial_infarction myocardial_infarction 
+male 
+female 
+chest limb st elevation infarction change st depression inversion wave abnormality location infarct lead change myocardial_infarction wave abnormality complication myocardial_infarction fibrillation image 
+image role diagnosis myocardial_infarction test chest cause person symptom test stress perfusion image diagnosis person history examination examination likelihood problem 
+scan heart heart size shape motion heart wall myocardial_infarction 
+flow blood contrast dye image scan contrast thallium myocardial_infarction scan pet scan medicine scan perfusion heart muscle viability tissue area ischemia 
+society guideline physician person risk myocardial_infarction image test diagnosis test management result cost patient example routine image 
+week media 
+movement heart myocardial_infarction week media 
+myocardial_infarction 
+cause chest pain heart lung tract aorta muscle bone nerve chest addition myocardial_infarction cause angina blood supply heart muscle evidence cell death reflux disease embolism tumor lung pneumonia rib fracture heart_failure injury diagnose dissection rupture tension effusion chest pain myocardial_infarction heartburn cause breathlessness lung heart pneumonia reaction asthma distress syndrome acidosis cause fatigue myocardial_infarction cause management article management syndrome 
 myocardial_infarction attention 
-treatment heart muscle complication treatment myocardial_infarction myocardial_infarction myocardial_infarction treatment aim unblock blood vessel blot clot enlargement risk factor aim future myocardial_infarction addition treatment myocardial_infarction ecg evidence st elevation myocardial_infarction thrombolysis intervention pci day myocardial_infarction addition judgement risk stratification guide treatment myocardial_infarction score system pain 
-pain myocardial_infarction nitroglycerin morphine tongue blood supply heart work heart part therapy pain relief benefit mortality pain ste myocardial_infarction evidence benefit morphine outcome evidence harm 
-aspirin antiplatelet anticoagulant load dose goal clot size clote artery decrease mortality myocardial_infarction inhibitor prasugrel load dose dose management guideline p2y12 inhibitor nste myocardial_infarction myocardial_infarction pci evidence mortality form act point clote cascade help enlargement clot myocardial_infarction evidence mortality rate scenario inhibitor platelet glycoprotein 
+treatment heart muscle complication treatment myocardial_infarction myocardial_infarction myocardial_infarction treatment aim unblock blood vessel blot clot enlargement risk factor aim future myocardial_infarction addition treatment myocardial_infarction evidence st elevation myocardial_infarction thrombolysis intervention day myocardial_infarction addition risk stratification guide treatment myocardial_infarction score system pain 
+pain myocardial_infarction nitroglycerin morphine tongue blood supply heart work heart part therapy pain relief benefit mortality pain myocardial_infarction evidence benefit morphine outcome evidence harm 
+aspirin antiplatelet anticoagulant load dose goal clot size clote artery decrease mortality myocardial_infarction inhibitor load dose dose management guideline inhibitor myocardial_infarction myocardial_infarction evidence mortality form act point clote cascade help enlargement clot myocardial_infarction evidence mortality rate scenario inhibitor platelet glycoprotein 
 evidence mortality benefit myocardial_infarction 
-review inhibitor risk death people nste myocardial_infarction pci risk death risk myocardial_infarction 
-intervention pci treatment choice myocardial_infarction manner minute contact provider myocardial_infarction day review difference pci myocardial_infarction 
-pci probe blood vessel artery artery blood vessel heart 
-probe blockage balloon segment clot insertion stent artery bypass graft area heart muscle pci example anatomy pci people aspirin therapy aspirin clopidogrel year 
-pci minute myocardial_infarction minute arrival hospital person symptom hour evidence effectiveness thrombolysis symptom hour administration medication enzyme blood clot 
-medication tissue plasminogen activator streptokinase thrombolysis number situation risk potential bleed past stroke brain hypertension 
-situation thrombolysis caution surgery use pregnancy proclivity risk thrombolysis pre-hospital thrombolysis time treatment study income country impact mortality rate 
+review inhibitor risk death people myocardial_infarction risk death risk myocardial_infarction 
+intervention treatment choice myocardial_infarction manner minute contact provider myocardial_infarction day review difference myocardial_infarction 
+probe blood vessel artery artery blood vessel heart 
+probe blockage balloon segment clot insertion stent artery bypass graft area heart muscle example anatomy people aspirin therapy aspirin year 
+minute myocardial_infarction minute arrival hospital person symptom hour evidence effectiveness thrombolysis symptom hour administration medication enzyme blood clot 
+medication tissue activator thrombolysis number situation risk potential bleed past stroke brain hypertension 
+situation thrombolysis caution surgery use pregnancy proclivity risk thrombolysis thrombolysis time treatment study income country impact mortality rate 
 flow oxygen myocardial_infarction evidence routine use oxygen level potential harm intervention oxygen oxygen level distress 
-thrombolysis shock chest pain improvement st elevation ecg record minute rescue pci 
+thrombolysis shock chest pain improvement st elevation record minute rescue 
 arrest temperature management evaluation implementation hypothermia protocol 
-arrest st elevation time angiography antagonist people ste myocardial_infarction heart_failure rehabilitation 
+arrest st elevation time angiography antagonist people myocardial_infarction heart_failure rehabilitation 
 rehabilitation benefit myocardial_infarction heart damage failure 
 discharge hospital 
-program lifestyle advice exercise support recommendation sport participation stress management intercourse prevention 
-crossover lifestyle activity recommendation myocardial_infarction prevention myocardial_infarction risk factor aim atherosclerosis heart vessel prevention lifestyle 
+program advice exercise support recommendation sport participation stress management intercourse prevention 
+crossover activity recommendation myocardial_infarction prevention myocardial_infarction risk factor aim atherosclerosis heart vessel prevention 
 activity risk disease people risk minute minute intensity exercise week weight drink alcohol limit smoke risk disease 
-fat oil rapesee oil fat risk myocardial_infarction agreement modification authority recommendation intake wholegrain starch sugar intake sugar portion fruit vegetable portion fish week portion nut seed legume week pattern support diet vitamin mineral supplement benefit plant stanol sterol 
-health measure population level risk myocardial_infarction example diet salt fat tran food market requirement requirement cater restaurant activity 
+fat oil oil fat risk myocardial_infarction agreement modification authority recommendation intake starch sugar intake sugar portion fruit vegetable portion fish week portion nut seed legume week pattern support diet vitamin mineral supplement benefit plant sterol 
+health measure population level risk myocardial_infarction example diet salt fat food market requirement requirement cater restaurant activity 
 part disease prevention program health impact assessment plan policy 
 guideline strategy 
-cochrane review evidence approach blood pressure body mass index waist circumference 
-evidence effect mortality cardio-vascular event 
+review evidence approach blood pressure body mass index waist circumference 
+evidence effect mortality event 
 drug blood cholesterol decrease incidence mortality rate myocardial_infarction risk disease 
 aspirin people risk myocardial_infarction 
-study group people diabete benefit risk bleed practice guideline aspirin prevention researcher risk risk bleed aspirin prevention 
-crossover lifestyle activity recommendation myocardial_infarction prevention infarct recommendation stop return exercise diet fat cholesterol drink alcohol limit weight exercise people stent heart_failure week counsel medication warn sign depression study benefit acid supplementation 
+study group people benefit risk bleed practice guideline aspirin prevention researcher risk risk bleed aspirin prevention 
+crossover activity recommendation myocardial_infarction prevention infarct recommendation stop return exercise diet fat cholesterol drink alcohol limit weight exercise people stent heart_failure week counsel medication warn sign depression study benefit acid supplementation 
 myocardial_infarction nitrate day decrease risk death medication 
-aspirin agent antiplatelet therapy dapt month condition risk event risk month clopidogrel aspirin risk death 
-beta blocker therapy hour heart_failure heart block dose use beta blocker risk death treatment myocardial_infarction beta blocker medication hour ste myocardial_infarction live 
+aspirin agent antiplatelet therapy month condition risk event risk month aspirin risk death 
+beta blocker therapy hour heart_failure heart block dose use beta blocker risk death treatment myocardial_infarction beta blocker medication hour myocardial_infarction live 
 people repeat myocardial_infarction heart rhythm 
 medication decrease heart ability pump blood 
 inhibitor therapy hour dose 
-evidence kidney_failure potassium blood pressure narrow artery inhibitor angiotensin receptor antagonist 
-therapy mortality event aim lower ldl cholesterol 
+evidence kidney_failure potassium blood pressure narrow artery inhibitor receptor antagonist 
+therapy mortality event aim lower cholesterol 
 medication goal mind 
-antagonist evidence dysfunction myocardial_infarction begine treatment inhibitor 
-defibrillator device heart skin 
+antagonist evidence dysfunction myocardial_infarction treatment inhibitor 
+device heart skin 
 sign heart_failure ejection fraction new york heart association grade day infarction arrhythmia shock person mass heart muscle 
 prognosis myocardial_infarction extent location heart muscle development management complication age isolation tachycardia fibrillation development heart block impairment prognosis treatment quarter myocardial_infarction die minute percent month mortality myocardial_infarction year treatment myocardial_infarction united states percent hospital percent year 
 baby myocardial_infarction die survivor quality life complication article myocardial_infarction complication 
 complication myocardial_infarction time 
-disturbance heart rhythm fibrillation tachycardia fibrillation heart block result scare infarct location stroke risk result clot heart pci result anticoagulation result disturbance heart ability pump result infarction regurgitation blood valve infarction dysfunction muscle shock result heart pump blood infarct size day myocardial_infarction 
+disturbance heart rhythm fibrillation tachycardia fibrillation heart block result scare infarct location stroke risk result clot heart result result disturbance heart ability pump result infarction regurgitation blood valve infarction dysfunction muscle shock result heart pump blood infarct size day myocardial_infarction 
 shock cause mortality rupture wall wall week syndrome reaction infarct cause pericarditis 
 heart_failure consequence ability heart muscle pump scare increase size muscle 
 aneurysm ventricle myocardium myocardial_infarction risk factor heart_failure arrhythmia development clot 
-risk factor complication death age parameter heart_failure arrest admission blood pressure class deviation diabete serum creatinine disease elevation marker epidemiology 
+risk factor complication death age parameter heart_failure arrest admission blood pressure class deviation serum creatinine disease elevation marker epidemiology 
 myocardial_infarction presentation artery disease 
-world health organization death heart disease cause death high- country second infection country people myocardial_infarction myocardial_infarction year myocardial_infarction men women 
-rate death heart disease country disease death usa  example rate death disease united states 
-contrast ihd cause death world 
-example india ihd cause death account death death death ihd disability life year heart disease account daly make cause disability depressive disorder cause death date society culture 
+world health organization death heart disease cause death country second infection country people myocardial_infarction myocardial_infarction year myocardial_infarction men women 
+rate death heart disease country disease death example rate death disease united states 
+contrast cause death world 
+example cause death account death death death disability life year heart disease account make cause disability depressive disorder cause death date society culture 
 depictions myocardial_infarction media loss consciousness symptom depiction misunderstand symptom myocardial_infarction turn people care implication 
 law general myocardial_infarction disease injury 
 coverage issue administration insurance scheme worker compensation 

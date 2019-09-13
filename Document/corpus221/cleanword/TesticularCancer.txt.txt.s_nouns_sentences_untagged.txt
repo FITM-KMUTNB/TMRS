@@ -1,44 +1,44 @@
-encyclopedia jump navigation jump search testicular_cancer name testicular_cancer seminoma 55-cm orchiectomy specimen 
-oncology symptom testicle swell pain scrotum onset year male type cell tumor tumor lymphoma factor testis family history disease history testicular_cancer method exam ultrasound blood test removal testicle diagnosis hernia appendix testis treatment surgery radiation therapy chemotherapy stem cell transplantation survival rate rate frequency death 
+encyclopedia jump navigation jump search testicular_cancer name testicular_cancer seminoma orchiectomy specimen 
+oncology symptom testicle swell pain scrotum onset year male type cell tumor tumor lymphoma factor testis family history disease history testicular_cancer method exam blood test removal testicle diagnosis hernia appendix testis treatment surgery radiation therapy chemotherapy stem cell transplantation survival rate rate frequency death 
 testicular_cancer cancer testicle part system symptom lump testicle swell pain scrotum treatment infertility 
-risk factor testis family history disease history testicular_cancer type germ cell seminoma type tumor lymphoma diagnosis exam ultrasound blood test removal testicle examination microscope type 
+risk factor testis family history disease history testicular_cancer type germ cell seminoma type tumor lymphoma diagnosis exam blood test removal testicle examination microscope type 
 testicular_cancer treatment option surgery radiation therapy chemotherapy stem cell transplantation case cancer chemotherapy cure rate 
 testicular_cancer people year death death rate world male year year survival rate united states outcome disease content 
 sign symptom cause mechanism diagnosis screen classification treatment removal lymph node dissection treatment radiation therapy surveillance fertility epidemiology united states united kingdom animal reference link 
 sign symptom image sign testicular_cancer 
 sign testicular_cancer lump swell teste 
-service task force routine screen testicular_cancer adolescent adult routine cancer society men testicle family history cancer urological association self-examination men 
+service task force routine screen testicular_cancer adolescent adult routine cancer society men testicle family history cancer urological association men 
 lump testis pain ache abdomen scrotum feel heaviness scrotum firmness testicle breast enlargement effect 
 back_pain cancer spread lymph node back 
 testicular_cancer spread organ lung 
-shortness breath cough cough blood spread lung lump neck metastase lymph node 
+shortness breath cough cough blood spread lung lump neck lymph node 
 testicular_cancer cryptorchidism semen quality syndrome syndrome 
 risk factor development testis cancer testicle 
 presence tumor conjunction tumor tumor 
-risk factor hernia syndrome mump activity risk lifestyle risk 
+risk factor hernia syndrome mump activity risk risk 
 onset characteristics risk 
 rate testicular_cancer nation use cannabis mechanism 
 germ cell chromosome 
-12p arm chromosome side centromere testicular_cancer cancer material chromosome arm mechanism amplification diagnosis 
+arm chromosome side centromere testicular_cancer cancer material chromosome arm mechanism amplification diagnosis 
 section citation verification 
 article citation source 
-source testicular_cancer new newspaper book scholar january template message magnification seminoma 
+source testicular_cancer new newspaper book scholar template message magnification seminoma 
 way testicular_cancer lump mass testis 
 adult adolescent testicle doctor reason suspect testicular_cancer 
 germ cell tumor carcinoma yolk sac tumor 
-carcinoma component right left growth feature epithelioid cell cell border pleomorphism mitose 
-component center round-polyhedral cell cell membrane cytoplasm nucley nucleoly 
+carcinoma component right left growth feature epithelioid cell cell border pleomorphism 
+component center cell cell membrane cytoplasm 
 yolk sac component component growth pattern 
 condition symptom testicular_cancer 
 infection inflammation bladder infection cystitis kidney infection vessel testicle scrotum torsion hernia infection inflammation condition lymph node vessel scrotum testicle area groin benign lesion testicle testicle tumor site 
-nature lump scrotum ultrasound location size characteristics lump uniform 
-extent disease ct scan metastase 
+nature lump scrotum location size characteristics lump uniform 
+extent disease scan 
 diagnosis testicular_cancer histology tissue orchiectomy excision testis structure cord 
 biopsy risk cancer cell scrotum 
 method risk cancer cell 
-system scrotum blood cell cancer cell flow link extremity testicle link back cavity retroperitoneum 
+system scrotum blood cell cancer cell flow link extremity testicle link back cavity 
 biopsy cancer cell scrotum route cancer cell spread orchiectomy route 
-blood test tumor marker protein bloodstream testicular_cancer 
+blood test tumor marker protein testicular_cancer 
 gonadotropin pregnancy hormone tumor marker spot germ cell 
 pregnancy test level gonadotropin sign testicular_cancer lump pregnancy test testicular_cancer screen 
 academy family physician screen male symptom testicular_cancer stage 
@@ -47,22 +47,22 @@ tumor pathologist classification malignant cancer manual
 testicular_cancer stage 
 size tumor testis stage term testicular_cancer 
 stage cancer testis 
-stage cancer testis metastasis andor lymph node lymph node diaphragm 
+stage cancer testis metastasis lymph node lymph node diaphragm 
 stage cancer testis metastasis retroperitoneal lymph node 
 stage stage stage 
-information stage system website cancer society classification redsvg 
+information stage system cancer society classification 
 article accuracy information 
 new classification 
 article event information 
 testicular_cancer cell type testicle testicular_cancer germ cell 
-sex tumour cell cell 
+sex cell cell 
 diagnosis treatment 
 extent blood test tumor marker diagnosis examination histology specimen pathologist 
 pathologist world health organization classification system tumor 
-cell lesion germ cell neoplasia type carcinoma type type form cell variant seminoma sarcoma carcinoma sac tumor variant choriocarcinoma site tumour trophoblastic tumor cyst variant cyst variant teratoma neuroectodermal tumor tumor 
-malignancy tumour histologic type form carcinoma teratoma choriocarcinoma carcinoma sex tumor cell tumor cell tumor variant variant cell variant cell neoplasia syndrome cell tumor adult type juvenile type group sex tumor sex tumor type cell sex tumor cell-sex tumor tumour testis tumor type tumor borderline malignancy carcinoma tumor mucinous brenner tumor haematopoietic tumour collect duct rete tumor structure tumor adenocarcinoma epididymis cystadenoma epididymis tumor round cell tumor cord adnexae angiomyxoma tumor tumor tumor testis 
+cell lesion germ cell neoplasia type carcinoma type type form cell variant seminoma sarcoma carcinoma sac tumor variant choriocarcinoma site trophoblastic tumor cyst variant cyst variant teratoma tumor tumor 
+malignancy histologic type form carcinoma teratoma choriocarcinoma carcinoma sex tumor cell tumor cell tumor variant variant cell variant cell neoplasia syndrome cell tumor adult type juvenile type group sex tumor sex tumor type cell sex tumor tumor testis tumor type tumor borderline malignancy carcinoma tumor mucinous tumor collect duct tumor structure tumor adenocarcinoma epididymis cystadenoma epididymis tumor round cell tumor cord tumor tumor tumor testis 
 type treatment surgery radiation therapy chemotherapy 
-surgery radiation therapy radiation chemotherapy work oncologist 
+surgery radiation therapy radiation chemotherapy work 
 patient testicular_cancer disease morbidity 
 treatment success stage survival rate year stage cancer case survival rate removal 
 treatment testicular_cancer surgery testicle 
@@ -70,54 +70,54 @@ case testicular_cancer tumor testis testis testicle cell testicle
 tumor treatment risk cancer testicle 
 testis fertility hormone production function testis procedure orchiectomy 
 testicle scrotum incision belt line area 
-uk procedure orchidectomy 
+procedure orchidectomy 
 lymph node dissection 
-case nonseminoma stage surgery lymph node operation cancer stage stage risk testicular_cancer cell lymph node abdomen 
+case stage surgery lymph node operation cancer stage stage risk testicular_cancer cell lymph node abdomen 
 surgery lymph node dissection 
-approach place united states favor cost level expertise surgery 
+approach place united states favor cost level surgery 
 bank procedure chemotherapy risk nerve ejaculation ejaculation bladder 
 patient surveillance surgery test cancer 
 approach cure rate accuracy surveillance technique 
 testicular_cancer patient treatment form chemotherapy radiotherapy cell outside testicle 
 type therapy histology tumor size shape cell microscope stage progression time surgery cell testicle tissue spread rest body 
-cancer patient surveillance ct scan blood test place treatment 
+cancer patient surveillance scan blood test place treatment 
 survival rate testicular_cancer 
-introduction chemotherapy drug cisplatin outlook 
+introduction chemotherapy drug outlook 
 case testicular_cancer united states men disease 
-uk trend improvement treatment survival rate cure rate radiation therapy 
-radiation stage seminoma cancer therapy case stage likelihood non-detectable lymph node 
+trend improvement treatment survival rate cure rate radiation therapy 
+radiation stage seminoma cancer therapy case stage likelihood lymph node 
 radiation therapy 
-treatment non-seminoma cancer part body stage 
-chemotherapy protocol round bep 
-treatment professor michael peckham landmark trial treatment dr 
-lawrence indiana university alternative treatment use cycle ep 
-node surgery chemotherapy mass stage case nonseminoma 
+treatment cancer part body stage 
+chemotherapy protocol round 
+treatment professor landmark trial treatment 
+university alternative treatment use cycle 
+node surgery chemotherapy mass stage case 
 treatment use chemotherapy alternative radiation therapy treatment seminoma radiation therapy side effect example scare risk malignancy 
 dose dose week treatment recurrence rate range radiotherapy 
-concept carboplatin therapy tim oliver professor oncology barts london school medicine data efficacy carboplatin set 
+concept therapy professor oncology barts school medicine data efficacy set 
 decade tumor patient chemotherapy year treatment 
-treatment testicular_cancer success story medicine response treatment case stage cure rate diseasethe response tumor survival chemotherapy cent men year uk rise improvement chemotherapy drug cisplatin united states disease people year surveillance 
-patient stage cancer therapy surgery patient surveillance form surveillance type frequency investigation length time type cancer aim treatment patient surgery relapse metastase cancer 
+treatment testicular_cancer success story medicine response treatment case stage cure rate response tumor survival chemotherapy cent men year rise improvement chemotherapy drug united states disease people year surveillance 
+patient stage cancer therapy surgery patient surveillance form surveillance type frequency investigation length time type cancer aim treatment patient surgery relapse cancer 
 approach chemotherapy radiotherapy patient 
 number patient surveillance treatment patient series visit test 
-non-seminoma surveillance test examination blood test tumor marker chest x-ray ct scan 
+surveillance test examination blood test tumor marker chest scan 
 requirement surveillance program type disease patient relapse blood test relapse 
-ct scan abdomen pelvis chest hospital 
-chest x-ray lung detail false-positive rate radiation dose ct 
-frequency ct scan surveillance relapse stage radiation exposure 
-patient stage trial research council surveillance test ct scan month year relapse stage 
+scan abdomen pelvis chest hospital 
+chest lung detail rate radiation dose 
+frequency scan surveillance relapse stage radiation exposure 
+patient stage trial research council surveillance test scan month year relapse stage 
 patient stage surveillance therapy trial frequency scan visit schedule world country 
-uk trial scan place resonance image mry ct scan 
-mri patient radiation relapse ct 
+trial scan place resonance image scan 
+patient radiation relapse 
 stage testicular_cancer case radiation therapy chemotherapy extent monitor test treatment basis circumstance year case risk relapse 
 man testis fertility 
 sperm bank men children fertility chemotherapy radiotherapy 
 man testicle procedure bank sperm procedure 
-testicular_cancer death  death testicular_cancer prevalence europe asia africa incidence rate prevalence scandinavia germany new zealand 
-testicular_cancer men year peak infancy age yolk sac age year seminoma nonseminoma age seminoma 
+testicular_cancer death death testicular_cancer prevalence incidence rate prevalence new 
+testicular_cancer men year peak infancy age yolk sac age year seminoma age seminoma 
 cell tumor testis cancer men age year united states 
-united states case year risk testicular_cancer men time risk men time men risk testicular_cancer latino indian men cause difference united kingdom 
-uk people year lifetime risk cancer men 
+united states case year risk testicular_cancer men time risk men time men risk testicular_cancer men cause difference united kingdom 
+people year lifetime risk cancer men 
 cancer death men men animal 
 horse cell 
 stallion stallion production androgen horse 

@@ -3,19 +3,19 @@ speech_disorder impediment psychiatry
 speech_disorder speech_disorder type communication disorder speech 
 speech_disorder content 
 classification type disorder cause treatment effect language disorder reference link 
-classificationcitation population manner respect parameter voice disorder 
+population manner respect parameter voice disorder 
 level classification magnitude type speech_disorder treatment therapy 
 patient request speech sound demonstration tongue sound production 
 type disorder 
-apraxia speech stroke illness production speech sound rearrang sound word potato 
+apraxia speech stroke illness production speech sound sound word potato 
 production word effort phrase effort 
 speech fluency disorder rate speech speech 
-dyspraxia childhood apraxia speech 
+childhood apraxia speech 
 weakness paralysis speech muscle damage nerve brain 
 stroke disease head neck injury accident palsy 
 alteration intensity time utterance segment rhythm cadence intonation word 
 change duration frequency intensity tonic atonic syllable sentence individual speech characteristics 
-cause dysprosody pathology brain accident traumatism brain muteness inability 
+cause pathology brain accident traumatism brain muteness inability 
 speech sound disorder difficulty speech consonant articulation disorder disorder disorder 
 disorder difficulty learn sound 
 disorder difficulty sound distinction language sound place 
@@ -26,7 +26,7 @@ cause speech_disorder hear loss disorder brain injury disability drug abuse impa
 treatment globe icon 
 example perspective article view subject 
 article issue talk page article 
-december  template message 
+template message 
 type disorder speech therapy attention doctor 
 treatment correction condition psychotherapy 
 united states children speech_disorder education program 
@@ -36,7 +36,7 @@ patient team type disorder
 team specialist family doctor teacher family member 
 suffer speech_disorder effect children 
 speech_disorder target bully disorder 
-bully self-esteem 
+bully 
 language disorder 
 language disorder speech_disorder 
 speech_disorder problem sound speech quality voice language disorder impairment understand word word speech production 
