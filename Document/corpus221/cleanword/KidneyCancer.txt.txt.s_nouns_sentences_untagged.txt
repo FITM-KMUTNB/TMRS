@@ -1,18 +1,18 @@
-encyclopedia jump navigation jump search kidney_cancer name kidney_cancer cell cell carcinoma mag croppedjpg type kidney_cancer cell cell carcinoma 
-oncology symptom blood urine lump abdomen back_pain onset age type cell carcinoma rcc cell carcinoma tumor risk factor smoke pain medication bladder cancer blood pressure chemical family history method tissue biopsy treatment surgery radiation therapy chemotherapy therapy survival frequency death 
+encyclopedia jump navigation jump search kidney_cancer name kidney_cancer cell cell carcinoma mag type kidney_cancer cell cell carcinoma 
+oncology symptom blood urine lump abdomen back_pain onset age type cell carcinoma cell carcinoma tumor risk factor smoke pain medication bladder cancer blood pressure chemical family history method tissue biopsy treatment surgery radiation therapy chemotherapy therapy survival frequency death 
 kidney_cancer kidney_cancer group cancer kidney symptom blood urine lump abdomen back_pain fever weight loss tiredness complication spread lung brain 
-type kidney_cancer cell cancer rcc cell cancer tumor rcc kidney_cancer account rest risk factor rcc tcc pain medication bladder cancer blood pressure chemical family history risk factor tumor family history disorder syndrome diagnosis symptom urine test image tissue biopsy 
+type kidney_cancer cell cancer cell cancer tumor kidney_cancer account rest risk factor pain medication bladder cancer blood pressure chemical family history risk factor tumor family history disorder syndrome diagnosis symptom urine test image tissue biopsy 
 treatment surgery radiation therapy chemotherapy therapy kidney_cancer people death onset age male female survival rate united states cancer kidney survival rate lymph node content 
-sign symptom cause diagnosis type stage treatment children epidemiology united states europe history reference link 
+sign symptom cause diagnosis type stage treatment children epidemiology united states history reference link 
 sign symptom 
 sign symptom kidney_cancer mass abdomen blood urine hematuria 
-symptom tiredness loss appetite weight loss temperature sweate pain abdomen stage disease 
+symptom tiredness loss appetite weight loss temperature pain abdomen stage disease 
 factor risk kidney_cancer smoke risk disease obesity gene family history kidney_cancer kidney_disease dialysis hepatitis treatment cancer cancer 
 risk factor kidney stone blood pressure study use nsaids increase kidney_cancer risk 
 kidney_cancer kidney location tubule pelvis 
 cancer tubule cell carcinoma cell adenocarcinoma 
 cancer pelvis cell carcinoma 
-diagnosis type kidney_cancer cell carcinoma variant kidney tumour oncocytoma 
+diagnosis type kidney_cancer cell carcinoma variant kidney 
 micrograph cell carcinoma form kidney_cancer 
 addition cell carcinoma pelvis carcinoma type kidney_cancer 
 cell carcinoma cell tumor duct carcinoma sarcoma kidney tumor children age 
@@ -30,19 +30,19 @@ complexity renal score system
 cancer surgery 
 case kidney removal tumor portion kidney 
 surgery example patient condition cancer body doctor evidence therapy surgery disease therapy survival kidney_cancer 
-cancer surgery technique tumour temperature 
+cancer surgery technique temperature 
 treatment kidney_cancer 
-treatment option therapy nexavar use immunotherapy interferon immunotherapy people standard care set treatment axitinib sorafenib 
-checkpoint inhibitor trial kidney_cancer approval use 
-line set survival advantage cell carcinoma everolimus fda survival benefit everolimus fda treatment lenvatinib combination everolimus  patient line therapy 
+treatment option therapy use people standard care set treatment 
+inhibitor trial kidney_cancer approval use 
+line set survival advantage cell carcinoma everolimus survival benefit everolimus treatment combination everolimus patient line therapy 
 tumor chemotherapy radiotherapy surgery treatment stage disease children 
 majority kidney_cancer children 
 tumor fetus uterus problem child year 
 tumor children age children adult 
 symptom abdomen blood urine epidemiology 
-case kidney_cancer world year account cancer rate north america rate asia africa united states 
-united states nih estimate  case kidney_cancer  death disease 
+case kidney_cancer world year account cancer rate north rate united states 
+united states estimate case kidney_cancer death disease 
 incidence kidney_cancer united states 
-increase change way disease europe 
-estimate incidence kidney_cancer case eu25 
-europe kidney_cancer account cancer case kidney_cancer cancer uk people disease cause cancer death people history kidney_cancer 
+increase change way disease 
+estimate incidence kidney_cancer case 
+kidney_cancer account cancer case kidney_cancer cancer people disease cause cancer death people history kidney_cancer 

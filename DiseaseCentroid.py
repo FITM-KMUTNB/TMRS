@@ -4,7 +4,7 @@ import operator
 
 def disease(G, keywords):
       
-    return diseasebyhop(G, keywords)
+    return diseasebydistance(G, keywords)
 
 def diseasebyhop(G, keywords):
     disease = dict()

@@ -2,18 +2,18 @@ encyclopedia nummular_dermatitis jump navigation jump search nummular_dermatitis
 nummular_dermatitis form dermatitis round lesion name word coin 
 sign symptom cause diagnosis treatment epidemiology reference link 
 sign symptom 
-nummular_dermatitis coin-size plaque trunk limb face hand cause 
+nummular_dermatitis plaque trunk limb face hand cause 
 contact irritant contact dermatitis nummular_dermatitis 
-study nickel cobalt fragrance culprit dehydration skin cause infection staphylococcus aureus bacteria candida albicans role diagnosis 
+study nickel cobalt fragrance culprit dehydration skin cause infection staphylococcus aureus bacteria albicans role diagnosis 
 diagnosis nummular_dermatitis observation 
 rule dermatitis patch test rule irritant contact dermatitis cause children nummular_dermatitis treatment 
 key treatment prevention skin 
 cream bath oil outbreak 
-condition flare treatment application corticosteroid 
+condition flare treatment application 
 antihistamine itch 
 avoidance irritant strategy 
 case light treatment 
-condition winter month vitamin  supplement treatment 
+condition winter month vitamin supplement treatment 
 citation epidemiology 
 prevalence nummular_dermatitis united states disease adulthood children 
 list condition syndrome 

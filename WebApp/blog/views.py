@@ -20,14 +20,14 @@ class HomeView(TemplateView):
         print("Receive : "+query)
         query = checkgraphnode(Cooccs, query)
         #Find disease that proximity to keywords
-        disease, centroid, diseasehop = dc.disease(Cooccs, query)
+        disease, centroid = dc.disease(Cooccs, query)
         document = dc.diseasedocument(Cooccs, disease)
         end = time()
         xtime = end - start
         print('Processing Time:', secondsToStr(xtime)) 
         #Limit five value in dictionary
         top5disease = {k: disease[k] for k in list(disease.keys())[:10]}
-        context = {'symptom' : query, 'disease' : top5disease, 'diseasehop' : diseasehop, 'centroid' : centroid, 'document' : document}
+        context = {'symptom' : query, 'disease' : top5disease, 'diseasehop' : None, 'centroid' : centroid, 'document' : document}
         return render(request, self.template_name, context)
   
 

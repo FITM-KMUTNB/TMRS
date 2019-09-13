@@ -1,10 +1,10 @@
 encyclopedia jump navigation jump search disease 
-fifth_disease name fifth_disease fifth_disease fifth_disease fifth_disease fifth_disease 16-month-old fifth_disease disease 
-fifth_disease fifth_disease manifestation infection b19 
+fifth_disease name fifth_disease fifth_disease fifth_disease fifth_disease fifth_disease fifth_disease disease 
+fifth_disease fifth_disease manifestation infection 
 name fifth_disease place list childhood disease measle scarlet_fever second rubella dukes disease 
 sign symptom transmission treatment epidemiology history reference link 
 sign symptom 
-fifth_disease fever headache rash cold-like symptom nose 
+fifth_disease fever headache rash symptom nose 
 symptom day rash 
 rash face cheek 
 symptom infection children name fifth_disease 
@@ -12,7 +12,7 @@ rash bridge nose mouth
 addition cheek children rash rest body arm torso leg location 
 rash day case week 
 patient rash 
-teenager adult arthritis 
+adult arthritis 
 swell joint arthritis 
 children adult fifth_disease difficulty walk joint wrist knee ankle finger shoulder 
 disease risk group consequence 
@@ -26,6 +26,6 @@ symptom risk transmission individual treatment
 treatment infection 
 age children year time adulthood population infection time past nursery school school 
 infection risk school personnel vaccine parvovirus attempt history 
-robert sine 
-anton rubella variant ortliche condition theodor name fifth_disease virus university pennsylvania werner et al 
+sine 
+rubella variant condition name fifth_disease virus university al 
 list condition 

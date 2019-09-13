@@ -1,8 +1,8 @@
-encyclopedia jump navigation jump search myocarditis name myocarditis myocarditis microscope image myocarditis autopsy person onset heart_failure symptom breath chest pain ability heartbeat complication heart_failure cardiomyopathy arrest duration hour month cause infection infection medication toxin autoimmune disorder method blood heart mry heart biopsy treatment defibrillator heart transplant inhibitor beta blocker diuretics corticosteroid immunoglobulin frequency cardiomyopathy death cardiomyopathy 
-myocarditis myocarditis inflammation heart muscle symptom shortness breath chest pain ability exercise heartbeat duration problem hour month complication heart_failure cardiomyopathy arrest 
-myocarditis infection cause infection medication toxin autoimmune disorder diagnosis electrocardiogram ecg heart mry heart biopsy ultrasound heart cause heart valve problem 
-treatment severity cause inhibitor beta blocker diuretics period exercise recovery immunoglobulin case case defibrillator heart transplant 
- case myocarditis people age male female case cardiomyopathy myocarditis death  description condition content 
+encyclopedia jump navigation jump search myocarditis name myocarditis myocarditis microscope image myocarditis autopsy person onset heart_failure symptom breath chest pain ability heartbeat complication heart_failure arrest duration hour month cause infection infection medication toxin disorder method blood heart heart biopsy treatment heart transplant inhibitor beta blocker diuretics frequency death 
+myocarditis myocarditis inflammation heart muscle symptom shortness breath chest pain ability exercise heartbeat duration problem hour month complication heart_failure arrest 
+myocarditis infection cause infection medication toxin disorder diagnosis electrocardiogram heart heart biopsy heart cause heart valve problem 
+treatment severity cause inhibitor beta blocker diuretics period exercise recovery case case heart transplant 
+case myocarditis people age male female case myocarditis death description condition content 
 sign symptom cause agent mechanism diagnosis treatment surgery medicine epidemiology history reference link 
 sign symptom 
 sign symptom myocarditis inflammation myocardium weakness heart muscle inflammation 
@@ -12,36 +12,36 @@ stage illness symptom work breath asthma
 myocarditis illness patient history symptom infection fever rash pain 
 myocarditis pericarditis people myocarditis present sign symptom myocarditis time 
 number cause myocarditis cause 
-europe north america viruse culprit 
-cause disease illness south america infection trypanosoma cause protozoa fungy parasite allergy autoimmune disorder drug cause myocarditis 
-adenovirus virus rubella virus polio virus virus hepatitis  protozoan trypanosoma disease toxoplasma gondiy gonococcus actinomyce vibrio burgdorfery mycoplasma aspergillus echinococcus westermany solium larva bancrofty 
-myocarditis patient immunodeficiency 
-drug alcohol form chemotherapy clozapine designer drug 
-acetazolamide rejection heart transplant lupus sarcoidosis granulomatosis polyangiitis granulomatosis polyangiitis kawasaki disease hypereosinophilic syndrome arsenic shock syndrome toxin carbon monoxide snake venom metal copper iron 
+north culprit 
+cause disease illness south infection trypanosoma cause protozoa parasite allergy disorder drug cause myocarditis 
+adenovirus virus rubella virus polio virus virus hepatitis protozoan trypanosoma disease gonococcus aspergillus echinococcus larva 
+myocarditis patient 
+drug alcohol form chemotherapy designer drug 
+rejection heart transplant lupus sarcoidosis granulomatosis polyangiitis granulomatosis polyangiitis disease syndrome arsenic shock syndrome toxin carbon monoxide snake venom metal copper iron 
 shock radiation 
 form myocarditis infiltration heart tissue type blood cell lymphocyte macrophage descendant cell cell macrophage 
-myocarditis subtype myocarditis tissue type blood cell eosinophil 
+myocarditis subtype myocarditis tissue type blood cell 
 myocarditis myocarditis set cause treatment diagnosis st elevation male myocarditis biopsy specimen eosinophilic endocardium myocardium eosin stain 
 myocarditis process inflammation injury heart 
 inflammation heart consequence insult 
 cause heart attack inflammation myocardium diagnosis myocarditis evidence inflammation myocardium 
-inflammation basis ecg result protein crp andor erythrocyte sedimentation rate esr igm viruse myocardium 
-markers damage kinase isoenzyme 
-ecg find myocarditis  wave inversion elevation 
+inflammation basis result protein erythrocyte sedimentation rate myocardium 
+markers damage kinase 
+find myocarditis wave inversion elevation 
 gold standard biopsy myocardium general set angiography 
-tissue sample endocardium myocardium pathologist microscopy andif stain method 
-feature interstitium edema lymphocyte macrophage 
+tissue sample endocardium myocardium pathologist microscopy stain method 
+feature edema lymphocyte macrophage 
 destruction myocyte pump failure 
-resonance image cmr myocarditis marker inflammation myocardium consensus criteria diagnosis myocarditis cmr 
-ultrasound week media 
-shock myocarditis ultrasound week media 
-shock myocarditis ultrasound week media 
+resonance image myocarditis marker inflammation myocardium consensus criteria diagnosis myocarditis 
+week media 
+shock myocarditis week media 
+shock myocarditis week media 
 shock myocarditis 
 infection treatment form therapy form myocarditis phase therapy bed rest 
 people symptom diuretics 
 people dysfunction function use phase therapy inhibitor 
-corticosteroid effect people myocarditis data usefulness corticosteroid caution adult study children lack control group 
-cochrane review evidence benefit immunoglobulin adult benefit children evidence surgery 
+effect people myocarditis data usefulness caution adult study children lack control group 
+review evidence benefit adult benefit children evidence surgery 
 people therapy candidate bridge therapy device 
 heart transplantation people therapy 
 membrane oxygenation arrest alternative medicine 
@@ -49,6 +49,6 @@ study benefit use medicine cause mortality myocarditis epidemiology
 incidence myocarditis 
 series routine patient evidence inflammation 
 adult case death myocarditis 
-patient hiv myocarditis find autopsy prevalence history 
-case myocarditis term myocarditis process myocardium physician joseph friedrich term condition hypertension heart disease admonition use myocarditis diagnosis authority cardiologist sir thomas lewis cardiologist co-founder heart association paul white myocarditis 
+patient myocarditis find autopsy prevalence history 
+case myocarditis term myocarditis process myocardium physician term condition hypertension heart disease admonition use myocarditis diagnosis authority cardiologist sir thomas lewis cardiologist heart association white myocarditis 
 myocarditis inflammation myocardium definition classification diagnosis treatment subject controversy biopsy history myocarditis correlation 
