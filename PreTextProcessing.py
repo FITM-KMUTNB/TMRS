@@ -28,7 +28,7 @@ def ReadTextFile(file):
     FileCode = chardet.detect(rawdata)
     Encode = FileCode['encoding']
     #Open and read
-    Text_file = open(file, 'r', encoding=Encode, )      
+    Text_file = open(file, 'r', encoding=Encode)      
     print("Read...")
     if Taglist:
         for line in Text_file:
