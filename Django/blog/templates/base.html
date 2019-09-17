@@ -1,11 +1,23 @@
+{% load static %}
+<html>
+
+<style>
+
+body {
+  background-color: lightblue;
+}
+
+
 header{
-    height: 80px;
-    background-image: url(/static/image/header.jpg);
+    height: 70px;
+    background-image: url(/static/image/back.jpg); 
     position:relative;
     left: 0;
     width:100%;
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
+    
+    
 }
 
 
@@ -17,9 +29,10 @@ header{
 }
 #logo{
     font: 48px tahoma;
-    color: rgb(255, 255, 255);
+    color: rgb(5, 1, 1);
     padding-left: 20px;
     padding-top: 5px;
+    font-weight: 700;
 }
 #custom-search-input {
     margin:0;
@@ -83,3 +96,74 @@ header{
     background-color: rgb(5, 72, 148);
     color: white;
   }
+
+
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(0,0,0,.7);
+  padding-right: 550px;
+  padding-left: 550px;
+  
+}
+
+li {
+  float: left;
+  
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  vertical-align: baseline;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+
+ 
+
+
+
+    </style>
+
+
+<header>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    
+    
+
+    {% block head %}
+    <title>TMRS</title>
+    <center><div id="logo">Medical Recommendation System</div></center>
+    
+    
+    {% endblock %}
+</header>
+
+
+
+
+
+
+
+
+
+<body>
+    {% block body %}
+    {% endblock %}
+</body>
+
+</html>

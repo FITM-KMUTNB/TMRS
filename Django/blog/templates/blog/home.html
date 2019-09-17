@@ -1,8 +1,22 @@
 {% extends 'base.html' %}
 <html>
-<body background>
+<body>
+
+
 {% block body %}
+
+
+<ul>
+        <li><a class="active" href="#home">Home</a></li>
+        <li><a href="#news">News</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#about">About</a></li>
+      </ul>
+
+
 <center>
+<br><br>
+
 <div class="container">
     <div class="row">
         <form action ="." method="POST">{% csrf_token %}
@@ -10,8 +24,8 @@
             <div class="input-group col-md-12">
                 
                 <input type="text" name="query" class="search-query form-control" placeholder="Search" />
-                <span class="input-group-btn"></span>
-                <button class="btn btn-danger" type="submit"></button>
+                <span class="input-group-btn">
+                <button class="btn btn-danger" type="submit">
                 <span class=" glyphicon glyphicon-search"></span>
                 </button>
                 </span>
@@ -23,17 +37,14 @@
 
 </div>
 
-
-
-
 {% if symptom %}
-<h4>Symptoms : 
+<h1>Symptoms : 
 {% for symp in symptom %}
 {{ symp }} 
 {% endfor %}
-</h4>
+</h1>
 {% endif %}
-
+<br>
 <div class="diseasebox">
 {% if disease %}
 
@@ -107,5 +118,8 @@ None
 
 </center>
 {% endblock %}   
+
+
+
 </body>
 </html>
