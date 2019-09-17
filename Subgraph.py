@@ -6,10 +6,14 @@ import chardet
 Cooccs = nx.read_gpickle("Database/Pickle/221clean.gpickle")
 fileResult = open("Result Centroid/subgraph.txt", "w") 
 dir_path = os.path.dirname(os.path.realpath(__file__))
-path = dir_path+"/Document/corpus 221/cleanword/"
+path = dir_path+"/Document/corpus221/cleanword/"
 
 Node = dict()
 centroid = None
+
+print("Compute all shortest path")
+allshortestpath = dict(nx.floyd_warshall(Cooccs, weight='cost'))
+print("Done")
 
 def document(fileResult):
     print("List Text File In Directory")
@@ -57,7 +61,7 @@ def Subgraphcentroid():
     print(len(subg))
 
     final_avg = 999999999.99
-    word_allSP = dict(nx.shortest_path_length(subg, weight='cost'))
+    word_allSP = dict(nx.floyd_warshall(subg, weight='cost'))
     for key in word_allSP:
         avg_nodeSP = sum(word_allSP[key].values())/(len(word_allSP[key]))
         if final_avg > avg_nodeSP:

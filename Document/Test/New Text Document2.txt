@@ -1,0 +1,5 @@
+Man|g Woman|g 
+Year|t Man|g Woman|g 
+Man|g Woman|g Baby|NN 
+Woman|g Baby|NN 
+Kaow|s 
