@@ -10,14 +10,7 @@ import nltk
 #print(first2pairs)
 #print(nx.dijkstra_path_length(G, 'migraine', 'confusion', weight = 'cost'))
 
-target_word = "canadian"
 #if target_word in nltk.corpus.words.words():
 #    print(target_word)
 #g2 = nx.convert_node_labels_to_integers(G, first_label=0, ordering='default', label_attribute=None)
 #word_allSP = dict(nx.floyd_warshall(g2, weight='cost'))
-
-tag = {'DS' : ['fever', 'acne', 'migrain'], 'ST' : ['itch', 'fever','cough'], 'DT' : ('DS', 'ST')}
-default = "kaow"
-
-if default != None:
-    print("hello")

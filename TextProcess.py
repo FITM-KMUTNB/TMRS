@@ -181,8 +181,8 @@ def _get_disease_name():
         textoutput.write(str(firstLine)) 
     textoutput.close()
 
-
+"""
 inputtext = "Document/Test/New Text Document.txt"
 outputtext = "Document/Test/New Text Document2.txt"
 tag = {'g':['Woman','Man','Kaow'], 't':['Year','Kaow'], 's':('g','t')}
-word_tagged(inputtext, outputtext, tag, default="NN")
+word_tagged(inputtext, outputtext, tag, default="NN")"""

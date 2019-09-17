@@ -3,33 +3,69 @@ from django.shortcuts import render
 import networkx as nx
 import sys
 sys.path.append('..')
-from time import time, strftime, localtime
-from datetime import timedelta
 import DiseaseCentroid as dc
 import os
 from django.template.defaulttags import register
+import json
 Cooccs = None
-
 class HomeView(TemplateView):
     template_name = 'blog/home.html'
     
     def post(self, request):
         #Get keyword from webpage
         query = request.POST.get("query")
-        start = time()
+       
         print("Receive : "+query)
         query = checkgraphnode(Cooccs, query)
+
         #Find disease that proximity to keywords
         disease, centroid = dc.disease(Cooccs, query)
         document = dc.diseasedocument(Cooccs, disease)
-        end = time()
-        xtime = end - start
-        print('Processing Time:', secondsToStr(xtime)) 
+      
         #Limit five value in dictionary
         top5disease = {k: disease[k] for k in list(disease.keys())[:10]}
         context = {'symptom' : query, 'disease' : top5disease, 'diseasehop' : None, 'centroid' : centroid, 'document' : document}
         return render(request, self.template_name, context)
-  
+
+def document(request):
+    if request.method=='GET':
+        doc = request.GET.get('doc')
+        if not doc:
+            return render(request, 'blog/home.html')
+        else:
+           
+            text_file = open('../Document/corpus221/Wiki/'+doc,'r', encoding="utf8")
+           
+            context = {'docname':doc, 'read':text_file.readlines()}
+            return render(request, 'blog/readdoc.html', context)
+
+
+def neighbor(request):
+    if request.method=='GET':
+        centroid = request.GET.get('centroid')
+        hop = request.GET.get('hop')
+      
+        if centroid and not hop:
+                  
+            node, link = dc.disease_neighbors(Cooccs, centroid)
+            context = dict()
+            context['my_centroid'] = json.dumps(centroid)
+            context['my_node'] = json.dumps(node)
+            context['my_link'] = json.dumps(link)
+            return render(request, 'blog/neighbors.html', context)
+
+        elif centroid and hop:
+            if '"' in centroid:
+                centroid = centroid.strip('"')
+            node, link = dc.disease_neighbors(Cooccs, centroid, int(hop))
+            context = dict()
+            context['my_centroid'] = json.dumps(centroid)
+            context['my_node'] = json.dumps(node)
+            context['my_link'] = json.dumps(link)
+            return render(request, 'blog/neighbors.html', context)
+
+        else:
+            return render(request, 'blog/home.html')
 
 def ReadGraph():
     global Cooccs
@@ -45,6 +81,8 @@ def checkgraphnode(G, keywords):
         if G.has_node(word):
             node.append(word)
     return node
+
+
 #For get key value of dictionary
 @register.filter
 def get_item(dictionary, key):

@@ -14,7 +14,7 @@ def centroid_by_hop(G, keywords):
     Returns
     -------
     centroid : dictionary
-        Dictionary, keyed by centroid, of minimun average distance node.
+        Key is a centroid name, value is a average distance to keywords.
     
     Examples
     --------
@@ -87,7 +87,7 @@ def centroid_by_distance(G, keywords):
     Returns
     -------
     centroid : dictionary
-        Dictionary, keyed by centroid, of minimun average distance node.
+        Key is a centroid name, value is a average distance to keywords.
     
     Examples
     --------
@@ -121,7 +121,32 @@ def _sorted_average_distance(G, keywords):
             centroid[target] = targetdistance[target] / len(keywords)  
 
     return dict(sorted(centroid.items(), key=operator.itemgetter(1)))  
+
+def centroid_neighbors(G, centroid, hop):
+    """Find neighbors of centroid node by hop distance. 
+
+     Parameters
+    ----------
+    G : NetworkX graph
+    centroid : Node of centroid.
+    hop : Distance to neighbors.
+
+    Returns
+    -------
+    neighbors: dictionary
+        Key is a node destination, value is a list of node from centroid to destination.
     
+    Examples
+    --------
+
+
+
+    """
+    
+    neighbors = nx.single_source_dijkstra_path(G, centroid, cutoff=hop)
+    
+    return neighbors
+
 def checkgraphnode(G, keywords):
     keywords = keywords.split()
     node = []
@@ -130,3 +155,6 @@ def checkgraphnode(G, keywords):
             node.append(word)
     return node
 
+"""G = nx.read_gpickle("Database/Pickle/man.gpickle")
+centroid = "Year"
+centroid_neighbors(G, centroid, 1)"""

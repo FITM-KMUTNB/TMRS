@@ -1,6 +1,28 @@
+{% extends 'base.html' %}
 <html>
 
-<h1>Document</h1>
+<body>
+
+{% block body %}
+<center>
+    {% if read %}
+    <div style="background-color: rgb(230, 231, 231)">
+    <h1>{{ docname }}</h1>
+    
+    <div align="left" style="max-width: 1200px ;background-color: rgb(255, 255, 255); padding: 30px" >
+    {% for line in read %}
+        {{ line }}
+        <br>
+    {% endfor %}
+    </div>
+    </div>
+    {% endif %}
+
+</center>
+{% endblock %} 
+ 
+</body>
+
 
 
 

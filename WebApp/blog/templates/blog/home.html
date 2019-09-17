@@ -1,4 +1,6 @@
+
 {% extends 'base.html' %}
+
 <html>
 <body>
 {% block body %}
@@ -45,7 +47,7 @@
 {% for d, dis in disease.items %}
 <tr>
 <td>
-{{ d }}
+<a href="/neighbor/?centroid={{ d }}">{{ d }}</a>
 </td>
 <td>
 {{ dis }}
@@ -59,7 +61,7 @@ None
 {% endif %}
 </td>
 <td>
-<a href="">{{ document|get_item:d }}</a>
+<a href="/document/?doc={{ document|get_item:d }}">{{ document|get_item:d }}</a>
 
 </td>
 </tr>
