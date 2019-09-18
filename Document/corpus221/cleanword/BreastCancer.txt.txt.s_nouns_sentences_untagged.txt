@@ -26,7 +26,7 @@ stroma tissue breast tissue
 sense basis appearance microscope borderline 
 tumor tumor site origination 
 symptom breast_cancer location metastasis 
-site metastasis bone liver lung brain cancer state stage cancer cancer state symptom stage cancer weight loss bone pain jaundice symptom 
+site metastasis bone liver lung brain cancer state stage cancer cancer state symptom stage cancer weight_loss bone pain jaundice symptom 
 symptom symptom manifestation illness 
 symptom breast disorder lump breast_cancer 
 lump example breast disease mastitis fibroadenoma breast cause breast disorder symptom factor article risk factor breast_cancer 

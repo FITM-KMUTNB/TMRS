@@ -17,7 +17,7 @@ blockage artery brain stroke
 development stenosis occlusion blood supply tissue organ organ function 
 point tissue restriction blood supply symptom 
 example ischemia brain ischemic attack loss vision dizziness impairment balance difficulty weakness numbness side body 
-blood supply heart chest pain ischemia eye loss eye 
+blood supply heart chest_pain ischemia eye loss eye 
 blood supply leg calf pain intestine pain meal 
 type hypercholesterolemia lead find 
 example hypercholesterolemia type skin eyelid discoloration cornea deposition material tendon finger type xanthomata palm knee elbow cause formula structure cholesterol 
@@ -49,7 +49,7 @@ screen men year women year risk factor heart disease test population age symptom
 canada screen men women cholesterol level screen year people test benefit compliance treatment treatment 
 risk combination modification decrease mortality 
 change hypercholesterolemia smoke cessation alcohol consumption activity weight 
-individual blood cholesterol weight average kilogram weight loss cholesterol diet 
+individual blood cholesterol weight average kilogram weight_loss cholesterol diet 
 diet proportion vegetable fruit fat result decrease cholesterol 
 cholesterol rise serum cholesterol limit cholesterol united states canada united kingdom guideline committee united states recommendation cholesterol intake 
 review fat fat decrease disease blood cholesterol review effect fat disease trans fat risk factor disease adult diet 

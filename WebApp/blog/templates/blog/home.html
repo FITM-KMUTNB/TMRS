@@ -1,4 +1,6 @@
+
 {% extends 'base.html' %}
+
 <html>
 <body background>
 {% block body %}
@@ -10,8 +12,8 @@
             <div class="input-group col-md-12">
                 
                 <input type="text" name="query" class="search-query form-control" placeholder="Search" />
-                <span class="input-group-btn"></span>
-                <button class="btn btn-danger" type="submit"></button>
+                <span class="input-group-btn">
+                <button class="btn btn-danger" type="submit">
                 <span class=" glyphicon glyphicon-search"></span>
                 </button>
                 </span>
@@ -41,14 +43,14 @@
 <tr>
 <th>Disease</th>
 <th>Average Distance</th>
-<th>Hop Distance</th>
+<th>Average Hop Distance</th>
 <th>Document</th>
 </tr>
 
 {% for d, dis in disease.items %}
 <tr>
 <td>
-{{ d }}
+<a href="/neighbor/?centroid={{ d }}">{{ d }}</a>
 </td>
 <td>
 {{ dis }}
@@ -62,7 +64,7 @@ None
 {% endif %}
 </td>
 <td>
-<a href="">{{ document|get_item:d }}</a>
+<a href="/document/?doc={{ document|get_item:d }}">{{ document|get_item:d }}</a>
 
 </td>
 </tr>

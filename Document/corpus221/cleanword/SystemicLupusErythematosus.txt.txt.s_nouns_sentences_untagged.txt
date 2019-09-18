@@ -3,8 +3,8 @@ group disease systemic_lupus_erythematosus systemic_lupus_erythematosus erythema
 systemic_lupus_erythematosus systemic_lupus_erythematosus 
 use systemic_lupus_erythematosus systemic_lupus_erythematosus 
 systemic_lupus_erythematosus name systemic_lupus_erythematosus systemic_lupus_erythematosus woman butterfly rash systemic_lupus_erythematosus pronunciation 
-symptom joint fever chest pain hair_loss mouth ulcer lymph node rash onset year age duration term cause method symptom blood test nsaids year survival frequency 
-systemic_lupus_erythematosus systemic_lupus_erythematosus systemic_lupus_erythematosus disease system tissue part body symptom people symptom joint fever chest pain hair_loss mouth ulcer lymph node rash face period illness flare period remission symptom 
+symptom joint fever chest_pain hair_loss mouth ulcer lymph node rash onset year age duration term cause method symptom blood test nsaids year survival frequency 
+systemic_lupus_erythematosus systemic_lupus_erythematosus systemic_lupus_erythematosus disease system tissue part body symptom people symptom joint fever chest_pain hair_loss mouth ulcer lymph node rash face period illness flare period remission symptom 
 cause systemic_lupus_erythematosus genetics factor twin chance sex hormone sunlight smoke vitamin deficiency infection risk mechanism response autoantibody person tissue antibody inflammation diagnosis combination symptom laboratory test number kind systemic_lupus_erythematosus erythematosus systemic_lupus_erythematosus systemic_lupus_erythematosus systemic_lupus_erythematosus 
 cure systemic_lupus_erythematosus treatment nsaids medicine disease life expectancy people systemic_lupus_erythematosus systemic_lupus_erythematosus risk disease cause death treatment year women systemic_lupus_erythematosus pregnancy risk 
 rate systemic_lupus_erythematosus country women age time men age range age descent risk people rate disease world systemic_lupus_erythematosus wolf disease century rash bite content 

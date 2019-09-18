@@ -6,7 +6,7 @@ symptom diagnosis classification bone_tumor secondary bone_tumor treatment radio
 symptom cancer pain 
 symptom bone_tumor pain time 
 person week month year help pain increase growth tumor 
-symptom fatigue fever weight loss bone fracture 
+symptom fatigue fever weight_loss bone fracture 
 patient symptom mass 
 bone_tumor structure bone fracture diagnosis classification cell bone_tumor head metacarpal hand 
 arm bone_tumor 

@@ -177,7 +177,7 @@ goal speciality quality life person family relief symptom pain stress illness di
 care disease course care specialist symptom factor loss function job depression fear concern 
 support patient family palliative care role goal care 
 people decision disease tube ventilator tracheostomy resuscitation hospice care care team member answer question guide people complex topics decision value 
-muscle nerve process parkinson's_disease constipation food stomach period diet periodical assessment weight loss gain consequence dysfunction disease advance difficulty dysphagia 
+muscle nerve process parkinson's_disease constipation food stomach period diet periodical assessment weight_loss gain consequence dysfunction disease advance difficulty dysphagia 
 case thicken agent intake posture measure risk 
 food stomach case 
 protein transportation system intestine barrier access result effectiveness drug protein consumption diet 

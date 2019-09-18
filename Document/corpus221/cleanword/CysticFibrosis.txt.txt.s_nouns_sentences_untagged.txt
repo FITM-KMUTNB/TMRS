@@ -5,7 +5,7 @@ cure cystic_fibrosis lung infection antibiotics mouth antibiotic term lung trans
 cystic_fibrosis people ancestry people carrier disease description condition back name cystic_fibrosis fibrosis cyst form cystic_fibrosis media video summary script content 
 sign symptom gastrointestinal cause infection diagnosis monitor management antibiotics medication procedure aspect quality life epidemiology evolution history research gene therapy therapy molecule society culture reference link 
 sign symptom health problem cystic_fibrosis 
-sign symptom cystic_fibrosis skin growth weight gain food intake accumulation mucus chest infection cough shortness breath male absence symptom infancy childhood bowel obstruction ileus baby children mucus cell person protein mucus production growth children inability weight height rate peer investigation growth 
+sign symptom cystic_fibrosis skin growth weight_gain food intake accumulation mucus chest infection cough shortness breath male absence symptom infancy childhood bowel obstruction ileus baby children mucus cell person protein mucus production growth children inability weight height rate peer investigation growth 
 cause growth failure lung infection absorption nutrient tract demand illness 
 case cystic_fibrosis coagulation disorder 
 vitamin breast milk formula food 

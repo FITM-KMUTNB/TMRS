@@ -9,7 +9,7 @@ function hormone
 abnormality enlargement gland 
 function test symptom hypothyroidism hyperthyroidism 
 type thyroiditis symptom month laboratory test type thyroid_disease 
-hypothyroid symptom fatigue energy weight gain inability heart rate skin constipation hyperthyroid symptom irritability anxiety weight loss heartbeat inability heat enlargement abnormality symptom people symptom abnormality notice swell neck compression airway compression vessel neck difficulty swallow nodule symptom hyperthyroidism hypothyroidism swell neck compression structure neck 
+hypothyroid symptom fatigue energy weight_gain inability heart rate skin constipation hyperthyroid symptom irritability anxiety weight_loss heartbeat inability heat enlargement abnormality symptom people symptom abnormality notice swell neck compression airway compression vessel neck difficulty swallow nodule symptom hyperthyroidism hypothyroidism swell neck compression structure neck 
 diagnosis history examination 
 screen thyroid_disease patient symptom topic united states dysfunction thyroid laboratory test support rule thyroid_disease 
 blood test hormone thyroxine level disease thyroid blood test autoantibody 
@@ -20,10 +20,10 @@ sign symptom disease function function abnormality side effect thyroid_disease p
 sign symptom 
 symptom condition type hyperthyroidism 
 symptom hypothyroidism 
-weight gain movement muscle cramp heart rate sensitivity temperature constipation mood memory difficulty 
+weight_gain movement muscle cramp heart rate sensitivity temperature constipation mood memory difficulty 
 symptom hyperthyroidism 
-difficulty sleep insomnia weight loss heart rate tachycardia palpitation sensitivity temperature excess anxiety irritability 
-symptom change hypothyroidism fatigue thine hair cycle irregularity muscle weakness ache form disease function article 
+difficulty sleep insomnia weight_loss heart rate tachycardia palpitation sensitivity temperature excess anxiety irritability 
+symptom change hypothyroidism fatigue thine hair cycle irregularity muscle_weakness ache form disease function article 
 state body hormone hormone 
 inflammation gland disease thyroiditis majority case function case lead hypothyroidism hypothyroidism hypothyroidism hypothyroidism hormone resistance syndrome hypothyroidism deficiency hormone birth 
 function eye grave disease cause article 

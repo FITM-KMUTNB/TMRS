@@ -1,0 +1,146 @@
+encyclopedia|NN acne|DS jump|NN navigation|NN jump|NN article|NN skin|NN disease|NN adolescence|NN 
+acne|DS skin|NN disease|NN acne|DS 
+acne|DS name|NN acne|DS photograph|NN male|NN severity|NN acne|DS feature|NN whitehead|NN skin|NN forehead|NN acne|DS male|NN puberty|NN symptom|NN pimple|NN skin|NN scare|NN complication|NN anxiety|ST depression|ST thought|NN suicide|NN onset|NN risk|NN factor|NN genetics|NN diagnosis|NN hidradenitis|NN treatment|NN change|NN medication|NN procedure|NN acid|NN peroxide|NN acid|NN antibiotics|NN birth|NN control|NN pill|NN frequency|NN 
+acne|DS acne|DS skin|NN disease|NN hair|NN follicle|NN skin|NN cell|NN oil|NN skin|NN blackhead|NN whitehead|NN pimple|NN skin|NN scare|NN area|NN skin|NN number|NN oil|NN gland|NN face|NN part|NN chest|NN back|NN appearance|NN anxiety|ST case|NN depression|ST thought|NN suicide|NN 
+genetics|NN cause|NN acne|DS case|NN role|NN diet|NN cigarette|NN smoke|NN cleanliness|NN exposure|NN sunlight|NN part|NN hormone|NN part|NN mechanism|NN production|NN factor|NN growth|NN bacterium|NN acne|DS skin|NN 
+treatment|NN option|NN acne|DS change|NN medication|NN procedure|NN 
+carbohydrate|NN sugar|NN treatment|NN skin|NN acid|NN peroxide|NN acid|NN antibiotics|NN retinoid|NN formulation|NN skin|NN mouth|NN treatment|NN acne|DS resistance|NN antibiotics|NN result|NN antibiotic|NN therapy|NN type|NN birth|NN control|NN pill|NN help|NN acne|DS women|NN pill|NN acne|DS side|NN effect|NN treatment|NN acne|DS community|NN impact|NN individual|NN 
+acne|DS people|NN disease|NN acne|DS adolescence|NN world|NN lower|NN rate|NN society|NN children|NN adult|NN puberty|NN acne|DS adulthood|NN people|NN group|NN difficulty|NN content|NN 
+classification|NN sign|NN symptom|NN cause|NN gene|NN diet|NN stress|NN factor|NN diagnosis|NN diagnosis|NN management|NN skin|NN care|NN diet|NN pregnancy|NN procedure|NN medicine|NN epidemiology|NN history|NN society|NN culture|NN research|NN animal|NN reference|NN read|NN link|NN 
+severity|NN acne|DS 
+point|NN vulgaris|NN help|NN treatment|NN regimen|NN scale|NN grade|NN acne|DS severity|NN acne|DS presence|NN skin|NN follicle|NN face|NN lesion|NN severity|NN acne|DS number|NN papule|NN face|NN case|NN acne|DS trunk|NN body|NN acne|DS nodule|NN bump|NN skin|NN lesion|NN involvement|NN trunk|NN 
+nodule|NN cyst|NN term|NN literature|NN case|NN acne|DS cyst|NN fact|NN acne|DS term|NN acne|DS terminology|NN 
+acne|DS invert|NN acne|DS 
+form|NN form|NN acne|DS skin|NN condition|NN hs|NN rosacea|DS hs|NN share|NN feature|NN acne|DS tendency|NN skin|NN follicle|NN skin|NN cell|NN debris|NN condition|NN feature|NN acne|DS skin|NN disorder|NN sign|NN symptom|NN photograph|NN face|NN acne|DS case|NN acne|DS photograph|NN back|NN acne|DS acne|DS back|NN 
+feature|NN acne|DS secretion|NN sebum|NN skin|NN nodule|NN papule|NN result|NN appearance|NN acne|DS skin|NN color|NN 
+acne|DS scar|NN inflammation|NN layer|NN skin|NN people|NN acne|DS scar|NN heal|NN inflammation|NN scare|NN place|NN acne|DS form|NN acne|DS acne|DS scar|NN heal|NN response|NN inflammation|NN collagen|NN deposition|NN loss|NN site|NN acne|DS lesion|NN 
+acne|DS scar|NN collagen|NN heal|NN response|NN type|NN acne|DS scar|NN account|NN acne|DS scar|NN scar|NN scar|NN scar|NN scar|NN scar|NN dermis|NN scar|NN scar|NN border|NN size|NN scar|NN scar|NN pattern|NN depth|NN skin|NN 
+scar|NN collagen|NN content|NN heal|NN response|NN firm|NN skin|NN scar|NN margin|NN wound|ST scar|NN scar|NN tissue|NN outside|NN border|NN scar|NN acne|DS men|NN people|NN skin|NN trunk|NN body|NN 
+result|NN acne|DS lesion|NN 
+lesion|NN mark|NN acne|DS lesion|NN 
+inflammation|NN skin|NN cell|NN melanocyte|NN melanin|NN pigment|NN skin|NN appearance|NN people|NN skin|NN color|NN condition|NN scar|NN term|NN color|NN change|NN 
+aggravation|NN nodule|NN time|NN 
+month|NN year|NN layer|NN skin|NN skin|NN exposure|NN sun|NN ray|NN use|NN risk|NN cause|NN 
+risk|NN factor|NN development|NN acne|DS genetics|NN 
+contributor|NN hormone|NN infection|NN diet|NN stress|NN 
+study|NN impact|NN smoke|NN incidence|NN severity|NN acne|DS sunlight|NN cleanliness|NN acne|DS gene|NN 
+acne|DS variation|NN population|NN genetics|NN study|NN twin|NN relative|NN nature|NN acne|DS acne|DS susceptibility|NN influence|NN gene|NN disease|NN inheritance|NN pattern|NN 
+gene|NN candidate|NN variation|NN tumor|NN necrosis|NN alpha|NN gene|NN ga|NN nucleotide|NN polymorphism|NN variation|NN gene|NN risk|NN acne|DS acne|DS feature|NN disorder|NN syndrome|NN acne|DS syndrome|NN 
+activity|NN cycle|NN puberty|NN formation|NN acne|DS 
+puberty|NN increase|NN sex|NN hormone|NN cause|NN skin|NN follicle|NN gland|NN hormone|NN acne|DS testosterone|NN level|NN growth|NN hormone|NN growth|NN factor|NN acne|DS acne|DS acne|DS individual|NN insensitivity|NN syndrome|NN syndrome|NN insensitivity|NN level|NN 
+condition|NN state|NN ovary|NN syndrome|NN hyperplasia|NN tumor|NN acne|DS individual|NN people|NN hormone|NN effect|NN acne|DS increase|NN androgen|NN sebum|NN synthesis|NN pregnancy|NN acne|DS side|NN effect|NN testosterone|NN replacement|NN therapy|NN use|NN supplement|NN steroid|NN 
+acne|DS acne|DS development|NN acne|DS role|NN acne|DS skin|NN acne|DS strain|NN person|NN 
+strain|NN capability|NN chang|NN cycle|NN inflammation|NN oil|NN production|NN slough|NN skin|NN cell|NN acne|DS pore|NN 
+infection|NN mite|NN development|NN acne|DS eradication|NN mite|NN acne|DS diet|NN 
+relationship|NN diet|NN acne|DS evidence|NN link|NN diet|NN degree|NN effect|NN acne|DS severity|NN trial|NN study|NN diet|NN acne|DS evidence|NN dairy|NN milk|NN consumption|NN frequency|NN severity|NN acne|DS milk|NN whey|NN protein|NN hormone|NN precursor|NN component|NN effect|NN insulin|NN production|NN hormone|NN formation|NN evidence|NN link|NN chocolate|NN salt|NN acne|DS severity|NN chocolate|NN amount|NN sugar|NN load|NN milk|NN 
+study|NN relationship|NN obesity|NN acne|DS vitamin|NN skin|NN outbreak|NN acne|DS acne|DS eruption|NN acne|DS dose|NN intake|NN food|NN acne|DS stress|NN 
+study|NN stress|NN cause|NN acne|DS connection|NN acne|DS stress|NN research|NN severity|NN stress|NN level|NN context|NN change|NN syndrome|NN factor|NN 
+obstruction|NN skin|NN follicle|NN helmet|NN acne|DS 
+medication|NN acne|DS example|NN lithium|NN iodide|NN testosterone|NN representation|NN formation|NN acne|DS 
+image|NN hair|NN follicle|NN anatomy|NN hair|NN follicle|NN anatomy|NN hair|NN follicle|NN whitehead|NN picture|NN blackhead|NN comedo|NN image|NN acne|DS sequence|NN event|NN acne|DS 
+acne|DS skin|NN disease|NN unit|NN blockage|NN skin|NN hair|NN follicle|NN 
+blockage|NN result|NN process|NN amount|NN sebum|NN production|NN deposition|NN protein|NN formation|NN colonization|NN follicle|NN acne|DS acne|DS bacteria|NN release|NN chemical|NN skin|NN 
+pathologic|NN change|NN formation|NN plug|NN growth|NN reproduction|NN accumulation|NN skin|NN cell|NN hair|NN follicle|NN skin|NN skin|NN cell|NN surface|NN exit|NN pore|NN hair|NN follicle|NN production|NN sebum|NN acne|DS cause|NN skin|NN cell|NN accumulation|NN skin|NN cell|NN debris|NN sebum|NN block|NN pore|NN hair|NN follicle|NN acne|DS hair|NN follicle|NN hair|NN follicle|NN skin|NN pigment|NN melanin|NN air|NN oxidation|NN appearance|NN blackhead|NN comedo|NN contrast|NN hair|NN follicle|NN formation|NN whitehead|NN comedo|NN 
+driver|NN sebum|NN production|NN skin|NN androgenic|NN hormone|NN gland|NN activity|NN 
+amount|NN stage|NN puberty|NN increase|NN production|NN 
+skin|NN environment|NN skin|NN bacterium|NN acne|DS inflammation|NN follicle|NN activation|NN system|NN acne|DS skin|NN inflammation|NN acne|DS production|NN signal|NN 
+mechanism|NN acne|DS skin|NN inflammation|NN acne|DS ability|NN class|NN system|NN receptor|NN receptor|NN activation|NN acne|DS secretion|NN 
+release|NN signal|NN cell|NN hair|NN follicle|NN macrophage|NN cell|NN 
+skin|NN cell|NN activity|NN reproduction|NN turn|NN fuel|NN development|NN gland|NN cell|NN peptide|NN response|NN bind|NN 
+acne|DS skin|NN inflammation|NN composition|NN sebum|NN oxidation|NN squalene|NN acne|DS importance|NN 
+protein|NN complex|NN 
+level|NN oxidation|NN lead|NN activity|NN enzyme|NN conversion|NN acid|NN skin|NN inflammation|NN receptor|NN alpha|NN 
+increase|NN activity|NN activator|NN protein|NN 
+recruitment|NN cell|NN property|NN acne|DS ability|NN triglyceride|NN acid|NN secretion|NN enzyme|NN lipase|NN acid|NN spur|NN production|NN inflammation|NN 
+cascade|NN formation|NN acne|DS lesion|NN pustule|NN nodule|NN reaction|NN follicle|NN layer|NN dermis|NN tissue|NN formation|NN nodule|NN involvement|NN cascade|NN activation|NN matrix|NN tissue|NN destruction|NN scar|NN formation|NN diagnosis|NN 
+acne|DS professional|NN judgment|NN evaluation|NN person|NN acne|DS history|NN family|NN history|NN acne|DS review|NN medication|NN sign|NN symptom|NN production|NN hormone|NN growth|NN hormone|NN acne|DS 
+absence|NN appearance|NN acne|DS skin|NN disorder|NN precursor|NN blackhead|NN eye|NN skin|NN microscope|NN feature|NN person|NN acne|DS influence|NN 
+clue|NN acne|DS onset|NN age|NN worsen|NN week|NN period|NN acne|DS lesion|NN chin|NN acne|DS lesion|NN 
+scale|NN severity|NN acne|DS technique|NN standard|NN cook|NN acne|DS grade|NN scale|NN photograph|NN grade|NN severity|NN 
+scale|NN protocol|NN acne|DS severity|NN creation|NN scale|NN revision|NN leeds|NN acne|DS grade|NN technique|NN count|NN acne|DS lesion|NN face|NN back|NN chest|NN 
+leeds|NN score|NN range|NN scale|NN score|NN acne|DS grade|NN scale|NN severity|NN acne|DS grade|NN grade|NN diagnosis|NN 
+skin|NN condition|NN acne|DS acne|DS eruption|NN condition|NN cyst|NN flat|NN wart|DS pilaris|NN dermatitis|DS rosacea|DS age|NN factor|NN disorder|NN 
+skin|NN disorder|NN dermatitis|DS pilaris|NN acne|DS childhood|NN adult|NN redness|NN heat|NN consumption|NN alcohol|NN food|NN presence|NN health|NN professional|NN acne|DS skin|NN disorder|NN appearance|NN acne|DS due|NN exposure|NN chemical|NN acne|DS management|NN 
+treatment|NN acne|DS 
+alpha|NN acid|NN medication|NN antibiotics|NN medication|NN acid|NN peroxide|NN treatment|NN soap|NN retinoid|NN acid|NN work|NN way|NN inflammation|NN manipulation|NN kill|NN acne|DS skin|NN cell|NN shed|NN production|NN pore|NN blockage|NN treatment|NN therapy|NN antibiotics|NN peroxide|NN retinoid|NN therapy|NN antibiotics|NN agent|NN retinoid|NN 
+therapy|NN use|NN acne|DS treatment|NN peroxide|NN antibiotics|NN procedure|NN therapy|NN laser|NN therapy|NN treatment|NN role|NN cost|NN evidence|NN efficacy|NN acne|DS work|NN stage|NN formation|NN skin|NN lesion|NN improvement|NN appearance|NN acne|DS week|NN start|NN therapy|NN skin|NN care|NN 
+general|NN people|NN acne|DS skin|NN people|NN acne|DS skin|NN fragrance|NN irritation|NN 
+skin|NN irritation|NN acne|DS medication|NN peak|NN week|NN onset|NN use|NN use|NN product|NN clog|NN pore|NN diet|NN 
+diet|NN sugar|NN method|NN acne|DS evidence|NN milk|NN restriction|NN purpose|NN peroxide|NN tube|NN peroxide|NN gel|NN acne|DS treatment|NN peroxide|NN cream|NN 
+peroxide|NN treatment|NN acne|DS effectiveness|NN skin|NN irritation|NN 
+skin|NN follicle|NN peroxide|NN acne|DS protein|NN formation|NN oxygen|NN radical|NN acid|NN 
+radical|NN metabolism|NN ability|NN protein|NN peroxide|NN inflammation|NN peroxide|NN antibiotic|NN benzoyl|NN 
+side|NN effect|NN skin|NN dryness|NN redness|NN peel|NN use|NN treatment|NN sunburn|DS 
+concentration|NN peroxide|NN concentration|NN acne|DS side|NN effect|NN antibiotics|NN peroxide|NN antibiotic|NN resistance|NN 
+medication|NN inflammation|NN follicle|NN cell|NN life|NN cycle|NN production|NN vitamin|NN study|NN care|NN doctor|NN dermatologist|NN retinoid|NN cell|NN life|NN cycle|NN follicle|NN line|NN 
+accumulation|NN skin|NN cell|NN hair|NN follicle|NN blockage|NN 
+acne|DS treatment|NN people|NN skin|NN improvement|NN hyperpigmentation|DS 
+retinoid|NN retinol|NN acne|DS flush|NN skin|NN irritation|NN 
+skin|NN sensitivity|NN sunlight|NN use|NN night|NN retinoid|NN skin|NN skin|NN cost|NN formulation|NN time|NN peroxide|NN retinoid|NN retinol|NN form|NN vitamin|NN effect|NN product|NN 
+retinoid|NN acne|DS acne|DS treatment|NN month|NN use|NN improvement|NN 
+acne|DS month|NN course|NN course|NN people|NN report|NN improvement|NN report|NN remission|NN patient|NN second|NN course|NN concern|NN use|NN risk|NN effect|NN depression|ST evidence|NN claim|NN antibiotics|NN placebo|NN acne|DS lesion|NN frequency|NN event|NN event|NN risk|NN suicide|NN depression|ST use|NN women|NN age|NN effect|NN pregnancy|NN woman|NN candidate|NN pregnancy|NN test|NN form|NN birth|NN control|NN united|NN states|NN program|NN use|NN pregnancy|NN woman|NN consideration|NN therapy|NN pregnancy|NN test|NN mandate|NN use|NN type|NN birth|NN control|NN month|NN therapy|NN month|NN therapy|NN effectiveness|NN program|NN instance|NN contraception|NN antibiotics|NN 
+antibiotics|NN skin|NN acne|DS activity|NN acne|DS ability|NN inflammation|NN use|NN antibiotics|NN acne|DS frequency|NN acne|DS antibiotics|NN antibiotics|NN use|NN part|NN combination|NN therapy|NN antibiotics|NN skin|NN milligram|NN efficacy|NN milligram|NN side|NN effect|NN antibiotics|NN skin|NN acne|DS antibiotics|NN antibiotics|NN resolution|NN acne|DS lesion|NN application|NN antibiotics|NN use|NN 
+antibiotics|NN month|NN antibiotic|NN course|NN duration|NN development|NN antibiotic|NN resistance|NN benefit|NN course|NN antibiotics|NN month|NN peroxide|NN retinoid|NN time|NN risk|NN acne|DS antibiotic|NN resistance|NN 
+efficacy|NN acne|DS antibiotic|NN cost|NN lack|NN superiority|NN antibiotics|NN therapy|NN women|NN people|NN skin|NN use|NN peroxide|NN skin|NN discoloration|NN combination|NN acne|DS treatment|NN antibiotic|NN lack|NN evidence|NN treatment|NN concern|NN safety|NN agent|NN 
+women|NN acne|DS use|NN birth|NN control|NN pill|NN medication|NN estrogen|NN progestin|NN production|NN hormone|NN ovary|NN fraction|NN androgen|NN skin|NN production|NN sebum|NN acne|DS severity|NN property|NN acne|DS estrogen|NN level|NN situation|NN improvement|NN acne|DS symptom|NN birth|NN control|NN pill|NN effect|NN level|NN women|NN birth|NN control|NN pill|NN decrease|NN total|NN level|NN combination|NN progestin|NN birth|NN control|NN pill|NN acetate|NN acetate|NN women|NN acne|DS due|NN effect|NN study|NN reduction|NN acne|DS lesion|NN birth|NN control|NN pill|NN review|NN antibiotics|NN mouth|NN birth|NN control|NN pill|NN number|NN acne|DS lesion|NN month|NN therapy|NN efficacy|NN month|NN number|NN acne|DS lesion|NN author|NN analysis|NN birth|NN control|NN pill|NN acne|DS treatment|NN antibiotics|NN women|NN efficacy|NN month|NN lack|NN antibiotic|NN resistance|NN 
+acetate|NN acne|DS women|NN sign|NN androgen|NN production|NN skin|NN production|NN sebum|NN baldness|NN treatment|NN acne|DS adult|NN women|NN birth|NN control|NN pill|NN united|NN states|NN food|NN drug|NN administration|NN purpose|NN medication|NN antagonist|NN acne|DS treatment|NN ability|NN block|NN receptor|NN dose|NN combination|NN birth|NN control|NN pill|NN reduction|NN acne|DS lesion|NN women|NN effectiveness|NN acne|DS acetate|NN decrease|NN symptom|NN acne|DS women|NN month|NN estrogen|NN irregularity|NN deficiency|NN medication|NN treatment|NN acne|DS male|NN study|NN find|NN dosage|NN acne|DS lesion|NN side|NN effect|NN acetate|NN male|NN dysfunction|NN bone|NN mineral|NN density|NN use|NN acne|DS sex|NN case|NN therapy|NN acne|DS pregnancy|NN lactation|NN birth|NN disorder|NN baby|NN addition|NN women|NN method|NN contraception|NN pregnancy|NN birth|NN control|NN pill|NN reason|NN efficacy|NN 
+antagonist|NN receptor|NN treatment|NN acne|DS women|NN symptom|NN acne|DS dose|NN study|NN acne|DS clearance|NN study|NN acne|DS score|NN month|NN symptom|NN time|NN period|NN study|NN women|NN satisfaction|NN control|NN acne|DS risk|NN liver|NN toxicity|NN case|NN death|NN women|NN dose|NN medication|NN skin|NN hair|NN condition|NN use|NN acne|DS use|NN purpose|NN androgen|NN receptor|NN antagonist|NN mechanism|NN efficacy|NN risk|NN liver|NN toxicity|NN alternative|NN treatment|NN skin|NN hair|NN condition|NN women|NN 
+effectiveness|NN treatment|NN acne|DS male|NN female|NN stage|NN development|NN absorption|NN side|NN effect|NN head-to-head|NN comparison|NN effectiveness|NN 
+inhibitor|NN treatment|NN acne|DS male|NN female|NN purpose|NN addition|NN risk|NN birth_defect|DS 
+inhibitor|NN use|NN women|NN 
+inhibitor|NN birth|NN control|NN pill|NN pregnancy|NN hair|NN women|NN evidence|NN use|NN treatment|NN acne|DS 
+treatment|NN acne|DS birth|NN control|NN pill|NN therapy|NN acne|DS number|NN circumstance|NN contraception|NN acne|DS adulthood|NN acne|DS flare|NN symptom|NN sebum|NN production|NN hormone|NN therapy|NN acne|DS women|NN level|NN acid|NN 
+acid|NN acne|DS concentration|NN treatment|NN month|NN peroxide|NN acid|NN acne|DS treatment|NN ability|NN skin|NN cell|NN accumulation|NN follicle|NN property|NN effect|NN ability|NN melanin|NN synthesis|NN individual|NN acne|DS hyperpigmentation|DS acid|NN skin|NN irritation|NN salicylic|NN acid|NN 
+acid|NN acid|NN bacteria|NN property|NN skin|NN pore|NN shed|NN skin|NN cell|NN acid|NN therapy|NN skin|NN side|NN effect|NN application|NN skin|NN individual|NN skin|NN type|NN medication|NN 
+preparation|NN nicotinamide|NN form|NN vitamin|NN treatment|NN acne|DS due|NN property|NN ability|NN production|NN wound|ST heal|NN preparation|NN zinc|NN treatment|NN acne|DS evidence|NN use|NN purpose|NN efficacy|NN zinc|NN capacity|NN inflammation|NN production|NN acne|DS antihistamine|NN symptom|NN due|NN property|NN ability|NN production|NN 
+skin|NN enzyme|NN amino|NN acid|NN tyrosine|NN skin|NN pigment|NN melanin|NN acne|DS hyperpigmentation|DS production|NN melanin|NN epidermis|NN lead|NN hyperpigmentation|DS skin|NN cell|NN time|NN improvement|NN skin|NN hyperpigmentation|DS month|NN 
+hyperpigmentation|DS layer|NN skin|NN dermis|NN use|NN morn|NN reapplication|NN hour|NN application|NN area|NN risk|NN color|NN skin|NN ring|NN skin|NN area|NN hydroquinone|NN side|NN effect|NN skin|NN irritation|NN use|NN concentration|NN preparation|NN preservative|NN sodium|NN case|NN reaction|NN anaphylaxis|NN asthma|DS people|NN case|NN application|NN hydroquinone|NN accumulation|NN acid|NN tissue|NN condition|NN combination|NN therapy|NN 
+combination|NN medication|NN class|NN mechanism|NN approach|NN acne|DS treatment|NN use|NN benzoyl|NN peroxide|NN antibiotics|NN antibiotics|NN retinoid|NN antibiotic|NN acne|DS lesion|NN use|NN antibiotics|NN combination|NN antibiotic|NN peroxide|NN antibiotic|NN retinoid|NN retinoid|NN peroxide|NN pair|NN peroxide|NN retinoid|NN combination|NN antibiotic|NN retinoid|NN regimen|NN peroxide|NN antibiotic|NN resistance|NN pregnancy|NN 
+stage|NN pregnancy|NN increase|NN gland|NN activity|NN skin|NN pregnancy|NN acne|DS severity|NN general|NN medication|NN approach|NN acne|DS treatment|NN pregnancy|NN absorption|NN fetus|NN therapy|NN peroxide|NN category|NN acid|NN category|NN salicylic|NN acid|NN category|NN safety|NN rate|NN absorption|NN association|NN use|NN medication|NN trimester|NN effect|NN fetus|NN fluid|NN uterus|NN closure|NN baby|NN blood|NN vessel|NN use|NN acid|NN area|NN skin|NN dress|NN method|NN absorption|NN potential|NN harm|NN category|NN category|NN study|NN effect|NN trimester|NN safety|NN retinoid|NN use|NN pregnancy|NN study|NN effect|NN retinoid|NN pregnancy|NN harm|NN second|NN trimester|NN contraindicate|NN use|NN pregnancy|NN retinoid|NN retinoid|NN category|NN use|NN pregnancy|NN effect|NN 
+antibiotics|NN pregnancy|NN category|NN absorption|NN category|NN antibiotics|NN acne|DS women|NN study|NN event|NN use|NN risk|NN abnormality|NN fetus|NN women|NN age|NN birth|NN control|NN acne|DS antibiotics|NN pregnancy|NN category|NN category|NN pregnancy|NN deposit|NN teeth|NN discoloration|NN tooth|NN enamel|NN use|NN pregnancy|NN development|NN liver|NN pregnancy|NN reason|NN procedure|NN 
+extraction|NN evidence|NN treatment|NN procedure|NN relief|NN injection|NN acne|DS comedo|NN treatment|NN 
+therapy|NN treatment|NN method|NN light|NN area|NN skin|NN acne|DS 
+laser|NN light|NN 
+evidence|NN therapy|NN treatment|NN acne|DS light|NN therapy|NN benefit|NN data|NN outcome|NN outcome|NN acne|DS role|NN individual|NN acne|DS medication|NN meta-analysis|NN light|NN therapy|NN placebo|NN treatment|NN potential|NN benefit|NN evidence|NN therapy|NN 
+light|NN application|NN substance|NN skin|NN acid|NN methyl|NN treatment|NN therapy|NN type|NN laser|NN laser|NN layer|NN skin|NN response|NN skin|NN light|NN acne|DS use|NN light|NN 
+laser|NN type|NN acne|DS scar|NN 
+laser|NN treatment|NN laser|NN resurface|NN layer|NN skin|NN laser|NN rate|NN effect|NN laser|NN example|NN redness|NN pain|ST light|NN chemical|NN bacteria|NN size|NN activity|NN gland|NN disadvantage|NN therapy|NN cost|NN need|NN visit|NN time|NN procedure|NN pain|ST treatment|NN modality|NN side|NN effect|NN skin|NN redden|NN skin|NN swell|NN 
+procedure|NN appearance|NN scar|NN boxcar|NN variety|NN scar|NN treatment|NN due|NN depth|NN procedure|NN side|NN effect|NN skin|NN sensitivity|NN sunlight|NN redness|NN pigmentation|NN skin|NN favor|NN introduction|NN laser|NN resurface|NN evidence|NN treatment|NN acne|DS 
+filler|NN substance|NN skin|NN appearance|NN acne|DS scar|NN 
+collagen|NN production|NN skin|NN skin|NN volume|NN depth|NN acne|DS scar|NN example|NN filler|NN purpose|NN acid|NN methacrylate|NN collagen|NN human|NN collagen|NN derivative|NN fat|NN person|NN body|NN transfer|NN 
+procedure|NN instrument|NN row|NN needle|NN skin|NN wound|ST heal|NN response|NN collagen|NN production|NN appearance|NN acne|DS scar|NN people|NN skin|NN color|NN effect|NN hyperpigmentation|DS tram|NN track|NN scare|NN scar|NN distribution|NN tram|NN track|NN 
+technique|NN practitioner|NN use|NN pressure|NN needle|NN 
+treatment|NN acne|DS scar|NN use|NN needle|NN adhesion|NN result|NN appearance|NN scar|NN 
+peel|NN appearance|NN acne|DS scar|NN peel|NN acid|NN acid|NN acid|NN solution|NN concentration|NN acid|NN 
+peel|NN layer|NN skin|NN treatment|NN acne|DS scar|NN skin|NN pigmentation|NN change|NN acne|DS concentration|NN acid|NN peel|NN affect|NN skin|NN papillary|NN formulation|NN acid|NN peel|NN peel|NN scar|NN side|NN effect|NN skin|NN pigmentation|NN change|NN infection|NN cyst|NN medicine|NN 
+therapy|NN people|NN acne|DS evidence|NN application|NN tea|NN tree|NN oil|NN bee|NN venom|NN number|NN skin|NN lesion|NN acne|DS tea|NN tree|NN oil|NN peroxide|NN acid|NN contact|NN dermatitis|DS mechanism|NN tea|NN tree|NN oil|NN acne|DS effect|NN action|NN acne|DS property|NN therapy|NN effect|NN acne|DS basil|NN oil|NN study|NN quality|NN lack|NN evidence|NN use|NN acupuncture|NN medicine|NN therapy|NN acne|DS 
+treatment|NN form|NN type|NN acne|DS skin|NN product|NN 
+acne|DS age|NN adulthood|NN scare|NN evidence|NN idea|NN acne|DS scare|NN person|NN state|NN mood|NN risk|NN anxiety_disorder|DS depression|ST thought|NN complication|NN acne|DS acne|DS person|NN pimple|NN severity|NN acne|DS scare|NN change|NN person|NN skin|NN pigmentation|NN worsen|NN person|NN anxiety|ST appearance|NN complication|NN acne|DS treatment|NN formation|NN granuloma|NN cutis|NN treatment|NN acne|DS community|NN chance|NN outcome|NN epidemiology|NN 
+acne|DS people|NN population|NN people|NN society|NN year|NN adolescence|NN adulthood|NN acne|DS age|NN women|NN men|NN year|NN age|NN lifetime|NN prevalence|NN case|NN female|NN male|NN year|NN male|NN female|NN problem|NN 
+rate|NN society|NN research|NN people|NN group|NN acne|DS people|NN new|NN guinea|NN 
+acne|DS people|NN united|NN states|NN acne|DS people|NN descent|NN people|NN descent|NN history|NN jar|NN ointment|NN box|NN poster|NN 
+box|NN word|NN brand|NN skin|NN trouble|NN irritation|NN miracle|NN ointment|NN ointment|NN medication|NN cure|NN acne|DS 
+acne|DS reference|NN disease|NN 
+reign|NN application|NN skin|NN treatment|NN acne|DS physician|NN atius|NN term|NN reference|NN skin|NN lesion|NN acme|NN life|NN puberty|NN 
+century|NN physician|NN botanist|NN franois|NN de|NN de|NN description|NN acne|DS 
+term|NN red|NN tubercle|NN person|NN appearance|NN adolescence|NN 
+recognition|NN characterization|NN acne|DS physician|NN book|NN concept|NN skin|NN disease|NN lesion|NN dermatologist|NN work|NN description|NN skin|NN disorder|NN terminology|NN use|NN thomas|NN bateman|NN work|NN student|NN description|NN illustration|NN acne|DS dermatologist|NN erasmus|NN distinction|NN acne|DS monograph|NN acne|DS lucius|NN new|NN york|NN 
+scientist|NN acne|DS disease|NN skin|NN hair|NN follicle|NN blockage|NN pore|NN 
+bacteria|NN microscopy|NN skin|NN sample|NN acne|DS agent|NN production|NN acne|DS century|NN dermatologist|NN factor|NN bacteria|NN keratin|NN disease|NN understand|NN acne|DS sequence|NN event|NN blockage|NN skin|NN follicle|NN skin|NN cell|NN invasion|NN hair|NN follicle|NN pore|NN change|NN production|NN inflammation|NN 
+approach|NN acne|DS treatment|NN change|NN century|NN 
+treatment|NN acne|DS peroxide|NN treatment|NN purpose|NN acne|DS treatment|NN introduction|NN antibiotics|NN 
+idea|NN dermatologist|NN growth|NN skin|NN role|NN acne|DS trade|NN name|NN treatment|NN development|NN introduction|NN united|NN states|NN medication|NN birth_defect|DS pregnancy|NN 
+united|NN states|NN women|NN take|NN pregnancy|NN abortion|NN miscarriage|ST 
+baby|NN birth_defect|DS 
+treatment|NN acne|DS ice|NN use|NN treatment|NN society|NN culture|NN 
+cost|NN impact|NN acne|DS 
+united|NN states|NN acne|DS doctor|NN visit|NN cost|NN year|NN cost|NN acne|DS doctor|NN visit|NN year|NN kingdom|NN sale|NN top|NN acne|DS treatment|NN brand|NN 
+acne|DS factor|NN condition|NN blame|NN person|NN sense|NN century|NN dermatologist|NN list|NN cause|NN thought|NN masturbation|NN association|NN infection|NN syphilis|DS stigma|NN 
+acne|DS scar|NN difficulty|NN adulthood|NN difficulty|NN employment|NN problem|NN girl|NN problem|NN smallpox|DS tuberculosis|DS problem|NN boy|NN assistance|NN depression|ST dermatologist|NN men|NN acne|DS difficulty|NN job|NN world|NN war|NN soldier|NN climate|NN acne|DS body|NN duty|NN research|NN 
+effort|NN mechanism|NN production|NN 
+aim|NN research|NN medication|NN target|NN hormone|NN production|NN hormone|NN medication|NN receptor|NN avenue|NN research|NN laser|NN light|NN therapy|NN gland|NN skin|NN hair|NN follicle|NN order|NN production|NN acne|DS appearance|NN 
+use|NN peptide|NN acne|DS investigation|NN treatment|NN acne|DS antibiotic|NN resistance|NN genome|NN sequence|NN acne|DS bacteriophage|NN 
+author|NN research|NN development|NN bacteriophage|NN therapy|NN acne|DS treatment|NN order|NN problem|NN antibiotic|NN therapy|NN resistance|NN oral|NN probiotics|NN treatment|NN acne|DS probiotics|NN effect|NN acne|DS due|NN ability|NN decrease|NN skin|NN inflammation|NN skin|NN moisture|NN skin|NN content|NN study|NN effect|NN probiotics|NN acne|DS human|NN 
+level|NN acid|NN skin|NN formation|NN 
+deficiency|NN method|NN skin|NN production|NN acid|NN vaccine|NN acne|DS result|NN mice|NN human|NN concern|NN vaccine|NN community|NN skin|NN bacteria|NN skin|NN colonization|NN microorganism|NN animal|NN 
+acne|DS cat|NN dog|NN horse|NN 

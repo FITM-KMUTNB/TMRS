@@ -1,0 +1,19 @@
+encyclopedia|NN nummular_dermatitis|DS jump|NN navigation|NN jump|NN search|NN nummular_dermatitis|DS name|NN nummular_dermatitis|DS nummular_dermatitis|DS nummular_dermatitis|DS nummular_dermatitis|DS nummular_dermatitis|DS nummular|NN thigh|NN diagnosis|NN 
+nummular_dermatitis|DS form|NN dermatitis|DS round|NN lesion|NN name|NN word|NN coin|NN 
+sign|NN symptom|NN cause|NN diagnosis|NN treatment|NN epidemiology|NN reference|NN link|NN 
+sign|NN symptom|NN 
+nummular_dermatitis|DS plaque|NN trunk|NN limb|NN face|NN hand|NN cause|NN 
+contact|NN irritant|NN contact|NN dermatitis|DS nummular_dermatitis|DS 
+study|NN nickel|NN cobalt|NN fragrance|NN culprit|NN dehydration|DS skin|NN cause|NN infection|NN staphylococcus|NN aureus|NN bacteria|NN albicans|NN role|NN diagnosis|NN 
+diagnosis|NN nummular_dermatitis|DS observation|NN 
+rule|NN dermatitis|DS patch|NN test|NN rule|NN irritant|NN contact|NN dermatitis|DS cause|NN children|NN nummular_dermatitis|DS treatment|NN 
+key|NN treatment|NN prevention|NN skin|NN 
+cream|NN bath|NN oil|NN outbreak|NN 
+condition|NN flare|NN treatment|NN application|NN 
+antihistamine|NN itch|ST 
+avoidance|NN irritant|NN strategy|NN 
+case|NN light|NN treatment|NN 
+condition|NN winter|NN month|NN vitamin|NN supplement|NN treatment|NN 
+citation|NN epidemiology|NN 
+prevalence|NN nummular_dermatitis|DS united|NN states|NN disease|NN adulthood|NN children|NN 
+list|NN condition|NN syndrome|NN 

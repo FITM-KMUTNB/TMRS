@@ -32,7 +32,7 @@ emergency
 patient hour failure 
 management blood transfusion 
 hour day chest syndrome 
-chest syndrome acs sign symptom chest pain fever abnormality symptom complication death patient sickle_cell_disease 
+chest syndrome acs sign symptom chest_pain fever abnormality symptom complication death patient sickle_cell_disease 
 case acs patient acs 
 worsen patient anaemia appearance heart rate fatigue 
 crisis production blood cell cell precursor infection blood cell production day 
@@ -43,7 +43,7 @@ patient need blood transfusion crisis
 drop haemoglobin level 
 blood cell rate 
 patient deficiency management blood transfusion 
-manifestation month age children sickle cell trait crisis month type sickle crisis chest syndrome fever chest pain difficulty breath chest 
+manifestation month age children sickle cell trait crisis month type sickle crisis chest syndrome fever chest_pain difficulty breath chest 
 pneumonia sickle lung symptom patient condition crisis infection opiate administration surgery 
 citation ulcer genetics sickle_cell_disease pattern 
 distribution sickle cell trait distribution malaria distribution malaria 

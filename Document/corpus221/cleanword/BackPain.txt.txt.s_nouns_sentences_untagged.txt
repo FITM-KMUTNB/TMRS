@@ -40,7 +40,7 @@ risk factor drug use infection
 spread cancer bone cord back_pain 
 bone site lesion 
 patient history malignancy 
-type cancer present back_pain myeloma lymphoma cord tumor prostate_cancer back_pain patient cancer cause back_pain affect lumbar spine spine pain symptom weight loss chill fever nausea vomit cause back_pain back_pain rest 
+type cancer present back_pain myeloma lymphoma cord tumor prostate_cancer back_pain patient cancer cause back_pain affect lumbar spine spine pain symptom weight_loss chill fever nausea vomit cause back_pain back_pain rest 
 bone risk cord compression fracture treatment 
 back_pain vertebrae discs 
 spondylitis arthritis arthritis lupus level destruction 
@@ -49,11 +49,11 @@ men present range symptom psoriasis bowel disease
 back_pain pain source 
 pain pain location source pain 
 disease process back_pain pancreatitis kidney stone tract infection aneurysm risk factor 
-lift obesity lack exercise person risk back_pain people experience back_pain posture weight gain pregnancy risk factor back_pain 
+lift obesity lack exercise person risk back_pain people experience back_pain posture weight_gain pregnancy risk factor back_pain 
 fatigue pain 
 study factor stress family relationship back_pain abnormality image scan diagnosis back_pain 
 assessment back_pain history examination feature back_pain location duration severity history back_pain trauma 
-component patient history age trauma history cancer fever weight loss incontinence weakness change flag condition 
+component patient history age trauma history cancer fever weight_loss incontinence weakness change flag condition 
 examination back posture deformity 
 pain structure area 
 exam change gait sensation motor function 
@@ -72,7 +72,7 @@ elevated infection malignancy disease inflammation trauma tissue level infection
 scan spine calcification ligament 
 image diagnosis treatment back_pain 
 flag symptom radiograph scan resonance image 
-history cancer weight loss infection drug use use back_pain management history trauma fall lift onset retention overflow incontinence loss tone incontinence saddle motor weakness limb 
+history cancer weight_loss infection drug use use back_pain management history trauma fall lift onset retention overflow incontinence loss tone incontinence saddle motor weakness limb 
 quality evidence combination education exercise individual risk episode back_pain quality evidence point deterrent risk onset condition management pain 
 patient back_pain return activity 
 management goal back_pain reduction pain intensity individual ability function activity patient pain therapy patient passage impediment recovery 

@@ -4,14 +4,14 @@ hypertension name hypertension hypertension grade hypertension arm blood pressur
 hypertension hypertension hypertension hypertension hypertension condition blood pressure artery hypertension symptom hypertension risk factor artery disease stroke heart_failure fibrillation disease vision loss kidney_disease dementia 
 hypertension hypertension hypertension case hypertension due factor factor risk salt diet excess body weight smoke alcohol use case hypertension hypertension due cause kidney_disease narrow kidney artery disorder use birth control pill 
 blood pressure measurement pressure maximum minimum pressure adult blood pressure rest range adult hypertension rest blood pressure number children blood pressure monitor period blood pressure measurement 
-change medication blood pressure risk health complication change weight loss exercise salt intake alcohol intake diet change blood pressure medication medication blood pressure people treatment blood pressure medication life expectancy effect treatment blood pressure review benefit benefit hypertension population hypertension factor death hypertension media video summary script content 
+change medication blood pressure risk health complication change weight_loss exercise salt intake alcohol intake diet change blood pressure medication medication blood pressure people treatment blood pressure medication life expectancy effect treatment blood pressure review benefit benefit hypertension population hypertension factor death hypertension media video summary script content 
 sign symptom secondary hypertension crisis pregnancy children cause hypertension secondary hypertension diagnosis measurement technique investigation classification adult hypertension children prevention management target blood pressure modification hypertension epidemiology adult children outcome history measurement identification treatment society culture awareness economics research animal cat dogs reference read link 
 sign symptom 
 hypertension symptom identification screen problem 
 people hypertension report headache back head morn vertigo tinnitus buzz hiss ear vision episode symptom anxiety hypertension 
 examination hypertension presence change optic fundus ophthalmoscopy severity change grade severity duration severity hypertension secondary hypertension article secondary hypertension 
 hypertension sign symptom hypertension hypertension cause 
-example syndrome obesity glucose intolerance moon face hump fat buffalo hump stretch mark weight loss appetite heart rate eye tremor 
+example syndrome obesity glucose intolerance moon face hump fat buffalo hump stretch mark weight_loss appetite heart rate eye tremor 
 artery stenosis bruit left right location 
 coarctation aorta blood pressure extremity arm pulse 
 paroxysmal episode hypertension headache palpitation appearance crisis article crisis 
@@ -19,7 +19,7 @@ blood pressure crisis
 crisis urgency emergency absence presence end organ damage 
 urgency evidence end organ damage blood pressure 
 case medication hour 
-emergency evidence damage organ organ brain kidney heart lung symptom confusion drowsiness chest pain breathlessness emergency blood pressure organ damage lack trial evidence approach pregnancy article hypertension 
+emergency evidence damage organ organ brain kidney heart lung symptom confusion drowsiness chest_pain breathlessness emergency blood pressure organ damage lack trial evidence approach pregnancy article hypertension 
 hypertension pregnancy blood pressure measurement hour hypertension pregnancy hypertension pregnancy hypertension hypertension 
 condition half pregnancy delivery blood pressure presence protein urine pregnancy death risk death baby time birth symptom routine screen 
 symptom headache disturbance light pain stomach 
@@ -92,8 +92,8 @@ expert group guideline blood pressure target person hypertension
 group target range population review target subgroup people people update 
 expert group target year age college physician target year age expert group recommendation expert group target kidney_disease protein loss urine target population issue target target risk individual expert blood pressure lower guideline 
 people disease year risk disease heart association guideline medication blood pressure people disease year risk disease medication blood pressure modification 
-line treatment hypertension change change exercise weight loss 
-advisory review evidence effect weight loss diet death complication event person hypertension review decrease blood pressure effectiveness time medication hypertension use medication change conjunction medication 
+line treatment hypertension change change exercise weight_loss 
+advisory review evidence effect weight_loss diet death complication event person hypertension review decrease blood pressure effectiveness time medication hypertension use medication change conjunction medication 
 change blood pressure diet sodium diet vegetarian diet tea consumption 
 potassium benefit risk hypertension guideline committee potassium nutrient united states people medication potassium supplement salt risk level potassium 
 exercise regimen blood pressure resistance exercise exercise resistance exercise breath 

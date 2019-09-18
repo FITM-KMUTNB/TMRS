@@ -1,5 +1,5 @@
 encyclopedia jump navigation jump search heart_failure name heart_failure heart_failure heart_failure heart_failure sign symptom heart_failure specialty symptom breath feel leg swell duration cause heart attack blood pressure heart rhythm alcohol use infection heart damage risk factor smoke method diagnosis kidney_failure thyroid_disease liver disease obesity medication frequency adult country death risk death year 
-heart_failure heart_failure heart_failure heart_failure heart blood flow body sign symptom heart_failure shortness breath tiredness leg shortness breath exercise person night ability exercise feature chest pain angina heart_failure 
+heart_failure heart_failure heart_failure heart_failure heart blood flow body sign symptom heart_failure shortness breath tiredness leg shortness breath exercise person night ability exercise feature chest_pain angina heart_failure 
 cause heart_failure artery disease infarction heart attack blood pressure fibrillation heart disease excess alcohol use infection cause cause heart_failure structure function heart type heart_failure heart_failure ejection fraction heart_failure heart_failure ejection fraction heart_failure ability ventricle contract heart ability severity disease severity symptom exercise heart_failure infarction part heart muscle arrest blood flow disease symptom heart_failure obesity kidney_failure liver problem disease heart_failure history symptom examination confirmation blood test chest radiography cause 
 treatment severity cause disease people heart_failure treatment modification update change medication heart_failure due dysfunction enzyme inhibitor receptor blocker beta blocker disease antagonist nitrate fluid retention shortness breath cause device pacemaker case therapy contractility modulation benefit device right heart transplant disease measure 
 heart_failure condition people adult heart_failure age increase rate risk death year diagnosis year risk death degree risk death cancer united kingdom disease reason emergency hospital admission heart_failure time papyrus content 
@@ -54,7 +54,7 @@ line lung
 result illness infarction heart attack pneumonia heart rhythm hypertension person failure fluid restriction diet medication factor heart_failure fluid salt intake medication nsaids thiazolidinediones nsaids increase risk medication 
 number medication disease 
 inhibitor number agent number cancer medication medication receptor agonist stimulant lithium agonist inhibitor calcium channel blocker 
-formation nsaids heart_failure mechanism promotion fluid retention blood pressure person response medication use inhibitor medication people heart_failure case heart_failure worsen heart_failure association weight gain fluid retention calcium channel blocker force heart blood people heart_failure ejection fraction supplement 
+formation nsaids heart_failure mechanism promotion fluid retention blood pressure person response medication use inhibitor medication people heart_failure case heart_failure worsen heart_failure association weight_gain fluid retention calcium channel blocker force heart blood people heart_failure ejection fraction supplement 
 medicine supplement risk heart_failure 
 supplement aconite ginseng lily valley use supplement people heart_failure aconite heart rate heart rhythm tachycardia 
 blood pressure effect medication contrast use effect diuretics toxicity use blood pressure supplement consumption heart_failure blood pressure fluid retention lily valley heart rate mechanism blood pressure inhibition calcium channel heart_failure blood pressure receptor antagonism article heart_failure comparison heart muscle left heart muscle right 
@@ -146,7 +146,7 @@ example algorithm heart study criteria examination
 contrast algorithm society weight difference parameter history examination test response therapy 
 criteria 
 criteria diagnosis heart_failure heart_failure pump capability presence criteria criterion conjunction criteria 
-criteria heart chest gallop heart sound edema episode sleep air crackle lung pressure atrium jugular vein test weight loss day response treatment criterion criteria heart rate beat minute cough difficulty breath activity effusion decrease capacity liver enlargement ankle swell 
+criteria heart chest gallop heart sound edema episode sleep air crackle lung pressure atrium jugular vein test weight_loss day response treatment criterion criteria heart rate beat minute cough difficulty breath activity effusion decrease capacity liver enlargement ankle swell 
 criteria condition hypertension lung disease cirrhosis syndrome heart study criteria person heart_failure algorithm 
 algorithm weight parameter diagnosis heart_failure assessment presence heart_failure assessment diagnosis heart_failure support compatible symptom sign dysfunction response symptom sign therapy laboratory blood sodium kidney dysfunction elevation chest congestion exercise capacity function test hemodynamics rest importance importance importance 
 term heart_failure cause heart_failure 
@@ -214,10 +214,10 @@ people heart_failure candidate device
 bridge heart transplantation destination treatment heart_failure 
 case heart transplantation 
 problem heart_failure person regimen rejection limitation treatment option scarcity heart transplantation 
-people heart_failure symptom shortness breath chest pain 
+people heart_failure symptom shortness breath chest_pain 
 care heart_failure trajectory option resort care symptom management care plan goal care case decline person power attorney individual review care outcome quality life symptom burden satisfaction care 
 transplantation heart_failure heart function time 
-number people stage heart_failure symptom fatigue shortness breath chest pain rest therapy care hospice college heart association guideline 
+number people stage heart_failure symptom fatigue shortness breath chest_pain rest therapy care hospice college heart association guideline 
 heart_failure way prediction rule exercise test 
 prediction rule composite factor lab test blood pressure estimate prognosis 
 prediction rule heart_failure effect rule rule people risk death hospitalization day method people 

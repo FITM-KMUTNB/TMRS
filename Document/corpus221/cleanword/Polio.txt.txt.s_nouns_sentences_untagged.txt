@@ -2,8 +2,8 @@ encyclopedia jump navigation jump search polio
 virus polio virus 
 use polio 
 polio name polio polio polio man leg polio pronunciation 
-disease symptom muscle weakness inability complication polio syndrome onset hour day cause polio virus spread route method virus antibody blood prevention polio vaccine treatment care frequency people 
-polio polio polio disease polio virus percent case muscle weakness inability hour day weakness leg muscle head neck diaphragm people muscle weakness percent children percent adult percent people symptom fever throat percent headache neck stiffness pain arm leg people week percent infection symptom year recovery polio syndrome development muscle weakness person infection 
+disease symptom muscle_weakness inability complication polio syndrome onset hour day cause polio virus spread route method virus antibody blood prevention polio vaccine treatment care frequency people 
+polio polio polio disease polio virus percent case muscle_weakness inability hour day weakness leg muscle head neck diaphragm people muscle_weakness percent children percent adult percent people symptom fever throat percent headache neck_stiffness pain arm leg people week percent infection symptom year recovery polio syndrome development muscle_weakness person infection 
 polio virus person person matter mouth food water saliva disease week symptom disease virus detect antibody blood disease human 
 disease polio vaccine dose center disease control prevention polio vaccination booster traveler country disease treatment case polio case polio case disease people 
 polio year depiction disease art disease condition physician underwood virus major outbreak century united states century childhood disease area polio vaccine jonas world health organization vaccination effort detection case eradication disease polio media video summary script content 
@@ -101,7 +101,7 @@ intervention length disparity epiphysiodesis limb growth time growth plate closu
 person custom footwear difference leg length 
 surgery imbalance 
 use brace compression neuropathy loss function vein leg pool blood limb complication immobility lung kidney heart edema aspiration pneumonia tract infection kidney stone ileus polio syndrome article polio syndrome 
-percent percent individual polio childhood symptom decade infection muscle weakness fatigue 
+percent percent individual polio childhood symptom decade infection muscle_weakness fatigue 
 condition polio syndrome polio sequelae symptom failure motor unit recovery phase disease factor risk loss neuron unit presence impairment recovery illness overuse disuse neuron 
 disease treatment polio syndrome process person syndrome polio virus epidemiology polio case polio country case case transmission status type mozambique new guinea total polio eradication 
 use polio virus vaccine incidence polio country 

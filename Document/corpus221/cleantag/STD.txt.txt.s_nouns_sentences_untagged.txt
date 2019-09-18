@@ -1,0 +1,186 @@
+encyclopedia|NN sexually_transmitted_infection|DS jump|NN navigation|NN jump|NN disease|NN 
+sexually_transmitted_infection|DS name|NN sexually_transmitted_infection|DS sexually_transmitted_infection|DS sexually_transmitted_infection|DS sexually_transmitted_infection|DS syphilis|DS syphilis|DS disease|NN 
+poster|NN treatment|NN 
+disease|NN symptom|NN discharge|ST discharge|ST ulcer|NN genital|NN pain|ST complication|NN cause|NN sex|NN prevention|NN sex|NN vaccination|NN frequency|NN sexually_transmitted_infection|DS death|NN sexually_transmitted_infection|DS 
+sexually_transmitted_infection|DS sexually_transmitted_infection|DS sexually_transmitted_infection|DS sexually_transmitted_infection|DS infection|NN activity|NN intercourse|NN sex|NN sex|NN time|NN sexually_transmitted_infection|DS symptom|NN result|NN risk|NN disease|NN symptom|NN sign|NN disease|NN discharge|ST discharge|ST ulcer|NN genital|NN pain|ST sexually_transmitted_infection|DS infant|NN childbirth|NN outcome|NN baby|NN sexually_transmitted_infection|DS problem|NN ability|NN 
+bacteria|NN parasite|NN activity|NN sexually_transmitted_infection|DS syphilis|DS sexually_transmitted_infection|DS wart|DS sexually_transmitted_infection|DS sex|NN sexually_transmitted_infection|DS contact|NN donor|NN tissue|NN blood|NN childbirth|NN sexually_transmitted_infection|DS test|NN world|NN case|NN world|NN 
+way|NN sexually_transmitted_infection|DS sex|NN vaccination|NN risk|NN infection|NN hepatitis|DS type|NN sex|NN practice|NN use|NN number|NN partner|NN relationship|NN person|NN sex|NN risk|NN male|NN infection|NN school|NN sex|NN education|NN sexually_transmitted_infection|DS infection|NN syphilis|DS hepatitis|DS hivaids|NN resistance|NN antibiotics|NN organism|NN 
+people|NN sexually_transmitted_infection|DS syphilis|DS trichomoniasis|DS people|NN women|NN papillomavirus|NN sexually_transmitted_infection|DS death|NN united|NN states|NN case|NN sexually_transmitted_infection|DS documentation|NN sexually_transmitted_infection|DS date|NN back|NN papyrus|NN testament|NN shame|NN stigma|NN infection|NN term|NN sexually_transmitted_infection|DS sexually_transmitted_infection|DS sexually_transmitted_infection|DS disease|NN content|NN 
+sign|NN symptom|NN cause|NN transmission|NN type|NN semen|NN diagnosis|NN classification|NN prevention|NN vaccine|NN cap|NN diaphragm|NN screen|NN management|NN epidemiology|NN history|NN name|NN slang|NN term|NN plant|NN reference|NN read|NN link|NN 
+sign|NN symptom|NN icon|NN section|NN expansion|NN 
+
+sexually_transmitted_infection|DS symptom|NN infection|NN 
+instance|NN disease|NN symptom|NN risk|NN disease|NN 
+disease|NN sexually_transmitted_infection|DS infertility|ST pain|ST death|NN 
+presence|NN sexually_transmitted_infection|DS children|NN abuse|NN cause|NN transmission|NN 
+sexually_transmitted_infection|DS present|NN woman|NN infant|NN birth|NN risk|NN transmission|NN act|NN person|NN risk|NN perform|NN sex|NN man|NN 
+throat|NN throat|NN 
+hepatitis|DS risk|NN hepatitis|DS 
+sex|NN woman|NN 
+herpes|NN 
+throat|NN throat|NN 
+vaginosis|NN 
+crab|NN hepatitis|DS herpes|NN infection|NN syphilis|DS infection|NN 
+hepatitis|DS 
+crab|NN hepatitis|DS herpes|NN infection|NN infection|NN 
+hepatitis|DS 
+crab|NN hepatitis|DS herpes|NN 
+hepatitis|DS 
+crab|NN hepatitis|DS herpes|NN 
+hepatitis|DS 
+haemophilus|NN clap|NN granulomatis|NN infection|NN 
+yeast|NN infection|NN 
+micrograph|NN effect|NN ground|NN glass|NN inclusion|NN 
+hepatitis|DS hepatitis|DS fluid|NN 
+hepatitis|DS hepatitis|DS route|NN hepatitis|DS route|NN transmission|NN hepatitis|DS transmission|NN simplex|NN herpes_simplex|DS virus|NN skin|NN blister|ST fluid|NN semen|NN breast|NN milk|NN blood|NN contact|NN 
+risk|NN type|NN cause|NN cancer|DS penile|NN cancer|DS type|NN cause|NN wart|DS 
+virus|NN contact|NN 
+crab|NN louse|NN crab|NN lice|NN infestation|NN inflammation|NN 
+sexually_transmitted_infection|DS bacterium|NN 
+women|NN symptom|NN discharge|ST burn|NN urination|NN bleed|NN period|NN women|NN symptom|NN symptom|NN men|NN pain|ST discharge|ST penis|NN men|NN women|NN tract|NN disease|NN 
+problem|NN pregnancy|NN potential|NN cause|NN infertility|ST 
+woman|NN pregnancy|NN egg|NN implant|NN uterus|NN 
+form|NN infection|NN simplex|NN virus|NN 
+sore|NN contact|NN genital|NN strain|NN site|NN people|NN symptom|NN 
+experience|NN symptom|NN day|NN exposure|NN week|NN 
+symptom|NN blister|ST headache|ST itch|ST sensation|NN area|NN pain|ST urination|NN flu|NN symptom|NN gland|NN fever|ST 
+herpes|NN skin|NN contact|NN person|NN virus|NN 
+virus|NN area|NN body|NN 
+intercourse|NN sex|NN sex|NN 
+virus|NN time|NN symptom|NN virus|NN skin|NN contact|NN infection|NN symptom|NN body|NN antibody|NN 
+attack|NN attack|NN attack|NN 
+cure|NN disease|NN medication|NN symptom|NN risk|NN transmission|NN 
+version|NN virus|NN version|NN virus|NN person|NN virus|NN partner|NN 
+virus|NN type|NN nerve|NN bundle|NN top|NN spine|NN outbreak|NN nerve|NN bundle|NN base|NN spine|NN outbreak|NN 
+papillomavirus|NN sexually_transmitted_infection|DS united|NN states|NN strand|NN health|NN problem|NN 
+case|NN system|NN infection|NN year|NN case|NN wart|DS bump|NN genital|NN cauliflower|NN cancer|DS cancer|DS 
+symptom|NN stage|NN 
+women|NN pap|NN smear|NN order|NN treat|NN cancer|DS 
+vaccine|NN women|NN type|NN cause|NN cancer|DS 
+contact|NN sex|NN 
+partner|NN symptom|NN 
+bacterium|NN live|NN mucous|NN membrane|NN urethra|ST vagina|NN rectum|NN mouth|NN throat|NN eye|NN 
+infection|NN contact|NN penis|NN vagina|NN mouth|NN anus|NN 
+symptom|NN day|NN contact|NN partner|NN men|NN symptom|NN month|NN 
+symptom|NN men|NN pain|ST frequency|NN discharge|ST penis|NN green|NN color|NN red|NN urethra|ST testicle|NN throat|NN 
+symptom|NN women|NN discharge|ST burn|NN itch|ST intercourse|NN pain|ST abdomen|NN infection|NN tube|NN fever|ST infection|NN tube|NN women|NN symptom|NN antibiotic|NN strain|NN gonorrhea|DS case|NN antibiotics|NN 
+sexually_transmitted_infection|DS bacterium|NN 
+complication|NN death|NN manifestation|NN syphilis|DS ulceration|NN tract|NN mouth|NN rectum|NN symptom|NN 
+year|NN prevalence|NN syphilis|DS state|NN 
+incidence|NN syphilis|DS place|NN new|NN guinea|NN infection|NN united|NN states|NN sexually_transmitted_infection|DS infection|NN parasite|NN trichomoniasis|DS women|NN men|NN symptom|NN women|NN patient|NN antibiotic|NN virus|NN damage|NN system|NN ability|NN agent|NN 
+virus|NN cell|NN blood|NN cell|NN fight|NN infection|NN 
+body|NN fluid|NN activity|NN 
+contact|NN blood|NN breast|NN feed|NN childbirth|NN mother|NN child|NN pregnancy|NN stage|NN individual|NN aid|NN syndrome|NN stage|NN progression|NN infection|NN 
+stage|NN infection|NN infection|NN infection|NN aid|NN 
+infection|NN stage|NN individual|NN flu|NN symptom|NN headache|ST fatigue|ST fever|ST muscle|NN ache|NN week|NN 
+stage|NN symptom|NN patient|NN year|NN 
+stage|NN system|NN cell|NN count|NN cell|NN 
+infection|NN aid|NN 
+people|NN aid|NN fall|NN prey|NN infection|NN result|NN disease|NN aid|NN year|NN 
+drug|NN infection|NN 
+cure|NN aid|NN drug|NN help|NN virus|NN 
+amount|NN virus|NN body|NN people|NN live|NN 
+virus|NN level|NN virus|NN 
+semen|NN 
+semen|NN 
+information|NN transmission|NN cause|NN disease|NN 
+microbe|NN semen|NN 
+sexually_transmitted_infection|DS sexually_transmitted_infection|DS 
+virus|NN virus|NN semen|NN week|NN recovery|NN type|NN consumption|NN breast|NN milk|NN risk|NN 
+sexually_transmitted_infection|DS mucous|NN membrane|NN penis|NN vulva|NN rectum|NN tract|NN type|NN infection|NN mouth|NN throat|NN tract|NN eye|NN membrane|NN head|NN penis|NN mucous|NN membrane|NN mucus|NN lip|NN mouth|NN 
+membrane|NN skin|NN pathogen|NN body|NN 
+amount|NN contact|NN source|NN infection|NN pathogen|NN case|NN disease|NN contact|NN fluid|NN carrier|NN fluid|NN mucous|NN membrane|NN 
+sexually_transmitted_infection|DS mother|NN child|NN pregnancy|NN 
+professional|NN sex|NN use|NN way|NN risk|NN sexually_transmitted_infection|DS activity|NN sex|NN protection|NN sexually_transmitted_infection|DS 
+transfer|NN exposure|NN fluid|NN blood|NN transfusion|NN blood|NN product|NN injection|NN needle|NN injury|NN staff|NN needle|NN procedure|NN tattoo|NN needle|NN childbirth|NN avenue|NN transmission|NN 
+mean|NN group|NN worker|NN haemophiliacs|NN drug|NN user|NN risk|NN 
+carrier|NN sexually_transmitted_infection|DS 
+sexually_transmitted_infection|DS women|NN condition|NN disease|NN 
+citation|NN diagnosis|NN world|NN war|NN army|NN poster|NN warn|NN sexually_transmitted_infection|DS 
+test|NN infection|NN number|NN test|NN range|NN sexually_transmitted_infection|DS test|NN syphilis|DS hepatitis|DS 
+procedure|NN test|NN agent|NN 
+sexually_transmitted_infection|DS test|NN number|NN reason|NN 
+test|NN cause|NN symptom|NN illness|NN screen|NN test|NN infection|NN check|NN partner|NN disease|NN sex|NN sex|NN precaution|NN example|NN term|NN relationship|NN fluid|NN bond|NN procreation|NN 
+check|NN pregnancy|NN harm|NN baby|NN check|NN birth|NN baby|NN sexually_transmitted_infection|DS mother|NN use|NN blood|NN organ|NN part|NN process|NN contact|NN individual|NN part|NN surveillance|NN 
+identification|NN treatment|NN result|NN chance|NN spread|NN disease|NN condition|NN outcome|NN treatment|NN 
+window|NN period|NN infection|NN sexually_transmitted_infection|DS test|NN 
+period|NN infection|NN 
+duration|NN period|NN infection|NN test|NN 
+diagnosis|NN reluctance|NN person|NN 
+report|NN people|NN professional|NN information|NN sexually_transmitted_infection|DS degree|NN problem|NN classification|NN poster|NN office|NN emergency|NN management|NN office|NN war|NN information|NN 
+sexually_transmitted_infection|DS sexually_transmitted_infection|DS word|NN word|NN mean|NN intercourse|NN desire|NN venus|NN goddess|NN love|NN sexually_transmitted_infection|DS blood|NN disease|NN disease|NN past|NN 
+world|NN health|NN organization|NN term|NN sexually_transmitted_infection|DS health|NN official|NN term|NN sexually_transmitted_infection|DS clinician|NN term|NN sexually_transmitted_infection|DS order|NN prevention|NN article|NN sex|NN 
+center|NN disease|NN control|NN prevention|NN strategy|NN sexually_transmitted_infection|DS risk|NN vaccination|NN monogamy|NN number|NN partner|NN abstinence|NN 
+way|NN transmission|NN sexually_transmitted_infection|DS contact|NN body|NN part|NN fluid|NN partner|NN 
+activity|NN contact|NN masturbation|NN distance|NN method|NN contact|NN 
+use|NN contact|NN risk|NN 
+exposure|NN disease|NN transmission|NN 
+partner|NN sexually_transmitted_infection|DS contact|NN contact|NN partner|NN contact|NN 
+infection|NN exposure|NN time|NN exposure|NN test|NN test|NN 
+sexually_transmitted_infection|DS procedure|NN 
+treatment|NN facility|NN test|NN kit|NN person|NN return|NN test|NN 
+facility|NN return|NN infection|NN 
+strategy|NN use|NN text|NN message|NN reminder|NN 
+type|NN reminder|NN addition|NN phone|NN call|NN letter|NN history|NN provider|NN risk|NN reduction|NN prevention|NN 
+prevention|NN counsel|NN manner|NN person|NN culture|NN language|NN gender|NN orientation|NN age|NN level|NN 
+prevention|NN counsel|NN sexually_transmitted_infection|DS adolescent|NN adult|NN diagnosis|NN sexually_transmitted_infection|DS year|NN sex|NN partner|NN 
+counsel|NN adolescent|NN adult|NN risk|NN sexually_transmitted_infection|DS 
+counsel|NN resource|NN person|NN risk|NN situation|NN risk|NN use|NN strategy|NN vaccine|NN 
+vaccine|NN sexually_transmitted_infection|DS hepatitis|DS hepatitis|DS type|NN vaccination|NN initiation|NN contact|NN protection|NN 
+development|NN vaccine|NN 
+protection|NN barrier|NN area|NN 
+area|NN sexually_transmitted_infection|DS 
+case|NN transmission|NN route|NN penis|NN skin|NN penis|NN vagina|NN anus|NN transmission|NN 
+fluid|NN skin|NN transmission|NN contact|NN 
+contact|NN wound|ST 
+sexually_transmitted_infection|DS infection|NN use|NN latex|NN barrier|NN 
+microorganism|NN pore|NN skin|NN latex|NN 
+usage|NN 
+tip|NN room|NN ejaculation|NN 
+failure|NN 
+barrier|NN ejaculate|NN user|NN attempt|NN side|NN nail|NN use|NN lubricant|NN oil|NN latex|NN oil|NN hole|NN sex|NN sugar|NN flavor|NN yeast|NN infection|NN 
+order|NN partner|NN sexually_transmitted_infection|DS content|NN 
+act|NN intercourse|NN usage|NN chance|NN breakage|NN effectiveness|NN barrier|NN 
+case|NN device|NN ring|NN portion|NN 
+ring|NN cervix|NN ring|NN remain|NN vagina|NN vulva|NN 
+system|NN protection|NN genitalia|NN cap|NN diaphragm|NN 
+cap|NN diaphragm|NN 
+cover|NN cervix|NN difference|NN diaphragm|NN cap|NN act|NN 
+device|NN sexually_transmitted_infection|DS 
+researcher|NN microbicide|NN decrease|NN sexually_transmitted_infection|DS risk|NN 
+trial|NN women|NN risk|NN infection|NN screen|NN 
+age|NN group|NN person|NN behavior|NN health|NN condition|NN screen|NN 
+women|NN age|NN risk|NN 
+time|NN screen|NN examination|NN preconception|NN evaluation|NN acid|NN amplification|NN test|NN method|NN diagnosis|NN gonorrhea|DS urine|NN men|NN women|NN swab|NN women|NN swab|NN men|NN screen|NN 
+presence|NN infection|NN infertility|ST women|NN evaluation|NN infertility|ST treatment|NN infection|NN men|NN sex|NN men|NN hepatitis|DS 
+case|NN rape|NN person|NN antibiotics|NN 
+option|NN partner|NN patient|NN index|NN case|NN partner|NN therapy|NN practice|NN sex|NN partner|NN index|NN case|NN prescription|NN medication|NN patient|NN partner|NN health|NN care|NN provider|NN update|NN epidemiology|NN life|NN year|NN sexually_transmitted_infection|DS inhabitant|NN data|NN 
+sexually_transmitted_infection|DS death|NN person|NN 
+people|NN syphilis|DS trichomoniasis|DS people|NN women|NN papillomavirus|NN sexually_transmitted_infection|DS death|NN united|NN states|NN case|NN sexually_transmitted_infection|DS 
+case|NN sexually_transmitted_infection|DS women|NN united|NN states|NN study|NN girl|NN sexually_transmitted_infection|DS 
+sexually_transmitted_infection|DS increase|NN case|NN syphilis|DS 
+syphilis|DS case|NN men|NN sex|NN men|NN 
+number|NN case|NN wart|DS girl|NN year|NN papilloma|NN virus|NN 
+aid|NN cause|NN death|NN intercourse|NN 
+person|NN united|NN states|NN hepatitis|DS sexually_transmitted_infection|DS contact|NN rate|NN rate|NN americas|NN people|NN hepatitis|DS virus|NN history|NN work|NN progress|NN administration|NN poster|NN 
+outbreak|NN syphilis|DS troop|NN naples|NN war|NN disease|NN exchange|NN naples|NN disease|NN kill|NN people|NN diamond|NN syphilis|DS pustule|NN body|NN head|NN knee|NN flesh|NN people|NN face|NN death|NN month|NN 
+diamond|NN disease|NN disease|NN symptom|NN 
+year|NN district|NN paris|NN 
+prostitute|NN time|NN propaganda|NN poster|NN world|NN war|NN servicemen|NN patriotism|NN 
+text|NN bottom|NN poster|NN cant|NN axis|NN sexually_transmitted_infection|DS 
+invention|NN medicine|NN sexually_transmitted_infection|DS treatment|NN symptom|NN disease|NN 
+hospital|NN sexually_transmitted_infection|DS lock|NN hospital|NN treatment|NN half|NN century|NN disease|NN act|NN prostitute|NN 
+number|NN state|NN brussels|NN agreement|NN state|NN treatment|NN port|NN merchant|NN seamen|NN sexually_transmitted_infection|DS 
+treatment|NN sexually_transmitted_infection|DS treatment|NN syphilis|DS 
+discovery|NN antibiotics|NN number|NN sexually_transmitted_infection|DS health|NN campaign|NN sexually_transmitted_infection|DS perception|NN threat|NN 
+period|NN importance|NN contact|NN sexually_transmitted_infection|DS 
+partner|NN individual|NN infection|NN contact|NN turn|NN sexually_transmitted_infection|DS clinics|NN infection|NN population|NN 
+aid|NN consciousness|NN sexually_transmitted_infection|DS medicine|NN 
+aid|NN time|NN virus|NN aid|NN disease|NN period|NN death|NN 
+united|NN states|NN recognition|NN aid|NN information|NN campaign|NN development|NN treatment|NN aid|NN replication|NN 
+trace|NN measure|NN disease|NN infection|NN 
+name|NN slang|NN term|NN 
+harassment|NN case|NN motor|NN manufacture|NN employment|NN opportunity|NN commission|NN number|NN employee|NN sexually_transmitted_infection|DS souvenir|NN plant|NN 
+sexually_transmitted_infection|DS plant|NN smut|NN fungus|NN plant|NN 
+smut|NN fungus|NN pollinator|NN pollen|NN gamete|NN plant|NN sexually_transmitted_infection|DS 
+plant|NN sex|NN 

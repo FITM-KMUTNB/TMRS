@@ -1,13 +1,13 @@
 encyclopedia coronary_artery_disease jump navigation jump search coronary_artery_disease name coronary_artery_disease coronary_artery_disease coronary_artery_disease illustration atherosclerosis artery 
-surgery symptom chest pain shortness breath complication heart_failure heart rhythm cause artery heart risk factor blood pressure smoke lack exercise obesity blood cholesterol method stress test tomographic angiography prevention diet exercise weight smoke treatment intervention artery bypass surgery aspirin beta blocker frequency death 
-coronary_artery_disease coronary_artery_disease coronary_artery_disease coronary_artery_disease reduction blood flow heart muscle plaque artery heart disease type angina angina infarction death symptom chest pain discomfort shoulder arm back neck jaw heartburn 
+surgery symptom chest_pain shortness breath complication heart_failure heart rhythm cause artery heart risk factor blood pressure smoke lack exercise obesity blood cholesterol method stress test tomographic angiography prevention diet exercise weight smoke treatment intervention artery bypass surgery aspirin beta blocker frequency death 
+coronary_artery_disease coronary_artery_disease coronary_artery_disease coronary_artery_disease reduction blood flow heart muscle plaque artery heart disease type angina angina infarction death symptom chest_pain discomfort shoulder arm back neck jaw heartburn 
 symptom exercise stress minute rest shortness breath symptom case sign heart attack complication heart_failure heartbeat 
 risk factor blood pressure smoke lack exercise obesity blood cholesterol diet depression alcohol number test diagnose electrocardiogram stress test tomographic angiography 
 way coronary_artery_disease risk diet weight cholesterol blood pressure evidence screen people risk symptom treatment measure prevention medication aspirin beta blocker nitroglycerin procedure intervention artery bypass surgery disease coronary_artery_disease addition treatment life expectancy heart attack risk 
 coronary_artery_disease people death death cause death risk death coronary_artery_disease age country number case coronary_artery_disease age united states coronary_artery_disease rate men women age content 
 sign symptom risk factor blood fat genetics diagnosis angina syndrome risk assessment prevention diet prevention treatment surgery epidemiology society culture name support group industry influence research research reference link 
 sign symptom 
-chest pain activity time angina narrow artery heart 
+chest_pain activity time angina narrow artery heart 
 change intensity character frequency 
 angina infarction 
 adult emergency department cause pain pain coronary_artery_disease risk factor 
@@ -33,7 +33,7 @@ people kidney dysfunction percent coronary_artery_disease
 pimple channel artery obstruction blood flow 
 people coronary_artery_disease plaque artery 
 form occlusion artery month 
-syndrome chest pain angina chest discomfort people sign blockage artery heart cause syndrome 
+syndrome chest_pain angina chest discomfort people sign blockage artery heart cause syndrome 
 explanation dysfunction atherosclerosis reason women men hormone risk factor women role diagnosis man woman 
 people stress diagnosis coronary_artery_disease use stress image image individual symptom risk disease 
 diagnosis syndrome coronary_artery_disease women diagnosis exclusion 
@@ -43,7 +43,7 @@ diagnosis disease symptom nature symptom
 investigation electrocardiogram angina syndrome 
 chest blood test 
 citation angina article 
-angina chest pain feature level exertion form stress test symptom change way electrocardiography heart uptake heart muscle 
+angina chest_pain feature level exertion form stress test symptom change way electrocardiography heart uptake heart muscle 
 part heart blood supply angiography stenosis artery suitability angioplasty bypass surgery 
 coronary_artery_disease coronary_artery_disease coronary_artery_disease coronary_artery_disease monograph nomenclature angina manifestation coronary_artery_disease coronary_artery_disease 
 practice guideline coronary_artery_disease coronary_artery_disease syndrome article syndrome 
@@ -51,9 +51,9 @@ section source
 section citation source 
 template message 
 diagnosis syndrome place emergency department change damage heart muscle 
-diagnosis show elevation st segment context chest pain infarction mi mi emergency angiography intervention angioplasty insertion thrombolysis clot buster medication 
+diagnosis show elevation st segment context chest_pain infarction mi mi emergency angiography intervention angioplasty insertion thrombolysis clot buster medication 
 absence elevation heart damage marker blood test heart muscle damage 
-evidence damage infarction chest pain elevation mi 
+evidence damage infarction chest_pain elevation mi 
 evidence damage term angina 
 process hospital admission observation care unit complication arrhythmia irregularity heart rate 
 risk assessment stress test angiography coronary_artery_disease patient angina 

@@ -4,7 +4,7 @@ hepatomegaly mass
 cause jaundice content 
 sign symptom cause drug alcohol mechanism diagnosis treatment reference read link 
 sign symptom 
-symptom hepatomegaly individual weight loss appetite lethargy jaundice bruise cause 
+symptom hepatomegaly individual weight_loss appetite lethargy jaundice bruise cause 
 cause hepatomegaly infective 
 fever mononucleosis hepatitis liver abscess abscess malaria infection cyst 
 carcinoma lymphoma 

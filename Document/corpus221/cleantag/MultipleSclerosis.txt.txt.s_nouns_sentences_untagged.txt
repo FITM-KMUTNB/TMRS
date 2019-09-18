@@ -1,0 +1,132 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN multiple_sclerosis|DS name|NN multiple_sclerosis|DS multiple_sclerosis|DS multiple_sclerosis|DS tissue|NN macrophage|NN area|NN lesion|NN multiple_sclerosis|DS 
+symptom|NN vision|NN blindness|NN eye|NN muscle_weakness|ST trouble|NN sensation|NN trouble|NN onset|NN age|NN duration|NN term|NN cause|NN method|NN symptom|NN test|NN treatment|NN therapy|NN year|NN life|NN expectancy|NN frequency|NN death|NN 
+multiple_sclerosis|DS multiple_sclerosis|DS disease|NN cover|NN nerve|NN cell|NN brain|NN cord|NN damage|NN ability|NN part|NN system|NN range|NN sign|NN symptom|NN problem|NN symptom|NN vision|NN blindness|NN eye|NN muscle_weakness|ST trouble|NN sensation|NN multiple_sclerosis|DS form|NN symptom|NN attack|NN form|NN time|NN form|NN attack|NN symptom|NN problem|NN advancement|NN disease|NN 
+cause|NN mechanism|NN destruction|NN system|NN failure|NN cell|NN cause|NN genetics|NN factor|NN infection|NN multiple_sclerosis|DS present|NN sign|NN symptom|NN result|NN test|NN 
+cure|NN multiple_sclerosis|DS treatment|NN function|NN attack|NN attack|NN multiple_sclerosis|DS side|NN effect|NN therapy|NN people|NN ability|NN people|NN treatment|NN lack|NN evidence|NN benefit|NN outcome|NN outcome|NN women|NN disease|NN life|NN course|NN attack|NN life|NN expectancy|NN average|NN year|NN population|NN 
+multiple_sclerosis|DS disorder|NN system|NN people|NN rate|NN region|NN population|NN year|NN people|NN multiple_sclerosis|DS disease|NN age|NN women|NN men|NN multiple_sclerosis|DS name|NN multiple_sclerosis|DS scar|NN plaque|NN lesion|NN matter|NN brain|NN cord|NN number|NN treatment|NN method|NN development|NN multiple_sclerosis|DS media|NN video|NN summary|NN script|NN content|NN 
+sign|NN symptom|NN cause|NN geography|NN genetics|NN agent|NN barrier|NN diagnosis|NN type|NN management|NN attack|NN treatment|NN symptom|NN treatment|NN epidemiology|NN history|NN discovery|NN diagnosis|NN case|NN research|NN disease|NN insufficiency|NN reference|NN link|NN 
+sign|NN symptom|NN article|NN multiple_sclerosis|DS sign|NN symptom|NN symptom|NN multiple_sclerosis|DS 
+person|NN multiple_sclerosis|DS symptom|NN sign|NN motor|NN problem|NN symptom|NN location|NN lesion|NN system|NN loss|NN sensitivity|NN change|NN sensation|NN pin|NN needle|NN numbness|NN muscle_weakness|ST vision|NN muscle|NN spasm|NN difficulty|NN difficulty|NN balance|NN problem|NN speech|NN problem|NN optic|NN vision|NN feel|NN pain|ST bladder|NN bowel|NN difficulty|NN difficulty|NN think|NN problem|NN depression|ST mood|NN phenomenon|NN worsen|NN symptom|NN exposure|NN temperature|NN sign|NN sensation|NN back|NN neck|NN multiple_sclerosis|DS measure|NN disability|NN severity|NN disability|NN status|NN scale|NN measure|NN multiple_sclerosis|DS research|NN 
+condition|NN case|NN syndrome|NN cis|NN number|NN day|NN motor|NN problem|NN optic|NN symptom|NN dysfunction|NN difficulty|NN course|NN symptom|NN pattern|NN episode|NN worsen|NN day|NN month|NN relapse|NN bout|NN attack|NN improvement|NN case|NN worsen|NN time|NN period|NN recovery|NN case|NN combination|NN pattern|NN people|NN relapse|NN course|NN relapse|NN warn|NN year|NN relapse|NN trigger|NN spring|NN summer|NN infection|NN influenza|DS gastroenteritis|DS increase|NN risk|NN stress|NN attack|NN women|NN multiple_sclerosis|DS experience|NN relapse|NN month|NN delivery|NN risk|NN pregnancy|NN disability|NN event|NN relapse|NN rate|NN vaccination|NN breast|NN trauma|NN phenomenon|NN cause|NN 
+cause|NN multiple_sclerosis|DS result|NN combination|NN factor|NN agent|NN theory|NN data|NN explanation|NN 
+number|NN risk|NN factor|NN research|NN elimination|NN multiple_sclerosis|DS geography|NN 
+multiple_sclerosis|DS people|NN equator|NN exception|NN exception|NN group|NN risk|NN equator|NN samis|NN new|NN 
+group|NN risk|NN equator|NN sicilian|NN cause|NN pattern|NN gradient|NN incidence|NN 
+multiple_sclerosis|DS region|NN population|NN variation|NN distribution|NN population|NN sunlight|NN exposure|NN vitamin|NN production|NN explanation|NN relationship|NN season|NN birth|NN multiple_sclerosis|DS support|NN idea|NN people|NN hemisphere|NN life|NN factor|NN role|NN childhood|NN study|NN people|NN region|NN world|NN age|NN region|NN risk|NN multiple_sclerosis|DS 
+migration|NN place|NN age|NN person|NN risk|NN home|NN country|NN evidence|NN effect|NN move|NN people|NN genetics|NN region|NN 
+change|NN area|NN increase|NN probability|NN multiple_sclerosis|DS 
+multiple_sclerosis|DS disease|NN number|NN variation|NN risk|NN gene|NN level|NN expression|NN cell|NN chance|NN probability|NN disease|NN relative|NN person|NN risk|NN twin|NN time|NN twin|NN percentage|NN parent|NN risk|NN children|NN time|NN population|NN multiple_sclerosis|DS group|NN 
+gene|NN multiple_sclerosis|DS difference|NN antigen|NN group|NN gene|NN chromosome|NN complex|NN difference|NN region|NN susceptibility|NN region|NN development|NN disease|NN type|NN lupus|NN find|NN association|NN multiple_sclerosis|DS allele|NN effect|NN difference|NN account|NN predisposition|NN method|NN association|NN study|NN gene|NN locus|NN probability|NN multiple_sclerosis|DS agent|NN 
+microbe|NN trigger|NN multiple_sclerosis|DS age|NN location|NN world|NN person|NN risk|NN multiple_sclerosis|DS explanation|NN kind|NN infection|NN microbe|NN disease|NN mechanism|NN hygiene|NN hypothesis|NN prevalence|NN hypothesis|NN 
+hygiene|NN hypothesis|NN exposure|NN agent|NN life|NN disease|NN response|NN encounter|NN agent|NN prevalence|NN hypothesis|NN disease|NN agent|NN region|NN multiple_sclerosis|DS individual|NN infection|NN symptom|NN 
+case|NN year|NN hygiene|NN hypothesis|NN support|NN prevalence|NN hypothesis|NN 
+evidence|NN virus|NN cause|NN presence|NN band|NN brain|NN fluid|NN people|NN multiple_sclerosis|DS association|NN occurrence|NN animal|NN infection|NN candidate|NN group|NN 
+individual|NN virus|NN risk|NN multiple_sclerosis|DS adult|NN risk|NN age|NN hygiene|NN hypothesis|NN upbring|NN contradiction|NN encounter|NN virus|NN life|NN trigger|NN disease|NN disease|NN measle|NN mump|NN rubella|DS 
+smoke|NN risk|NN factor|NN multiple_sclerosis|DS stress|NN risk|NN factor|NN evidence|NN association|NN exposure|NN conclusion|NN factor|NN study|NN association|NN risk|NN factor|NN diet|NN hormone|NN intake|NN evidence|NN relation|NN disease|NN gout|NN level|NN acid|NN people|NN multiple_sclerosis|DS 
+theory|NN acid|NN importance|NN article|NN multiple_sclerosis|DS multiple_sclerosis|DS nerve|NN axon|NN myelin|NN sheath|NN 
+characteristics|NN multiple_sclerosis|DS formation|NN lesion|NN system|NN plaque|NN inflammation|NN destruction|NN myelin|NN sheath|NN neuron|NN 
+feature|NN complex|NN manner|NN breakdown|NN nerve|NN tissue|NN turn|NN sign|NN symptom|NN disease|NN cholesterol|NN crystal|NN myelin|NN repair|NN inflammation|NN multiple_sclerosis|DS disorder|NN interaction|NN individual|NN genetics|NN cause|NN damage|NN part|NN attack|NN system|NN person|NN system|NN multiple_sclerosis|DS 
+myelin|NN stain|NN area|NN lesion|NN 
+name|NN multiple_sclerosis|DS scar|NN plaque|NN lesion|NN form|NN system|NN 
+lesion|NN matter|NN optic|NN nerve|NN brain|NN stem|NN ganglia|NN cord|NN matter|NN tract|NN ventricle|NN function|NN matter|NN cell|NN signal|NN matter|NN area|NN process|NN rest|NN body|NN 
+multiple_sclerosis|DS loss|NN cell|NN myelin|NN neuron|NN signal|NN action|NN potential|NN result|NN thine|NN loss|NN myelin|NN disease|NN breakdown|NN axon|NN neuron|NN 
+myelin|NN neuron|NN signal|NN repair|NN process|NN place|NN phase|NN disease|NN cell|NN myelin|NN sheath|NN attack|NN plaque|NN axon|NN scar|NN origin|NN symptom|NN attack|NN resonance|NN image|NN plaque|NN number|NN lesion|NN brain|NN consequence|NN process|NN creation|NN lesion|NN increase|NN number|NN due|NN destruction|NN neuron|NN number|NN lesion|NN pattern|NN 
+sign|NN disease|NN inflammation|NN 
+explanation|NN process|NN cell|NN kind|NN lymphocyte|NN role|NN body|NN cell|NN gain|NN entry|NN brain|NN disruption|NN barrier|NN 
+cell|NN myelin|NN attack|NN cell|NN lymphocyte|NN 
+attack|NN myelin|NN process|NN cell|NN release|NN factor|NN antibody|NN 
+breakdown|NN barrier|NN turn|NN number|NN effect|NN activation|NN macrophage|NN activation|NN protein|NN transmission|NN information|NN neuron|NN way|NN factor|NN neuron|NN 
+factor|NN loss|NN myelin|NN axon|NN barrier|NN 
+barrier|NN part|NN system|NN entry|NN cell|NN system|NN 
+type|NN cell|NN infection|NN virus|NN bacteria|NN 
+infection|NN cell|NN brain|NN breakdown|NN diagnosis|NN animation|NN dissemination|NN brain|NN lesion|NN time|NN space|NN study|NN year|NN multiple_sclerosis|DS 
+multiple_sclerosis|DS present|NN sign|NN symptom|NN combination|NN image|NN laboratory|NN test|NN sign|NN symptom|NN problem|NN criteria|NN laboratory|NN evidence|NN lesion|NN time|NN area|NN method|NN diagnosis|NN poser|NN criteria|NN significance|NN 
+data|NN diagnosis|NN multiple_sclerosis|DS individual|NN episode|NN symptom|NN characteristic|NN disease|NN attention|NN attack|NN test|NN diagnosis|NN 
+tool|NN analysis|NN fluid|NN potential|NN 
+resonance|NN image|NN brain|NN spine|NN area|NN lesion|NN plaque|NN 
+contrast|NN agent|NN plaque|NN elimination|NN existence|NN lesion|NN symptom|NN moment|NN evaluation|NN test|NN fluid|NN lumbar|NN puncture|NN evidence|NN inflammation|NN system|NN 
+fluid|NN band|NN electrophoresis|NN inflammation|NN marker|NN people|NN multiple_sclerosis|DS system|NN multiple_sclerosis|DS stimulation|NN optic|NN nerve|NN nerve|NN pathway|NN 
+brain|NN response|NN potential|NN 
+criteria|NN diagnosis|NN state|NN proof|NN autopsy|NN biopsy|NN lesion|NN multiple_sclerosis|DS test|NN biopsy|NN diagnosis|NN disease|NN type|NN 
+phenotype|NN type|NN pattern|NN progression|NN 
+course|NN disease|NN attempt|NN course|NN 
+prognosis|NN treatment|NN decision|NN 
+united|NN states|NN multiple_sclerosis|DS society|NN multiple_sclerosis|DS federation|NN type|NN multiple_sclerosis|DS 
+syndrome|NN cis|NN multiple_sclerosis|DS multiple_sclerosis|DS multiple_sclerosis|DS multiple_sclerosis|DS multiple_sclerosis|DS multiple_sclerosis|DS 
+multiple_sclerosis|DS relapse|NN period|NN month|NN year|NN remission|NN sign|NN disease|NN activity|NN 
+attack|NN problem|NN attack|NN person|NN disease|NN course|NN individual|NN multiple_sclerosis|DS deficit|NN attack|NN multiple_sclerosis|DS people|NN degree|NN disability|NN term|NN hand|NN term|NN multiple_sclerosis|DS people|NN multiple_sclerosis|DS level|NN disability|NN period|NN subtype|NN syndrome|NN cis|NN 
+cis|NN person|NN attack|NN criteria|NN multiple_sclerosis|DS person|NN cis|NN multiple_sclerosis|DS 
+multiple_sclerosis|DS individual|NN remission|NN symptom|NN progression|NN disability|NN onset|NN remission|NN improvement|NN age|NN onset|NN subtype|NN subtype|NN 
+age|NN multiple_sclerosis|DS year|NN age|NN 
+multiple_sclerosis|DS multiple_sclerosis|DS decline|NN attack|NN period|NN remission|NN relapse|NN remission|NN length|NN time|NN disease|NN onset|NN conversion|NN multiple_sclerosis|DS year|NN 
+type|NN multiple_sclerosis|DS disease|NN sclerosis|NN sclerosis|NN multiple_sclerosis|DS 
+debate|NN multiple_sclerosis|DS variant|NN disease|NN multiple_sclerosis|DS children|NN time|NN stage|NN average|NN age|NN adult|NN management|NN article|NN management|NN multiple_sclerosis|DS 
+cure|NN multiple_sclerosis|DS therapy|NN 
+aim|NN therapy|NN function|NN attack|NN attack|NN disability|NN 
+medication|NN people|NN attack|NN lesion|NN 
+treatment|NN medication|NN management|NN multiple_sclerosis|DS effect|NN 
+treatment|NN people|NN shortage|NN evidence|NN 
+attack|NN administration|NN dose|NN therapy|NN efficacy|NN safety|NN profile|NN term|NN symptom|NN treatment|NN impact|NN recovery|NN consequence|NN attack|NN treatment|NN multiple_sclerosis|DS 
+medication|NN agency|NN multiple_sclerosis|DS multiple_sclerosis|DS 
+acetate|NN dimethyl|NN 
+cost|NN effectiveness|NN march|NN humanize|NN antibody|NN treatment|NN multiple_sclerosis|DS requirement|NN phase|NN trial|NN 
+multiple_sclerosis|DS number|NN attack|NN acetate|NN treatment|NN relapse|NN therapy|NN outcome|NN relapse|NN rate|NN agent|NN issue|NN effect|NN agent|NN treatment|NN disease|NN use|NN effect|NN option|NN medication|NN treatment|NN syndrome|NN cis|NN chance|NN multiple_sclerosis|DS efficacy|NN acetate|NN children|NN adult|NN role|NN agent|NN dimethyl|NN 
+multiple_sclerosis|DS multiple_sclerosis|DS 
+multiple_sclerosis|DS march|NN treatment|NN multiple_sclerosis|DS drug|NN approval|NN requirement|NN phase|NN trial|NN 
+medication|NN multiple_sclerosis|DS population|NN evidence|NN support|NN progression|NN disease|NN rate|NN relapse|NN year|NN effect|NN zone|NN injection|NN acetate|NN 
+treatment|NN effect|NN 
+irritation|NN injection|NN site|NN acetate|NN injection|NN injection|NN time|NN dent|NN injection|NN site|NN destruction|NN tissue|NN symptom|NN people|NN experience|NN reaction|NN flush|NN chest|NN tightness|NN heart|NN palpitation|NN anxiety|ST minute|NN liver|NN damage|NN dysfunction|NN infertility|ST myeloid|NN multifocal|NN people|NN 
+rise|NN hypertension|DS heart|NN rate|NN liver|NN enzyme|NN reduction|NN lymphocyte|NN level|NN evidence|NN safety|NN side|NN effect|NN headache|ST fatigue|ST nausea|ST hair_loss|DT limb|NN pain|ST report|NN liver|NN failure|NN use|NN development|NN side|NN effect|NN dimethyl|NN fumarate|NN problem|NN dimethyl|NN fumarate|NN reduction|NN blood|NN cell|NN count|NN case|NN infection|NN trial|NN symptom|NN 
+medication|NN symptom|NN change|NN course|NN disease|NN symptom|NN response|NN medication|NN bladder|NN spasticity|NN problem|NN approach|NN quality|NN life|NN core|NN team|NN health|NN service|NN point|NN time|NN rehabilitation|NN program|NN increase|NN activity|NN participation|NN people|NN multiple_sclerosis|DS impairment|NN level|NN evidence|NN efficacy|NN discipline|NN evidence|NN exercise|NN therapy|NN behavioral|NN therapy|NN multiple_sclerosis|DS fatigue|ST alternative|NN treatment|NN 
+people|NN multiple_sclerosis|DS medicine|NN percentage|NN medicine|NN evidence|NN effectiveness|NN treatment|NN case|NN treatment|NN benefit|NN people|NN multiple_sclerosis|DS supplementation|NN regimen|NN vitamin|NN relaxation|NN technique|NN yoga|NN medicine|NN cannabis|NN oxygen|NN therapy|NN reflexology|NN acupuncture|NN mindfulness|NN characteristics|NN user|NN women|NN multiple_sclerosis|DS time|NN level|NN satisfaction|NN life|NN year|NN multiple_sclerosis|DS inhabitant|NN 
+future|NN course|NN disease|NN subtype|NN disease|NN individual|NN sex|NN age|NN symptom|NN degree|NN disability|NN person|NN sex|NN subtype|NN optic|NN symptom|NN onset|NN attack|NN year|NN age|NN onset|NN course|NN 
+life|NN expectancy|NN year|NN start|NN disease|NN year|NN people|NN people|NN multiple_sclerosis|DS reach|NN decade|NN life|NN death|NN consequence|NN disease|NN suicide|NN infection|NN complication|NN people|NN ability|NN death|NN walk|NN year|NN onset|NN update|NN 
+epidemiology|NN death|NN multiple_sclerosis|DS person|NN 
+multiple_sclerosis|DS disorder|NN system|NN number|NN people|NN multiple_sclerosis|DS rate|NN region|NN death|NN year|NN rate|NN south|NN east|NN americas|NN rate|NN population|NN descent|NN number|NN case|NN year|NN 
+rate|NN multiple_sclerosis|DS diagnosis|NN study|NN populational|NN pattern|NN number|NN theory|NN cause|NN 
+multiple_sclerosis|DS adult|NN childhood|NN year|NN age|NN subtype|NN people|NN disorder|NN disease|NN women|NN trend|NN time|NN women|NN men|NN children|NN female|NN male|NN people|NN male|NN female|NN history|NN discovery|NN detail|NN draw|NN multiple_sclerosis|DS lesion|NN brain|NN stem|NN cord|NN 
+professor|NN pathology|NN jean|NN professor|NN anatomy|NN disease|NN detail|NN disease|NN injury|NN lesion|NN cord|NN atrophy|NN microscope|NN pathologist|NN lesion|NN blood|NN vessel|NN 
+neurologist|NN person|NN multiple_sclerosis|DS disease|NN report|NN observation|NN disease|NN plaque|NN 
+attempt|NN set|NN criteria|NN 
+triad|NN intention|NN tremor|ST speech|NN scan|NN speech|NN cognition|NN change|NN patient|NN enfeeblement|NN memory|NN conception|NN 
+diagnosis|NN triad|NN observation|NN attempt|NN criteria|NN requirement|NN dissemination|NN lesion|NN time|NN space|NN sign|NN symptom|NN disease|NN process|NN requirement|NN criteria|NN criteria|NN version|NN use|NN 
+century|NN theory|NN cause|NN pathogenesis|NN treatment|NN century|NN refinement|NN concept|NN place|NN 
+revision|NN criteria|NN diagnosis|NN multiple_sclerosis|DS lesion|NN cis|NN year|NN revision|NN phenotype|NN disease|NN course|NN cis|NN phenotype|NN multiple_sclerosis|DS expression|NN conversion|NN cis|NN multiple_sclerosis|DS case|NN study|NN locomotion|NN female|NN multiple_sclerosis|DS walk|NN difficulty|NN 
+account|NN people|NN multiple_sclerosis|DS disease|NN 
+woman|NN iceland|NN vision|NN mobility|NN saint|NN day|NN 
+saint|NN nun|NN people|NN multiple_sclerosis|DS 
+age|NN death|NN pain|ST weakness|ST leg|NN vision|NN multiple_sclerosis|DS case|NN proposal|NN gene|NN hypothesis|NN dissemination|NN disease|NN 
+augustus|NN son|NN prince|NN augustus|NN duke|NN lady|NN grandson|NN united|NN kingdom|NN multiple_sclerosis|DS 
+diary|NN year|NN disease|NN 
+symptom|NN age|NN loss|NN funeral|NN friend|NN 
+disease|NN weakness|ST leg|NN clumsiness|NN hand|NN numbness|NN dizziness|ST bladder|NN disturbance|NN dysfunction|NN 
+illness|NN view|NN life|NN account|NN multiple_sclerosis|DS diarist|NN 
+nom-de-plume|NN cummings|NN log|NN diagnosis|NN struggle|NN diary|NN journal|NN man|NN research|NN article|NN multiple_sclerosis|DS research|NN journal|NN multiple_sclerosis|DS multiple_sclerosis|DS journal|NN 
+research|NN treatment|NN multiple_sclerosis|DS creation|NN therapy|NN subtype|NN strategy|NN treatment|NN 
+approval|NN drug|NN popularity|NN frequency|NN use|NN drug|NN investigation|NN estriol|NN 
+august|NN phase|NN trial|NN result|NN study|NN efficacy|NN ease|NN use|NN therapy|NN 
+use|NN preparation|NN version|NN 
+dose|NN effect|NN sex|NN hormone|NN concentration|NN pregnancy|NN candidate|NN therapy|NN women|NN multiple_sclerosis|DS phase|NN trial|NN request|NN approval|NN 
+antibody|NN level|NN interest|NN 
+antibody|NN benefit|NN study|NN treatment|NN relapse|NN multiple_sclerosis|DS march|NN use|NN appearance|NN effect|NN infection|NN investigation|NN development|NN test|NN virus|NN antibody|NN risk|NN multifocal|NN antibody|NN role|NN treatment|NN disease|NN future|NN risk|NN 
+research|NN strategy|NN effectiveness|NN drug|NN rationale|NN number|NN medication|NN multiple_sclerosis|DS treatment|NN target|NN mechanism|NN use|NN synergy|NN drug|NN effect|NN drawback|NN block|NN action|NN trial|NN therapy|NN result|NN treatment|NN multiple_sclerosis|DS 
+research|NN treatment|NN stem|NN cell|NN therapy|NN importance|NN stage|NN treatment|NN variant|NN disease|NN 
+drug|NN development|NN therapy|NN multiple_sclerosis|DS multiple_sclerosis|DS 
+multiple_sclerosis|DS entity|NN presentation|NN 
+multiple_sclerosis|DS case|NN birth|NN disease|NN family|NN concept|NN multiple_sclerosis|DS 
+autoantibody|NN multiple_sclerosis|DS variant|NN 
+spectrum|NN disease|NN spectrum|NN disease|NN disease|NN 
+case|NN multiple_sclerosis|DS autoantibody|NN variant|NN 
+autoantibody|NN spectrum|NN disease|NN 
+moment|NN author|NN disease|NN 
+kind|NN 
+damage|NN node|NN neurone|NN 
+antibody|NN multiple_sclerosis|DS multiple_sclerosis|DS presentation|NN 
+autoantibody|NN pattern|NN multiple_sclerosis|DS open|NN door|NN multiple_sclerosis|DS disease|NN disease|NN brain|NN scan|NN phase|NN sequence|NN iron|NN deposit|NN matter|NN lesion|NN box|NN middle|NN image|NN arrow|NN corner|NN 
+criteria|NN future|NN work|NN help|NN diagnosis|NN prediction|NN disease|NN progression|NN method|NN work|NN antibody|NN study|NN serum|NN fluid|NN result|NN 
+time|NN laboratory|NN investigation|NN prognosis|NN 
+oxide|NN oxide|NN disease|NN progression|NN result|NN degeneration|NN neuron|NN role|NN protein|NN loss|NN nerve|NN tissue|NN tau|NN investigation|NN effect|NN medication|NN 
+improvement|NN technique|NN positron|NN emission|NN tomography|NN pet|NN resonance|NN image|NN promise|NN diagnosis|NN prognosis|NN prediction|NN effect|NN improvement|NN practice|NN decade|NN technique|NN usefulness|NN research|NN set|NN practice|NN recovery|NN sequence|NN transfer|NN diffusion|NN tensor|NN resonance|NN image|NN technique|NN disease|NN standardization|NN acquisition|NN protocol|NN creation|NN value|NN technique|NN development|NN contrast|NN agent|NN level|NN macrophage|NN inflammation|NN dysfunction|NN technique|NN measure|NN iron|NN deposition|NN role|NN feature|NN multiple_sclerosis|DS perfusion|NN pet|NN marker|NN process|NN brain|NN inflammation|NN pathology|NN apoptosis|NN potassium|NN channel|NN multiple_sclerosis|DS insufficiency|NN article|NN insufficiency|NN 
+surgeon|NN paolo|NN multiple_sclerosis|DS narrow|NN vein|NN brain|NN insufficiency|NN 
+patient|NN multiple_sclerosis|DS study|NN procedure|NN media|NN liberation|NN procedure|NN participant|NN theory|NN attention|NN media|NN multiple_sclerosis|DS canada|NN concern|NN research|NN assumption|NN cause|NN disease|NN data|NN study|NN relationship|NN raise|NN objection|NN hypothesis|NN liberation|NN procedure|NN complication|NN death|NN benefit|NN treatment|NN multiple_sclerosis|DS research|NN hypothesis|NN update|NN 
+list|NN multiple_sclerosis|DS organization|NN list|NN people|NN multiple_sclerosis|DS 

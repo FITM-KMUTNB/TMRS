@@ -1,0 +1,129 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN article|NN bacteria|NN 
+disease|NN bacteria|NN 
+salmonella|DS salmonella|DS scan|NN electron|NN micrograph|NN salmonella|DS cell|NN classification|NN domain|NN bacteria|NN class|NN order|NN family|NN genus|NN salmonella|DS 
+salmonella|DS salmonella|DS salmonella|DS salmonella|DS salmonella|DS salmonella|DS salmonella|DS salmonella|DS 
+salmonella|DS genus|NN bacillus|NN bacteria|NN family|NN 
+salmonella|DS salmonella|DS salmonella|DS 
+type|NN salmonella|DS salmon|NN surgeon|NN 
+salmonella|DS enterobacteria|NN cell|NN diameter|NN length|NN cell|NN body|NN energy|NN oxidation|NN reduction|NN reaction|NN source|NN 
+oxygen|NN oxygen|NN electron|NN fermentation|NN animal|NN environment|NN 
+animal|NN reptile|NN 
+salmonella|DS pathogen|NN illness|NN 
+tract|NN cause|NN symptom|NN antibiotics|NN 
+nontyphoidal|NN salmonella|DS cause|NN fever|ST treatment|NN antibiotics|NN 
+human-to-human|NN infection|NN typhoid|NN fever|ST fever|ST fever|ST salmonella|DS form|NN addition|NN spread|NN body|NN organ|NN endotoxin|NN form|NN 
+shock|NN shock|NN care|NN antibiotics|NN 
+collapse|NN society|NN salmonella|DS outbreak|NN conquest|NN content|NN 
+history|NN detection|NN culture|NN growth|NN condition|NN nomenclature|NN salmonella|DS salmonella|DS monitor|NN mechanism|NN infection|NN knockout|NN resistance|NN burst|NN host|NN adaptation|NN genetics|NN reference|NN link|NN 
+genus|NN salmonella|DS part|NN family|NN 
+taxonomy|NN potential|NN 
+genus|NN group|NN basis|NN antigen|NN classification|NN 
+name|NN example|NN salmonella|DS salmonella|DS 
+differentiation|NN strain|NN investigation|NN antibiotic|NN sensitivity|NN test|NN biology|NN technique|NN gel|NN electrophoresis|NN sequence|NN type|NN genome|NN sequence|NN 
+salmonella|DS typhoidal|NN salmonella|DS host|NN preference|NN disease|NN manifestation|NN human|NN history|NN 
+salmonella|DS spleen|NN patient|NN year|NN pathogen|NN culture|NN year|NN research|NN scientist|NN smith|NN salmonella|DS 
+time|NN smith|NN research|NN laboratory|NN assistant|NN division|NN united|NN states|NN department|NN agriculture|NN 
+department|NN administration|NN salmon|NN pathologist|NN salmonella|DS agent|NN hog|NN cholera|NN salmon|NN smith|NN 
+name|NN salmonella|DS lignires|NN pathogen|NN group|NN salmonella|DS 
+mix|NN cell|NN antibody|NN antigen|NN 
+idea|NN risk|NN 
+example|NN study|NN 
+reading|NN turkey|NN sample|NN contributor|NN salmonellosis|NN source|NN contamination|NN 
+example|NN case|NN food|NN illness|NN 
+way|NN figure|NN source|NN contamination|NN 
+salmonella|DS people|NN salmonella|DS source|NN contamination|NN food|NN match|NN 
+way|NN salmonella|DS people|NN result|NN result|NN kind|NN salmonella|DS animal|NN place|NN source|NN contamination|NN treatment|NN idea|NN antibiotic|NN resistance|NN salmonella|DS 
+example|NN sulfonamide|NN antibiotics|NN treatment|NN salmonella|DS method|NN antibiotic|NN sensitivity|NN test|NN culture|NN method|NN 
+detection|NN culture|NN growth|NN condition|NN food|NN drug|NN administration|NN scientist|NN test|NN presence|NN salmonella|DS 
+salmonella|DS produce|NN hydrogen|NN media|NN sugar|NN iron|NN test|NN 
+isolate|NN phase|NN phase|NN phase|NN 
+culture|NN culture|NN phase|NN tube|NN ditch|NN plate|NN broth|NN salmonella|DS detection|NN sample|NN 
+salmonella|DS multiplex|NN chain|NN reaction|NN salmonella|DS 
+model|NN salmonella|DS growth|NN kinetics|NN chicken|NN pork|NN melon|NN salmonella|DS cell|NN division|NN interval|NN 
+salmonella|DS lead|NN bacteria|NN bathroom|NN set|NN week|NN contamination|NN water|NN source|NN reservoir|NN transmission|NN host|NN salmonella|DS ability|NN desiccation|NN year|NN environment|NN food|NN 
+bacteria|NN light|NN heat|NN destruction|NN 
+min|NN min|NN salmonella|DS infection|NN food|NN temperature|NN 
+salmonella|DS tract|NN human|NN animal|NN reptile|NN 
+salmonella|DS skin|NN reptile|NN amphibian|NN people|NN animal|NN food|NN water|NN bacteria|NN contact|NN people|NN animal|NN nomenclature|NN 
+salmonella|DS consideration|NN example|NN salmonella|DS mouse|NN typhoid|NN fever|ST cholerae-suis|NN 
+host|NN specificity|NN strain|NN name|NN location|NN strain|NN 
+find|NN hypothesis|NN salmonella|DS group|NN 
+nomenclature|NN harmony|NN usage|NN specialist|NN microbiology|NN nomenclature|NN 
+
+salmonella|DS world|NN health|NN organization|NN bacterium|NN genus|NN salmonella|DS 
+classification|NN salmonella|DS antigen|NN organism|NN 
+classification|NN scheme|NN variety|NN 
+group|NN genus|NN example|NN salmonella|DS 
+type|NN subtype|NN salmonella|DS method|NN field|NN gel|NN electrophoresis|NN analysis|NN sequence|NN type|NN method|NN 
+salmonella|DS pathogen|NN organism|NN oxygen|NN mean|NN fermentation|NN electron|NN oxygen|NN end|NN electron|NN transport|NN chain|NN nitrate|NN 
+infection|NN ingestion|NN food|NN animal|NN worker|NN eatery|NN 
+salmonella|DS nontyphoidal|NN 
+range|NN animal|NN human|NN animal|NN 
+salmonella|DS salmonella|DS human|NN animal|NN 
+infection|NN salmonella|DS result|NN food|NN poison|NN 
+infection|NN person|NN food|NN concentration|NN bacteria|NN 
+infant|NN children|NN infection|NN number|NN bacteria|NN 
+infant|NN infection|NN inhalation|NN dust|NN 
+organism|NN tract|NN number|NN cause|NN disease|NN adult|NN 
+infection|NN live|NN salmonella|DS salmonella|DS toxin|NN tract|NN 
+microorganism|NN stomach|NN intestine|NN tissue|NN 
+acidity|NN destruction|NN majority|NN bacteria|NN salmonella|DS degree|NN tolerance|NN environment|NN subset|NN bacteria|NN colony|NN mucus|NN esophagus|NN 
+end|NN incubation|NN period|NN host|NN cell|NN endotoxin|NN salmonella|DS 
+response|NN endotoxin|NN enteritis|NN disorder|NN 
+salmonella|DS illness|NN united|NN states|NN year|NN 
+people|NN risk|NN illness|NN infant|NN recipient|NN invasive|NN 
+country|NN present|NN disease|NN problem|NN infection|NN bacteria|NN blood|NN fever|ST 
+infection|NN salmonella|DS case|NN fatality|NN rate|NN 
+case|NN nontyphoidal|NN salmonella|DS infection|NN enteritidis|NN 
+form|NN salmonella|DS southeast|NN continent|NN year|NN wave|NN year|NN 
+wave|NN basin|NN event|NN gene|NN antibiotic|NN 
+need|NN drug|NN area|NN make|NN treatment|NN 
+prevalence|NN region|NN proportion|NN population|NN degree|NN suppression|NN impairment|NN burden|NN malaria|DS malnutrition|NN children|NN 
+bacterium|NN body|NN 
+symptom|NN fever|ST symptom|NN absence|NN symptom|NN salmonella|DS fever|ST fever|ST 
+fever|ST salmonella|DS human|NN salmonella|DS 
+form|NN disease|NN salmonella|DS pass|NN system|NN intestine|NN blood|NN patient|NN typhoid|NN form|NN organ|NN liver|NN spleen|NN kidney|NN form|NN 
+act|NN apparatus|NN permeability|NN tone|NN vessel|NN regulation|NN vomit|NN 
+form|NN disease|NN electrolyte|NN metabolism|NN decrease|NN blood|NN volume|NN pressure|NN cause|NN shock|NN 
+shock|NN character|NN sign|NN shock|NN salmonellosis|NN 
+case|NN result|NN involvement|NN toxemia|NN 
+infection|NN number|NN case|NN case|NN united|NN states|NN case|NN salmonella|DS infection|NN year|NN world|NN health|NN organization|NN study|NN case|NN fever|ST death|NN case|NN fever|ST mechanism|NN infection|NN 
+mechanism|NN infection|NN typhoidal|NN nontyphoidal|NN target|NN body|NN symptom|NN 
+group|NN barrier|NN cell|NN wall|NN barrier|NN strategy|NN cause|NN infection|NN 
+cell|NN wall|NN process|NN inflammation|NN 
+junction|NN cell|NN wall|NN cell|NN ability|NN flow|NN ion|NN water|NN cell|NN intestine|NN 
+combination|NN inflammation|NN endocytosis|NN disruption|NN junction|NN induction|NN 
+salmonella|DS barrier|NN phagocytosis|NN cell|NN mechanism|NN key|NN salmonella|DS infection|NN 
+way|NN barrier|NN fact|NN number|NN salmonella|DS infection|NN salmonella|DS salmonella|DS cell|NN macrophage|NN dissemination|NN body|NN phagocyte|NN system|NN network|NN tissue|NN cell|NN surround|NN tissue|NN system|NN body|NN 
+success|NN salmonella|DS infection|NN type|NN secretion|NN system|NN function|NN time|NN infection|NN 
+invasion|NN cell|NN colonization|NN intestine|NN induction|NN response|NN diarrhea|DT 
+survival|NN macrophage|NN establishment|NN disease|NN system|NN gene|NN infection|NN 
+toxin|NN type|NN secretion|NN system|NN 
+system|NN virtue|NN activity|NN target|NN cell|NN acid|NN leave|NN host|NN infection|NN 
+pain|ST spondylosis|NN 
+pattern|NN tract|NN infection|NN fever|ST infection|NN reservoir|NN state|NN 
+symptom|NN fever|ST weakness|ST myalgia|NN 
+state|NN part|NN body|NN infection|NN abscess|NN 
+form|NN salmonella|DS infection|NN arthritis|DS tract|NN infection|NN infection|NN system|NN bone|NN infection|NN tissue|NN infection|NN infection|NN form|NN time|NN function|NN cell|NN infection|NN bone|NN month|NN year|NN knockout|NN 
+college|NN study|NN salmonella|DS arm|NN system|NN protein|NN family|NN zinc|NN resistance|NN burst|NN 
+hallmark|NN salmonella|DS pathogenesis|NN ability|NN bacterium|NN phagocyte|NN 
+agent|NN oxide|NN oxygen|NN radical|NN defense|NN pathogen|NN 
+salmonella|DS attack|NN molecule|NN challenge|NN genome|NN integrity|NN 
+al|NN mutant|NN protein|NN function|NN compound|NN macrophage|NN find|NN infection|NN repair|NN damage|NN host|NN adaptation|NN 
+sign|NN ability|NN host|NN host|NN way|NN salmonella|DS host|NN loss|NN material|NN mutation|NN 
+system|NN pathogen|NN response|NN target|NN salmonella|DS bind|NN antibody|NN structure|NN 
+loss|NN material|NN code|NN flagellum|NN form|NN salmonella|DS host|NN system|NN leader|NN bacteria|NN virulence|NN gene|NN production|NN infection|NN base|NN pair|NN gene|NN degradation|NN study|NN al|NN evolution|NN strain|NN salmonella|DS condition|NN system|NN structure|NN defense|NN host|NN 
+question|NN way|NN salmonella|DS type|NN salmonella|DS phase|NN 
+al|NN salmonella|DS gene|NN transfer|NN formation|NN island|NN approximation|NN ancestry|NN salmonella|DS information|NN bacteria|NN 
+presence|NN island|NN genome|NN credence|NN theory|NN 
+salmonella|DS 
+sign|NN adaptation|NN plant|NN colonization|NN role|NN association|NN illness|NN 
+variety|NN function|NN 
+persistence|NN 
+animal|NN host|NN gene|NN 
+strain|NN fitness|NN genome|NN plant|NN animal|NN host|NN genetics|NN 
+addition|NN importance|NN pathogen|NN development|NN tool|NN understand|NN physiology|NN 
+development|NN discovery|NN phage|NN exchange|NN structure|NN analysis|NN 
+number|NN mutant|NN revision|NN nomenclature|NN bacteria|NN use|NN tool|NN delivery|NN mutagenesis|NN construction|NN chromosome|NN rearrangement|NN 
+tool|NN test|NN carcinogen|NN ames|NN test|NN 
+interface|NN attack|NN united|NN states|NN outbreak|NN salmonellosis|NN agar|NN food|NN test|NN strip|NN list|NN illness|NN outbreak|NN wright|NN county|NN egg|NN vassiliadis|NN soya|NN broth|NN agar|NN health|NN association|NN 

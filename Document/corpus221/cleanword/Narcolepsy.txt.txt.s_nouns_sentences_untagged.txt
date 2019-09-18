@@ -21,7 +21,7 @@ addition sleep awaken
 symptom narcolepsy sleep 
 phase sleep sleep day 
 symptom disorder tetrad narcolepsy sleep_paralysis hallucination daytime sleepiness symptom behavior wakefulness symptom patient 
-loss muscle function weakness neck knee muscle weakness knee knee buckle inability body collapse 
+loss muscle function weakness neck knee muscle_weakness knee knee buckle inability body collapse 
 reaction laughter anger surprise fear second minute 
 person episode 
 case seizure speech vision vision inability focus hear awareness 
@@ -91,7 +91,7 @@ type narcolepsy narcolepsy narcolepsy narcolepsy narcolepsy due condition
 cause disorder 
 classification sleep_disorder hypersomnia syndrome narcolepsy hypersomnia hypersomnia syndrome narcolepsy cataplexy version narcolepsy disorder cause sleepiness cataplexy phenomena sleep_paralysis hypnagogic hallucination 
 standard diagnosis narcolepsy set criteria narcolepsy criteria 
-complaint sleepiness muscle weakness 
+complaint sleepiness muscle_weakness 
 feature sleep_paralysis sleep episode hallucination 
 sleep latency minute sleep latency minute sleep latency minute period 
 disorder account symptom 

@@ -1,5 +1,5 @@
 encyclopedia jump navigation jump search pancreatitis organ surgery symptom pain abdomen nausea vomit fever stool complication infection mellitus duration short term cause alcohol use trauma medication mump factor method blood amylase lipase treatment fluid pain medication antibiotics frequency death 
-pancreatitis condition inflammation organ stomach enzyme number hormone type pancreatitis pancreatitis sign symptom pancreatitis pain abdomen nausea pain back pancreatitis fever symptom day pancreatitis weight loss stool complication infection mellitus problem organ 
+pancreatitis condition inflammation organ stomach enzyme number hormone type pancreatitis pancreatitis sign symptom pancreatitis pain abdomen nausea pain back pancreatitis fever symptom day pancreatitis weight_loss stool complication infection mellitus problem organ 
 cause pancreatitis gallstone bile duct duct alcohol use cause trauma medication infection mump pancreatitis result pancreatitis year alcohol use cause level blood fat blood calcium medication disorder fibrosis smoke risk pancreatitis diagnosis pancreatitis increase blood amylase lipase pancreatitis test image scan 
 pancreatitis fluid pain medication antibiotics drink tube stomach procedure retrograde bile duct gallstone gallstone pancreatitis addition feed tube nutrition change enzyme replacement surgery part 
 case pancreatitis death death pancreatitis people year case pancreatitis people year people united states men women pancreatitis age children pancreatitis autopsy pancreatitis content 
@@ -13,7 +13,7 @@ abdomen degree pain
 disease bowel sound bowel paralysis 
 fever jaundice 
 pancreatitis cancer 
-weight loss lack enzyme digestion 
+weight_loss lack enzyme digestion 
 complication shock infection response syndrome blood calcium blood glucose dehydration 
 blood loss dehydration fluid leak cavity kidney_failure 
 breath pain lung collapse 

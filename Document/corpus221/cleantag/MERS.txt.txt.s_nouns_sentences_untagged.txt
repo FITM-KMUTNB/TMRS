@@ -1,0 +1,94 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN middle_east_respiratory_syndrome|DS 
+use|NN middle_east_respiratory_syndrome|DS 
+article|NN disease|NN 
+virus|NN middle_east_respiratory_syndrome|DS coronavirus|NN 
+middle_east_respiratory_syndrome|DS middle_east_respiratory_syndrome|DS virus|NN middle_east_respiratory_syndrome|DS image|NN disease|NN duration|NN day|NN week|NN 
+middle_east_respiratory_syndrome|DS middle_east_respiratory_syndrome|DS middle_east_respiratory_syndrome|DS infection|NN middle_east_respiratory_syndrome|DS middle_east_respiratory_syndrome|DS symptom|NN fever|ST cough|ST shortness|NN breath|NN disease|NN health|NN problem|NN mortality|NN case|NN 
+middle_east_respiratory_syndrome|DS betacoronavirus|NN bat|NN camel|NN antibody|NN middle_east_respiratory_syndrome|DS source|NN infection|NN camel|NN 
+camel|NN spread|NN human|NN spread|NN human|NN contact|NN person|NN spread|NN outside|NN hospital|NN risk|NN population|NN 
+vaccine|NN treatment|NN disease|NN number|NN medication|NN world|NN health|NN organization|NN contact|NN camel|NN hand|NN camel|NN food|NN product|NN treatment|NN symptom|NN 
+case|NN disease|NN risk|NN death|NN symptom|NN case|NN case|NN peninsula|NN strain|NN middle_east_respiratory_syndrome|DS person|NN match|NN tomb|NN bat|NN 
+outbreak|NN republic|NN 
+sign|NN symptom|NN cause|NN transmission|NN diagnosis|NN world|NN health|NN organization|NN center|NN disease|NN control|NN laboratory|NN test|NN prevention|NN treatment|NN epidemiology|NN united|NN states|NN south|NN philippines|NN united|NN kingdom|NN comparison|NN history|NN reference|NN link|NN 
+sign|NN symptom|NN symptom|NN middle_east_respiratory_syndrome|DS 
+report|NN syndrome|NN virus|NN person|NN june|NN history|NN fever|ST cough|ST shortness|NN breath|NN 
+review|NN laboratory|NN case|NN symptom|NN fever|ST cough|ST shortness|NN breath|NN people|NN 
+symptom|NN diarrhea|DT vomit|NN pain|ST people|NN people|NN ventilation|NN 
+male|NN study|NN outbreak|NN middle_east_respiratory_syndrome|DS incubation|NN period|NN day|NN confidence|NN interval|NN day|NN middle_east_respiratory_syndrome|DS disease|NN pneumonia|DS distress|NN syndrome|NN kidney_failure|DS coagulation|NN article|NN middle_east_respiratory_syndrome|DS middle_east_respiratory_syndrome|DS electron|NN microscope|NN 
+middle_east_respiratory_syndrome|DS middle_east_respiratory_syndrome|DS middle_east_respiratory_syndrome|DS genus|NN coronavirus|NN genome|NN clades|NN 
+case|NN middle_east_respiratory_syndrome|DS cluster|NN case|NN virus|NN cell|NN cell|NN transmission|NN camel|NN 
+study|NN incidence|NN middle_east_respiratory_syndrome|DS dromedary|NN camel|NN titer|NN antibody|NN middle_east_respiratory_syndrome|DS blood|NN serum|NN animal|NN study|NN middle_east_respiratory_syndrome|DS swab|NN camel|NN sequence|NN isolate|NN 
+camel|NN variant|NN nasopharynx|NN report|NN man|NN day|NN medicine|NN nose|NN camel|NN camel|NN strain|NN middle_east_respiratory_syndrome|DS virus|NN camel|NN human|NN 
+world|NN health|NN organization|NN contact|NN camel|NN camel|NN meat|NN camel|NN milk|NN drink|NN camel|NN urine|NN 
+camel|NN urine|NN medicine|NN illness|NN east|NN ministry|NN agriculture|NN people|NN contact|NN camel|NN wear|NN breath|NN mask|NN response|NN people|NN government|NN advice|NN camel|NN defiance|NN government|NN advice|NN 
+evidence|NN spread|NN middle_east_respiratory_syndrome|DS person|NN person|NN household|NN health|NN care|NN set|NN hospital|NN transmission|NN circumstance|NN contact|NN person|NN household|NN set|NN evidence|NN transmission|NN case|NN cluster|NN size|NN people|NN average|NN diagnosis|NN 
+world|NN health|NN organization|NN case|NN definition|NN case|NN person|NN lab|NN test|NN diagnostics|NN target|NN target|NN sequence|NN second|NN 
+world|NN health|NN organization|NN 
+person|NN fever|ST infection|NN evidence|NN pneumonia|DS distress|NN syndrome|NN test|NN middle_east_respiratory_syndrome|DS specimen|NN person|NN link|NN case|NN 
+person|NN illness|NN evidence|NN parenchymal|NN disease|NN pneumonia|DS distress|NN syndrome|NN middle_east_respiratory_syndrome|DS laboratory|NN test|NN screen|NN test|NN confirmation|NN resident|NN traveler|NN country|NN middle_east_respiratory_syndrome|DS virus|NN day|NN onset|NN illness|NN 
+person|NN illness|NN severity|NN middle_east_respiratory_syndrome|DS laboratory|NN test|NN screen|NN test|NN confirmation|NN person|NN link|NN middle_east_respiratory_syndrome|DS case|NN 
+center|NN disease|NN control|NN 
+united|NN states|NN center|NN disease|NN control|NN prevention|NN person|NN 
+fever|ST pneumonia|DS distress|NN syndrome|NN evidence|NN history|NN travel|NN country|NN peninsula|NN day|NN symptom|NN onset|NN contact|NN traveler|NN fever|ST illness|NN pneumonia|DS day|NN travel|NN country|NN peninsula|NN member|NN cluster|NN people|NN illness|NN fever|ST pneumonia|DS hospitalization|NN cause|NN middle_east_respiratory_syndrome|DS consultation|NN state|NN health|NN department|NN 
+fever|ST symptom|NN illness|NN pneumonia|DS cough|ST shortness|NN breath|NN facility|NN patient|NN worker|NN visitor|NN day|NN symptom|NN onset|NN country|NN territory|NN peninsula|NN case|NN middle_east_respiratory_syndrome|DS 
+fever|ST symptom|NN illness|NN pneumonia|DS cough|ST shortness|NN breath|NN contact|NN middle_east_respiratory_syndrome|DS case|NN case|NN 
+chest|NN case|NN middle_east_respiratory_syndrome|DS 
+chest|NN find|NN pneumonitis|NN 
+scan|NN laboratory|NN test|NN 
+middle_east_respiratory_syndrome|DS case|NN blood|NN cell|NN count|NN lymphocyte|NN 
+sample|NN tract|NN lavage|NN sputum|ST sample|NN aspirate|NN load|NN study|NN sample|NN swab|NN 
+assay|NN identification|NN middle_east_respiratory_syndrome|DS sample|NN 
+assay|NN target|NN element|NN gene|NN read|NN frame|NN target|NN gene|NN read|NN frame|NN target|NN gene|NN target|NN screen|NN assay|NN addition|NN sequence|NN present|NN gene|NN middle_east_respiratory_syndrome|DS fragment|NN confirmation|NN sequence|NN 
+report|NN polymorphism|NN gene|NN isolate|NN necessity|NN characterization|NN 
+test|NN algorithm|NN orf|NN assay|NN gene|NN sequence|NN assay|NN confirmation|NN 
+assay|NN case|NN 
+protocol|NN assay|NN antibody|NN genus|NN 
+use|NN application|NN assay|NN population|NN sample|NN serum|NN validation|NN assay|NN guidance|NN case|NN test|NN laboratory|NN test|NN result|NN absence|NN test|NN sequence|NN case|NN middle_east_respiratory_syndrome|DS infection|NN condition|NN case|NN definition|NN 
+mechanism|NN spread|NN middle_east_respiratory_syndrome|DS experience|NN individual|NN contact|NN middle_east_respiratory_syndrome|DS suspect|NN addition|NN precaution|NN 
+mask|NN wear|NN eye|NN protection|NN goggle|NN face|NN shield|NN gown|NN glove|NN procedure|NN glove|NN hand|NN hygiene|NN contact|NN person|NN surround|NN removal|NN equipment|NN 
+procedure|NN risk|NN intubation|NN care|NN provider|NN 
+particulate|NN respirator|NN particulate|NN respirator|NN seal|NN wear|NN eye|NN protection|NN goggle|NN face|NN shield|NN gown|NN glove|NN procedure|NN glove|NN apron|NN procedure|NN fluid|NN volume|NN gown|NN procedure|NN room|NN air|NN change|NN hour|NN facility|NN room|NN facility|NN ventilation|NN limit|NN number|NN person|NN room|NN minimum|NN person|NN care|NN support|NN hand|NN hygiene|NN contact|NN person|NN surround|NN removal|NN 
+duration|NN infectivity|NN people|NN recommendation|NN hour|NN resolution|NN symptom|NN 
+outbreak|NN virus|NN people|NN resolution|NN symptom|NN 
+sar|NN research|NN template|NN vaccine|NN therapeutics|NN middle_east_respiratory_syndrome|DS infection|NN candidate|NN trial|NN treatment|NN 
+combination|NN antiviral|NN outcome|NN 
+rhesus|NN macaque|NN 
+middle_east_respiratory_syndrome|DS pneumonia|DS control|NN animal|NN people|NN middle_east_respiratory_syndrome|DS ards|NN ventilator|NN 
+treatment|NN disease|NN mean|NN day|NN hospital|NN admission|NN trial|NN steroid|NN benefit|NN course|NN disease|NN therapy|NN inhibition|NN protease|NN kinase|NN enzyme|NN researcher|NN number|NN way|NN outbreak|NN middle_east_respiratory_syndrome|DS coronavirus|NN chloroquine|NN agent|NN acid|NN membrane|NN oxygenation|NN outcome|NN epidemiology|NN middle_east_respiratory_syndrome|DS outbreak|NN case|NN middle_east_respiratory_syndrome|DS case|NN death|NN march|NN june|NN case|NN death|NN total|NN total|NN case|NN country|NN south|NN united|NN emirates|NN jordan|NN united|NN kingdom|NN netherlands|NN philippines|NN united|NN states|NN turkey|NN yemen|NN total|NN 
+middle_east_respiratory_syndrome|DS outbreak|NN middle_east_respiratory_syndrome|DS people|NN middle_east_respiratory_syndrome|DS death|NN response|NN case|NN death|NN resignation|NN doctor|NN jeddahs|NN king|NN hospital|NN middle_east_respiratory_syndrome|DS patient|NN fear|NN infection|NN government|NN minister|NN health|NN set|NN middle_east_respiratory_syndrome|DS treatment|NN center|NN case|NN june|NN case|NN middle_east_respiratory_syndrome|DS death|NN toll|NN 
+outbreak|NN summer|NN fear|NN epidemic|NN pilgrimage|NN 
+period|NN case|NN case|NN middle|NN summer|NN travel|NN health|NN alert|NN level|NN precaution|NN 
+case|NN middle_east_respiratory_syndrome|DS world|NN health|NN authority|NN case|NN death|NN 
+health|NN problem|NN mellitus|NN person|NN combination|NN mellitus|NN hypertension|DS heart|NN disease|NN year|NN mellitus|NN hypertension|DS nephropathy|NN year|NN 
+patient|NN year|NN mellitus|NN hypertension|DS 
+male|NN contact|NN exposure|NN camel|NN 
+person|NN female|NN contact|NN person|NN middle_east_respiratory_syndrome|DS worker|NN 
+case|NN female|NN male|NN 
+report|NN case|NN 
+screen|NN traveler|NN arrival|NN travel|NN restriction|NN united|NN states|NN 
+center|NN disease|NN control|NN prevention|NN diagnosis|NN middle_east_respiratory_syndrome|DS united|NN states|NN community|NN hospital|NN 
+man|NN health|NN care|NN worker|NN week|NN condition|NN patient|NN official|NN netherlands|NN case|NN south|NN middle_east_respiratory_syndrome|DS outbreak|NN south|NN article|NN middle_east_respiratory_syndrome|DS outbreak|NN south|NN 
+case|NN south|NN man|NN united|NN emirates|NN man|NN south|NN china|NN case|NN china|NN 
+june|NN people|NN south|NN outbreak|NN case|NN infection|NN philippines|NN 
+middle_east_respiratory_syndrome|DS philippines|NN case|NN worker|NN 
+case|NN individual|NN flight|NN case|NN country|NN 
+middle_east_respiratory_syndrome|DS death|NN sultan|NN province|NN department|NN health|NN alert|NN case|NN middle_east_respiratory_syndrome|DS philippines|NN 
+foreigner|NN east|NN united|NN kingdom|NN 
+accident|NN emergency|NN department|NN infirmary|NN patient|NN middle_east_respiratory_syndrome|DS virus|NN facility|NN even|NN health|NN patient|NN fact|NN disease|NN 
+outbreak|NN middle_east_respiratory_syndrome|DS camel|NN camel|NN disease|NN disease|NN middle_east_respiratory_syndrome|DS case|NN 
+antibody|NN human|NN study|NN comparison|NN 
+comparison|NN south|NN outbreak|NN middle_east_respiratory_syndrome|DS middle_east_respiratory_syndrome|DS infection|NN outbreak|NN south|NN outbreak|NN location|NN east|NN east|NN province|NN period|NN june|NN present|NN june|NN case|NN number|NN personnel|NN transmission|NN route|NN center|NN center|NN middle_east_respiratory_syndrome|DS case|NN outbreak|NN type|NN exposure|NN personnel|NN admission|NN facility|NN emergency|NN department|NN visit|NN patient|NN facility|NN outpatient|NN department|NN visit|NN individual|NN number|NN hospital|NN admission|NN individual|NN history|NN 
+effort|NN identification|NN middle_east_respiratory_syndrome|DS 
+coronavirus|NN lung|NN man|NN pneumonia|DS failure|NN routine|NN diagnostics|NN agent|NN virologist|NN erasmus|NN center|NN netherlands|NN advice|NN virus|NN sample|NN 
+chain|NN reaction|NN method|NN test|NN feature|NN number|NN gene|NN human|NN 
+screen|NN screen|NN 
+
+find|NN program|NN monitor|NN disease|NN health|NN forum|NN 
+kingdom|NN health|NN protection|NN agency|NN diagnosis|NN illness|NN type|NN coronavirus|NN patient|NN man|NN 
+illness|NN hospital|NN novel|NN virus|NN tree|NN sequence|NN virus|NN case|NN 
+novel|NN member|NN states|NN virus|NN guidance|NN health|NN authority|NN health|NN agency|NN 
+erasmus|NN center|NN sample|NN virologist|NN 
+article|NN new|NN journal|NN medicine|NN 
+co-authors|NN erasmus|NN center|NN detail|NN name|NN center|NN relative|NN 
+study|NN group|NN committee|NN taxonomy|NN designation|NN middle_east_respiratory_syndrome|DS middle_east_respiratory_syndrome|DS uniformity|NN communication|NN disease|NN 
+designation|NN designation|NN novel|NN coronavirus|NN novel|NN 

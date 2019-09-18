@@ -2,8 +2,8 @@ encyclopedia pleurisy jump navigation jump article disease
 plant pleurisy root butterfly weed 
 pleurisy name pleurisy pleurisy pleurisy figure anatomy 
 figure lung pleurisy lung pneumothorax lung 
-symptom chest pain cause infection pneumonia embolism method chest electrocardiogram blood test diagnosis heart attack cholecystitis treatment cause frequency case year united states 
-pleurisy pleurisy inflammation membrane lung line chest cavity chest pain pain ache symptom shortness breath cough fever weight loss cause 
+symptom chest_pain cause infection pneumonia embolism method chest electrocardiogram blood test diagnosis heart attack cholecystitis treatment cause frequency case year united states 
+pleurisy pleurisy inflammation membrane lung line chest cavity chest_pain pain ache symptom shortness breath cough fever weight_loss cause 
 cause infection cause pneumonia embolism disorder lung_cancer heart surgery pancreatitis chest trauma asbestosis cause mechanism rub glide condition symptom heart attack cholecystitis diagnosis chest electrocardiogram blood test 
 treatment cause decrease pain incentive breath people united states year description condition date hippocrates content 
 sign symptom problem cause diagnosis examination test treatment procedure change cause treatment reference link 
@@ -37,7 +37,7 @@ space fluid air particle part body diagnosis infection virus adenovirus influenz
 condition pleurisy 
 dissection disorder lupus lupus hepatitis arthritis disease 
 infection pneumonia tuberculosis chest injury fever condition fever swell abdomen lung infection heart surgery bypass graft problem bowel disease lung_cancer lymphoma lung disease fibrosis sarcoidosis asbestosis embolism blood clot lung 
-space fluid effusion chest pain shortness breath lung need room breath 
+space fluid effusion chest_pain shortness breath lung need room breath 
 case pleurisy cause 
 diagnosis pleurisy condition history examination test goal rule source symptom cause pleurisy disorder 
 doctor stethoscope breath 

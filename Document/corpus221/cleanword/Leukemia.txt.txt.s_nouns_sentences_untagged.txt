@@ -62,7 +62,7 @@ person system infection body cell
 leukemia system people infection tonsil sore mouth diarrhea pneumonia infection 
 blood cell deficiency pallor 
 people symptom feel sick fever night sweat symptom 
-people experience nausea feel fullness liver spleen weight loss 
+people experience nausea feel fullness liver spleen weight_loss 
 disease liver lymph node pain nausea 
 cell system symptom headache 
 symptom migraine seizure coma result brain stem pressure 

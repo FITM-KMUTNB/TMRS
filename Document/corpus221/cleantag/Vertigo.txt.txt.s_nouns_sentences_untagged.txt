@@ -1,0 +1,66 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN article|NN type|NN dizziness|ST 
+use|NN vertigo|DT 
+fear|NN height|NN 
+vertigo|DT nystagmus|ST sign|NN vertigo|DT 
+symptom|NN feel|NN spine|NN sway|NN vomit|NN difficulty|NN walk|NN cause|NN vertigo|DT disease|NN stroke|DS brain|NN brain|NN injury|NN sclerosis|NN migraine|DS diagnosis|NN disequilibrium|NN dizziness|ST frequency|NN point|NN 
+vertigo|DT symptom|NN person|NN object|NN spine|NN sway|NN movement|NN nausea|ST vomit|NN difficulty|NN head|NN vertigo|DT type|NN dizziness|ST 
+disease|NN result|NN vertigo|DT vertigo|DT disease|NN cause|NN stroke|DS brain|NN brain|NN injury|NN sclerosis|NN migraine|DS trauma|NN pressure|NN ear|NN vertigo|DT motion|NN period|NN ship|NN spine|NN eye|NN cause|NN toxin|NN exposure|NN carbon|NN monoxide|NN alcohol|NN aspirin|NN vertigo|DT problem|NN part|NN system|NN cause|NN dizziness|ST disequilibrium|NN dizziness|ST 
+vertigo|DT episode|NN vertigo|DT movement|NN episode|NN episode|NN vertigo|DT minute|NN test|NN period|NN eye|NN movement|NN nystagmus|ST condition|NN disease|NN ear|NN hear|NN loss|NN attack|NN vertigo|DT minute|NN labyrinthitis|DS onset|NN vertigo|DT nystagmus|ST movement|NN condition|NN vertigo|DT day|NN cause|NN problem|NN weakness|ST headache|ST vision|NN numbness|NN 
+people|NN point|NN time|NN vertigo|DT vertigo|DT year|NN age|NN women|NN time|NN men|NN vertigo|DT account|NN emergency|NN department|NN visit|NN world|NN content|NN 
+classification|NN sign|NN symptom|NN diagnosis|NN vertigo|DT disease|NN migraine|DS motion|NN sickness|NN vertigo|DT sickness|NN stroke|DS management|NN reference|NN link|NN 
+vertigo|DT location|NN dysfunction|NN pathway|NN factor|NN 
+vertigo|DT vertigo|DT 
+objective|NN vertigo|DT person|NN sensation|NN object|NN environment|NN vertigo|DT person|NN type|NN vertigo|DT sensation|NN rotation|NN person|NN head|NN 
+classification|NN textbook|NN treatment|NN vertigo|DT 
+vertigo|DT problem|NN ear|NN system|NN canal|NN vestibule|NN nerve|NN vertigo|DT cause|NN vertigo|DT vertigo|DT cause|NN disease|NN canal|NN syndrome|NN vertigo|DT cause|NN inflammation|NN influenza|DS infection|NN vertigo|DT ear|NN insult|NN trauma|NN skull|NN fracture|NN 
+motion|NN sickness|NN cause|NN vertigo|DT 
+people|NN vertigo|DT imbalance|NN nausea|ST vomit|NN hear|NN loss|NN tinnitus|DT fullness|NN pain|ST ear|NN addition|NN lesion|NN canal|NN weakness|ST side|NN process|NN vertigo|DT result|NN lesion|NN period|NN time|NN day|NN week|NN 
+vertigo|DT injury|NN balance|NN center|NN system|NN cns|NN lesion|NN cerebellum|NN vertigo|DT movement|NN illusion|NN nausea|ST vertigo|DT origin|NN vertigo|DT deficit|NN speech|NN vision|NN pathologic|NN pathology|NN disequilibrium|NN sensation|NN balance|NN 
+balance|NN disorder|NN lesion|NN vertigo|DT people|NN 
+number|NN condition|NN system|NN vertigo|DT lesion|NN infarction|NN present|NN angle|NN vestibular|NN epilepsy|DS spine|NN disorder|NN ataxia|ST disorder|NN migraine|DS headache|ST syndrome|NN malformation|NN sclerosis|NN dysfunction|NN vertigo|DT vertigo|DT disturbance|NN structure|NN sign|NN symptom|NN 
+vertigo|DT sensation|NN spine|NN nausea|ST vomit|NN unsteadiness|NN instability|NN change|NN person|NN thought|NN difficulty|NN episode|NN vertigo|DT quality|NN life|NN vision|NN difficulty|NN level|NN consciousness|NN hear|NN loss|NN 
+sign|NN symptom|NN vertigo|DT onset|NN onset|NN 
+onset|NN vertigo|DT symptom|NN day|NN change|NN balance|NN people|NN age|NN 
+nerve|NN conduction|NN age|NN vibratory|NN sensation|NN degeneration|NN ampulla|NN otolith|NN organ|NN increase|NN age|NN onset|NN vertigo|DT sign|NN symptom|NN 
+characteristics|NN onset|NN vertigo|DT symptom|NN amount|NN time|NN second|NN minute|NN vertigo|DT symptom|NN 
+neurochemistry|NN vertigo|DT arc|NN reflex|NN 
+rest|NN discharge|ST vestibular|NN neuron|NN transmission|NN neuron|NN arc|NN 
+function|NN synapse|NN 
+acid|NN commissure|NN vestibular|NN nucleus|NN connection|NN cerebellar|NN cell|NN vestibular|NN nucleus|NN 
+work|NN 
+intensity|NN reaction|NN stimulation|NN compensation|NN 
+histamine|NN role|NN 
+histamine|NN acetylcholine|NN symptom|NN vertigo|DT diagnosis|NN 
+test|NN vertigo|DT attempt|NN vertigo|DT cause|NN dizziness|ST hyperventilation|NN syndrome|NN disequilibrium|NN cause|NN test|NN system|NN balance|NN function|NN rotation|NN test|NN test|NN reflex|NN test|NN dynamic|NN 
+hint|NN test|NN combination|NN exam|NN test|NN physician|NN bedside|NN cause|NN vertigo|DT 
+hint|NN test|NN head|NN impulse|NN test|NN observation|NN nystagmus|ST gaze|NN test|NN skew|NN scan|NN mris|NN physician|NN vertigo|DT 
+test|NN system|NN hear|NN function|NN tone|NN speech|NN reflex|NN emission|NN response|NN test|NN 
+number|NN condition|NN vertigo|DT 
+history|NN dive|NN possibility|NN decompression|NN sickness|NN involvement|NN possibility|NN 
+dive|NN profile|NN dive|NN computer|NN probability|NN decompression|NN sickness|NN recompression|NN vertigo|DT 
+vertigo|DT vestibular|NN disorder|NN calcium|NN carbonate|NN debris|NN membrane|NN canal|NN sensation|NN motion|NN people|NN period|NN vertigo|DT minute|NN change|NN position|NN 
+cause|NN vertigo|DT population|NN attack|NN lifetime|NN malfunction|NN ear|NN test|NN reposition|NN movement|NN disease|NN 
+disease|NN ear|NN disorder|NN origin|NN increase|NN amount|NN fluid|NN present|NN ear|NN idea|NN study|NN study|NN mechanism|NN disease|NN attack|NN vertigo|DT combination|NN ring|NN ear|NN tinnitus|DT feel|NN pressure|NN fullness|NN ear|NN fullness|NN nausea|ST vomit|NN imbalance|NN hear|NN loss|NN disease|NN hear|NN loss|NN 
+vertigo|DT nausea|ST vomit|NN imbalance|NN infection|NN ear|NN theory|NN cause|NN individual|NN neuritis|NN symptom|NN sensation|NN fullness|NN tinnitus|DT balance|NN problem|NN people|NN migraine|DS 
+migraine|DS association|NN vertigo|DT migraine|DS cause|NN episode|NN vertigo|DT cause|NN migraine|DS cause|NN stimulation|NN nerve|NN individual|NN migraine|DS 
+cause|NN migraine|DS instability|NN nerve|NN activation|NN vasospasm|NN blood|NN vessel|NN labyrinth|NN vestibular|NN pathway|NN ischemia|NN structure|NN migraine|DS population|NN people|NN migraine|DS migraine|DS women|NN individual|NN decade|NN life|NN motion|NN sickness|NN 
+motion|NN sickness|NN migraine|DS 
+nausea|ST vomit|NN response|NN motion|NN journey|NN road|NN stop|NN start|NN person|NN car|NN 
+mismatch|NN input|NN sensation|NN 
+example|NN person|NN book|NN relation|NN body|NN system|NN sense|NN car|NN body|NN 
+vertigo|DT article|NN vertigo|DT 
+vertigo|DT pressure|NN difference|NN ear|NN cavity|NN blockage|NN blockage|NN tube|NN 
+diver|NN position|NN spine|NN ear|NN pressure|NN pressure|NN water|NN sickness|NN information|NN sickness|NN 
+vertigo|DT symptom|NN decompression|NN sickness|NN case|NN navy|NN decompression|NN sickness|NN 
+sickness|NN pressure|NN ga|NN mixture|NN proportion|NN ga|NN 
+problem|NN dive|NN example|NN part|NN dive|NN diver|NN mixture|NN helium|NN oxygen|NN nitrogen|NN ascent|NN 
+nitrogen|NN tissue|NN time|NN helium|NN time|NN 
+ga|NN mixture|NN fraction|NN nitrogen|NN helium|NN tissue|NN tissue|NN blood|NN supply|NN ga|NN load|NN 
+ear|NN decompression|NN sickness|NN ear|NN effect|NN stroke|DS 
+stroke|DS fossa|NN cause|NN vertigo|DT risk|NN factor|NN stroke|DS cause|NN vertigo|DT age|NN risk|NN factor|NN 
+presentation|NN headache|ST neck|NN pain|ST episode|NN dizziness|ST month|NN presentation|NN stroke|DS prodromal|NN hint|NN exam|NN image|NN study|NN brain|NN diagnosis|NN fossa|NN stroke|DS management|NN 
+treatment|NN cause|NN vertigo|DT disease|NN people|NN variety|NN treatment|NN option|NN treatment|NN vertigo|DT tinnitus|DT diet|NN intratympanic|NN injection|NN antibiotic|NN measure|NN shunt|NN ablation|NN labyrinth|NN case|NN drug|NN treatment|NN option|NN vertigo|DT 
+scopolamine|NN acid|NN migraine|DS property|NN beta|NN blocker|NN migraine|DS condition|NN neuritis|NN agent|NN disease|NN 
+case|NN decompression|NN sickness|NN oxygen|NN oxygen|NN therapy|NN oxygen|NN chamber|NN treatment|NN treatment|NN symptom|NN improvement|NN 
+vertigo|DT word|NN vert|NN 
+fear|NN height|NN escalator|NN phenomenon|NN sensation|NN balance|NN dizziness|ST escalator|NN fear|NN fear|NN human|NN mammal|NN phenomenon|NN phenomenon|NN subject|NN motion|NN phenomenon|NN body|NN movement|NN place|NN sense|NN position|NN body|NN part|NN strength|NN effort|NN movement|NN motion|NN sickness|NN nausea|ST motion|NN sense|NN balance|NN sense|NN animal|NN posture|NN disorientation|NN inability|NN person|NN body|NN position|NN space|NN 

@@ -1,12 +1,12 @@
 encyclopedia jump navigation jump search type_1_diabetes name type_1_diabetes type_1_diabetes type_1_diabetes circle circle symbol pronunciation 
-symptom urination thirst hunger weight loss complication coma heal disease damage eye onset period time duration term cause insulin risk factor family history disease method blood sugar prevention treatment insulin diet exercise frequency case 
-type_1_diabetes type_1_diabetes type_1_diabetes form insulin treatment result blood sugar level body symptom urination thirst hunger weight loss symptom vision tiredness wound heal symptom period time 
+symptom urination thirst hunger weight_loss complication coma heal disease damage eye onset period time duration term cause insulin risk factor family history disease method blood sugar prevention treatment insulin diet exercise frequency case 
+type_1_diabetes type_1_diabetes type_1_diabetes form insulin treatment result blood sugar level body symptom urination thirst hunger weight_loss symptom vision tiredness wound heal symptom period time 
 cause type_1_diabetes combination factor factor family member condition mechanism destruction beta cell level sugar hemoglobin blood type_1_diabetes type test presence autoantibody 
 way type_1_diabetes treatment insulin survival insulin therapy injection skin insulin pump diet exercise part management complication complication onset ketoacidosis coma complication heart disease stroke kidney_failure foot ulcer damage eye complication blood sugar dose insulin 
 type_1_diabetes case number people children disease year united states number people rate disease case year east case year children adult content 
 sign symptom cause genetics diagnosis prevention drug diet management insulin transplantation cell transplantation complication tract infection dysfunction epidemiology history society culture research diet gene therapy stem cell reference link 
 sign symptom overview symptom subcapsular cataract symptom type 
-symptom type_1_diabetes urination thirst mouth hunger fatigue weight loss 
+symptom type_1_diabetes urination thirst mouth hunger fatigue weight_loss 
 type diabetics ketoacidosis 
 sign symptom ketoacidosis skin breath drowsiness thirst urination pain vomit 
 percent people type_1_diabetes depression 
@@ -95,7 +95,7 @@ people rate tract infection reason bladder dysfunction diabetics non-diabetics n
 nephropathy decrease bladder sensation turn urine risk factor tract infection dysfunction 
 dysfunction diabetics result factor nerve damage circulation factor stress depression demand disease male 
 issue male problem erection ejaculation blood vessel peniss tissue blood supply firm erection 
-nerve damage blood glucose control ejaculate bladder penis ejaculation retrograde ejaculation 
+nerve damage blood glucose control ejaculate bladder penis ejaculation retrograde_ejaculation 
 semen body urine 
 cause dysfunction oxygen result disease 
 study prevalence problem women sensation genital dryness orgasm pain sex libido 

@@ -1,0 +1,146 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN near-sightedness|DS 
+use|NN near-sightedness|DS 
+near-sightedness|DS name|NN near-sightedness|DS near-sightedness|DS near-sightedness|DS near-sightedness|DS diagram|NN change|NN eye|NN near-sightedness|DS specialty|NN symptom|NN object|NN object|NN headache|ST eye|NN strain|NN complication|NN detachment|NN cataract|DS glaucoma|DS cause|NN combination|NN factor|NN factor|NN work|NN time|NN family|NN history|NN method|NN eye|NN examination|NN prevention|NN time|NN children|NN treatment|NN contact|NN surgery|NN frequency|NN people|NN 
+near-sightedness|DS near-sightedness|DS near-sightedness|DS eye|NN disorder|NN light|NN front|NN retina|NN cause|NN object|NN object|NN symptom|NN headache|ST eye|NN strain|NN near-sightedness|DS risk|NN detachment|NN cataract|DS glaucoma|DS 
+cause|NN combination|NN factor|NN factor|NN work|NN object|NN time|NN family|NN history|NN condition|NN class|NN mechanism|NN length|NN type|NN error|NN diagnosis|NN eye|NN examination|NN 
+evidence|NN risk|NN near-sightedness|DS children|NN time|NN light|NN exposure|NN near-sightedness|DS contact|NN surgery|NN eyeglass|NN method|NN correction|NN contact|NN field|NN vision|NN risk|NN infection|NN surgery|NN shape|NN cornea|NN 
+near-sightedness|DS eye|NN problem|NN people|NN population|NN rate|NN area|NN world|NN rate|NN adult|NN rate|NN female|NN male|NN children|NN south|NN city|NN rate|NN near-sightedness|DS cause|NN vision|NN impairment|NN cataract|DS degeneration|NN vitamin|NN deficiency|NN content|NN 
+sign|NN symptom|NN cause|NN research|NN genetics|NN environment|NN work|NN hypothesis|NN hypothesis|NN risk|NN factor|NN mechanism|NN diagnosis|NN type|NN degree|NN age|NN onset|NN prevention|NN glass|NN contact|NN method|NN treatment|NN contact|NN surgery|NN medicine|NN epidemiology|NN north|NN south|NN history|NN society|NN culture|NN correlation|NN reference|NN link|NN 
+sign|NN symptom|NN near-sightedness|DS vision|NN vision|NN 
+individual|NN distance|NN 
+extent|NN near-sightedness|DS read|NN distance|NN 
+routine|NN examination|NN eye|NN majority|NN eye|NN eye|NN 
+case|NN near-sightedness|DS staphyloma|NN examination|NN 
+cause|NN near-sightedness|DS increase|NN length|NN eye|NN retina|NN surface|NN area|NN 
+result|NN retina|NN patient|NN hole|NN lattice|NN degeneration|NN periphery|NN 
+near-sightedness|DS risk|NN tear|NN detachment|NN 
+review|NN evidence|NN cause|NN theory|NN review|NN time|NN object|NN risk|NN 
+twin|NN relative|NN near-sightedness|DS circumstance|NN factor|NN nature|NN near-sightedness|DS experience|NN transition|NN 
+instance|NN generation|NN canada|NN case|NN near-sightedness|DS generation|NN 
+result|NN genetics|NN factor|NN 
+relationship|NN length|NN time|NN exposure|NN sunlight|NN outdoor|NN incidence|NN near-sightedness|DS growth|NN incidence|NN people|NN time|NN 
+shift|NN growth|NN spurt|NN childhood|NN adolescence|NN relationship|NN time|NN development|NN release|NN growth|NN hormone|NN 
+lack|NN correlation|NN height|NN near-sightedness|DS relationship|NN growth|NN hormone|NN near-sightedness|DS 
+near-sightedness|DS world|NN factor|NN mechanism|NN 
+process|NN eye|NN change|NN 
+trigger|NN signal|NN growth|NN role|NN eye|NN point|NN emmetropia|NN near-sightedness|DS 
+eye|NN development|NN environment|NN factor|NN development|NN research|NN case|NN near-sightedness|DS parent|NN genetics|NN 
+linkage|NN study|NN chromosome|NN near-sightedness|DS part|NN candidate|NN gene|NN cause|NN near-sightedness|DS 
+locus|NN onset|NN near-sightedness|DS interaction|NN protein|NN concert|NN cause|NN 
+near-sightedness|DS defect|NN protein|NN defect|NN control|NN protein|NN cause|NN near-sightedness|DS collaboration|NN near-sightedness|DS study|NN error|NN individual|NN ancestry|NN 
+candidate|NN gene|NN function|NN ion|NN transport|NN acid|NN metabolism|NN matrix|NN eye|NN development|NN 
+carrier|NN gene|NN risk|NN near-sightedness|DS 
+population|NN study|NN contribution|NN factor|NN account|NN variance|NN refraction|NN variant|NN account|NN fraction|NN near-sightedness|DS case|NN existence|NN number|NN variant|NN majority|NN near-sightedness|DS case|NN environment|NN 
+near-sightedness|DS vertebrate|NN goggle|NN eye|NN eye|NN open|NN near-sightedness|DS diffuser|NN goggle|NN shift|NN blur|NN defocus|NN defocus|NN image|NN front|NN retina|NN image|NN retina|NN result|NN change|NN eye|NN growth|NN animal|NN model|NN eye|NN growth|NN blur|NN change|NN length|NN eye|NN factor|NN type|NN near-sightedness|DS growth|NN rhythm|NN eye|NN part|NN error|NN development|NN eye|NN daytime|NN level|NN drop|NN 
+eye|NN day|NN shrink|NN night|NN eye|NN day|NN night|NN 
+result|NN lack|NN growth|NN inhibition|NN night|NN growth|NN day|NN light|NN deprivation|NN level|NN transporter|NN level|NN work|NN hypothesis|NN 
+work|NN hypothesis|NN theory|NN spend|NN time|NN work|NN eye|NN risk|NN near-sightedness|DS 
+study|NN hypothesis|NN study|NN association|NN hypothesis|NN 
+hypothesis|NN layer|NN mismatch|NN prevalence|NN near-sightedness|DS 
+lack|NN development|NN 
+case|NN year|NN ocean|NN jungle|NN forest|NN plain|NN dynamic|NN environment|NN 
+human|NN time|NN build|NN eye|NN development|NN near-sightedness|DS experiment|NN animal|NN kitten|NN monkey|NN eye|NN period|NN time|NN elongation|NN lack|NN growth|NN trajectory|NN research|NN people|NN children|NN time|NN exercise|NN activity|NN rate|NN near-sightedness|DS magnitude|NN complexity|NN type|NN activity|NN progression|NN 
+evidence|NN effect|NN activity|NN development|NN near-sightedness|DS part|NN effect|NN daylight|NN production|NN release|NN risk|NN factor|NN 
+study|NN heredity|NN factor|NN near-sightedness|DS contribution|NN work|NN school|NN achievement|NN time|NN sport|NN activity|NN 
+hour|NN exposure|NN daylight|NN factor|NN lack|NN play|NN near-sightedness|DS characteristics|NN value|NN system|NN school|NN achievement|NN time|NN read|NN pleasure|NN language|NN ability|NN time|NN sport|NN activity|NN occurrence|NN near-sightedness|DS study|NN mechanism|NN 
+near-sightedness|DS error|NN cause|NN near-sightedness|DS system|NN focus|NN 
+near-sightedness|DS cause|NN 
+near-sightedness|DS increase|NN eye|NN length|NN near-sightedness|DS condition|NN element|NN eye|NN near-sightedness|DS 
+near-sightedness|DS curvature|NN surface|NN eye|NN cornea|NN syndrome|NN near-sightedness|DS result|NN power|NN index|NN near-sightedness|DS variation|NN index|NN refraction|NN media|NN 
+system|NN aberration|NN effect|NN aperture|NN size|NN 
+case|NN eye|NN pupil|NN error|NN pupil|NN mask|NN 
+phenomenon|NN condition|NN individual|NN difficulty|NN area|NN symptom|NN light|NN daylight|NN 
+condition|NN body|NN displacement|NN near-sightedness|DS shift|NN error|NN diagnosis|NN 
+diagnosis|NN near-sightedness|DS eye|NN care|NN optometrist|NN ophthalmologist|NN 
+refraction|NN objective|NN assessment|NN status|NN eye|NN patient|NN prescription|NN 
+type|NN error|NN type|NN 
+form|NN near-sightedness|DS appearance|NN 
+near-sightedness|DS near-sightedness|DS eye|NN 
+near-sightedness|DS near-sightedness|DS fundus|NN change|NN error|NN acuity|NN correction|NN form|NN near-sightedness|DS time|NN 
+near-sightedness|DS cause|NN impairment|NN near-sightedness|DS distance|NN vision|NN spasm|NN accommodation|NN system|NN 
+near-sightedness|DS stimulus|NN accommodation|NN accommodation|NN system|NN distance|NN object|NN focus|NN near-sightedness|DS point|NN shift|NN task|NN author|NN link|NN development|NN near-sightedness|DS instrument|NN near-sightedness|DS instrument|NN microscope|NN 
+near-sightedness|DS near-sightedness|DS result|NN exposure|NN drug|NN increase|NN glucose|NN level|NN sclerosis|NN oxygen|NN toxicity|NN dive|NN oxygen|NN therapy|NN condition|NN 
+therapy|NN body|NN displacement|NN eye|NN focus|NN elevation|NN level|NN swell|NN result|NN sorbitol|NN 
+buckle|NN repair|NN detachment|NN near-sightedness|DS length|NN eye|NN index|NN near-sightedness|DS variation|NN index|NN refraction|NN media|NN index|NN near-sightedness|DS form|NN deprivation|NN near-sightedness|DS eyesight|NN illumination|NN vision|NN range|NN eye|NN form|NN vision|NN vertebrate|NN kind|NN near-sightedness|DS period|NN time|NN near-sightedness|DS way|NN animal|NN model|NN pathogenesis|NN mechanism|NN near-sightedness|DS development|NN 
+degree|NN near-sightedness|DS term|NN power|NN correction|NN 
+low|NN near-sightedness|DS near-sightedness|DS 
+near-sightedness|DS near-sightedness|DS 
+amount|NN near-sightedness|DS pigment|NN dispersion|NN syndrome|NN glaucoma|DS near-sightedness|DS near-sightedness|DS 
+people|NN near-sightedness|DS detachment|NN angle|NN glaucoma|DS experience|NN floater|NN shape|NN field|NN vision|NN 
+age|NN onset|NN 
+near-sightedness|DS age|NN onset|NN 
+near-sightedness|DS near-sightedness|DS birth|NN infancy|NN youth|NN onset|NN near-sightedness|DS childhood|NN power|NN age|NN form|NN surgery|NN specialist|NN world|NN 
+school|NN near-sightedness|DS childhood|NN year|NN form|NN near-sightedness|DS use|NN eye|NN work|NN school|NN year|NN 
+adult|NN onset|NN near-sightedness|DS 
+adult|NN onset|NN near-sightedness|DS age|NN adult|NN onset|NN near-sightedness|DS age|NN 
+time|NN childhood|NN prevention|NN 
+method|NN attempt|NN progression|NN near-sightedness|DS study|NN result|NN near-sightedness|DS treatment|NN study|NN number|NN design|NN drawback|NN number|NN lack|NN control|NN group|NN failure|NN mask|NN examiner|NN knowledge|NN treatment|NN 
+glass|NN contact|NN 
+use|NN read|NN glass|NN work|NN vision|NN need|NN 
+use|NN eyeglass|NN near-sightedness|DS progression|NN association|NN practice|NN guideline|NN near-sightedness|DS study|NN effectiveness|NN method|NN near-sightedness|DS control|NN study|NN difference|NN progression|NN near-sightedness|DS medication|NN 
+medication|NN children|NN year|NN age|NN worsen|NN near-sightedness|DS treatment|NN gel|NN eye|NN drop|NN atropine|NN eye|NN drop|NN 
+treatment|NN progression|NN near-sightedness|DS side|NN effect|NN sensitivity|NN blur|NN method|NN 
+reinforcement|NN surgery|NN pole|NN material|NN pressure|NN progression|NN staphyloma|NN 
+strain|NN damage|NN process|NN 
+progression|NN disease|NN vision|NN treatment|NN glass|NN address|NN near-sightedness|DS 
+institute|NN health|NN way|NN near-sightedness|DS use|NN glass|NN contact|NN progression|NN method|NN near-sightedness|DS method|NN study|NN effectiveness|NN correction|NN glass|NN contact|NN treatment|NN atropine|NN vision|NN therapy|NN form|NN near-sightedness|DS 
+near-sightedness|DS 
+contact|NN color|NN distortion|NN camera|NN set|NN near-sightedness|DS focus|NN eyeglass|NN camera|NN near-sightedness|DS 
+color|NN shift|NN corner|NN 
+light|NN border|NN color|NN 
+light|NN eye|NN way|NN image|NN retina|NN 
+power|NN system|NN diopter|NN length|NN meter|NN 
+near-sightedness|DS power|NN point|NN focus|NN distance|NN 
+near-sightedness|DS power|NN zero|NN 
+eyeglass|NN prescription|NN distortion|NN movement|NN aberration|NN 
+near-sightedness|DS wearer|NN contact|NN distortion|NN cornea|NN optic|NN axis|NN line|NN axis|NN vertex|NN distance|NN zero|NN 
+section|NN source|NN 
+section|NN citation|NN source|NN 
+march|NN template|NN message|NN 
+surgery|NN procedure|NN curvature|NN structure|NN eye|NN mean|NN eye|NN 
+ablation|NN tissue|NN surface|NN laser|NN 
+amount|NN tissue|NN ablation|NN amount|NN near-sightedness|DS 
+procedure|NN near-sightedness|DS recovery|NN phase|NN 
+flap|NN cornea|NN laser|NN beam|NN access|NN tissue|NN 
+laser|NN tissue|NN correction|NN 
+flap|NN cornea|NN change|NN curvature|NN laser|NN ablation|NN surface|NN 
+rehabilitation|NN period|NN flap|NN complication|NN loss|NN stability|NN 
+surface|NN laser|NN vision|NN correction|NN procedure|NN eye|NN addition|NN 
+control|NN change|NN complication|NN glaucoma|DS cataract|DS medicine|NN 
+number|NN therapy|NN near-sightedness|DS vision|NN therapy|NN eye|NN exercise|NN relaxation|NN technique|NN bates|NN method|NN review|NN evidence|NN eye|NN exercise|NN near-sightedness|DS 
+error|NN incidence|NN near-sightedness|DS population|NN age|NN country|NN sex|NN race|NN occupation|NN environment|NN factor|NN test|NN data|NN collection|NN method|NN comparison|NN prevalence|NN progression|NN 
+prevalence|NN near-sightedness|DS country|NN united|NN states|NN near-sightedness|DS people|NN people|NN near-sightedness|DS people|NN age|NN near-sightedness|DS near-sightedness|DS rate|NN 
+part|NN near-sightedness|DS 
+prevalence|NN near-sightedness|DS world|NN people|NN near-sightedness|DS figure|NN near-sightedness|DS rate|NN people|NN 
+prevalence|NN near-sightedness|DS school|NN china|NN college|NN area|NN china|NN adult|NN population|NN study|NN adult|NN half|NN research|NN prevalence|NN near-sightedness|DS population|NN 
+near-sightedness|DS rate|NN birth|NN decade|NN 
+undergraduate|NN student|NN united|NN kingdom|NN white|NN prevalence|NN near-sightedness|DS student|NN review|NN 
+diopter|NN near-sightedness|DS 
+north|NN 
+near-sightedness|DS united|NN states|NN research|NN condition|NN decade|NN 
+health|NN nutrition|NN examination|NN survey|NN estimate|NN near-sightedness|DS prevalence|NN prevalence|NN person|NN 
+method|NN near-sightedness|DS prevalence|NN 
+study|NN children|NN grade|NN age|NN year|NN 
+diopter|NN near-sightedness|DS study|NN difference|NN meridian|NN 
+near-sightedness|DS prevalence|NN hispanics|NN 
+children|NN prevalence|NN near-sightedness|DS 
+review|NN 
+diopter|NN near-sightedness|DS 
+prevalence|NN near-sightedness|DS 
+diopter|NN study|NN children|NN age|NN near-sightedness|DS 
+review|NN 
+diopter|NN near-sightedness|DS 
+south|NN 
+brazil|NN study|NN age|NN 
+diopter|NN near-sightedness|DS people|NN brazil|NN student|NN city|NN natal|NN history|NN 
+difference|NN near-sightedness|DS people|NN physician|NN term|NN near-sightedness|DS near-sightedness|DS johannes|NN clarification|NN ophthalmic|NN near-sightedness|DS incident|NN light|NN front|NN retina|NN 
+near-sightedness|DS fortunatus|NN plempius|NN eye|NN near-sightedness|DS lengthen|NN diameter|NN society|NN culture|NN 
+term|NN near-sightedness|DS term|NN near-sightedness|DS think|NN decision|NN scope|NN foresight|NN concern|NN interest|NN consequence|NN decision|NN present|NN future|NN viewpoint|NN range|NN 
+opposite|NN near-sightedness|DS value|NN system|NN motivation|NN think|NN behavior|NN interest|NN expense|NN benefit|NN correlation|NN 
+study|NN correlation|NN near-sightedness|DS hand|NN intelligence|NN achievement|NN relationship|NN near-sightedness|DS amplitude|NN vision|NN near-sightedness|DS instability|NN eye|NN movement|NN 
+term|NN near-sightedness|DS origin|NN 
+short-sight-ness|NN 
+man|NN man|NN eye|NN 
+eye|NN look|NN sight|NN 
+opposite|NN near-sightedness|DS 
+near-sightedness|DS animal|NN 

@@ -3,7 +3,7 @@ organism stercoralis
 strongyloidiasis mag strongyloidiasis fragment worm right hand corner 
 strongyloidiasis disease nematode stercoralis type 
 group nematode 
-worm number symptom people skin symptom pain weight loss symptom disease life condition 
+worm number symptom people skin symptom pain weight_loss symptom disease life condition 
 people medication syndrome death 
 diagnosis blood stool test 
 medication strongyloidiasis 
@@ -31,7 +31,7 @@ eosinophilia disease
 absence eosinophilia infection tract prognosis eosinophilia infection 
 dissemination potential 
 infection variety variable degree symptom condition aspect individual disease diagnose 
-addition symptom cachexia lassitude infection individual weight loss body mass index 
+addition symptom cachexia lassitude infection individual weight_loss body mass index 
 citation diagnosis 
 diagnosis identification larvae stool fluid 
 examination sample stool examination sample larvae case week infection passage larvae stool 

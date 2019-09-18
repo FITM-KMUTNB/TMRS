@@ -1,7 +1,7 @@
 encyclopedia jump navigation jump article disease 
 parasite giardiasis 
-giardiasis name giardiasis giardiasis giardiasis giardiasis cell disease symptom pain weight loss onset week exposure cause giardiasis method stool test diagnosis bowel syndrome prevention sanitation frequency world world 
-giardiasis giardiasis disease giardiasis symptom symptom pain weight loss blood stool fever symptom week exposure treatment week 
+giardiasis name giardiasis giardiasis giardiasis giardiasis cell disease symptom pain weight_loss onset week exposure cause giardiasis method stool test diagnosis bowel syndrome prevention sanitation frequency world world 
+giardiasis giardiasis disease giardiasis symptom symptom pain weight_loss blood stool fever symptom week exposure treatment week 
 giardiasis giardiasis cyst food water people animal factor travel world chang diaper food cook dog cyst month water diagnosis stool test 
 prevention hygiene symptom treatment symptom treatment people lactose infection milk week resistance treatment 
 giardiasis disease people giardiasis rate world world world health organization disease content 
@@ -9,7 +9,7 @@ sign symptom cause risk factor transmission diagnosis prevention treatment epide
 sign symptom 
 symptom diarrhea absorption nutrient symptom day exposure day 
 symptom week month diarrhea tendency characteristic number symptom ga cramp nausea people skin hive swell eye joint 
-disease diarrhea nutrient intestine result stool weight loss fatigue suffer giardiasis difficulty lactose vitamin vitamin children giardiasis failure development 
+disease diarrhea nutrient intestine result stool weight_loss fatigue suffer giardiasis difficulty lactose vitamin vitamin children giardiasis failure development 
 infection lactose_intolerance cause 
 giardiasis giardiasis infection animal beaver nickname cow rodent sheep animal role infection environment 
 duodenalis assemblage 

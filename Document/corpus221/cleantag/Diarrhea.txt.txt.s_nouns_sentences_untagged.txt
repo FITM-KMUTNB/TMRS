@@ -1,0 +1,150 @@
+encyclopedia|NN diarrhea|DT disease|NN jump|NN navigation|NN jump|NN search|NN use|NN diarrhea|DT 
+diarrhea|DT name|NN diarrhea|DT rotavirus|NN electron|NN micrograph|NN rotavirus|NN cause|NN hospitalization|NN diarrhea|DT children|NN disease|NN gastroenterology|NN symptom|NN bowel|NN movement|NN dehydration|DS cause|NN infection|NN risk|NN factor|NN food|NN water|NN prevention|NN vaccination|NN treatment|NN rehydration|NN solution|NN zinc|NN supplementation|NN frequency|NN 
+diarrhea|DT diarrhea|DT condition|NN liquid|NN bowel|NN movement|NN day|NN day|NN dehydration|DS fluid|NN loss|NN sign|NN dehydration|DS loss|NN stretchiness|NN skin|NN behaviour|NN urination|NN loss|NN skin|NN color|NN heart|NN rate|NN decrease|NN responsiveness|NN stool|NN baby|NN 
+cause|NN infection|NN intestine|NN virus|NN bacteria|NN condition|NN gastroenteritis|DS infection|NN food|NN water|NN person|NN type|NN diarrhea|DT duration|NN diarrhea|DT duration|NN diarrhea|DT diarrhea|DT week|NN duration|NN diarrhea|DT cholera|NN world|NN blood|NN dysentery|NN number|NN cause|NN diarrhea|DT lactose_intolerance|DS bowel|NN syndrome|NN gluten|NN sensitivity|NN disease|NN bowel|NN disease|NN colitis|NN bile|NN acid|NN diarrhea|DT number|NN medication|NN case|NN stool|NN culture|NN cause|NN 
+diarrhea|DT sanitation|NN drink|NN water|NN hand|NN wash|NN soap|NN month|NN vaccination|NN rotavirus|NN rehydration|NN solution|NN water|NN amount|NN salt|NN treatment|NN choice|NN zinc|NN tablet|NN treatment|NN children|NN year|NN people|NN diarrhea|DT food|NN baby|NN solution|NN dehydration|DS fluid|NN case|NN fluid|NN mouth|NN antibiotics|NN case|NN diarrhea|DT fever|ST diarrhea|DT travel|NN bacteria|NN parasite|NN stool|NN number|NN bowel|NN movement|NN disease|NN 
+case|NN diarrhea|DT year|NN country|NN children|NN diarrhea|DT average|NN time|NN year|NN death|NN diarrhea|DT second|NN cause|NN death|NN children|NN episode|NN diarrhea|DT cause|NN malnutrition|NN cause|NN year|NN age|NN term|NN problem|NN growth|NN development|NN content|NN 
+definition|NN health|NN effect|NN cause|NN bowel|NN disease|NN bowel|NN syndrome|NN disease|NN evolution|NN approach|NN diarrhea|DT prevention|NN vaccination|NN nutrition|NN management|NN therapy|NN epidemiology|NN terminology|NN reference|NN link|NN 
+definition|NN stool|NN chart|NN 
+diarrhea|DT world|NN health|NN organization|NN stool|NN day|NN stool|NN person|NN 
+diarrhea|DT discharge|ST semisolid|NN fluid|NN matter|NN bowel|NN day|NN world|NN organization|NN 
+diarrhea|DT increase|NN secretion|NN inhibition|NN absorption|NN 
+cause|NN type|NN diarrhea|DT cholera|NN toxin|NN secretion|NN anion|NN chloride|NN ion|NN 
+charge|NN balance|NN tract|NN sodium|NN water|NN 
+type|NN diarrhea|DT fluid|NN secretion|NN plasma|NN food|NN intake|NN 
+diarrhea|DT water|NN bowel|NN 
+person|NN drink|NN solution|NN sugar|NN salt|NN water|NN body|NN bowel|NN cause|NN diarrhea|DT diarrhea|DT result|NN disease|NN disease|NN nutrient|NN lumen|NN water|NN 
+laxative|NN constipation|DT draw|NN water|NN bowel|NN 
+individual|NN magnesium|NN vitamin|NN lactose|NN diarrhea|DT distention|NN bowel|NN 
+person|NN lactose_intolerance|DS difficulty|NN lactose|NN intake|NN dairy|NN product|NN 
+person|NN fructose|NN excess|NN fructose|NN intake|NN diarrhea|DT 
+food|NN glucose|NN content|NN diarrhea|DT 
+sugar|NN alcohol|NN food|NN body|NN amount|NN diarrhea|DT case|NN diarrhea|DT stop|NN agent|NN milk|NN sorbitol|NN 
+diarrhea|DT presence|NN blood|NN pus|NN stool|NN 
+bowel|NN disease|NN disease|NN colitis|NN infection|NN coly|NN form|NN food|NN poison|NN 
+diarrhea|DT damage|NN line|NN brush|NN border|NN loss|NN fluid|NN ability|NN fluid|NN 
+feature|NN type|NN diarrhea|DT type|NN diarrhea|DT infection|NN infection|NN infection|NN problem|NN bowel|NN disease|NN 
+tuberculosis|DS colon|NN cancer|DS enteritis|NN 
+blood|NN stool|NN dysentery|NN 
+blood|NN trace|NN invasion|NN bowel|NN tissue|NN 
+symptom|NN salmonella|DS health|NN effect|NN 
+diarrhea|DT disease|NN impact|NN fitness|NN development|NN 
+childhood|NN malnutrition|NN cause|NN fitness|NN work|NN productivity|NN adult|NN diarrhea|DT cause|NN childhood|NN malnutrition|NN evidence|NN diarrhea|DT disease|NN impact|NN development|NN health|NN infection|NN children|NN diarrhea|DT score|NN series|NN test|NN intelligence|NN 
+diarrhea|DT electrolyte|NN imbalance|NN impairment|NN dehydration|DS system|NN response|NN 
+drug|NN efficiency|NN drug|NN effect|NN lack|NN effect|NN medication|NN system|NN time|NN 
+diarrhea|DT dosage|NN medication|NN dose|NN schedule|NN discontinuation|NN drug|NN rehydration|NN 
+intervention|NN diarrhea|DT 
+diarrhea|DT effect|NN quality|NN life|NN incontinence|NN factor|NN adult|NN term|NN care|NN facility|NN nurse|NN home|NN cause|NN diagram|NN tract|NN 
+diarrhea|DT gastroenteritis|DS rotavirus|NN case|NN children|NN infection|NN toxin|NN mushroom|NN poison|NN drug|NN diarrhea|DT 
+diarrhea|DT part|NN presentation|NN number|NN condition|NN intestine|NN 
+cause|NN colitis|NN disease|NN colitis|NN disease|NN bowel|NN syndrome|NN bile|NN acid|NN 
+article|NN diarrhea|DT 
+cause|NN diarrhea|DT bacteria|NN parasite|NN diarrhea|DT gastroenteritis|DS norovirus|NN cause|NN diarrhea|DT adult|NN rotavirus|NN cause|NN children|NN year|NN type|NN cause|NN number|NN infection|NN coly|NN coly|NN cause|NN diarrhea|DT united|NN states|NN 
+cause|NN diarrhea|DT infection|NN salmonella|DS strain|NN coly|NN cause|NN 
+antibiotics|NN infection|NN toxin|NN difficile|NN diarrhea|DT 
+protozoa|NN giardia|NN cause|NN diarrhea|DT infection|NN 
+agent|NN efficacy|NN diarrhea|DT parasite|NN 
+agent|NN parasite|NN toxin|NN symptom|NN live|NN condition|NN food|NN supply|NN water|NN person|NN infection|NN day|NN 
+individual|NN diarrhea|DT dehydration|DS poverty|NN live|NN condition|NN community|NN himalayas|NN 
+condition|NN contraction|NN diarrhea|DT disease|NN result|NN sanitation|NN hygiene|NN 
+defecation|NN cause|NN diarrhea|DT death|NN 
+poverty|NN indicator|NN rate|NN diarrhea|DT population|NN 
+association|NN poverty|NN condition|NN people|NN 
+absence|NN resource|NN compromise|NN ability|NN diarrhea|DT 
+poverty|NN house|NN dirt|NN floor|NN lack|NN access|NN water|NN disposal|NN waste|NN sanitation|NN cohabitation|NN animal|NN pathogen|NN lack|NN storage|NN food|NN increase|NN frequency|NN diarrhea|DT 
+poverty|NN ability|NN diet|NN diet|NN diarrhea|DT nutrient|NN loss|NN 
+impact|NN lack|NN care|NN 
+cause|NN diarrhea|DT lack|NN water|NN 
+fecal|NN disposal|NN contamination|NN 
+infection|NN population|NN absence|NN water|NN filtration|NN purification|NN 
+variety|NN pathogen|NN nutrition|NN 
+nutrition|NN health|NN function|NN prevention|NN diarrhea|DT 
+children|NN system|NN 
+zinc|NN deficiency|NN condition|NN children|NN country|NN case|NN impact|NN development|NN function|NN system|NN relationship|NN zinc|NN deficiency|NN function|NN severity|NN diarrhea|DT 
+children|NN level|NN zinc|NN number|NN instance|NN diarrhea|DT diarrhea|DT diarrhea|DT fever|ST vitamin|NN deficiency|NN increase|NN severity|NN diarrhea|DT episode|NN 
+discrepancy|NN impact|NN vitamin|NN deficiency|NN rate|NN disease|NN 
+relationship|NN rate|NN disease|NN vitamin|NN status|NN increase|NN rate|NN deficiency|NN estimate|NN children|NN vitamin|NN population|NN potential|NN risk|NN disease|NN contraction|NN article|NN 
+inability|NN food|NN disorder|NN bowel|NN disease|NN 
+enzyme|NN deficiency|NN abnormality|NN food|NN allergy|DS food|NN intolerance|NN disease|NN gluten|NN intolerance|NN lactose_intolerance|DS intolerance|NN milk|NN sugar|NN fructose|NN 
+anemia|DS bowel|NN function|NN inability|NN vitamin|NN loss|NN secretion|NN fibrosis|NN pancreatitis|DS defect|NN bowel|NN syndrome|NN bowel|NN radiation|NN fibrosis|NN cancer|DS treatment|NN drug|NN agent|NN chemotherapy|NN drug|NN absorption|NN fat|NN 
+bowel|NN disease|NN article|NN bowel|NN disease|NN 
+type|NN origin|NN 
+colitis|NN diarrhea|DT inflammation|NN colon|NN rectum|NN 
+disease|NN segment|NN bowel|NN colon|NN end|NN bowel|NN 
+bowel|NN syndrome|NN article|NN bowel|NN syndrome|NN 
+cause|NN diarrhea|DT bowel|NN syndrome|NN discomfort|NN defecation|NN stool|NN diarrhea|DT constipation|DT day|NN week|NN month|NN symptom|NN diarrhea|DT combination|NN change|NN supplement|NN medication|NN codeine|NN 
+patient|NN diarrhea|DT bile|NN acid|NN test|NN disease|NN 
+diarrhea|DT disease|NN condition|NN 
+ethanol|NN ingestion|NN medication|NN bile|NN acid|NN bowel|NN disease|NN people|NN artery|NN 
+colitis|NN type|NN bowel|NN disease|NN change|NN examination|NN biopsy|NN 
+bile|NN salt|NN bile|NN acid|NN diarrhea|DT bile|NN acid|NN colon|NN diarrhea|DT 
+hormone|NN diarrhea|DT excess|NN tumor|NN 
+diarrhea|DT infant|NN toddler|NN cause|NN effect|NN condition|NN toddler|NN diarrhea|DT 
+enteropathy|NN radiation|NN enteropathy|NN treatment|NN cancer|DS 
+medication|NN diarrhea|DT medication|NN diarrhea|DT 
+class|NN medication|NN diarrhea|DT laxative|NN antacid|NN heartburn|ST medication|NN antibiotics|NN drug|NN supplement|NN ion|NN transporter|NN infection|NN function|NN absorption|NN absorption|NN secretion|NN sodium|NN potassium|NN evolution|NN 
+researcher|NN williams|NN diarrhea|DT expulsion|NN defense|NN mechanism|NN 
+result|NN delay|NN recovery|NN support|NN argument|NN research|NN diarrhea|DT drug|NN people|NN 
+diarrhea|DT defense|NN mechanism|NN approach|NN 
+type|NN diarrhea|DT investigation|NN 
+infant|NN diarrhea|DT children|NN blood|NN day|NN pain|ST fever|ST weight_loss|ST 
+traveler|NN food|NN handler|NN potential|NN institution|NN hospital|NN child|NN care|NN center|NN home|NN 
+severity|NN score|NN aid|NN diagnosis|NN children|NN diarrhea|DT 
+diarrhea|DT week|NN number|NN test|NN 
+blood|NN count|NN hormone|NN tissue|NN disease|NN bowel|NN disease|NN stool|NN test|NN ova|NN parasite|NN colonoscopy|NN test|NN cancer|DS biopsy|NN colitis|NN test|NN bile|NN acid|NN diarrhea|DT 
+bile|NN acid|NN availability|NN hydrogen|NN breath|NN test|NN lactose_intolerance|DS test|NN radiation|NN disease|NN overgrowth|NN 
+study|NN improvement|NN drink|NN water|NN sanitation|NN lead|NN risk|NN diarrhea|DT improvement|NN example|NN use|NN water|NN filter|NN provision|NN water|NN sewer|NN connection|NN 
+institution|NN community|NN household|NN intervention|NN hand|NN wash|NN soap|NN lead|NN reduction|NN incidence|NN diarrhea|DT defecation|NN level|NN access|NN sanitation|NN use|NN toilet|NN implementation|NN sanitation|NN chain|NN toilet|NN collection|NN transport|NN disposal|NN reuse|NN excreta|NN 
+hand|NN wash|NN 
+sanitation|NN technique|NN effect|NN transmission|NN diarrhea|DT disease|NN 
+implementation|NN hand|NN wash|NN soap|NN water|NN example|NN incidence|NN disease|NN hand|NN wash|NN country|NN poverty|NN disease|NN prevention|NN part|NN world|NN access|NN soap|NN water|NN number|NN country|NN 
+lack|NN access|NN challenge|NN hygiene|NN country|NN 
+solution|NN barrier|NN implementation|NN program|NN behaviour|NN water|NN 
+water|NN contamination|NN mean|NN diarrhea|DT disease|NN effort|NN water|NN supply|NN sanitation|NN potential|NN rate|NN disease|NN incidence|NN 
+fact|NN reduction|NN child|NN mortality|NN diarrhea|DT disease|NN result|NN water|NN sanitation|NN hygiene|NN meta-analysis|NN study|NN water|NN supply|NN sanitation|NN reduction|NN disease|NN incidence|NN reduction|NN mortality|NN rate|NN diarrhea|DT disease|NN 
+chlorine|NN treatment|NN water|NN example|NN risk|NN diarrhea|DT disease|NN contamination|NN water|NN diarrhea|DT pathogen|NN vaccination|NN 
+pathogen|NN cause|NN diarrhea|DT disease|NN prevention|NN strategy|NN pathogen|NN vaccination|NN 
+case|NN rotavirus|NN diarrhea|DT episode|NN diarrhea|DT disease|NN death|NN children|NN country|NN use|NN vaccine|NN trial|NN decrease|NN total|NN diarrhea|DT disease|NN incidence|NN mortality|NN 
+cholera|NN vaccine|NN reduction|NN morbidity|NN mortality|NN impact|NN vaccination|NN cholera|NN pathogen|NN diarrhea|DT disease|NN time|NN vaccine|NN potential|NN live|NN nation|NN cost|NN treatment|NN cost|NN society|NN 
+vaccine|NN decrease|NN rate|NN diarrhea|DT population|NN vaccine|NN coly|NN cholera|NN development|NN cause|NN diarrhea|DT 
+citation|NN nutrition|NN 
+deficiency|NN country|NN practice|NN 
+zinc|NN supplementation|NN decrease|NN incidence|NN diarrhea|DT disease|NN control|NN group|NN majority|NN literature|NN vitamin|NN supplementation|NN disease|NN incidence|NN development|NN supplementation|NN strategy|NN consideration|NN fact|NN vitamin|NN supplementation|NN diarrhea|DT incidence|NN vitamin|NN zinc|NN supplementation|NN strategy|NN cost|NN 
+practice|NN effect|NN incidence|NN diarrhea|DT disease|NN population|NN 
+study|NN number|NN nation|NN month|NN life|NN infection|NN diarrhea|DT disease|NN study|NN brazil|NN infant|NN time|NN diarrhea|DT infant|NN month|NN infant|NN life|NN year|NN age|NN 
+decrease|NN risk|NN diarrhea|DT antibiotics|NN management|NN 
+case|NN diarrhea|DT fluid|NN salt|NN treatment|NN 
+mouth|NN rehydration|NN therapy|NN case|NN diet|NN restriction|NN diet|NN research|NN limit|NN milk|NN children|NN effect|NN duration|NN diarrhea|DT contrary|NN children|NN diarrhea|DT nutrient|NN growth|NN weight_gain|ST speed|NN recovery|NN function|NN children|NN adult|NN cholera|NN 
+bismuth|NN situation|NN management|NN dehydration|DS person|NN rehydration|NN solution|NN 
+rehydration|NN solution|NN water|NN dehydration|DS 
+home|NN solution|NN rice|NN water|NN drink|NN vegetable|NN chicken|NN soup|NN salt|NN 
+home|NN solution|NN water|NN cereal|NN soup|NN green|NN coconut|NN water|NN tea|NN fruit|NN juice|NN teaspoon|NN teaspoon|NN salt|NN gram|NN 
+water|NN fluid|NN solution|NN relief|NN agency|NN packet|NN salt|NN sugar|NN 
+publication|NN physician|NN water|NN teaspoon|NN salt|NN gram|NN tablespoon|NN sugar|NN gram|NN taste|NN tear|NN 
+rehydration|NN project|NN amount|NN sugar|NN teaspoon|NN salt|NN approach|NN loss|NN effectiveness|NN drink|NN sugar|NN salt|NN dehydration|DS 
+amount|NN zinc|NN potassium|NN 
+availability|NN rehydration|NN 
+thing|NN dehydration|DS example|NN dehydration|DS treatment|NN cholera|NN rehydration|NN solution|NN travel|NN treatment|NN 
+hour|NN treatment|NN ors|NN child|NN solution|NN rehydration|NN fluid|NN 
+child|NN minute|NN solution|NN 
+drink|NN sugar|NN drink|NN fruit|NN juice|NN children|NN year|NN age|NN dehydration|DS 
+solution|NN gut|NN water|NN rest|NN body|NN person|NN sea|NN water|NN plain|NN water|NN ort|NN preparation|NN mix|NN water|NN drink|NN sugar|NN salt|NN person|NN goal|NN medium|NN amount|NN sodium|NN tube|NN children|NN fluid|NN 
+child|NN diarrhea|DT 
+feed|NN recovery|NN function|NN 
+contrast|NN children|NN food|NN diarrhea|DT duration|NN function|NN 
+state|NN food|NN food|NN 
+example|NN cholera|NN recommendation|NN infant|NN diarrhea|DT children|NN world|NN diet|NN speed|NN recovery|NN 
+antibiotics|NN type|NN diarrhea|DT situation|NN concern|NN antibiotics|NN risk|NN syndrome|NN people|NN coly|NN country|NN treatment|NN antibiotics|NN bacteria|NN antibiotic|NN resistance|NN antibiotics|NN diarrhea|DT diarrhea|DT effect|NN treatment|NN antibiotics|NN 
+bismuth|NN compound|NN number|NN bowel|NN movement|NN diarrhea|DT length|NN illness|NN agent|NN number|NN stool|NN duration|NN disease|NN agent|NN diarrhea|DT 
+silicate|NN clay|NN symptom|NN diarrhea|DT children|NN effect|NN diarrhea|DT diarrhea|DT diarrhea|DT 
+bile|NN acid|NN diarrhea|DT bile|NN acid|NN 
+trial|NN drug|NN diarrhea|DT bile|NN acid|NN test|NN retention|NN therapy|NN 
+zinc|NN supplementation|NN children|NN month|NN diarrhea|DT area|NN rate|NN malnourishment|NN zinc|NN deficiency|NN world|NN health|NN organization|NN guideline|NN zinc|NN 
+duration|NN symptom|NN day|NN chance|NN symptom|NN day|NN lactobacillus|NN diarrhea|DT adult|NN children|NN lactose_intolerance|DS enzyme|NN dairy|NN product|NN symptom|NN 
+epidemiology|NN death|NN diarrhea|DT disease|NN person|NN life|NN year|NN diarrhea|DT inhabitant|NN data|NN 
+case|NN diarrhea|DT death|NN children|NN age|NN greater|NN south|NN death|NN rate|NN gastroenteritis|DS diarrhea|DT second|NN cause|NN infant|NN mortality|NN pneumonia|DS age|NN group|NN 
+majority|NN case|NN world|NN case|NN childhood|NN diarrhea|DT case|NN rest|NN world|NN 
+diarrhea|DT death|NN children|NN year|NN school|NN day|NN americas|NN diarrhea|DT disease|NN account|NN total|NN death|NN children|NN month|NN south|NN east|NN death|NN child|NN mortality|NN country|NN diarrhea|DT disease|NN terminology|NN 
+word|NN diarrhea|DT 
+diarrhea|DT spell|NN diarrhea|DT spell|NN 
+term|NN condition|NN run|NN squirt|NN squit|NN trot|NN 

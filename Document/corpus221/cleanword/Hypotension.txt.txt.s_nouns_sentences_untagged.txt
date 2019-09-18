@@ -15,7 +15,7 @@ sign symptom
 symptom hypotension dizziness 
 blood pressure 
 hypotension symptom cause effect hypotension 
-chest pain shortness breath heartbeat fever headache neck back_pain cough sputum vomit dyspepsia indigestion urination reaction seizure loss consciousness fatigue loss vision tarry stool 
+chest_pain shortness breath heartbeat fever headache neck back_pain cough sputum vomit dyspepsia indigestion urination reaction seizure loss consciousness fatigue loss vision tarry stool 
 hypotension blood volume change widen blood vessel medicine side effect heart problem problem 
 blood volume cause hypotension 
 fluid intake starvation fluid loss diarrhea vomit 

@@ -1,14 +1,14 @@
 encyclopedia jump navigation jump search gastroesophageal_reflux_disease 
 use 
 gastroesophageal_reflux_disease name gastroesophageal_reflux_disease gastroesophageal_reflux_disease gastroesophageal_reflux_disease gastroesophageal_reflux_disease gastroesophageal_reflux_disease gastroesophageal_reflux_disease gastroesophageal_reflux_disease barium stomach material diaphragm collection material chest gastroesophageal_reflux_disease pronunciation 
-symptom taste acid heartburn breath chest pain breath problem complication stricture duration term cause closure risk factor obesity pregnancy smoke hiatus hernia medicine method series monitor manometry diagnosis ulcer disease cancer spasm angina treatment change medication surgery receptor blocker proton pump inhibitor frequency population 
-gastroesophageal_reflux_disease gastroesophageal_reflux_disease gastroesophageal_reflux_disease condition stomach content esophagus symptom complication symptom taste acid back mouth heartburn breath chest pain vomit breath problem teeth complication stricture 
+symptom taste acid heartburn breath chest_pain breath problem complication stricture duration term cause closure risk factor obesity pregnancy smoke hiatus hernia medicine method series monitor manometry diagnosis ulcer disease cancer spasm angina treatment change medication surgery receptor blocker proton pump inhibitor frequency population 
+gastroesophageal_reflux_disease gastroesophageal_reflux_disease gastroesophageal_reflux_disease condition stomach content esophagus symptom complication symptom taste acid back mouth heartburn breath chest_pain vomit breath problem teeth complication stricture 
 risk factor obesity pregnancy smoke hernia medicine calcium channel blocker pill gastroesophageal_reflux_disease closure junction stomach diagnosis measure gastroscopy series monitor manometry 
 treatment option change medication surgery measure change hour head bed weight food result symptom smoke antacid receptor blocker proton pump inhibitor prokinetics 
 world population gastroesophageal_reflux_disease gastroesophageal_reflux_disease symptom complication symptom gastroesophageal_reflux_disease heartburn relationship hernia gastroesophageal_reflux_disease symptom stomach acid content 
 sign symptom adult children cause diagnosis endoscopy diagnosis treatment change inhibitor agent surgery population pregnancy baby epidemiology history research reference link 
 sign symptom adult 
-symptom gastroesophageal_reflux_disease adult taste mouth regurgitation heartburn symptom pain throat salivation water nausea chest pain cough 
+symptom gastroesophageal_reflux_disease adult taste mouth regurgitation heartburn symptom pain throat salivation water nausea chest_pain cough 
 gastroesophageal_reflux_disease injury esophagus 
 gastroesophageal_reflux_disease inflammation epithelium ulcer junction stomach esophagus stricture narrow esophagus gastroesophageal_reflux_disease inflammation metaplasia change cell epithelium esophagus adenocarcinoma form cancer 
 gastroesophageal_reflux_disease infant children indicator 
@@ -44,17 +44,17 @@ gold standard diagnosis gastroesophageal_reflux_disease monitor
 test gastroesophageal_reflux_disease disease monitor gastroesophageal_reflux_disease patient response treatment 
 practice diagnosis gastroesophageal_reflux_disease treatment inhibitor improvement symptom diagnosis 
 treatment inhibitor monitor result patient symptom gastroesophageal_reflux_disease endoscopy 
-endoscopy stomach scope case treatment people treatment alarm symptom dysphagia blood stool weight loss voice change physician endoscopy people gastroesophageal_reflux_disease presence dysplasia 
+endoscopy stomach scope case treatment people treatment alarm symptom dysphagia blood stool weight_loss voice change physician endoscopy people gastroesophageal_reflux_disease presence dysplasia 
 hyperplasia change inflammation neutrophilic inflammation gastroesophageal_reflux_disease gastritis inflammation gastroesophageal_reflux_disease presence diagnosis eosinophilic number 
 field esophagus presence histologic feature gastroesophageal_reflux_disease gastroesophageal_reflux_disease cell metaplasia elongation papillae cell layer 
 gastroesophageal_reflux_disease change nature gastroesophageal_reflux_disease disease 
 score system episode therapy visit activity diagnosis 
-cause chest pain heart disease diagnosis kind gastroesophageal_reflux_disease sign symptom gastroesophageal_reflux_disease gastroesophageal_reflux_disease disease 
+cause chest_pain heart disease diagnosis kind gastroesophageal_reflux_disease sign symptom gastroesophageal_reflux_disease gastroesophageal_reflux_disease disease 
 gastroesophageal_reflux_disease heartburn gastroesophageal_reflux_disease 
 treatment gastroesophageal_reflux_disease food choice change medication surgery 
 treatment inhibitor case person gastroesophageal_reflux_disease symptom drug prescription drug guideline symptom antagonist inhibitor cost safety concern change 
 food gastroesophageal_reflux_disease intervention effect evidence sugar intake fiber intake avoidance food gastroesophageal_reflux_disease symptom food gastroesophageal_reflux_disease coffee alcohol chocolate food food food 
-weight loss severity frequency symptom head bed block wedge pillow individual shoulder head gastroesophageal_reflux_disease exercise symptom people gastroesophageal_reflux_disease exercise 
+weight_loss severity frequency symptom head bed block wedge pillow individual shoulder head gastroesophageal_reflux_disease exercise symptom people gastroesophageal_reflux_disease exercise 
 smoke alcohol symptom article drug disorder 
 medication gastroesophageal_reflux_disease inhibitor receptor blocker antacid acid use acid suppression therapy response gastroesophageal_reflux_disease symptom people kind treatment case overuse acid suppression problem side effect cost inhibitor 
 inhibitor receptor blocker day half hour meal difference ppis medication term dose symptom problem receptor blocker lead improvement 
@@ -65,7 +65,7 @@ procedure part stomach gastroesophageal_reflux_disease hernia quality life term 
 dissociation procedure children gastroesophageal_reflux_disease study failure rate incidence gastroesophageal_reflux_disease 
 device series metal bead core symptom treatment 
 improvement gastroesophageal_reflux_disease symptom data effect 
-procedure procedure reduction complication ga syndrome response difficulty chest pain vomit nausea 
+procedure procedure reduction complication ga syndrome response difficulty chest_pain vomit nausea 
 use device patient titanium steel nickel iron material 
 warn device patient resonance image injury patient damage device 
 symptom surgery benefit year population pregnancy 

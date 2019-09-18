@@ -1,13 +1,13 @@
 encyclopedia jump navigation jump search use pneumonia 
 pneumonia name pneumonia pneumonia chest radiograph chest pneumonia influenza consolidation lobe arrow 
 disease symptom difficulty breath breath fever duration week cause bacteria virus aspiration risk factor fibrosis asthma heart_failure history method symptom chest diagnosis asthma embolism prevention vaccine antibiotics oxygen therapy frequency year death year 
-pneumonia condition lung air sacs symptom combination cough chest pain fever trouble breath severity 
+pneumonia condition lung air sacs symptom combination cough chest_pain fever trouble breath severity 
 pneumonia infection bacteria microorganism medication condition disease factor lung disease fibrosis asthma heart_failure history ability stroke system diagnosis symptom examination chest blood test culture sputum diagnosis disease community hospital health care pneumonia 
 vaccine type pneumonia method prevention smoke treatment cause pneumonia bacteria antibiotics pneumonia person oxygen therapy oxygen level 
 pneumonia people population result death year pneumonia century captain men death introduction antibiotics vaccine century survival country pneumonia cause death pneumonia suffer death mans friend pneumonia media video summary script content 
 sign symptom cause bacteria mechanism diagnosis exam image microbiology classification diagnosis prevention vaccination management aspiration prediction rule effusion abscess failure epidemiology children history society culture awareness cost reference link 
-sign symptom symptom frequency frequency cough fatigue fever shortness breath chest pain diagram body symptom pneumonia symptom pneumonia 
-people pneumonia cough fever chill shortness breath chest pain breath rate breath people confusion sign 
+sign symptom symptom frequency frequency cough fatigue fever shortness breath chest_pain diagram body symptom pneumonia symptom pneumonia 
+people pneumonia cough fever chill shortness breath chest_pain breath rate breath people confusion sign 
 sign symptom children fever cough breath fever illness disease malnutrition 
 addition cough children month sign symptom children skin unwillingness drink convulsion vomit extreme temperature level consciousness 
 case pneumonia result symptom cause classic characteristics 
@@ -40,7 +40,7 @@ body infection way pneumonia time pneumonia diagnosis
 menu lung person pneumonia stethoscope 
 problem file 
 pneumonia combination sign chest adult sign lung examination diagnosis cause test origin 
-world health organization pneumonia children cough difficulty breath rate chest level consciousness rate breath minute children month breath minute children month year breath minute children year children oxygen level chest hear chest crackle stethoscope rate flare sign children year lack indicator pneumonia children pneumonia indicator treatment presence chest pain children pneumonia double probability pneumonia 
+world health organization pneumonia children cough difficulty breath rate chest level consciousness rate breath minute children month breath minute children month year breath minute children year children oxygen level chest hear chest crackle stethoscope rate flare sign children year lack indicator pneumonia children pneumonia indicator treatment presence chest_pain children pneumonia double probability pneumonia 
 general adult investigation case risk pneumonia sign auscultation person hospitalization pulse chest radiography blood test blood count serum electrolyte protein level liver function test cause support antibiotics antibiotics level 
 evidence pneumonia antibiotics 
 diagnosis illness sign symptom confirmation influenza infection test treatment presence influenza community influenza test exam 
@@ -68,7 +68,7 @@ health pneumonia infection exposure health care system hospital outpatient clini
 pneumonia hospital pneumonia hour admission time admission infection risk pathogen 
 hospital people hospital disorder issue 
 pneumonia people breath help ventilation pneumonia pneumonia hour intubation diagnosis 
-disease sign symptom pneumonia disease asthma lung_cancer emboly pneumonia asthma present electrocardiogram cancer present cough duration emboly present onset chest pain shortness breath pneumonia tract infection 
+disease sign symptom pneumonia disease asthma lung_cancer emboly pneumonia asthma present electrocardiogram cancer present cough duration emboly present onset chest_pain shortness breath pneumonia tract infection 
 pneumonia heart_failure 
 ventilation heart_failure pneumonia 
 pneumonia lung_cancer metastasis tuberculosis body hypersensitivity prevention 

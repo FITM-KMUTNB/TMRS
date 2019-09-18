@@ -19,7 +19,7 @@ enlargement artery decade atherosclerosis men women
 disease childhood birth 
 sign puberty 
 symptom children screen children disease child relative artery disease men women atherosclerosis artery stroke 
-narrow artery blood heart symptom chest pain angina shortness breath nausea dizziness breathlessness palpitation heart rhythm heart consequence 
+narrow artery blood heart symptom chest_pain angina shortness breath nausea dizziness breathlessness palpitation heart rhythm heart consequence 
 artery supply blood brain neck narrow artery symptom feel weakness difficulty speak difficulty walk stand vision numbness face arm leg headache consciousness 
 symptom stroke death brain cell 
 stroke narrow closure artery brain lack blood supply death cell tissue 
@@ -120,7 +120,7 @@ cap atheroma artery tissue fragment
 tissue fragment collagen tissue factor platelet system coagulation 
 result formation thrombus blood clot atheroma blood flow 
 obstruction blood flow tissue oxygen nutrient 
-myocardium heart muscle angina chest pain infarction heart attack 
+myocardium heart muscle angina chest_pain infarction heart attack 
 growth plaque 
 distribution plaque part endothelium 
 development change development plaque brain age spot skin 
@@ -204,7 +204,7 @@ research expression control mechanism
 blood sugar variant lipoprotein production variant protein lipoprotein transport particle 
 involvement peroxidation chain reaction research role isotope acid oxidation 
 nutrient metabolism form food 
-mice model lipoprotein metabolism diet body weight gain cholesterol handle damage aorta 
+mice model lipoprotein metabolism diet body weight_gain cholesterol handle damage aorta 
 sequence target gene cause cleavage repression machinery 
 vessel disease initiation progression metabolism insulin glucose cell type progression proliferation cell differentiation 
 rodent inhibition level expression human plaque 

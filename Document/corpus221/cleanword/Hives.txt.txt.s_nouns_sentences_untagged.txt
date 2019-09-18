@@ -156,7 +156,7 @@ generation block receptor
 generation receptor generation 
 people dose dose switch antagonist antihistamine steroid 
 antagonist addition h1-antagonists hives evidence efficacy steroid 
-symptom hives list effect suppression weight gain osteoporosis 
+symptom hives list effect suppression weight_gain osteoporosis 
 use couple week 
 addition study antihistamine time symptom control antagonist 
 mast cell histamine 

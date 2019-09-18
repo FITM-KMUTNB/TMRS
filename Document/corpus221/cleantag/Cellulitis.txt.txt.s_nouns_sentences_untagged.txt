@@ -1,0 +1,67 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN article|NN infection|NN skin|NN tissue|NN 
+appearance|NN skin|NN 
+cellulitis|DS cellulitis|DS skin|NN cellulitis|DS disease|NN symptom|NN area|NN skin|NN fever|ST duration|NN day|NN cause|NN bacteria|NN factor|NN skin|NN obesity|NN leg|NN age|NN method|NN symptom|NN diagnosis|NN vein|NN thrombosis|DS stasis|NN dermatitis|DS lyme_disease|DS treatment|NN elevation|NN area|NN antibiotics|NN frequency|NN death|NN 
+cellulitis|DS infection|NN layer|NN skin|NN dermis|NN sign|NN symptom|NN area|NN redness|NN size|NN day|NN border|NN area|NN redness|NN skin|NN redness|NN pressure|NN case|NN area|NN infection|NN lymphatic|NN vessel|NN person|NN fever|ST 
+leg|NN face|NN site|NN cellulitis|DS part|NN body|NN leg|NN break|NN skin|NN risk|NN factor|NN obesity|NN leg|NN swell|NN age|NN infection|NN break|NN skin|NN case|NN bacteria|NN staphylococcus|NN aureus|NN contrast|NN cellulitis|DS infection|NN layer|NN skin|NN present|NN area|NN redness|NN edge|NN fever|ST diagnosis|NN present|NN sign|NN symptom|NN cell|NN culture|NN diagnosis|NN infection|NN bone|NN infection|NN fasciitis|NN 
+treatment|NN antibiotics|NN mouth|NN penicillin|NN aureus|NN concern|NN addition|NN concern|NN presence|NN pus|NN infection|NN area|NN pain|ST killer|NN 
+complication|NN abscess|NN formation|NN people|NN day|NN treatment|NN outcome|NN cellulitis|DS people|NN united|NN states|NN people|NN year|NN case|NN leg|NN cellulitis|DS death|NN united|NN kingdom|NN cellulitis|DS reason|NN admission|NN hospital|NN content|NN 
+sign|NN symptom|NN complication|NN cause|NN risk|NN factor|NN diagnosis|NN diagnosis|NN prevention|NN treatment|NN antibiotics|NN epidemiology|NN animal|NN reference|NN read|NN link|NN 
+sign|NN symptom|NN 
+sign|NN symptom|NN cellulitis|DS area|NN 
+photo|NN case|NN stage|NN condition|NN 
+cellulitis|DS abrasion|ST streak|NN arm|NN involvement|NN system|NN 
+shin|NN comparison|NN shin|NN sign|NN symptom|NN 
+cellulitis|DS leg|NN foot|NN involvement|NN 
+complication|NN abscess|NN formation|NN sepsis|DS cause|NN 
+cellulitis|DS type|NN bacteria|NN skin|NN way|NN cut|NN abrasion|ST break|NN skin|NN 
+group|NN streptococcus|NN staphylococcus|NN bacteria|NN part|NN flora|NN skin|NN infection|NN skin|NN surface|NN 
+case|NN angina|NN cellulitis|DS space|NN infection|NN 
+infection|NN aerobe|NN type|NN cellulitis|DS 
+group|NN 
+condition|NN cellulitis|DS insect|NN spider|NN bite|NN animal|NN bite|NN tattoo|NN skin|NN rash|ST surgery|NN athlete|NN foot|NN skin|NN eczema|NN drug|NN injection|NN injection|NN miss|NN vein|NN pregnancy|NN obesity|NN circulation|NN burn|NN boil|NN debate|NN foot|NN lesion|NN 
+occurrences|NN cellulitis|DS condition|NN hidradenitis|NN cellulitis|DS 
+appearance|NN skin|NN doctor|NN diagnosis|NN 
+doctor|NN blood|NN test|NN wound|ST culture|NN test|NN rule|NN blood|NN clot|NN vein|NN leg|NN 
+cellulitis|DS leg|NN sign|NN symptom|NN vein|NN thrombosis|DS warmth|NN pain|ST inflammation|NN 
+skin|NN rash|ST infection|NN layer|NN skin|NN 
+skin|NN bacteria|NN lymph|NN node|NN spread|NN body|NN 
+symptom|NN temperature|NN feel|NN sufferer|NN 
+case|NN infection|NN layer|NN tissue|NN line|NN 
+media|NN bacteria|NN example|NN infection|NN 
+citation|NN risk|NN factor|NN 
+system|NN cellulitis|DS 
+cellulitis|DS population|NN impairment|NN system|NN cellulitis|DS feet|NN disease|NN impairment|NN blood|NN circulation|NN leg|NN foot|NN foot|NN ulcer|NN 
+control|NN blood|NN glucose|NN level|NN bacteria|NN tissue|NN progression|NN infection|NN 
+degeneration|NN ulcer|NN 
+poliomyelitis|NN problem|NN leg|NN 
+drug|NN illness|NN infection|NN system|NN factor|NN infection|NN 
+shingle|NN result|NN blister|ST gap|NN skin|NN bacteria|NN 
+arm|NN leg|NN individual|NN risk|NN 
+disease|NN blood|NN circulation|NN leg|NN feet|NN insufficiency|NN vein|NN risk|NN factor|NN cellulitis|DS 
+cellulitis|DS population|NN hygiene|NN facility|NN live|NN quarter|NN installation|NN college|NN dormitory|NN nurse|NN home|NN oil|NN platform|NN shelter|NN 
+cellulitis|DS diagnosis|NN people|NN history|NN examination|NN area|NN redness|NN heat|NN inflammation|NN lymph|NN node|NN 
+entity|NN tissue|NN clinician|NN cellulitis|DS 
+cellulitis|DS carbuncle|NN abscess|NN aureus|NN treatment|NN decision|NN antibiotic|NN selection|NN skin|NN aspiration|NN nonpurulent|NN cellulitis|DS organism|NN diagnosis|NN blood|NN culture|NN case|NN 
+abscess|NN find|NN drainage|NN antibiotic|NN therapy|NN 
+physician|NN assessment|NN abscess|NN case|NN induration|NN use|NN bedside|NN practitioner|NN abscess|NN cellulitis|DS management|NN case|NN use|NN abscess|NN identification|NN case|NN antibiotic|NN failure|NN 
+cellulitis|DS characteristic|NN appearance|NN indicative|NN edema|ST fluid|NN collection|NN abscess|NN diagnosis|NN 
+condition|NN cellulitis|DS vein|NN thrombosis|DS compression|NN leg|NN stasis|NN dermatitis|DS inflammation|NN skin|NN blood|NN flow|NN 
+sign|NN infection|NN fasciitis|NN ga|NN gangrene|NN intervention|NN skin|NN edema|ST toxicity|NN people|NN cellulitis|DS hospitalization|NN spend|NN united|NN states|NN 
+find|NN 
+acne|DS pilonidal|NN cyst|NN syndrome|NN occlusion|NN triad|NN tetrad|NN 
+lyme_disease|DS cellulitis|DS 
+rash|ST lyme_disease|DS rash|ST clear|NN factor|NN activity|NN site|NN cellulitis|DS armpit|NN groin|NN knee|NN complication|NN treatment|NN cellulitis|DS lyme_disease|DS treatment|NN acid|NN infection|NN prevention|NN 
+cellulitis|DS use|NN antibiotics|NN episode|NN crest|NN episode|NN meta-analysis|NN benefit|NN antibiotics|NN cellulitis|DS limb|NN effect|NN antibiotic|NN therapy|NN treatment|NN 
+antibiotics|NN agent|NN organism|NN presence|NN absence|NN purulence|NN treatment|NN choice|NN abscess|NN drainage|NN antibiotics|NN cellulitis|DS pain|ST relief|NN pain|ST symptom|NN fasciitis|NN 
+elevation|NN area|NN 
+recovery|NN antibiotics|NN antibiotics|NN 
+antibiotics|NN choice|NN availability|NN penicillin|NN cellulitis|DS abscess|NN course|NN antibiotics|NN case|NN epidemiology|NN 
+cellulitis|DS death|NN animal|NN 
+horse|NN cellulitis|DS wound|ST infection|NN abscess|NN bone|NN tendon|NN sheath|NN cellulitis|DS wound|ST lameness|NN grade|NN arthritis|DS grade|NN 
+horse|NN edema|ST swell|NN 
+swell|NN horse|NN swell|NN leg|NN leg|NN 
+swell|NN source|NN infection|NN leg|NN 
+case|NN swell|NN 
+treatment|NN wound|ST care|NN administration|NN nsaids|NN hose|NN sweat|NN wrap|NN poultice|NN exercise|NN 
+cellulitis|DS staphylococcal|NN infection|NN bull|NN 
+cellulitis|DS cellulitis|DS cellulitis|DS 

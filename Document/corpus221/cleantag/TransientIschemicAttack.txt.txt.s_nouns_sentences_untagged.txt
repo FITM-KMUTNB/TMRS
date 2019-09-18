@@ -1,0 +1,99 @@
+encyclopedia|NN attack|NN jump|NN navigation|NN jump|NN search|NN transient_ischemic_attack|DS name|NN transient_ischemic_attack|DS neurology|NN survival|NN rate|NN hospital|NN discharge|ST year|NN 
+transient_ischemic_attack|DS transient_ischemic_attack|DS episode|NN dysfunction|NN loss|NN blood|NN flow|NN brain|NN cord|NN retina|NN tissue|NN death|NN infarction|NN transient_ischemic_attack|DS mechanism|NN stroke|DS 
+disruption|NN blood|NN flow|NN brain|NN blood|NN flow|NN 
+definition|NN transient_ischemic_attack|DS duration|NN symptom|NN 
+definition|NN image|NN time|NN 
+heart|NN association|NN stroke|DS association|NN transient_ischemic_attack|DS episode|NN dysfunction|NN cause|NN symptom|NN hour|NN evidence|NN infarction|NN image|NN 
+transient_ischemic_attack|DS symptom|NN stroke|DS weakness|ST numbness|NN side|NN body|NN 
+weakness|ST side|NN body|NN hemisphere|NN brain|NN 
+transient_ischemic_attack|DS dim|NN loss|NN vision|NN difficulty|NN speak|NN understand|NN language|NN speech|NN confusion|ST 
+transient_ischemic_attack|DS stroke|DS share|NN cause|NN 
+result|NN disruption|NN blood|NN flow|NN system|NN 
+stroke|DS symptom|NN day|NN 
+transient_ischemic_attack|DS symptom|NN hour|NN 
+occurrence|NN transient_ischemic_attack|DS risk|NN factor|NN stroke|DS risk|NN death|NN disability|NN 
+recognition|NN transient_ischemic_attack|DS opportunity|NN treatment|NN medication|NN change|NN stroke|DS 
+transient_ischemic_attack|DS definition|NN symptom|NN stroke|DS 
+stroke|DS infarct|NN infarction|NN present|NN image|NN symptom|NN 
+transient_ischemic_attack|DS stroke|DS content|NN 
+sign|NN symptom|NN transient_ischemic_attack|DS mimics|NN cause|NN risk|NN factor|NN diagnosis|NN laboratory|NN image|NN diagnosis|NN prevention|NN treatment|NN modification|NN antiplatelet|NN medication|NN medication|NN blood|NN pressure|NN control|NN cholesterol|NN control|NN control|NN surgery|NN epidemiology|NN reference|NN link|NN 
+sign|NN symptom|NN 
+sign|NN symptom|NN transient_ischemic_attack|DS condition|NN context|NN exam|NN rule|NN diagnosis|NN 
+symptom|NN transient_ischemic_attack|DS deficit|NN 
+loss|NN vision|NN droop|NN motor|NN weakness|ST vision|NN problem|NN balance|NN orientation|NN 
+exam|NN nerve|NN exam|NN find|NN mimicker|NN transient_ischemic_attack|DS 
+symptom|NN weakness|ST amaurosis|ST vision|NN odd|NN transient_ischemic_attack|DS memory|NN loss|NN headache|ST vision|NN table|NN symptom|NN presentation|NN percentage|NN time|NN transient_ischemic_attack|DS condition|NN transient_ischemic_attack|DS 
+deficit|NN transient_ischemic_attack|DS absence|NN find|NN diagnosis|NN evaluation|NN suspicion|NN transient_ischemic_attack|DS diagnosis|NN section|NN transient_ischemic_attack|DS mimics|NN symptom|NN transient_ischemic_attack|DS mimics|NN transient_ischemic_attack|DS paresis|ST memory|NN impairment|NN headache|ST vision|NN blindness|NN 
+symptom|NN transient_ischemic_attack|DS order|NN minute|NN hour|NN period|NN time|NN transient_ischemic_attack|DS event|NN brain|NN hour|NN variation|NN duration|NN symptom|NN definition|NN significance|NN study|NN patient|NN transient_ischemic_attack|DS hospital|NN hour|NN hour|NN hour|NN patient|NN symptom|NN hour|NN damage|NN diagnosis|NN treatment|NN recovery|NN cause|NN 
+pathology|NN transient_ischemic_attack|DS stroke|DS condition|NN fibrillation|NN contraction|NN formation|NN clot|NN chamber|NN travel|NN artery|NN stroke|DS blood|NN flow|NN prior|NN infarction|NN resolution|NN symptom|NN culprit|NN transient_ischemic_attack|DS plaque|NN artery|NN bifurcation|NN carotid|NN embolism|NN brain|NN clot|NN example|NN portion|NN plaque|NN lead|NN pathology|NN vessel|NN 
+thrombosis|DS obstruction|NN form|NN vasculature|NN embolism|NN occurrence|NN presentation|NN transient_ischemic_attack|DS stenosis|NN atherosclerosis|DS diameter|NN lumen|NN blood|NN flow|NN cause|NN transient_ischemic_attack|DS individual|NN stenosis|NN transient_ischemic_attack|DS symptom|NN symptom|NN risk|NN factor|NN 
+risk|NN factor|NN transient_ischemic_attack|DS modifiable|NN 
+risk|NN factor|NN age|NN sex|NN family|NN history|NN genetics|NN risk|NN factor|NN cigarette|NN smoke|NN hypertension|DS blood|NN pressure|NN level|NN artery|NN stenosis|NN activity|NN level|NN risk|NN factor|NN treatment|NN option|NN attempt|NN risk|NN transient_ischemic_attack|DS stroke|DS 
+mechanism|NN ischemia|NN brain|NN embolism|NN brain|NN occlusion|NN vessel|NN parenchyma|NN brain|NN stenosis|NN vessel|NN perfusion|NN diameter|NN vessel|NN artery|NN part|NN body|NN 
+mechanism|NN stroke|DS transient_ischemic_attack|DS stroke|DS mechanism|NN frequency|NN pattern|NN number|NN infarct|NN occlusion|NN territory|NN 
+artery|NN artery|NN embolism|NN clearance|NN region|NN branch|NN disease|NN hemodynamic|NN 
+lesion|NN diagnosis|NN 
+diagnosis|NN transient_ischemic_attack|DS combination|NN patient|NN question|NN symptom|NN history|NN exam|NN head|NN image|NN 
+history|NN take|NN symptom|NN symptom|NN 
+symptom|NN detail|NN 
+time|NN course|NN onset|NN duration|NN resolution|NN event|NN risk|NN factor|NN 
+review|NN symptom|NN item|NN diagnosis|NN transient_ischemic_attack|DS 
+laboratory|NN test|NN rule|NN condition|NN transient_ischemic_attack|DS status|NN addition|NN patient|NN risk|NN factor|NN event|NN 
+patient|NN blood|NN count|NN platelet|NN count|NN blood|NN glucose|NN panel|NN prothrombin|NN ratio|NN thromboplastin|NN time|NN part|NN initial|NN test|NN screen|NN condition|NN 
+electrocardiogram|NN heart|NN rhythm|NN fibrillation|NN patient|NN clot|NN formation|NN embolic|NN event|NN lab|NN test|NN hypercoagulable|NN state|NN serum|NN drug|NN screen|NN situation|NN factor|NN age|NN patient|NN family|NN history|NN panel|NN patient|NN risk|NN disease|NN ischemic|NN event|NN image|NN 
+guideline|NN heart|NN association|NN stroke|DS association|NN stroke|DS council|NN patient|NN transient_ischemic_attack|DS head|NN image|NN hour|NN symptom|NN onset|NN resonance|NN image|NN diffusion|NN sequence|NN image|NN modality|NN transient_ischemic_attack|DS tomography|NN ischemic|NN lesion|NN 
+rule|NN diffusion|NN sequence|NN area|NN ischemia|NN indicator|NN presence|NN lesion|NN diffusion|NN image|NN risk|NN stroke|DS transient_ischemic_attack|DS 
+vessel|NN head|NN neck|NN lesion|NN intervention|NN 
+vasculature|NN image|NN modality|NN resonance|NN angiography|NN angiography|NN screen|NN artery|NN stenosis|NN person|NN radiation|NN 
+image|NN method|NN sensitivity|NN specificity|NN image|NN method|NN diagnosis|NN example|NN screen|NN disease|NN diagnosis|NN artery|NN stenosis|NN treatment|NN condition|NN risk|NN patient|NN heart|NN attack|NN stroke|DS procedure|NN reason|NN 
+service|NN task|NN force|NN screen|NN artery|NN stenosis|NN adult|NN population|NN recommendation|NN patient|NN patient|NN transient_ischemic_attack|DS fact|NN symptom|NN artery|NN disease|NN cause|NN pathogenesis|NN 
+patient|NN transient_ischemic_attack|DS discussion|NN clinician|NN risk|NN benefit|NN screen|NN artery|NN stenosis|NN risk|NN treatment|NN condition|NN 
+image|NN head|NN neck|NN image|NN cause|NN patient|NN transient_ischemic_attack|DS atherosclerosis|DS artery|NN vessel|NN head|NN neck|NN 
+patent|NN foramen|NN stenosis|NN atherosclerosis|DS arch|NN source|NN clot|NN transient_ischemic_attack|DS lesion|NN rhythm|NN monitor|NN rule|NN arrhythmia|ST fibrillation|NN formation|NN transient_ischemic_attack|DS cause|NN transient_ischemic_attack|DS diagnosis|NN diagnosis|NN find|NN brain_tumor|DS headache|ST nausea|ST system|NN infection|NN meningitis|DS encephalitis|DS fever|ST headache|ST confusion|ST neck_stiffness|ST nausea|ST change|NN status|NN headache|ST confusion|ST confusion|ST weakness|ST headache|ST age|NN sclerosis|NN limb|NN weakness|ST retention|NN optic|NN disorder|NN confusion|ST loss|NN consciousness|NN incontinence|NN tongue|NN movement|NN headache|ST onset|NN vertigo|DT generalize|NN dizziness|ST diaphoresis|NN hear|NN loss|NN 
+patient|NN history|NN exam|NN deficit|NN attention|NN nerve|NN motor|NN component|NN exam|NN 
+history|NN exam|NN clinician|NN laboratory|NN image|NN 
+lack|NN study|NN efficacy|NN change|NN transient_ischemic_attack|DS professional|NN 
+smoke|NN fat|NN amount|NN plaque|NN build|NN diet|NN plenty|NN fruit|NN vegetable|NN sodium|NN diet|NN blood|NN pressure|NN intake|NN alcohol|NN stimulant|NN 
+addition|NN condition|NN risk|NN stroke|DS transient_ischemic_attack|DS 
+hypertension|DS cholesterol|NN mellitus|NN fibrillation|NN 
+definition|NN transient_ischemic_attack|DS impairment|NN 
+risk|NN ischemic|NN stroke|DS management|NN center|NN prevention|NN future|NN stroke|DS risk|NN factor|NN 
+regimen|NN cause|NN transient_ischemic_attack|DS 
+modification|NN 
+change|NN risk|NN stroke|DS transient_ischemic_attack|DS study|NN diet|NN prevention|NN stroke|DS study|NN diet|NN stroke|DS risk|NN patient|NN disease|NN diet|NN fruit|NN vegetable|NN grain|NN meat|NN sweet|NN 
+vitamin|NN supplementation|NN stroke|DS prevention|NN medication|NN 
+medication|NN aspirin|NN prevention|NN stroke|DS risk|NN transient_ischemic_attack|DS day|NN exception|NN transient_ischemic_attack|DS blood|NN clot|NN heart|NN case|NN transient_ischemic_attack|DS stroke|DS aspirin|NN therapy|NN risk|NN stroke|DS risk|NN stroke|DS 
+therapy|NN aspirin|NN combination|NN aspirin|NN aspirin|NN efficacy|NN side|NN effect|NN profile|NN 
+risk|NN side|NN effect|NN medication|NN 
+transient_ischemic_attack|DS fibrillation|NN 
+fibrillation|NN heart|NN rhythm|NN formation|NN blood|NN clot|NN brain|NN transient_ischemic_attack|DS stroke|DS 
+fibrillation|NN stroke|DS risk|NN time|NN cause|NN stroke|DS anticoagulant|NN therapy|NN risk|NN stroke|DS fibrillation|NN anticoagulant|NN anticoagulant|NN risk|NN bleed|NN combination|NN risk|NN decrease|NN stroke|DS risk|NN therapy|NN patient|NN artery|NN disease|NN addition|NN fibrillation|NN 
+infarction|NN heart|NN attack|NN formation|NN blood|NN clot|NN chamber|NN heart|NN 
+cause|NN transient_ischemic_attack|DS people|NN anticoagulant|NN risk|NN stroke|DS blood|NN pressure|NN control|NN 
+blood|NN pressure|NN control|NN transient_ischemic_attack|DS risk|NN stroke|DS 
+patient|NN stroke|DS hypertension|DS blood|NN pressure|NN blood|NN pressure|NN half|NN blood|NN pressure|NN goal|NN study|NN goal|NN benefit|NN blood|NN pressure|NN control|NN diuretics|NN combination|NN diuretics|NN converter|NN enzyme|NN inhibitor|NN treatment|NN regimen|NN cholesterol|NN control|NN 
+evidence|NN effect|NN level|NN stroke|DS risk|NN transient_ischemic_attack|DS 
+cholesterol|NN stroke|DS risk|NN risk|NN stroke|DS role|NN stroke|DS prevention|NN therapy|NN mortality|NN transient_ischemic_attack|DS control|NN 
+mellitus|NN risk|NN stroke|DS time|NN ischemic|NN stroke|DS glucose|NN control|NN complication|NN kidney|NN damage|NN damage|NN evidence|NN risk|NN stroke|DS death|NN data|NN stroke|DS risk|NN surgery|NN 
+transient_ischemic_attack|DS area|NN artery|NN scan|NN stenosis|NN narrow|NN artery|NN 
+people|NN stenosis|NN artery|NN risk|NN stroke|DS stenosis|NN risk|NN stroke|DS stenosis|NN stroke|DS risk|NN case|NN efficacy|NN artery|NN stent|NN stroke|DS risk|NN patient|NN artery|NN stenosis|NN 
+surgeon|NN incision|NN neck|NN artery|NN plaque|NN blood|NN vessel|NN 
+artery|NN graft|NN vessel|NN body|NN patch|NN 
+patient|NN transient_ischemic_attack|DS stroke|DS day|NN risk|NN death|NN stroke|DS 
+artery|NN stent|NN alternative|NN patient|NN artery|NN stenosis|NN 
+procedure|NN surgeon|NN cut|NN groin|NN tube|NN catheter|NN patient|NN artery|NN 
+balloon|NN site|NN stenosis|NN open|NN artery|NN blood|NN flow|NN brain|NN 
+vessel|NN wire|NN mesh|NN coil|NN balloon|NN 
+remain|NN place|NN balloon|NN 
+patient|NN age|NN death|NN stroke|DS artery|NN stent|NN patient|NN difference|NN outcome|NN artery|NN stent|NN people|NN artery|NN stent|NN stroke|DS prevention|NN intervention|NN prognosis|NN 
+people|NN transient_ischemic_attack|DS 
+warn|NN stroke|DS 
+transient_ischemic_attack|DS duration|NN blood|NN flow|NN damage|NN brain|NN 
+stroke|DS time|NN period|NN blood|NN supply|NN impairment|NN duration|NN neuron|NN area|NN brain|NN damage|NN 
+people|NN transient_ischemic_attack|DS transient_ischemic_attack|DS stroke|DS 
+source|NN transient_ischemic_attack|DS stroke|DS day|NN day|NN transient_ischemic_attack|DS risk|NN stroke|DS transient_ischemic_attack|DS score|NN 
+limitation|NN score|NN level|NN artery|NN stenosis|NN cause|NN stroke|DS transient_ischemic_attack|DS patient|NN 
+patient|NN age|NN risk|NN factor|NN level|NN stenosis|NN transient_ischemic_attack|DS epidemiology|NN 
+difficulty|NN transient_ischemic_attack|DS due|NN symptom|NN dysfunction|NN presentation|NN differential|NN mimics|NN incidence|NN disease|NN 
+incidence|NN case|NN year|NN heart|NN association|NN transient_ischemic_attack|DS incidence|NN trend|NN stroke|DS incidence|NN age|NN gender|NN population|NN risk|NN factor|NN age|NN blood|NN pressure|NN disease|NN hypertension|DS atherosclerosis|DS fibrillation|NN 
+percent|NN stroke|DS transient_ischemic_attack|DS episode|NN 

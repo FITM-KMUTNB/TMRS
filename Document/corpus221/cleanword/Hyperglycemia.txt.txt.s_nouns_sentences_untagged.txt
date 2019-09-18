@@ -14,14 +14,14 @@ impairment growth susceptibility infection result hyperglycemia
 hyperglycemia glucose level emergency complication fluid loss diuresis 
 person 
 symptom hyperglycemia hyperglycemic triad 
-hunger hunger thirst thirst volume urination frequency consequence vision fatigue weight loss wound heal cut 
+hunger hunger thirst thirst volume urination frequency consequence vision fatigue weight_loss wound heal cut 
 mouth skin feet heel dysfunction infection ear infection swimmer ear arrhythmia seizure 
 hunger symptom blood sugar level 
 people hypoglycemic medication insulin amount food 
 drop blood sugar level range hunger response 
 blood glucose level rise excretion glucose kidney presence glucose urine 
 sign symptom ketoacidosis 
-hyperventilation breath confusion level consciousness glycosuria thirst breath nausea vomit impairment function sadness anxiety weight loss 
+hyperventilation breath confusion level consciousness glycosuria thirst breath nausea vomit impairment function sadness anxiety weight_loss 
 hyperglycemia decrease performance process speed executive function performance performance forgetfulness concentration loss complication 
 hyperglycemia condition insulin level activity hormone lipase degradation lipase acid 
 condition treatment 

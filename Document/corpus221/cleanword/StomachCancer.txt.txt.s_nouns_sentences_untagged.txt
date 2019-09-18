@@ -1,6 +1,6 @@
-encyclopedia jump navigation jump search stomach_cancer name stomach_cancer adenocarcinoma stomach ulcer cancer biopsy oncology symptom pain nausea loss appetite weight loss yellow skin white eye difficulty blood stool onset year type carcinoma lymphoma tumor cause genetics risk factor smoke factor vegetable obesity method biopsy endoscopy prevention diet smoke treatment surgery chemotherapy radiation therapy therapy survival rate 
+encyclopedia jump navigation jump search stomach_cancer name stomach_cancer adenocarcinoma stomach ulcer cancer biopsy oncology symptom pain nausea loss appetite weight_loss yellow skin white eye difficulty blood stool onset year type carcinoma lymphoma tumor cause genetics risk factor smoke factor vegetable obesity method biopsy endoscopy prevention diet smoke treatment surgery chemotherapy radiation therapy therapy survival rate 
 frequency death 
-stomach_cancer stomach_cancer cancer line stomach symptom heartburn pain nausea loss appetite sign symptom weight loss yellow skin white eye difficulty swallow blood stool cancer stomach part body liver lung bone line abdomen lymph node 
+stomach_cancer stomach_cancer cancer line stomach symptom heartburn pain nausea loss appetite sign symptom weight_loss yellow skin white eye difficulty swallow blood stool cancer stomach part body liver lung bone line abdomen lymph node 
 cause infection bacterium account case type risk factor vegetable obesity risk factor case family case syndrome person parent stomach_cancer case stomach_cancer carcinoma type number subtype tumor stomach time stomach_cancer stage year diagnosis biopsy endoscopy image disease part body japan south country rate disease screen stomach_cancer 
 diet risk cancer stop smoke evidence risk cancer case treatment combination surgery chemotherapy radiation therapy therapy care outcome survival rate people condition present disease united states survival south screen effort 
 stomach_cancer type cancer cause death cancer case death people death world country cause death cancer rate death area world food result development refrigeration method food stomach_cancer east male female content 
@@ -14,7 +14,7 @@ time symptom cancer stage part body reason prognosis stomach_cancer sign symptom
 cancer indigestion sensation heartburn 
 people endoscopy indigestion cancer discomfort loss appetite meat 
 stomach_cancer tissue weakness fatigue bloat stomach meal pain abdomen nausea vomit constipation 
-enlargement weight loss bleed vomit blood blood stool 
+enlargement weight_loss bleed vomit blood blood stool 
 cardia extension esophagus 
 symptom problem stomach virus ulcer sprue 
 stomach_cancer result factor male female 
@@ -110,7 +110,7 @@ cause variation country strain bacteria
 trend infection risk stomach_cancer 
 case phenomenon name enigma bacteria evidence strain mutation genotype difference cancer development country continent access health care treatment measure incidence animal stomach organ tract food process juice 
 cancer stomach adenocarcinoma type 
-sign blood weight loss lack appetite 
+sign blood weight_loss lack appetite 
 bowel movement tarry nature 
 order cancer stomach 
 test instrument endoscope stomach tool sample mass analysis cancer 

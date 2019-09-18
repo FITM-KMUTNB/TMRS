@@ -1,7 +1,7 @@
 encyclopedia jump navigation jump search gallstone name gallstone gallstone gallstone gallstone gallstone gallstone bile duct gallstone gallstone cholesterol pronunciation 
-surgery symptom pain abdomen complication inflammation liver inflammation onset year risk factor birth control pill pregnancy family history obesity liver disease weight loss method symptom prevention weight diet diet carbohydrate treatment pain surgery surgery frequency adult world 
+surgery symptom pain abdomen complication inflammation liver inflammation onset year risk factor birth control pill pregnancy family history obesity liver disease weight_loss method symptom prevention weight diet diet carbohydrate treatment pain surgery surgery frequency adult world 
 gallstone stone bile component term gallstone presence gallstone disease gallstone people gallstone symptom gallstone block bile duct pain part abdomen attack gallstone year complication gallstone inflammation cholecystitis inflammation pancreatitis jaundice infection bile duct cholangitis symptom complication pain hour duration fever skin urine stool 
-risk factor gallstone birth control pill pregnancy family history gallstone obesity liver disease weight loss bile component form gallstone cholesterol bile salt bilirubin gallstone cholesterol cholesterol stone bilirubin pigment stone gallstone symptom diagnosis complication blood test 
+risk factor gallstone birth control pill pregnancy family history gallstone obesity liver disease weight_loss bile component form gallstone cholesterol bile salt bilirubin gallstone cholesterol cholesterol stone bilirubin pigment stone gallstone symptom diagnosis complication blood test 
 risk gallstone weight exercise diet symptom treatment attack surgery incision incision anesthesia case surgery medication stone lithotripsy 
 country adult gallstone rate part disease people death women stone men age group gallstone example gallstone outcome content 
 definition sign symptom complication risk factor composition diagnosis prevention treatment folk remedy reference link 
@@ -22,7 +22,7 @@ gallstone risk increase female menopause people year condition north south peopl
 lack stone cholesterol secretion conversion cholesterol bile antioxidant stress researcher gallstone combination factor body chemistry body weight motility movement calorie diet 
 citation absence risk factor formation gallstone 
 factor risk gallstone constipation meal day intake nutrient magnesium calcium vitamin fluid consumption men intake carbohydrate load index diet wine bread risk gallstone 
-weight loss risk gallstone weight loss drug risk gallstone 
+weight_loss risk gallstone weight_loss drug risk gallstone 
 deficiency disease risk gallstone formation diagnosis disease 
 gallstone world 
 risk factor pigment stone disease spherocytosis cirrhosis tract infection people risk gallstone use proton pump inhibitor function gallstone formation 
@@ -62,7 +62,7 @@ gallstone
 gallstone week media 
 bowel peristalsis appearance stone 
 weight exercise diet fiber gallstone formation 
-medication acid formation gallstone weight loss diet weight loss gallstone treatment 
+medication acid formation gallstone weight_loss diet weight_loss gallstone treatment 
 removal chance recurrence gallstone 
 lack consequence people 
 portion condition syndrome distress pain abdomen risk diarrhea 

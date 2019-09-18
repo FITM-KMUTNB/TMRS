@@ -1,12 +1,12 @@
 encyclopedia jump navigation jump search type_2_diabetes name type_2_diabetes type_2_diabetes type_2_diabetes type_2_diabetes circle circle symbol pronunciation 
-symptom thirst urination weight loss hunger complication state diabetic heart disease stroke kidney_failure amputation onset age duration term cause obesity lack exercise genetics method blood test prevention weight treatment change insulin surgery year life expectancy frequency 
-type_2_diabetes type_2_diabetes type_2_diabetes form blood sugar insulin resistance lack insulin symptom thirst urination weight loss symptom hunger feel sore symptom complication blood sugar heart disease stroke blindness kidney_failure blood flow limb amputation onset state 
+symptom thirst urination weight_loss hunger complication state diabetic heart disease stroke kidney_failure amputation onset age duration term cause obesity lack exercise genetics method blood test prevention weight treatment change insulin surgery year life expectancy frequency 
+type_2_diabetes type_2_diabetes type_2_diabetes form blood sugar insulin resistance lack insulin symptom thirst urination weight_loss symptom hunger feel sore symptom complication blood sugar heart disease stroke blindness kidney_failure blood flow limb amputation onset state 
 type_2_diabetes result obesity lack exercise people risk type_2_diabetes case type type level insulin control blood glucose loss beta cell diagnosis blood test plasma glucose glucose tolerance test hemoglobin 
 type_2_diabetes weight treatment exercise change blood sugar level medication people insulin injection insulin blood sugar level pill surgery 
 rate type_2_diabetes parallel obesity people disease middle age rate type_2_diabetes people type_2_diabetes life expectancy disease importance insulin disease content 
 sign symptom complication cause genetics condition diagnosis screen prevention management surgery epidemiology history reference link 
 sign symptom overview symptom 
-symptom urination thirst hunger weight loss symptom diagnosis history vision neuropathy infection fatigue people symptom year routine number people type_2_diabetes state condition blood sugar level consciousness blood pressure complication article complication 
+symptom urination thirst hunger weight_loss symptom diagnosis history vision neuropathy infection fatigue people symptom year routine number people type_2_diabetes state condition blood sugar level consciousness blood pressure complication article complication 
 type_2_diabetes disease life expectancy number complication time risk disease heart disease stroke increase limb amputation rate hospitalization world type_2_diabetes cause blindness kidney_failure risk dysfunction dementia disease process alzheimers disease dementia complication dysfunction infection association type_2_diabetes hear loss cause 
 development type_2_diabetes combination factor factor control diet obesity factor age female gender genetics obesity women men part lack sleep type_2_diabetes effect metabolism status mother development role mechanism methylation bacteria vulgatus type_2_diabetes article cause type_2_diabetes 
 factor development type_2_diabetes obesity body mass index lack activity diet stress urbanization excess body fat case descent case descent case pacific islander ratio smoke risk type_2_diabetes 
@@ -30,13 +30,13 @@ threshold diagnosis relationship result glucose tolerance test glucose complicat
 type_2_diabetes blood glucose context insulin resistance insulin deficiency contrast type insulin deficiency destruction islet cell onset blood sugar pregnancy type type_2_diabetes present circumstance diagnosis doubt antibody test type level type_2_diabetes level type_2_diabetes type screen 
 organization screen evidence program outcome screen united states service task force adult symptom blood pressure blood pressure evidence screen evidence risk death group people screen age 
 world health organization group risk recommendation group state year degree relative group hispanics history ovary syndrome excess weight condition syndrome association screen people descent screen prevention article prevention type_2_diabetes 
-onset type_2_diabetes nutrition update measure risk benefit exercise person weight weight loss level activity risk evidence benefit change evidence diet vegetable intake drink association intake fruit juice evidence association fruit juice review evidence benefit fiber 
+onset type_2_diabetes nutrition update measure risk benefit exercise person weight weight_loss level activity risk evidence benefit change evidence diet vegetable intake drink association intake fruit juice evidence association fruit juice review evidence benefit fiber 
 glucose tolerance diet exercise combination risk intervention review term change risk medication risk withdrawal vitamin level risk level vitamin risk management information management 
 management type_2_diabetes intervention risk factor blood glucose level range blood glucose people type_2_diabetes combination education benefit insulin blood level urine level risk factor hypertension cholesterol person life expectancy blood pressure risk death outcome blood pressure management blood pressure management result decrease stroke risk effect risk death 
 blood sugar lower blood sugar lower mortality goal treatment glucose goal consultation account risk hypoglycemia life expectancy guideline blood sugar control harm benefit people example people life expectancy year 
 people type_2_diabetes eye examination evidence gum disease scale root plane improvement blood sugar level people evidence improvement blood sugar level month evidence medication gum disease lower blood sugar level 
-diet exercise foundation care amount exercise result exercise blood sugar control body fat content blood level effect weight loss exercise decrease insulin sensitivity resistance train combination type exercise 
-diet weight loss diet type index diet carbohydrate diet blood sugar control calorie diet onset type_2_diabetes remission condition 
+diet exercise foundation care amount exercise result exercise blood sugar control body fat content blood level effect weight_loss exercise decrease insulin sensitivity resistance train combination type exercise 
+diet weight_loss diet type index diet carbohydrate diet blood sugar control calorie diet onset type_2_diabetes remission condition 
 diet general risk advantage diet amount animal product evidence cinnamon blood sugar level people type_2_diabetes 
 education people type_2_diabetes control blood sugar level month change blood sugar week medication evidence intervention mortality medication tablet 
 class medication 
@@ -45,7 +45,7 @@ agent class insulin month class medication inhibitor inhibitor difference agent 
 outcome blood sugar level rate heart disease death enzyme inhibitor kidney_disease outcome medication receptor blocker review blood pressure 
 injections insulin medication people insulin formulation night medication effect blood sugar level insulin insulin control act insulin protamine insulin cost insulin treatment choice 
 vitamin supplementation people type_2_diabetes marker insulin resistance surgery 
-weight loss surgery measure blood sugar level medication surgery mortality mortality risk surgery body mass index surgery option weight blood sugar control epidemiology rate data country 
+weight_loss surgery measure blood sugar level medication surgery mortality mortality risk surgery body mass index surgery option weight blood sugar control epidemiology rate data country 
 people type_2_diabetes case world population world country 
 women risk group south pacific islander sensitivity group disease adult type_2_diabetes children parallel obesity rate type_2_diabetes type united states 
 rate increase population age decrease exercise rate obesity country number people china united states japan epidemic world health organization history information history 

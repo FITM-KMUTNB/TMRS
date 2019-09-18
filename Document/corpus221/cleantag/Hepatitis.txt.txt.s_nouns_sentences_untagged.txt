@@ -1,0 +1,193 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN hepatitis|DS hepatitis|DS hepatitis|DS change|NN cell|NN death|NN body|NN disease|NN gastroenterology|NN symptom|NN skin|NN appetite|NN pain|ST complication|NN liver|NN liver|NN failure|NN liver_cancer|DS duration|NN term|NN term|NN cause|NN alcohol|NN toxin|NN prevention|NN vaccination|NN hepatitis|DS treatment|NN liver|NN transplant|NN frequency|NN case|NN death|NN year|NN 
+hepatitis|DS inflammation|NN liver|NN tissue|NN people|NN symptom|NN discoloration|NN skin|NN white|NN eye|NN appetite|NN vomit|NN tiredness|NN pain|ST hepatitis|DS term|NN month|NN hepatitis|DS progress|NN hepatitis|DS result|NN liver|NN failure|NN time|NN form|NN scare|NN liver|NN liver|NN failure|NN liver_cancer|DS 
+cause|NN hepatitis|DS cause|NN alcohol|NN use|NN medication|NN toxin|NN infection|NN disease|NN hepatitis|DS type|NN hepatitis|DS type|NN hepatitis|DS food|NN water|NN hepatitis|DS mother|NN baby|NN pregnancy|NN childbirth|NN hepatitis|DS blood|NN needle|NN share|NN drug|NN user|NN hepatitis|DS people|NN hepatitis|DS 
+hepatitis|DS immunization|NN case|NN hepatitis|DS treatment|NN activity|NN diet|NN weight_loss|ST hepatitis|DS medication|NN system|NN liver|NN transplant|NN option|NN case|NN 
+hepatitis|DS people|NN hepatitis|DS people|NN hepatitis|DS people|NN united|NN states|NN nash|NN people|NN hepatitis|DS people|NN hepatitis|DS result|NN death|NN year|NN liver|NN scare|NN liver_cancer|DS united|NN states|NN hepatitis|DS people|NN year|NN result|NN death|NN word|NN 
+mean|NN liver|NN -itis|NN 
+mean|NN inflammation|NN content|NN 
+sign|NN symptom|NN hepatitis|DS hepatitis|DS hepatitis|DS cause|NN hepatitis|DS mechanism|NN hepatitis|DS hepatitis|DS diagnosis|NN hepatitis|DS alcoholic|NN screen|NN hepatitis|DS prevention|NN vaccine|NN change|NN treatment|NN hepatitis|DS hepatitis|DS hepatitis|DS hepatitis|DS hepatitis|DS alcoholic|NN hepatitis|DS recommendation|NN hepatitis|DS hepatitis|DS epidemiology|NN hepatitis|DS hepatitis|DS hepatitis|DS history|NN thought|NN state|NN school|NN experiment|NN antigen|NN society|NN culture|NN burden|NN case|NN research|NN direction|NN hepatitis|DS hepatitis|DS population|NN pregnancy|NN reference|NN link|NN 
+sign|NN symptom|NN eye|NN 
+hepatitis|DS spectrum|NN presentation|NN range|NN lack|NN symptom|NN liver|NN failure|NN form|NN hepatitis|DS infection|NN symptom|NN hepatitis|DS sign|NN symptom|NN liver|NN dysfunction|NN inflammation|NN damage|NN organ|NN hepatitis|DS 
+hepatitis|DS phase|NN 
+prodromal|NN phase|NN symptom|NN symptom|NN infection|NN 
+fatigue|ST nausea|ST appetite|NN pain|ST headache|ST fever|ST present|NN case|NN hepatitis|DS phase|NN people|NN symptom|NN urine|NN stool|NN skin|NN white|NN eye|NN prodrome|NN week|NN week|NN symptom|NN prodromal|NN time|NN people|NN liver|NN pain|ST discomfort|NN people|NN spleen|NN people|NN weight_loss|ST recovery|NN phase|NN resolution|NN symptom|NN hepatitis|DS elevation|NN liver|NN lab|NN value|NN liver|NN case|NN hepatitis|DS resolve|NN month|NN hepatitis|DS case|NN month|NN 
+case|NN hepatitis|DS 
+hepatitis|DS hepatitis|DS hepatitis|DS variation|NN symptom|NN cause|NN case|NN hepatitis|DS sign|NN reaction|NN fever|ST inflammation|NN membrane|NN organ|NN type|NN blood|NN cell|NN suppression|NN bone|NN marrow|NN activity|NN hepatitis|DS 
+hepatitis|DS cell|NN death|NN complication|NN hepatitis|DS case|NN hepatitis|DS addition|NN hepatitis|DS complication|NN instance|NN hepatitis|DS rate|NN women|NN hepatitis|DS rate|NN case|NN addition|NN sign|NN hepatitis|DS people|NN sign|NN coagulation|NN study|NN encephalopathy|NN confusion|ST disorientation|NN sleepiness|NN mortality|NN hepatitis|DS result|NN complication|NN sepsis|DS failure|NN kidney_failure|DS hepatitis|DS 
+case|NN hepatitis|DS period|NN 
+hepatitis|DS month|NN hepatitis|DS hepatitis|DS course|NN liver|NN laboratory|NN study|NN screen|NN purpose|NN symptom|NN inflammation|NN patient|NN symptom|NN hepatitis|DS fatigue|ST nausea|ST appetite|NN pain|ST disease|NN process|NN sign|NN disease|NN hepatitis|DS function|NN liver|NN acne|DS hair|NN growth|NN lack|NN period|NN women|NN damage|NN scare|NN liver|NN time|NN cirrhosis|DS condition|NN liver|NN ability|NN function|NN result|NN jaundice|DT weight_loss|ST fluid|NN collection|NN edema|ST leg|NN swell|NN complication|NN encephalopathy|NN syndrome|NN liver_cancer|DS cause|NN 
+cause|NN hepatitis|DS category|NN ischemic|NN 
+agent|NN bacteria|NN parasite|NN 
+drug|NN alcohol|NN liver|NN disease|NN cause|NN liver|NN injury|NN inflammation|NN 
+cause|NN hepatitis|DS predisposition|NN population|NN 
+hepatitis|DS article|NN hepatitis|DS 
+hepatitis|DS type|NN hepatitis|DS hepatitis|DS hepatitis|DS hepatitis|DS hepatitis|DS route|NN country|NN illness|NN hepatitis|DS 
+hepatitis|DS hepatitis|DS hepatitis|DS blood|NN mucous|NN membrane|NN blood|NN body|NN fluid|NN semen|NN secretion|NN particle|NN saliva|NN 
+share|NN utensil|NN transmission|NN fluid|NN sore|NN cut|NN 
+hepatitis|DS hepatitis|DS virus|NN hepatitis|DS hepatitis|DS adult|NN hepatitis|DS infection|NN progress|NN state|NN cirrhosis|DS liver_cancer|DS infection|NN infant|NN children|NN infection|NN 
+hepatitis|DS case|NN hepatitis|DS lead|NN infection|NN hepatitis|DS second|NN cause|NN cirrhosis|DS second|NN hepatitis|DS blood|NN transfusion|NN factor|NN spread|NN hepatitis|DS virus|NN screen|NN blood|NN product|NN hepatitis|DS risk|NN hepatitis|DS blood|NN transfusion|NN hepatitis|DS granulosus|NN 
+liver|NN response|NN symptom|NN hepatitis|DS serum|NN hepatitis|DS infection|NN protozoan|NN plasmodium|NN liver|NN inflammation|NN protozoan|NN cause|NN hepatitis|DS liver|NN abscess|NN 
+worm|NN echinococcus|NN dog|NN tapeworm|NN liver|NN form|NN characteristic|NN hydatid|NN cyst|NN liver|NN fluke|NN hepatica|NN clonorchis|NN bile|NN duct|NN cause|NN hepatitis|DS liver|NN fibrosis|NN hepatitis|DS 
+infection|NN liver|NN result|NN liver|NN abscess|NN hepatitis|DS liver|NN disease|NN abscess|NN bacteria|NN coly|NN bacteria|NN time|NN hepatitis|DS meningitidis|NN salmonella|DS hepatitis|DS infection|NN mycobacteria|NN hepatitis|DS article|NN hepatitis|DS 
+alcohol|NN consumption|NN cause|NN hepatitis|DS cause|NN cirrhosis|DS hepatitis|DS spectrum|NN liver|NN disease|NN 
+range|NN order|NN severity|NN reversibility|NN steatosis|NN hepatitis|DS cirrhosis|DS liver_cancer|DS hepatitis|DS exposure|NN alcohol|NN alcoholics|NN risk|NN factor|NN development|NN hepatitis|DS quantity|NN duration|NN alcohol|NN intake|NN alcohol|NN intake|NN excess|NN gram|NN alcohol|NN day|NN men|NN gram|NN day|NN women|NN development|NN alcoholic|NN hepatitis|DS beer|NN ounce|NN wine|NN alcohol|NN hepatitis|DS liver|NN symptom|NN hepatitis|DS liver|NN failure|NN hepatitis|DS 
+agent|NN medication|NN toxin|NN supplement|NN hepatitis|DS spectrum|NN liver|NN injury|NN hepatitis|DS hepatitis|DS liver|NN failure|NN medication|NN liver|NN injury|NN variety|NN mechanism|NN cell|NN damage|NN disruption|NN cell|NN metabolism|NN change|NN drug|NN exhibit|NN liver|NN damage|NN cause|NN reaction|NN individual|NN variation|NN mechanism|NN liver|NN injury|NN latency|NN period|NN exposure|NN development|NN illness|NN 
+type|NN drug|NN liver|NN injury|NN analgesic|NN antibiotics|NN steroid|NN contraceptive|NN steroid|NN therapy|NN treatment|NN cause|NN liver|NN injury|NN toxicity|NN cause|NN liver|NN failure|NN united|NN states|NN 
+remedy|NN supplement|NN cause|NN hepatitis|DS cause|NN hepatitis|DS drug|NN liver|NN injury|NN network|NN case|NN supplement|NN united|NN states|NN supplement|NN drug|NN food|NN drug|NN administration|NN institute|NN health|NN consumer|NN prescription|NN compound|NN liver|NN injury|NN 
+exposure|NN ingestion|NN inhalation|NN skin|NN absorption|NN 
+toxin|NN carbon|NN tetrachloride|NN mushroom|NN liver|NN disease|NN article|NN liver|NN disease|NN 
+hepatitis|DS spectrum|NN liver|NN disease|NN severity|NN reversibility|NN liver|NN disease|NN hepatitis|DS nash|NN cirrhosis|DS liver_cancer|DS spectrum|NN liver|NN disease|NN 
+liver|NN disease|NN people|NN history|NN alcohol|NN use|NN syndrome|NN obesity|NN insulin|NN resistance|NN time|NN liver|NN disease|NN hepatitis|DS liver|NN cell|NN death|NN liver|NN inflammation|NN fibrosis|NN factor|NN progression|NN nash|NN obesity|NN age|NN female|NN gender|NN mellitus|NN hypertension|DS alt|NN ast|NN level|NN ratio|NN platelet|NN count|NN score|NN 
+stage|NN patient|NN quadrant|NN pain|ST diagnosis|NN basis|NN liver|NN function|NN test|NN disease|NN symptom|NN hepatitis|DS image|NN liver|NN liver|NN biopsy|NN inflammation|NN fibrosis|NN characteristic|NN patient|NN nash|NN cirrhosis|DS nash|NN cause|NN liver|NN disease|NN united|NN states|NN article|NN hepatitis|DS 
+hepatitis|DS disease|NN response|NN liver|NN cell|NN disease|NN predisposition|NN antigen|NN response|NN disease|NN diagnosis|NN patient|NN hepatitis|DS antibody|NN muscle|NN antibody|NN antibody|NN autoantibody|NN hepatitis|DS antibody|NN liver|NN kidney|NN liver|NN antigen|NN sla|NN hepatitis|DS drug|NN liver|NN transplant|NN hepatitis|DS virus|NN measle|NN 
+hepatitis|DS spectrum|NN hepatitis|DS liver|NN failure|NN patient|NN time|NN diagnosis|NN basis|NN liver|NN function|NN test|NN case|NN sign|NN symptom|NN hepatitis|DS disease|NN hepatitis|DS women|NN patient|NN sex|NN age|NN patient|NN sign|NN symptom|NN fatigue|ST anorexia|ST acne|DS arthritis|DS pleurisy|DS colitis|NN rash|ST hepatitis|DS risk|NN cirrhosis|DS risk|NN liver_cancer|DS year|NN disease|NN 
+people|NN hepatitis|DS disease|NN hepatitis|DS disease|NN liver|NN cirrhosis|DS cholangitis|NN 
+disease|NN scare|NN fibrosis|NN cirrhosis|DS liver|NN 
+cause|NN hepatitis|DS deficiency|NN wilsons|NN disease|NN deficiency|NN mutation|NN gene|NN result|NN accumulation|NN protein|NN liver|NN cell|NN liver|NN disease|NN wilsons|NN disease|NN disease|NN storage|NN mineral|NN amount|NN iron|NN body|NN site|NN liver|NN cirrhosis|DS wilsons|NN disease|NN excess|NN amount|NN copper|NN liver|NN brain|NN cirrhosis|DS dementia|DS 
+liver|NN deficiency|NN wilsons|NN disease|NN hepatitis|DS period|NN childhood|NN adulthood|NN onset|NN disease|NN age|NN hepatitis|DS article|NN hepatitis|DS 
+hepatitis|DS shock|NN liver|NN result|NN blood|NN flow|NN liver|NN shock|NN heart_failure|DS insufficiency|NN condition|NN heart_failure|DS shock|NN sepsis|DS 
+blood|NN test|NN person|NN hepatitis|DS level|NN enzyme|NN ast|NN alt|NN 
+condition|NN cause|NN 
+hepatitis|DS liver|NN damage|NN article|NN hepatitis|DS 
+hepatitis|DS neonate|NN variety|NN cause|NN adult|NN infection|NN hepatitis|DS rubella|DS cytomegalovirus|NN syphilis|DS hepatitis|DS abnormality|NN cyst|NN liver|NN injury|NN hepatitis|DS disease|NN glycogen|NN storage|NN disorder|NN storage|NN disorder|NN hepatitis|DS case|NN biopsy|NN multinucleate|NN cell|NN liver|NN tissue|NN disease|NN cell|NN hepatitis|DS infection|NN disorder|NN drug|NN toxicity|NN mechanism|NN 
+mechanism|NN cause|NN hepatitis|DS 
+insult|NN liver|NN injury|NN activation|NN response|NN fibrosis|NN cirrhosis|DS hepatitis|DS stage|NN liver|NN disease|NN 
+pathway|NN hepatitis|DS case|NN hepatitis|DS apoptosis|NN cell|NN death|NN infection|NN liver|NN cell|NN arm|NN system|NN response|NN damage|NN death|NN strength|NN response|NN type|NN cell|NN ability|NN virus|NN defense|NN infection|NN clearance|NN disease|NN persistence|NN disease|NN virus|NN presence|NN virus|NN liver|NN cell|NN result|NN wave|NN inflammation|NN injury|NN wound|ST heal|NN time|NN lead|NN scare|NN fibrosis|NN carcinoma|NN individual|NN response|NN risk|NN infection|NN killer|NN cell|NN driver|NN response|NN environment|NN result|NN recruitment|NN type|NN response|NN hepatitis|DS killer|NN cell|NN function|NN hepatitis|DS 
+hepatitis|DS liver|NN disease|NN culmination|NN cascade|NN event|NN injury|NN 
+case|NN hepatitis|DS cascade|NN change|NN metabolism|NN obesity|NN insulin|NN resistance|NN hepatitis|DS excess|NN alcohol|NN use|NN culprit|NN event|NN progression|NN event|NN accumulation|NN acid|NN breakdown|NN product|NN liver|NN cell|NN process|NN process|NN ability|NN homeostasis|NN effect|NN molecule|NN set|NN stress|NN response|NN time|NN deposition|NN system|NN receptor|NN production|NN cause|NN liver|NN cell|NN injury|NN death|NN event|NN transition|NN hepatitis|DS set|NN injury|NN fibrosis|NN set|NN event|NN cirrhosis|DS carcinoma|NN change|NN evidence|NN injury|NN cell|NN death|NN apoptosis|NN necrosis|NN evidence|NN inflammation|NN zone|NN liver|NN variable|NN degree|NN fibrosis|NN body|NN diagnosis|NN cause|NN alt|NN hepatitis|DS liver|NN disease|NN hepatitis|DS hepatitis|DS wilsons|NN disease|NN deficiency|NN ischemic|NN hepatitis|DS elevation|NN ast|NN liver|NN disease|NN 
+diagnosis|NN hepatitis|DS basis|NN patient|NN sign|NN symptom|NN history|NN substance|NN use|NN history|NN blood|NN test|NN image|NN liver|NN biopsy|NN general|NN hepatitis|DS cause|NN hepatitis|DS patient|NN blood|NN test|NN picture|NN diagnosis|NN cause|NN hepatitis|DS cause|NN blood|NN test|NN case|NN liver|NN biopsy|NN gold|NN standard|NN diagnosis|NN analysis|NN extent|NN pattern|NN inflammation|NN fibrosis|NN liver|NN biopsy|NN test|NN risk|NN bleed|NN patient|NN liver|NN injury|NN cirrhosis|DS 
+blood|NN test|NN liver|NN enzyme|NN autoantibody|NN acid|NN test|NN hepatitis|DS virus|NN blood|NN chemistry|NN blood|NN count|NN characteristic|NN pattern|NN liver|NN enzyme|NN abnormality|NN cause|NN stage|NN hepatitis|DS ast|NN alt|NN case|NN hepatitis|DS patient|NN symptom|NN degree|NN elevation|NN level|NN predominance|NN ast|NN 
+alt|NN elevation|NN ratio|NN ast|NN alt|NN diagnosis|NN 
+change|NN liver|NN tissue|NN liver|NN surface|NN cirrhosis|DS level|NN detail|NN visualization|NN structure|NN vessel|NN tumor|NN liver|NN steatosis|NN cirrhosis|DS image|NN test|NN liver|NN inflammation|NN hepatitis|DS fibrosis|NN liver|NN biopsy|NN test|NN inflammation|NN fibrosis|NN liver|NN hepatitis|DS article|NN hepatitis|DS 
+hepatitis|DS blood|NN test|NN level|NN antigen|NN hepatitis|DS surface|NN core|NN antigen|NN antibody|NN hepatitis|DS surface|NN antibody|NN hepatitis|DS antibody|NN infection|NN week|NN antibody|NN blood|NN infection|NN recovery|NN antibody|NN body|NN year|NN patient|NN antibody|NN antibody|NN virus|NN infection|NN recovery|NN vaccination|NN 
+case|NN hepatitis|DS blood|NN test|NN virus|NN antigen|NN component|NN particle|NN antibody|NN combination|NN antigen|NN antibody|NN positivity|NN information|NN stage|NN infection|NN degree|NN replication|NN infectivity|NN virus|NN 
+factor|NN hepatitis|DS ash|NN nonalcoholic|NN hepatitis|DS nash|NN history|NN alcohol|NN use|NN abuse|NN patient|NN alcohol|NN use|NN diagnosis|NN hepatitis|DS 
+alcohol|NN diagnosis|NN hepatitis|DS obesity|NN syndrome|NN 
+case|NN alcoholic|NN hepatitis|DS pattern|NN liver|NN enzyme|NN abnormality|NN hepatitis|DS ratio|NN hepatitis|DS ratio|NN 
+note|NN liver|NN biopsy|NN find|NN patient|NN ash|NN nash|NN presence|NN infiltration|NN necrosis|NN apoptosis|NN form|NN degeneration|NN body|NN fibrosis|NN vein|NN hepatitis|DS 
+purpose|NN screen|NN hepatitis|DS people|NN disease|NN treatment|NN disease|NN progression|NN transmission|NN hepatitis|DS 
+hepatitis|DS cause|NN illness|NN liver|NN disease|NN 
+role|NN screen|NN status|NN people|NN risk|NN virus|NN people|NN liver|NN disease|NN hepatitis|DS infection|NN liver|NN failure|NN people|NN group|NN hepatitis|DS vaccine|NN 
+risk|NN need|NN screen|NN 
+people|NN habit|NN wash|NN hand|NN diaper|NN people|NN access|NN water|NN people|NN contact|NN contact|NN hepatitis|DS drug|NN user|NN people|NN liver|NN disease|NN people|NN area|NN hepatitis|DS 
+presence|NN hepatitis|DS blood|NN infection|NN virus|NN vaccination|NN hepatitis|DS 
+routine|NN hepatitis|DS screen|NN population|NN population|NN people|NN 
+country|NN prevalence|NN hepatitis|DS 
+population|NN state|NN parent|NN country|NN prevalence|NN hepatitis|DS 
+population|NN drug|NN user|NN men|NN sex|NN men|NN contact|NN sex|NN people|NN hepatitis|DS therapy|NN liver|NN enzyme|NN cause|NN blood|NN organ|NN tissue|NN donor|NN 
+screen|NN blood|NN test|NN hepatitis|DS surface|NN antigen|NN 
+second|NN test|NN blood|NN sample|NN antibody|NN hepatitis|DS core|NN antigen|NN infection|NN people|NN blood|NN test|NN hepatitis|DS vaccine|NN infection|NN hepatitis|DS 
+screen|NN people|NN risk|NN hepatitis|DS infection|NN population|NN people|NN 
+drug|NN user|NN past|NN drug|NN user|NN men|NN sex|NN men|NN past|NN hemodialysis|NN recipient|NN tattoo|NN set|NN recipient|NN blood|NN product|NN organ|NN united|NN states|NN adult|NN state|NN mother|NN worker|NN set|NN injury|NN blood|NN organ|NN donor|NN sex|NN worker|NN 
+people|NN group|NN exposure|NN screen|NN research|NN screen|NN interval|NN screen|NN men|NN sex|NN men|NN people|NN exposure|NN risk|NN 
+screen|NN blood|NN test|NN hepatitis|DS virus|NN antibody|NN 
+hepatitis|DS virus|NN antibody|NN test|NN disease|NN prevention|NN vaccine|NN immunization|NN schedule|NN united|NN states|NN age|NN year|NN hepatitis|DS article|NN hepatitis|DS vaccine|NN 
+hepatitis|DS vaccine|NN children|NN age|NN risk|NN disease|NN 
+children|NN month|NN age|NN vaccination|NN shot|NN muscle|NN dose|NN month|NN age|NN month|NN dose|NN adult|NN type|NN vaccine|NN 
+vaccine|NN hepatitis|DS dose|NN month|NN manufacturer|NN vaccine|NN hepatitis|DS hepatitis|DS dose|NN hepatitis|DS article|NN hepatitis|DS vaccine|NN 
+routine|NN vaccination|NN children|NN age|NN hepatitis|DS vaccine|NN risk|NN 
+routine|NN vaccination|NN hepatitis|DS dose|NN shot|NN muscle|NN hospital|NN 
+dose|NN child|NN month|NN 
+baby|NN mother|NN hepatitis|DS surface|NN antigen|NN positivity|NN dose|NN addition|NN vaccine|NN hepatitis|DS globulin|NN hour|NN birth|NN 
+infection|NN year|NN life|NN 
+combination|NN formulation|NN hepatitis|DS vaccine|NN 
+vaccine|NN united|NN states|NN hepatitis|DS change|NN hepatitis|DS 
+hepatitis|DS route|NN mainstay|NN prevention|NN vaccination|NN hygiene|NN access|NN water|NN handle|NN sewage|NN hepatitis|DS 
+hepatitis|DS blood|NN fluid|NN prevention|NN screen|NN blood|NN transfusion|NN use|NN injection|NN drug|NN needle|NN sharp|NN practice|NN set|NN sex|NN practice|NN hepatitis|DS 
+hepatitis|DS virus|NN person|NN hepatitis|DS virus|NN prevention|NN effort|NN spread|NN hepatitis|DS 
+people|NN hepatitis|DS infection|NN risk|NN superinfection|NN hepatitis|DS virus|NN strategy|NN hepatitis|DS hepatitis|DS 
+hepatitis|DS route|NN blood|NN mother|NN fetus|NN 
+mainstay|NN hepatitis|DS prevention|NN hepatitis|DS hygiene|NN water|NN practice|NN hepatitis|DS 
+alcohol|NN consumption|NN hepatitis|DS cirrhosis|DS recommendation|NN alcohol|NN consumption|NN 
+drink|NN day|NN 
+drink|NN week|NN men|NN 
+drink|NN day|NN 
+drink|NN week|NN 
+united|NN states|NN immunization|NN decrease|NN hospital|NN admission|NN expense|NN hepatitis|DS hepatitis|DS 
+united|NN states|NN case|NN hepatitis|DS group|NN decrease|NN children|NN adolescent|NN implementation|NN guideline|NN hepatitis|DS 
+hepatitis|DS infection|NN year|NN data|NN decline|NN needle|NN exchange|NN hepatitis|DS 
+people|NN hepatitis|DS symptom|NN number|NN people|NN disease|NN estimate|NN program|NN alcoholics|NN death|NN cirrhosis|DS success|NN incidence|NN hepatitis|DS treatment|NN 
+treatment|NN hepatitis|DS form|NN severity|NN disease|NN cause|NN 
+hepatitis|DS article|NN hepatitis|DS 
+hepatitis|DS state|NN hospitalization|NN treatment|NN measure|NN hydration|NN nutrition|NN 
+people|NN hepatitis|DS virus|NN liver|NN failure|NN failure|NN liver|NN disease|NN hepatitis|DS mortality|NN risk|NN factor|NN age|NN hepatitis|DS case|NN therapy|NN liver|NN transplant|NN hepatitis|DS article|NN hepatitis|DS 
+patient|NN effect|NN treatment|NN age|NN condition|NN illness|NN 
+patient|NN warrant|NN hospitalization|NN sign|NN encephalopathy|NN laboratory|NN sign|NN prothrombin|NN time|NN serum|NN albumin|NN serum|NN bilirubin|NN 
+case|NN patient|NN therapy|NN case|NN hepatitis|DS analogue|NN 
+dearth|NN trial|NN data|NN drug|NN treat|NN resistance|NN expert|NN treatment|NN case|NN 
+hepatitis|DS management|NN replication|NN progression|NN disease|NN drug|NN treatment|NN date|NN united|NN states|NN 
+alpha|NN therapy|NN hepatitis|DS side|NN effect|NN removal|NN therapy|NN treatment|NN indication|NN polyethylene|NN glycol|NN nucleoside|NN analogue|NN peg|NN week|NN injection|NN resistance|NN antiviral|NN monitor|NN peg|NN cost|NN year|NN united|NN states|NN medication|NN treatment|NN duration|NN week|NN antiviral|NN treatment|NN patient|NN minimum|NN year|NN peg|NN patient|NN level|NN activity|NN patient|NN cirrhosis|DS nucleoside|NN analogue|NN treatment|NN world|NN treatment|NN area|NN agent|NN course|NN treatment|NN minimum|NN year|NN minimum|NN month|NN consolidation|NN therapy|NN 
+response|NN therapy|NN patient|NN therapy|NN response|NN patient|NN consolidation|NN therapy|NN year|NN patient|NN reactivation|NN treatment|NN patient|NN resistance|NN treatment|NN duration|NN antiviral|NN treatment|NN patient|NN resistance|NN part|NN regimen|NN nucleotide|NN analogue|NN patient|NN resistance|NN therapy|NN resistance|NN hepatitis|DS treatment|NN choice|NN patient|NN patient|NN treatment|NN resistance|NN nucleotide|NN analogue|NN drug|NN infection|NN patient|NN treatment|NN resistance|NN 
+treatment|NN peg|NN subject|NN patient|NN physician|NN preference|NN treatment|NN initiation|NN recommendation|NN association|NN study|NN liver|NN disease|NN association|NN study|NN liver|NN level|NN status|NN alt|NN level|NN case|NN family|NN history|NN liver|NN biopsy|NN patient|NN cirrhosis|DS treatment|NN status|NN alt|NN level|NN recommendation|NN level|NN level|NN level|NN level|NN patient|NN cirrhosis|DS treatment|NN evaluation|NN liver|NN transplantation|NN case|NN treatment|NN treatment|NN term|NN treatment|NN hepatitis|DS article|NN hepatitis|DS 
+contrast|NN hepatitis|DS progression|NN hepatitis|DS goal|NN hepatitis|DS treatment|NN prevention|NN carcinoma|NN way|NN risk|NN response|NN load|NN week|NN treatment|NN completion|NN cure|NN treatment|NN drug|NN act|NN peg|NN combination|NN basis|NN therapy|NN duration|NN response|NN treatment|NN genotype|NN agent|NN area|NN country|NN agent|NN agent|NN target|NN protein|NN replication|NN class|NN 
+protease|NN inhibitor|NN inhibitor|NN inhibitor|NN 
+drug|NN combination|NN patient|NN genotype|NN genotype|NN genotype|NN united|NN states|NN world|NN act|NN regimen|NN therapy|NN combination|NN week|NN patient|NN fibrosis|NN cirrhosis|DS patient|NN disease|NN need|NN week|NN treatment|NN fibrosis|NN cirrhosis|DS treatment|NN week|NN cost|NN factor|NN access|NN drug|NN nation|NN cost|NN regimen|NN 
+association|NN study|NN liver|NN disease|NN disease|NN society|NN treatment|NN patient|NN hepatitis|DS infection|NN condition|NN life|NN expectancy|NN hepatitis|DS article|NN hepatitis|DS 
+hepatitis|DS treatment|NN 
+alpha|NN activity|NN basis|NN hepatitis|DS article|NN hepatitis|DS 
+hepatitis|DS treatment|NN hepatitis|DS rest|NN nutrition|NN hydration|NN hospitalization|NN case|NN women|NN hepatitis|DS 
+treatment|NN hepatitis|DS treatment|NN alcoholism|DS alcohol|NN reversal|NN liver|NN disease|NN life|NN patient|NN disease|NN stage|NN benefit|NN prevention|NN liver|NN injury|NN addition|NN referral|NN psychotherapy|NN treatment|NN program|NN treatment|NN evaluation|NN treatment|NN patient|NN sign|NN symptom|NN encephalopathy|NN infection|NN 
+hepatitis|DS prognosis|NN treatment|NN patient|NN month|NN evidence|NN treatment|NN life|NN month|NN mortality|NN treatment|NN option|NN inhibitor|NN cs|NN cs|NN cs|NN data|NN cs|NN cs|NN mortality|NN patient|NN infection|NN kidney_failure|DS pancreatitis|DS case|NN case|NN case|NN basis|NN lieu|NN cs|NN evidence|NN treatment|NN cs|NN data|NN evidence|NN benefit|NN placebo|NN drug|NN treatment|NN patient|NN risk|NN term|NN month|NN 
+evidence|NN milk|NN thistle|NN extract|NN survival|NN liver|NN disease|NN liver|NN test|NN serum|NN bilirubin|NN side|NN effect|NN recommendation|NN milk|NN thistle|NN study|NN recommendation|NN 
+people|NN hepatitis|DS bed|NN rest|NN activity|NN diet|NN people|NN nausea|ST food|NN day|NN bulk|NN intake|NN part|NN day|NN phase|NN disease|NN feed|NN patient|NN food|NN intake|NN nausea|ST vomit|NN 
+people|NN hepatitis|DS drug|NN liver|NN treatment|NN option|NN hepatitis|DS harm|NN development|NN hepatitis|DS 
+precaution|NN isolation|NN isolation|NN case|NN incontinence|NN hepatitis|DS bleed|NN hepatitis|DS hepatitis|DS 
+patient|NN hepatitis|DS infection|NN complication|NN infection|NN 
+hepatitis|DS infection|NN course|NN recovery|NN patient|NN factor|NN outcome|NN condition|NN present|NN symptom|NN encephalopathy|NN mortality|NN rate|NN hepatitis|DS total|NN case|NN hepatitis|DS rate|NN population|NN infection|NN hepatitis|DS women|NN 
+contrast|NN hepatitis|DS hepatitis|DS risk|NN hepatitis|DS cirrhosis|DS patient|NN hepatitis|DS 
+complication|NN hepatitis|DS pancreatitis|DS neuropathy|NN hepatitis|DS 
+course|NN case|NN hepatitis|DS hepatitis|DS complication|NN 
+hepatitis|DS hepatitis|DS 
+case|NN hepatitis|DS hepatitis|DS women|NN case|NN mortality|NN rate|NN case|NN hepatitis|DS rise|NN patient|NN recovery|NN 
+liver|NN transplantation|NN patient|NN liver|NN failure|NN 
+hepatitis|DS infection|NN case|NN hepatitis|DS hepatitis|DS phenomenon|NN hepatitis|DS 
+hepatitis|DS infection|NN progress|NN form|NN age|NN patient|NN increase|NN rate|NN progression|NN case|NN infant|NN risk|NN adult|NN survival|NN rate|NN hepatitis|DS range|NN case|NN case|NN cirrhosis|DS 
+patient|NN hepatitis|DS time|NN hepatitis|DS infection|NN people|NN hepatitis|DS hepatitis|DS infection|NN liver|NN disease|NN progression|NN 
+hepatitis|DS cirrhosis|DS estimate|NN cirrhosis|DS prevalence|NN year|NN infection|NN cause|NN mortality|NN hepatitis|DS end|NN stage|NN liver|NN disease|NN carcinoma|NN term|NN complication|NN cause|NN death|NN hepatitis|DS 
+rate|NN mortality|NN increase|NN progression|NN liver|NN disease|NN 
+series|NN patient|NN cirrhosis|DS survival|NN rate|NN survival|NN rate|NN drop|NN cirrhosis|DS 
+epidemiology|NN hepatitis|DS hepatitis|DS 
+hepatitis|DS world|NN outbreak|NN epidemics|NN contamination|NN water|NN food|NN source|NN hepatitis|DS infection|NN children|NN age|NN infection|NN infant|NN children|NN illness|NN contrast|NN adult|NN infection|NN rate|NN resource|NN country|NN sanitation|NN population|NN region|NN children|NN year|NN rate|NN disease|NN outbreak|NN availability|NN childhood|NN vaccine|NN infection|NN united|NN states|NN incidence|NN rate|NN infection|NN adult|NN adult|NN illness|NN population|NN risk|NN region|NN men|NN sex|NN men|NN exposure|NN primate|NN individual|NN clote|NN disorder|NN clote|NN factor|NN individual|NN history|NN liver|NN disease|NN hepatitis|DS hepatitis|DS drug|NN user|NN hepatitis|DS article|NN hepatitis|DS 
+hepatitis|DS cause|NN hepatitis|DS world|NN carrier|NN virus|NN united|NN states|NN patient|NN hepatitis|DS infection|NN exposure|NN lifetime|NN carrier|NN virus|NN risk|NN infection|NN drug|NN user|NN individual|NN behavior|NN worker|NN individual|NN history|NN transfusion|NN organ|NN transplant|NN patient|NN dialysis|NN patient|NN process|NN death|NN world|NN hepatitis|DS region|NN east|NN adult|NN carrier|NN carrier|NN rate|NN nation|NN population|NN region|NN transmission|NN exposure|NN birth|NN contact|NN infant|NN hepatitis|DS article|NN hepatitis|DS 
+hepatitis|DS cause|NN liver|NN cirrhosis|DS carcinoma|NN reason|NN liver|NN transplantation|NN complication|NN people|NN world|NN disease|NN world|NN population|NN region|NN south|NN prevalence|NN population|NN rate|NN hepatitis|DS infection|NN contamination|NN schistosomiasis|NN treatment|NN united|NN states|NN adult|NN hepatitis|DS people|NN group|NN people|NN prevalence|NN population|NN carrier|NN hepatitis|DS infection|NN status|NN mode|NN transmission|NN hepatitis|DS virus|NN exposure|NN blood|NN product|NN blood|NN transfusion|NN drug|NN injection|NN history|NN drug|NN injection|NN risk|NN factor|NN hepatitis|DS population|NN individual|NN behavior|NN infant|NN mother|NN worker|NN hepatitis|DS article|NN hepatitis|DS 
+hepatitis|DS virus|NN hepatitis|DS context|NN hepatitis|DS virus|NN contact|NN needle|NN hepatitis|DS region|NN united|NN states|NN northern|NN population|NN risk|NN drug|NN user|NN individual|NN transfusion|NN hepatitis|DS hepatitis|DS virus|NN individual|NN hepatitis|DS article|NN hepatitis|DS 
+hepatitis|DS hepatitis|DS outbreak|NN epidemics|NN contamination|NN water|NN source|NN death|NN people|NN virus|NN adult|NN hepatitis|DS women|NN hepatitis|DS infection|NN hepatitis|DS trimester|NN mortality|NN rate|NN individual|NN system|NN organ|NN transplant|NN recipient|NN infection|NN united|NN states|NN rate|NN world|NN east|NN genotype|NN world|NN evidence|NN hepatitis|DS infection|NN animal|NN reservoir|NN infection|NN hepatitis|DS 
+hepatitis|DS form|NN mortality|NN people|NN men|NN women|NN risk|NN complication|NN secondary|NN body|NN fat|NN difference|NN alcohol|NN metabolism|NN factor|NN age|NN binge|NN pattern|NN status|NN obesity|NN hepatitis|DS people|NN hepatitis|DS population|NN presence|NN hepatitis|DS virus|NN disease|NN progression|NN cirrhosis|DS carcinoma|NN mortality|NN obesity|NN likelihood|NN progression|NN cirrhosis|DS individual|NN alcoholic|NN hepatitis|DS proportion|NN individual|NN progress|NN cirrhosis|DS hepatitis|DS 
+hepatitis|DS nash|NN reason|NN liver|NN transplantation|NN united|NN states|NN year|NN supplant|NN liver|NN disease|NN hepatitis|DS population|NN prevalence|NN nash|NN world|NN patient|NN cirrhosis|DS year|NN progress|NN carcinoma|NN prevalence|NN carcinoma|NN nash|NN cause|NN cirrhosis|DS patient|NN united|NN states|NN population|NN history|NN hepatitis|DS thought|NN 
+account|NN syndrome|NN hepatitis|DS 
+clay|NN tablet|NN handbook|NN observation|NN jaundice|DT 
+liver|NN home|NN soul|NN find|NN jaundice|DT attack|NN liver|NN devil|NN hippocrates|NN documentation|NN epidemic|NN jaundice|DT course|NN cohort|NN patient|NN week|NN 
+bile|NN liver|NN phlegm|NN blood|NN eruption|NN patient|NN talk|NN nonsense|NN bark|NN dog|NN 
+condition|NN war|NN jaundice|DT role|NN cause|NN mortality|NN troop|NN war|NN war|NN world|NN war|NN world|NN war|NN estimate|NN soldier|NN hepatitis|DS 
+soldier|NN vaccine|NN disease|NN fever|ST vaccine|NN serum|NN epidemics|NN hepatitis|DS researcher|NN epidemics|NN agent|NN fever|ST virus|NN case|NN jaundice|DT month|NN vaccination|NN patient|NN 
+seed|NN virus|NN strain|NN case|NN jaundice|DT vaccination|NN state|NN school|NN experiment|NN 
+new|NN york|NN university|NN researcher|NN research|NN experiment|NN children|NN state|NN school|NN new|NN york|NN facility|NN hepatitis|DS infection|NN student|NN body|NN 
+student|NN gamma|NN type|NN antibody|NN 
+protection|NN infection|NN antibody|NN hepatitis|DS virus|NN student|NN 
+student|NN children|NN 
+research|NN controversy|NN people|NN ethics|NN target|NN population|NN 
+henry|NN critics|NN article|NN new|NN journal|NN medicine|NN parent|NN risk|NN consent|NN research|NN benefit|NN expense|NN children|NN family|NN children|NN research|NN project|NN admission|NN school|NN support|NN resource|NN community|NN support|NN research|NN term|NN benefit|NN understand|NN hepatitis|DS virus|NN example|NN debate|NN ethics|NN antigen|NN 
+leap|NN research|NN 
+researcher|NN research|NN hepatitis|DS lipoprotein|NN genetics|NN 
+globe|NN collect|NN blood|NN sample|NN interplay|NN disease|NN environment|NN genetics|NN goal|NN intervention|NN individual|NN interaction|NN blood|NN patient|NN hemophilia|NN transfusion|NN protein|NN blood|NN aborigine|NN protein|NN antigen|NN focus|NN research|NN 
+prevalence|NN protein|NN blood|NN patient|NN country|NN association|NN antigen|NN disease|NN leukemia|DS syndrome|NN conclusion|NN antigen|NN hepatitis|DS 
+hepatitis|DS londons|NN hospital|NN particle|NN association|NN surface|NN hepatitis|DS virus|NN antigen|NN hepatitis|DS surface|NN antigen|NN 
+antigen|NN hepatitis|DS vaccine|NN plasma|NN prize|NN medicine|NN 
+citation|NN society|NN culture|NN burden|NN 
+hepatitis|DS account|NN portion|NN expenditure|NN nation|NN rise|NN country|NN hepatitis|DS infection|NN event|NN cost|NN united|NN states|NN cost|NN case|NN average|NN work|NN day|NN adult|NN report|NN hospitalization|NN hepatitis|DS cost|NN average|NN cost|NN effectiveness|NN study|NN vaccination|NN adult|NN combination|NN hepatitis|DS vaccination|NN children|NN risk|NN group|NN people|NN area|NN worker|NN 
+hepatitis|DS account|NN percentage|NN health|NN care|NN spend|NN region|NN south|NN koreas|NN health|NN care|NN expenditure|NN cost|NN majority|NN sum|NN disease|NN symptom|NN complication|NN hepatitis|DS infection|NN united|NN states|NN hospitalization|NN cost|NN year|NN number|NN introduction|NN drug|NN therapy|NN vaccination|NN campaign|NN 
+people|NN hepatitis|DS user|NN health|NN care|NN system|NN person|NN hepatitis|DS united|NN states|NN cost|NN number|NN people|NN cirrhosis|DS cost|NN people|NN cirrhosis|DS time|NN effect|NN hepatitis|DS cost|NN study|NN cost|NN united|NN states|NN canada|NN cost|NN cirrhosis|DS expenditure|NN virus|NN peak|NN year|NN case|NN 
+outbreak|NN hepatitis|DS virus|NN united|NN states|NN history|NN people|NN food|NN restaurant|NN people|NN restaurant|NN virus|NN result|NN outbreak|NN attention|NN health|NN official|NN emergency|NN medicine|NN physician|NN increase|NN case|NN hepatitis|DS county|NN investigation|NN source|NN outbreak|NN use|NN onion|NN 
+restaurant|NN onion|NN stock|NN farm|NN time|NN onion|NN use|NN water|NN crop|NN irrigation|NN rinse|NN ice|NN handle|NN vegetable|NN individual|NN onion|NN outbreak|NN hepatitis|DS state|NN magnitude|NN restaurant|NN use|NN bucket|NN onion|NN plant|NN number|NN vector|NN infection|NN outbreak|NN restaurant|NN source|NN people|NN hepatitis|DS globulin|NN restaurant|NN contact|NN research|NN direction|NN hepatitis|DS 
+paper|NN mouse|NN model|NN hepatitis|DS infection|NN protein|NN clearance|NN virus|NN implication|NN disease|NN 
+hepatitis|DS 
+march|NN group|NN china|NN article|NN development|NN vaccine|NN hepatitis|DS march|NN united|NN states|NN government|NN process|NN recruit|NN participant|NN phase|NN trial|NN drug|NN population|NN 
+person|NN burden|NN study|NN likelihood|NN hepatitis|DS virus|NN time|NN individual|NN prevalence|NN people|NN drug|NN use|NN risk|NN factor|NN infection|NN study|NN prevalence|NN drug|NN population|NN study|NN men|NN sex|NN men|NN prevalence|NN hepatitis|DS antibody|NN drug|NN pregnancy|NN hepatitis|DS 
+transmission|NN contributor|NN case|NN year|NN transmission|NN mother|NN neonate|NN country|NN transmission|NN neonate|NN exposure|NN blood|NN secretion|NN birth|NN risk|NN progression|NN infection|NN adult|NN virus|NN neonate|NN subject|NN transmission|NN risk|NN transmission|NN blood|NN 
+risk|NN transmission|NN screen|NN women|NN visit|NN women|NN vaccine|NN evidence|NN association|NN study|NN liver|NN disease|NN therapy|NN women|NN load|NN body|NN evidence|NN therapy|NN trimester|NN transmission|NN neonate|NN review|NN pregnancy|NN registry|NN risk|NN anomaly|NN reason|NN potency|NN risk|NN resistance|NN drug|NN review|NN meta-analysis|NN trimester|NN transmission|NN effect|NN 
+state|NN evidence|NN mode|NN delivery|NN transmission|NN mother|NN 
+neonate|NN mother|NN hepatitis|DS globulin|NN vaccine|NN hour|NN birth|NN infant|NN vaccine|NN hepatitis|DS 
+estimate|NN rate|NN transmission|NN range|NN review|NN meta-analysis|NN risk|NN women|NN study|NN risk|NN transmission|NN women|NN study|NN risk|NN transmission|NN women|NN risk|NN transmission|NN virus|NN mother|NN blood|NN 
+evidence|NN mode|NN delivery|NN effect|NN transmission|NN 
+women|NN guideline|NN nipple|NN risk|NN transmission|NN hepatitis|DS 
+women|NN contract|NN risk|NN hepatitis|DS mortality|NN rate|NN trimester|NN review|NN meta-analysis|NN study|NN people|NN rate|NN women|NN failure|NN 

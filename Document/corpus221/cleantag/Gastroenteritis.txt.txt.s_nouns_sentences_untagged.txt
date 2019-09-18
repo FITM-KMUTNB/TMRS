@@ -1,0 +1,57 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN gastroenteritis|DS name|NN gastroenteritis|DS gastroenteritis|DS gastroenteritis|DS gastroenteritis|DS gastroenteritis|DS gastroenteritis|DS gastroenteritis|DS gastroenteritis|DS rotavirus|NN adenovirus|NN astrovirus|NN 
+virus|NN particle|NN magnification|NN size|NN comparison|NN 
+disease|NN symptom|NN pain|ST fever|ST complication|NN cause|NN bacteria|NN parasite|NN fungus|NN method|NN symptom|NN stool|NN culture|NN diagnosis|NN bowel|NN disease|NN syndrome|NN lactose_intolerance|DS prevention|NN hand|NN wash|NN water|NN disposal|NN waste|NN treatment|NN rehydration|NN solution|NN combination|NN water|NN salt|NN sugar|NN fluid|NN frequency|NN death|NN 
+gastroenteritis|DS gastroenteritis|DS inflammation|NN gastroenteritis|DS stomach|NN intestine|NN symptom|NN vomit|NN pain|ST fever|ST lack|NN energy|NN dehydration|DS week|NN influenza|DS gastroenteritis|DS 
+gastroenteritis|DS bacteria|NN parasite|NN fungus|NN gastroenteritis|DS children|NN cause|NN disease|NN adult|NN cause|NN food|NN water|NN contact|NN person|NN disease|NN treatment|NN diagnosis|NN 
+prevention|NN hand|NN wash|NN soap|NN drink|NN water|NN disposal|NN waste|NN baby|NN formula|NN vaccine|NN prevention|NN children|NN treatment|NN fluid|NN case|NN rehydration|NN solution|NN combination|NN water|NN salt|NN sugar|NN case|NN fluid|NN tube|NN zinc|NN supplementation|NN children|NN antibiotics|NN antibiotics|NN children|NN fever|ST diarrhea|DT 
+case|NN gastroenteritis|DS death|NN children|NN world|NN case|NN death|NN children|NN age|NN world|NN children|NN year|NN age|NN infection|NN year|NN adult|NN development|NN immunity|NN content|NN 
+sign|NN symptom|NN cause|NN transmission|NN diagnosis|NN diagnosis|NN prevention|NN vaccination|NN management|NN rehydration|NN antibiotics|NN agent|NN epidemiology|NN history|NN society|NN culture|NN research|NN animal|NN reference|NN link|NN 
+sign|NN symptom|NN stool|NN chart|NN 
+gastroenteritis|DS cramp|ST sign|NN symptom|NN hour|NN agent|NN virus|NN condition|NN week|NN infection|NN fever|ST fatigue|ST headache|ST muscle|NN pain|ST stool|NN cause|NN infection|NN pain|ST week|NN 
+children|NN recovery|NN day|NN country|NN treatment|NN infection|NN reach|NN diarrhea|DT complication|NN dehydration|DS children|NN skin|NN color|NN position|NN return|NN skin|NN breath|NN sign|NN dehydration|DS infection|NN area|NN sanitation|NN malnutrition|NN growth|NN delay|NN 
+arthritis|DS people|NN infection|NN syndrome|NN hemolytic|NN syndrome|NN infection|NN coly|NN cause|NN platelet|NN kidney|NN function|NN blood|NN cell|NN count|NN breakdown|NN children|NN adult|NN infection|NN seizure|NN cause|NN 
+bacteria|NN coly|NN cause|NN gastroenteritis|DS agent|NN syndrome|NN parasite|NN fungus|NN cause|NN occasion|NN cause|NN risk|NN infection|NN children|NN lack|NN immunity|NN children|NN risk|NN practice|NN hygiene|NN habit|NN children|NN area|NN access|NN water|NN soap|NN 
+adenovirus|NN gastroenteritis|DS cause|NN gastroenteritis|DS children|NN rate|NN world|NN cause|NN episode|NN gastroenteritis|DS age|NN group|NN rotavirus|NN cause|NN adult|NN immunity|NN norovirus|NN cause|NN case|NN 
+cause|NN gastroenteritis|DS adult|NN outbreak|NN epidemics|NN group|NN people|NN time|NN proximity|NN cruise|NN ship|NN hospital|NN restaurant|NN people|NN diarrhea|DT cause|NN case|NN children|NN salmonella|DS microscope|NN fold|NN magnification|NN gram|NN stain|NN 
+world|NN cause|NN gastroenteritis|DS case|NN exposure|NN poultry|NN children|NN bacteria|NN cause|NN case|NN type|NN coly|NN salmonella|DS food|NN bacteria|NN remain|NN room|NN temperature|NN period|NN hour|NN bacteria|NN risk|NN infection|NN food|NN food|NN illness|NN meat|NN poultry|NN egg|NN sprout|NN milk|NN cheese|NN fruit|NN vegetable|NN juice|NN world|NN cholera|NN cause|NN gastroenteritis|DS 
+infection|NN water|NN food|NN 
+difficile|NN cause|NN diarrhea|DT infant|NN bacteria|NN symptom|NN cause|NN diarrhea|DT antibiotic|NN use|NN staphylococcus|NN aureus|NN gastroenteritis|DS antibiotics|NN type|NN gastroenteritis|DS form|NN acid-suppress|NN medication|NN risk|NN infection|NN exposure|NN number|NN organism|NN difficile|NN salmonella|DS risk|NN take|NN proton|NN pump|NN inhibitor|NN antagonist|NN 
+number|NN parasite|NN gastroenteritis|DS giardia|NN group|NN agent|NN case|NN children|NN giardia|NN world|NN type|NN illness|NN person|NN area|NN prevalence|NN children|NN day|NN care|NN men|NN sex|NN men|NN disaster|NN transmission|NN 
+transmission|NN water|NN people|NN object|NN water|NN quality|NN season|NN outbreak|NN time|NN area|NN season|NN infection|NN winter|NN baby|NN bottle|NN cause|NN transmission|NN rate|NN hygiene|NN children|NN household|NN status|NN adult|NN immunity|NN organism|NN symptom|NN adult|NN reservoir|NN disease|NN agent|NN primate|NN giardia|NN variety|NN animal|NN 
+number|NN cause|NN inflammation|NN gastroenteritis|DS tract|NN medication|NN nsaids|NN food|NN lactose|NN gluten|NN disease|NN 
+disease|NN source|NN gastroenteritis|DS disease|NN toxin|NN 
+condition|NN nausea|ST vomit|NN poison|NN consumption|NN fish|NN consumption|NN type|NN fish|NN poison|NN consumption|NN fish|NN botulism|NN food|NN 
+united|NN states|NN rate|NN emergency|NN department|NN use|NN gastroenteritis|DS 
+condition|NN emergency|NN department|NN rate|NN gastroenteritis|DS decrease|NN visit|NN time|NN period|NN gastroenteritis|DS infection|NN 
+gastroenteritis|DS vomit|NN due|NN inflammation|NN bowel|NN infection|NN change|NN bowel|NN bowel|NN number|NN pathogen|NN infection|NN diagnosis|NN 
+gastroenteritis|DS person|NN sign|NN symptom|NN cause|NN management|NN condition|NN 
+stool|NN culture|NN blood|NN stool|NN food|NN poison|NN world|NN children|NN people|NN function|NN test|NN surveillance|NN infant|NN children|NN serum|NN glucose|NN population|NN kidney|NN function|NN concern|NN dehydration|DS 
+determination|NN person|NN dehydration|DS part|NN assessment|NN dehydration|DS 
+case|NN children|NN sign|NN dehydration|DS skin|NN breath|NN find|NN combination|NN eye|NN activity|NN lack|NN tear|NN mouth|NN output|NN fluid|NN intake|NN laboratory|NN test|NN benefit|NN degree|NN dehydration|DS use|NN urine|NN test|NN diagnosis|NN 
+potential|NN cause|NN sign|NN symptom|NN gastroenteritis|DS need|NN appendicitis|DS bowel|NN disease|NN tract|NN infection|NN mellitus|NN insufficiency|NN bowel|NN syndrome|NN disease|NN disease|NN abuse|NN diagnosis|NN person|NN vomit|NN 
+pain|ST amount|NN diarrhea|DT case|NN contrast|NN amount|NN diarrhea|DT gastroenteritis|DS infection|NN lung|NN tract|NN children|NN vomit|NN diabetic|NN present|NN pain|ST nausea|ST vomit|NN study|NN children|NN gastroenteritis|DS prevention|NN percentage|NN test|NN result|NN surveillance|NN week|NN united|NN states|NN june|NN 
+supply|NN water|NN sanitation|NN practice|NN rate|NN infection|NN gastroenteritis|DS measure|NN hand|NN wash|NN soap|NN decrease|NN rate|NN gastroenteritis|DS world|NN gel|NN food|NN drink|NN place|NN hygiene|NN improvement|NN hygiene|NN breast|NN milk|NN frequency|NN infection|NN duration|NN vaccination|NN 
+effectiveness|NN safety|NN world|NN health|NN organization|NN vaccine|NN children|NN vaccine|NN development|NN vaccine|NN disease|NN infant|NN country|NN place|NN immunization|NN program|NN decline|NN rate|NN severity|NN disease|NN vaccine|NN illness|NN children|NN number|NN infection|NN implementation|NN vaccination|NN program|NN united|NN states|NN number|NN case|NN diarrhea|DT percent|NN dose|NN vaccine|NN infant|NN week|NN age|NN cholera|NN vaccine|NN year|NN management|NN 
+gastroenteritis|DS disease|NN medication|NN treatment|NN dehydration|DS rehydration|NN therapy|NN children|NN risk|NN dehydration|DS vomit|NN dose|NN vomit|NN medication|NN pain|ST rehydration|NN 
+treatment|NN gastroenteritis|DS children|NN adult|NN rehydration|NN 
+drink|NN rehydration|NN solution|NN delivery|NN level|NN consciousness|NN dehydration|DS drink|NN replacement|NN therapy|NN product|NN carbohydrate|NN wheat|NN rice|NN sugar|NN drink|NN sugar|NN drink|NN fruit|NN juice|NN children|NN year|NN age|NN water|NN ort|NN preparation|NN person|NN tube|NN children|NN fluid|NN fluid|NN hour|NN worth|NN 
+infant|NN fashion|NN infant|NN formula|NN rehydration|NN formula|NN children|NN diet|NN episode|NN diarrhea|DT exception|NN food|NN sugar|NN diet|NN banana|NN rice|NN toast|NN tea|NN nutrient|NN benefit|NN feed|NN 
+probiotics|NN duration|NN illness|NN frequency|NN stool|NN antibiotic|NN milk|NN product|NN zinc|NN supplementation|NN children|NN world|NN 
+medication|NN vomit|NN children|NN 
+utility|NN dose|NN need|NN fluid|NN hospitalization|NN vomit|NN use|NN rate|NN return|NN hospital|NN children|NN preparation|NN judgment|NN warrant|NN vomit|NN benefit|NN antibiotics|NN 
+antibiotics|NN gastroenteritis|DS symptom|NN cause|NN antibiotics|NN due|NN rate|NN resistance|NN colitis|NN antibiotic|NN use|NN agent|NN bacteria|NN protozoan|NN treatment|NN salmonella|DS giardia|NN giardia|NN treatment|NN update|NN world|NN health|NN organization|NN use|NN antibiotics|NN children|NN fever|ST agent|NN 
+medication|NN risk|NN complication|NN experience|NN drug|NN people|NN diarrhea|DT fever|ST analogue|NN treatment|NN children|NN barrier|NN cause|NN toxicity|NN 
+complex|NN bismuth|NN salicylate|NN case|NN salicylate|NN toxicity|NN epidemiology|NN death|NN disease|NN person|NN life|NN year|NN diarrhea|DT inhabitant|NN 
+
+
+case|NN gastroenteritis|DS death|NN children|NN world|NN case|NN death|NN world|NN nation|NN fatality|NN children|NN year|NN age|NN cholera|NN cause|NN case|NN disease|NN people|NN world|NN children|NN year|NN age|NN infection|NN year|NN result|NN gastroenteritis|DS adult|NN development|NN immunity|NN 
+gastroenteritis|DS cause|NN death|NN children|NN majority|NN world|NN death|NN rate|NN death|NN year|NN introduction|NN use|NN rehydration|NN therapy|NN infection|NN gastroenteritis|DS second|NN infection|NN cold|NN case|NN diarrhea|DT death|NN death|NN children|NN year|NN age|NN history|NN 
+usage|NN gastroenteritis|DS time|NN fever|ST cholera|NN gripe|NN gut|NN surfeit|NN flux|NN bowel|NN complaint|NN number|NN name|NN cholera|NN morbus|NN term|NN gastroenteritis|DS cholera|NN society|NN culture|NN 
+gastroenteritis|DS name|NN revenge|NN belly|NN la|NN back|NN door|NN sprint|NN role|NN campaign|NN origin|NN term|NN gut|NN glory|NN 
+gastroenteritis|DS reason|NN visit|NN physician|NN year|NN united|NN states|NN visit|NN united|NN states|NN gastroenteritis|DS whole|NN result|NN cost|NN year|NN cost|NN year|NN research|NN 
+number|NN vaccine|NN gastroenteritis|DS development|NN 
+example|NN vaccine|NN coly|NN cause|NN gastroenteritis|DS animal|NN 
+agent|NN cause|NN gastroenteritis|DS cat|NN dog|NN human|NN 
+organism|NN salmonella|DS number|NN plant|NN symptom|NN 
+agent|NN 
+gastroenteritis|DS coronavirus|NN pig|NN vomit|NN dehydration|DS pig|NN bird|NN treatment|NN human|NN 

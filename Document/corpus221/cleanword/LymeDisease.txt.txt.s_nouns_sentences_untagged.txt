@@ -2,7 +2,7 @@ encyclopedia jump navigation jump search
 use 
 lime disease 
 lyme_disease name lyme_disease adult deer adult deer case nymphal adult tick disease symptom area redness site tick bite fever headache tiredness complication nerve paralysis arthritis meningitis onset week bite cause tick method symptom tick exposure blood test prevention prevention tick bite cloth limb frequency year 
-lyme_disease lyme_disease disease bacterium spread tick sign infection area redness skin site tick bite week rash people symptom fever headache tiredness symptom loss ability side face pain headache neck stiffness heart palpitation month year episode pain swell people shoot pain arm leg treatment people pain memory problem tiredness month 
+lyme_disease lyme_disease disease bacterium spread tick sign infection area redness skin site tick bite week rash people symptom fever headache tiredness symptom loss ability side face pain headache neck_stiffness heart palpitation month year episode pain swell people shoot pain arm leg treatment people pain memory problem tiredness month 
 lyme_disease human bite tick genus united states tick concern type hour bacteria tick type bacteria north cause bacteria cause disease disease people animal food diagnosis combination symptom history tick exposure antibody blood blood test stage disease test tick 
 prevention effort tick bite cloth arm leg insect pesticide tick number tweezer tick blood dose development infection development infection infection number antibiotics treatment week people fever muscle pain treatment day symptom antibiotic therapy 
 lyme_disease disease spread tick hemisphere people year united states people year spring summer lyme_disease condition time arthritis bacterium willy symptom treatment lyme_disease syndrome lyme_disease term community way group provider infection inability organism treatment vaccine lyme_disease united states market sale research vaccine content 
@@ -27,7 +27,7 @@ palsy chew side face
 vision inflammation nerve root pain weakness numbness sensation area body nerve root limb part trunk 
 pain worse night sleep disturbance multiplex inflammation symptom nerve neuroborreliosis inflammation brain cord symptom confusion gait movement speech movement motor plan 
 north palsy neuroborreliosis presentation people case meningitis case adult presentation combination meningitis syndrome case palsy syndrome pain body region erythema rash palsy movement case impairment motor function limb children manifestation palsy neuritis meningitis 
-case case june month range month tick bite infection heart complication symptom heart palpitation people dizziness shortness breath chest pain symptom lyme_disease em rash ache palsy headache pain people manifestation lyme_disease people heart conduction system block heart rhythm minute people complication dysfunction heart_failure 
+case case june month range month tick bite infection heart complication symptom heart palpitation people dizziness shortness breath chest_pain symptom lyme_disease em rash ache palsy headache pain people manifestation lyme_disease people heart conduction system block heart rhythm minute people complication dysfunction heart_failure 
 skin condition north lump ear lobe nipple scrotum infection 
 month people symptom part body joint nerve brain eye heart 
 arthritis people month infection joint knee hip joint joint effusion swell pain treatment swell pain time return baker cyst 

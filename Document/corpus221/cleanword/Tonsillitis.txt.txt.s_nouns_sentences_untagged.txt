@@ -7,7 +7,7 @@ people throat period people doctor tonsillitis year school children fall winter 
 sign symptom cause diagnosis treatment antibiotics surgery reference link 
 sign symptom illustration anatomy tonsillitis 
 sign symptom 
-throat tonsil pain temperature fever headache tiredness sense feel malaise spot tonsil lymph node gland neck pain ear neck weight loss difficulty intake difficulty sleep 
+throat tonsil pain temperature fever headache tiredness sense feel malaise spot tonsil lymph node gland neck pain ear neck weight_loss difficulty intake difficulty sleep 
 nausea fatigue stomach ache tongue breath halitosis voice change difficulty mouth loss appetite 
 case tonsillitis surface tonsil red area streak pus 
 population episode tonsillitis cause bacteria tonsillitis 

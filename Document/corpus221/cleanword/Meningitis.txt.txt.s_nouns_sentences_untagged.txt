@@ -1,13 +1,13 @@
 encyclopedia jump navigation jump search meningitis system mater mater mater 
-disease neurology symptom fever headache neck stiffness complication epilepsy deficit cause method puncture diagnosis brain_tumor lyme_disease seizure syndrome prevention vaccination antibiotics steroid frequency death 
-meningitis inflammation membrane brain cord symptom fever headache neck stiffness symptom confusion consciousness vomit inability light noise children symptom irritability drowsiness feed rash cause meningitis instance meningitis bacteria rash 
+disease neurology symptom fever headache neck_stiffness complication epilepsy deficit cause method puncture diagnosis brain_tumor lyme_disease seizure syndrome prevention vaccination antibiotics steroid frequency death 
+meningitis inflammation membrane brain cord symptom fever headache neck_stiffness symptom confusion consciousness vomit inability light noise children symptom irritability drowsiness feed rash cause meningitis instance meningitis bacteria rash 
 inflammation infection bacteria microorganism drug meningitis proximity brain cord condition emergency lumbar puncture needle canal sample fluid meningitis 
 form meningitis immunization mump vaccine antibiotics people exposure type meningitis treatment meningitis antibiotics drug complication inflammation meningitis consequence deafness epilepsy deficit 
 meningitis people death treatment risk death meningitis outbreak meningitis june year area meningitis belt outbreak area world word meningitis 
 membrane suffix inflammation content 
 sign symptom feature complication cause mechanism diagnosis blood test image puncture prevention vaccination antibiotics management meningitis meningitis meningitis epidemiology history reference link 
-sign symptom feature neck stiffness texas meningitis epidemic 
-adult symptom meningitis headache case meningitis neck stiffness inability neck neck muscle tone stiffness triad sign neck stiffness fever status feature meningitis case sign meningitis sign meningitis intolerance light intolerance noise 
+sign symptom feature neck_stiffness texas meningitis epidemic 
+adult symptom meningitis headache case meningitis neck_stiffness inability neck neck muscle tone stiffness triad sign neck_stiffness fever status feature meningitis case sign meningitis sign meningitis intolerance light intolerance noise 
 children symptom spot top head infant month 
 feature meningitis illness children leg pain extremity skin color 
 rigidity meningitis adult sign presence sign 

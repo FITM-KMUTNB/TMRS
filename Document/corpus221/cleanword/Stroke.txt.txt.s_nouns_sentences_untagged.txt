@@ -45,13 +45,13 @@ mnemonic warn sign stroke droop arm weakness speech difficulty time emergency se
 people emergency room recognition stroke test treatment 
 score system recognition stroke emergency room purpose feature history examination 
 area brain system tract tract pathway symptom 
-muscle weakness face numbness reduction sensation initial muscle tone spasticity muscle tone synergy 
+muscle_weakness face numbness reduction sensation initial muscle tone spasticity muscle tone synergy 
 case symptom side body 
 part brain defect brain side body 
 pathway cord lesion symptom presence symptom stroke 
 addition cns pathway rise nerve 
 stroke brain symptom deficit 
-smell taste hear vision total eyelid weakness muscle gag swallow pupil reactivity sensation muscle weakness face balance problem breath heart rate weakness muscle inability turn head side weakness tongue inability stick tongue side side 
+smell taste hear vision total eyelid weakness muscle gag swallow pupil reactivity sensation muscle_weakness face balance problem breath heart rate weakness muscle inability turn head side weakness tongue inability stick tongue side side 
 cortex cns pathway symptom 
 aphasia difficulty expression comprehension read write area motor speech_disorder injury apraxia movement field defect memory deficit involvement lobe involvement lobe think confusion gesture involvement lobe lack insight stroke disability 
 walk gait movement vertigo disequilibrium 
@@ -253,7 +253,7 @@ review program quality life stroke effect
 people stroke life train 
 disability stroke survivor employability stroke people combination 
 result stroke size location lesion area brain 
-disability stroke muscle weakness numbness pressure sore pneumonia incontinence apraxia inability movement difficulty activity appetite loss speech loss vision loss pain 
+disability stroke muscle_weakness numbness pressure sore pneumonia incontinence apraxia inability movement difficulty activity appetite loss speech loss vision loss pain 
 stroke location part coma death 
 problem stroke damage center brain frustration difficulty limitation 
 stroke difficulty anxiety panic attack flat affect failure emotion mania apathy psychosis 

@@ -29,7 +29,7 @@ number industry source level dust coal mine gold mine cotton textile industry oc
 genetics play role development chronic_obstructive_pulmonary_disease relative chronic_obstructive_pulmonary_disease smoker risk factor alpha deficiency risk alpha case condition people factor 
 number factor chronic_obstructive_pulmonary_disease 
 risk poverty risk factor poverty air pollution malnutrition evidence asthma airway risk chronic_obstructive_pulmonary_disease birth factor birth weight role number disease tuberculosis infection pneumonia risk chronic_obstructive_pulmonary_disease adult 
-exacerbation worsen symptom infection pollutant factor use medication cause case bacteria pollutant air quality exposure smoke smoke risk temperature role exacerbation winter disease exacerbation disease year year year exacerbation rate deterioration lung function embolism blood clot lung symptom chronic_obstructive_pulmonary_disease sign chronic_obstructive_pulmonary_disease chest pain heart_failure sign infection left diagram lung airway inset bronchiole 
+exacerbation worsen symptom infection pollutant factor use medication cause case bacteria pollutant air quality exposure smoke smoke risk temperature role exacerbation winter disease exacerbation disease year year year exacerbation rate deterioration lung function embolism blood clot lung symptom chronic_obstructive_pulmonary_disease sign chronic_obstructive_pulmonary_disease chest_pain heart_failure sign infection left diagram lung airway inset bronchiole 
 right lung chronic_obstructive_pulmonary_disease inset bronchiole 
 chronic_obstructive_pulmonary_disease type lung disease limitation inability air trap result breakdown lung tissue chronic_obstructive_pulmonary_disease airway disease bronchiolitis contribution factor people destruction airway formation lung lung tissue 
 form disease chronic_obstructive_pulmonary_disease 
@@ -49,7 +49,7 @@ diagnosis chronic_obstructive_pulmonary_disease age shortness breath cough sputu
 measure amount obstruction present use bronchodilator medication airway component diagnosis volume second volume air second breath capacity volume air breath second ratio symptom chronic_obstructive_pulmonary_disease person disease measurement over-diagnosis chronic_obstructive_pulmonary_disease institute health care excellence criteria people chronic_obstructive_pulmonary_disease decrease capacity lung carbon monoxide surface area damage bed 
 evidence symptom effort condition effect peak flow speed expiration asthma diagnosis chronic_obstructive_pulmonary_disease shortness breath scale grade activity activity walk walk minute walk cloth gold grade gold 
 gold gold gold 
-number method chronic_obstructive_pulmonary_disease individual research council questionnaire chronic_obstructive_pulmonary_disease assessment test cat questionnaire severity symptom score cat range score disease spirometry severity limitation percentage person age gender height weight guideline treatment recommendation gold guideline people category symptom assessment limitation weight loss muscle weakness presence disease account test 
+number method chronic_obstructive_pulmonary_disease individual research council questionnaire chronic_obstructive_pulmonary_disease assessment test cat questionnaire severity symptom score cat range score disease spirometry severity limitation percentage person age gender height weight guideline treatment recommendation gold guideline people category symptom assessment limitation weight_loss muscle_weakness presence disease account test 
 chest blood count condition time diagnosis characteristic sign lung diaphragm lung disease pneumonia pneumothorax tomography scan chest distribution chronic_obstructive_pulmonary_disease lung lung disease surgery management trachea deformity analysis blood need oxygen oxygen saturation symptom heart_failure area world antitrypsin deficiency people chronic_obstructive_pulmonary_disease age chronic_obstructive_pulmonary_disease part lung test 
 image heart middle lung 
 chest chronic_obstructive_pulmonary_disease heart size comparison lung 
@@ -100,7 +100,7 @@ people type failure level pressure ventilation probability death need care admis
 
 chronic_obstructive_pulmonary_disease time death 
 disability chronic_obstructive_pulmonary_disease proportion disability chronic_obstructive_pulmonary_disease air quality number year disability chronic_obstructive_pulmonary_disease 
-rate chronic_obstructive_pulmonary_disease presence factor outcome obstruction ability exercise shortness breath heart_failure smoke outcome chronic_obstructive_pulmonary_disease index score zero index distance minute dyspnea scale weight loss sign result spirometry predictor progress disease index epidemiology 
+rate chronic_obstructive_pulmonary_disease presence factor outcome obstruction ability exercise shortness breath heart_failure smoke outcome chronic_obstructive_pulmonary_disease index score zero index distance minute dyspnea scale weight_loss sign result spirometry predictor progress disease index epidemiology 
 chronic_obstructive_pulmonary_disease people population disease men women tobacco use women world increase world rate smoke region population population death cause disease country rate decrease chronic_obstructive_pulmonary_disease prevalence number risk factor population 
 number death chronic_obstructive_pulmonary_disease cause death cause number death country mortality men women due rate smoke women men chronic_obstructive_pulmonary_disease people people year population review 
 people diagnosis chronic_obstructive_pulmonary_disease person diagnosis chronic_obstructive_pulmonary_disease point live 
@@ -128,7 +128,7 @@ health system difficulty identification diagnosis care people chronic_obstructiv
 chronic_obstructive_pulmonary_disease result cost half world total cost care cost work year chronic_obstructive_pulmonary_disease spend united states cost disease exacerbation chronic_obstructive_pulmonary_disease condition hospital cost research chronic_obstructive_pulmonary_disease journal chronic_obstructive_pulmonary_disease 
 antibody chronic_obstructive_pulmonary_disease possibility harm evidence benefit 
 inhibitor act 
-promise rate exacerbation person quality life side effect issue weight loss 
+promise rate exacerbation person quality life side effect issue weight_loss 
 sleep disturbance mood disturbance therapy case failure standard chronic_obstructive_pulmonary_disease treatment 
 agent development treatment stem cell study data animal data data amount data result 
 procedure lung system supply lung data use effectiveness augmentation treatment people deficiency 
