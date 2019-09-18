@@ -1,0 +1,102 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN osteosarcoma|DS osteosarcoma|DS micrograph|NN osteosarcoma|DS center|NN right|NN image|NN bone|NN image|NN image|NN tumor|NN 
+density|NN cell|NN bone_tumor|DS 
+osteosarcoma|DS osteosarcoma|DS osteosarcoma|DS osteosarcoma|DS tumor|NN bone|NN 
+neoplasm|NN cell|NN origin|NN sarcoma|NN exhibit|NN differentiation|NN osteoid|NN 
+osteosarcoma|DS form|NN bone|NN cancer|DS adult|NN content|NN 
+sign|NN symptom|NN cause|NN mechanism|NN diagnosis|NN variant|NN treatment|NN epidemiology|NN animal|NN risk|NN factor|NN presentation|NN treatment|NN prognosis|NN cat|NN reference|NN read|NN link|NN 
+sign|NN symptom|NN 
+patient|NN pain|ST night|NN intensity|NN time|NN 
+sport|NN pain|ST femur|NN knee|NN 
+tumor|NN swell|NN 
+fracture|NN symptom|NN bone|NN bone|NN fracture|NN trauma|NN 
+case|NN tumor|NN skin|NN pelvis|NN swell|NN 
+research|NN group|NN cancer|DS stem|NN cell|NN potential|NN gene|NN protein|NN phenotype|NN radiotherapy|NN condition|NN cause|NN 
+case|NN deletion|NN chromosome|NN retinoblastoma|NN gene|NN risk|NN osteosarcoma|DS development|NN 
+bone|NN dysplasia|NN disease|NN bone|NN dysplasia|NN increase|NN risk|NN osteosarcoma|DS 
+syndrome|NN mutation|NN factor|NN osteosarcoma|DS development|NN 
+syndrome|NN association|NN bone|NN defect|NN hair|NN skin|NN dysplasia|NN cataract|DS risk|NN disease|NN 
+dose|NN emission|NN reactor|NN bone|NN seeker|NN risk|NN bone|NN cancer|DS leukemia|DS animal|NN people|NN 
+rumor|NN association|NN water|NN fluoridation|NN cancer|DS death|NN cancer|DS cancer|DS bone|NN cancer|DS osteosarcoma|DS series|NN research|NN concentration|NN fluoride|NN water|NN associate|NN osteosarcoma|DS 
+belief|NN association|NN fluoride|NN exposure|NN osteosarcoma|DS stem|NN study|NN toxicology|NN program|NN evidence|NN association|NN fluoride|NN osteosarcoma|DS rat|NN 
+evidence|NN tendency|NN fluoride|NN mice|NN water|NN world|NN citizen|NN health|NN 
+health|NN success|NN concentration|NN level|NN water|NN supply|NN united|NN states|NN protection|NN agency|NN fluoride|NN level|NN milligram|NN water|NN supply|NN fluoride|NN community|NN fluoride|NN point|NN tooth_decay|DS fluoride|NN ability|NN bone|NN formation|NN research|NN osteosarcoma|DS risk|NN water|NN human|NN research|NN count|NN number|NN osteosarcoma|DS patient|NN case|NN area|NN difference|NN concentration|NN fluoride|NN drink|NN water|NN statistic|NN analysis|NN data|NN difference|NN occurrence|NN osteosarcoma|DS case|NN region|NN research|NN collect|NN bone|NN sample|NN osteosarcoma|DS patient|NN measure|NN fluoride|NN concentration|NN bone|NN sample|NN bone|NN 
+result|NN fluoride|NN concentration|NN bone|NN sample|NN osteosarcoma|DS patient|NN tumor|NN control|NN fluoride|NN concentration|NN bone|NN exposure|NN osteosarcoma|DS patient|NN people|NN mechanism|NN predilection|NN osteosarcoma|DS 
+osteosarcoma|DS site|NN bone|NN growth|NN proliferation|NN cell|NN region|NN mutation|NN transformation|NN cell|NN gene|NN gene|NN 
+tendency|NN incidence|NN osteosarcoma|DS dog|NN breed|NN st|NN 
+tumor|NN end|NN bone|NN metaphysis|NN 
+end|NN tibia|NN humerus|NN end|NN femur|NN 
+osteosarcoma|DS region|NN knee|NN case|NN hip|NN shoulder|NN jaw|NN 
+tumor|NN appearance|NN examination|NN tumor|NN spicule|NN bone|NN angle|NN 
+angle|NN form|NN triangle|NN osteosarcoma|DS 
+micrograph|NN formation|NN osteosarcoma|DS 
+feature|NN osteosarcoma|DS presence|NN bone|NN formation|NN tumor|NN 
+cell|NN 
+cell|NN calcification|NN bone|NN 
+cell|NN matrix|NN 
+feature|NN tumor|NN cell|NN bone|NN cell|NN cartilage|NN cell|NN fibroblast|NN cell|NN tumor|NN 
+osteosarcoma|DS cell|NN diagnosis|NN 
+family|NN physician|NN orthopedist|NN bone_tumor|DS bone|NN 
+route|NN osteosarcoma|DS diagnosis|NN combination|NN scan|NN scan|NN pet|NN scan|NN bone|NN scan|NN end|NN biopsy|NN 
+characteristic|NN triangle|NN lesion|NN periosteum|NN tumor|NN 
+film|NN bone|NN biopsy|NN method|NN tumor|NN 
+time|NN sign|NN osteosarcoma|DS routine|NN 
+osteosarcoma|DS mandible|NN jaw|NN dentist|NN sign|NN osteosarcoma|DS 
+find|NN cancer|DS widen|NN ligament|NN space|NN 
+dentist|NN reason|NN suspect|NN osteosarcoma|DS disorder|NN patient|NN maxillofacial|NN surgeon|NN biopsy|NN 
+biopsy|NN osteosarcoma|DS outside|NN region|NN orthopedic|NN 
+cancer|DS society|NN state|NN cancer|DS procedure|NN 
+biopsy|NN limb|NN amputation|NN 
+lung|NN chest|NN round|NN nodule|NN region|NN 
+osteoblastic|NN osteosarcoma|DS osteosarcoma|DS cell|NN osteosarcoma|DS osteosarcoma|DS osteosarcoma|DS osteosarcoma|DS osteosarcoma|DS surface|NN osteosarcoma|DS osteosarcoma|DS 
+bloc|NN resection|NN cancer|DS treatment|NN choice|NN osteosarcoma|DS patient|NN surgery|NN complication|NN infection|NN loosen|NN tumor|NN recurrence|NN need|NN surgery|NN amputation|NN 
+patient|NN surgery|NN tumor|NN chemotherapy|NN cancer|DS cell|NN risk|NN cancer|DS recurrence|NN 
+option|NN tumor|NN 
+patient|NN osteosarcoma|DS sarcoma|NN 
+standard|NN treatment|NN chemotherapy|NN chemotherapy|NN surgery|NN resection|NN 
+percentage|NN tumor|NN cell|NN necrosis|NN cell|NN death|NN tumor|NN surgery|NN idea|NN prognosis|NN chemotherapy|NN regimen|NN surgery|NN 
+therapy|NN combination|NN surgery|NN amputation|NN case|NN combination|NN rescue|NN tripeptide|NN 
+treatment|NN necrosis|NN rate|NN 
+success|NN chemotherapy|NN osteosarcoma|DS survival|NN rate|NN cancer|DS 
+survival|NN rate|NN protocol|NN regimen|NN therapy|NN response|NN survival|NN range|NN survival|NN range|NN study|NN 
+patient|NN year|NN survival|NN rate|NN average|NN necrosis|NN rate|NN 
+help|NN blood|NN cell|NN count|NN count|NN 
+blood|NN transfusion|NN alfa|NN help|NN 
+analysis|NN panel|NN osteosarcoma|DS cell|NN line|NN target|NN osteosarcoma|DS phenotype|NN role|NN tumor|NN 
+stage|NN osteosarcoma|DS osteosarcoma|DS osteosarcoma|DS 
+prognosis|NN resection|NN 
+stage|NN prognosis|NN site|NN tumor|NN tibia|NN femur|NN pelvis|NN size|NN tumor|NN mass|NN degree|NN necrosis|NN chemotherapy|NN 
+factor|NN degree|NN tumor|NN lung|NN 
+prognosis|NN patient|NN osteosarcoma|DS time|NN month|NN month|NN number|NN 
+time|NN 
+length|NN time|NN month|NN nodule|NN prognosis|NN survival|NN 
+prognosis|NN 
+presentation|NN stage|NN osteosarcoma|DS lung|NN tumor|NN lung|NN nodule|NN degree|NN necrosis|NN tumor|NN number|NN 
+survival|NN prognosis|NN 
+death|NN neoplasm|NN bone|NN joint|NN account|NN number|NN childhood|NN cancer|DS death|NN 
+mortality|NN rate|NN osteosarcoma|DS year|NN 
+survival|NN probability|NN osteosarcoma|DS century|NN epidemiology|NN 
+osteosarcoma|DS form|NN childhood|NN cancer|DS malignancy|NN patient|NN bone|NN cancer|DS 
+incidence|NN rate|NN osteosarcoma|DS patient|NN year|NN age|NN year|NN population|NN variation|NN individual|NN year|NN 
+male|NN year|NN female|NN year|NN 
+region|NN bone|NN femur|NN tibia|NN humerus|NN 
+case|NN skull|NN jaw|NN pelvis|NN 
+people|NN united|NN states|NN year|NN 
+peak|NN incidence|NN bone|NN pathology|NN disease|NN bone|NN 
+animal|NN osteosarcoma|DS femur|NN dog|NN risk|NN factor|NN 
+osteosarcoma|DS bone_tumor|DS dog|NN breed|NN dog|NN shepherd|NN mountain|NN breed|NN great|NN pyrenees|NN st|NN 
+pinschers|NN 
+incidence|NN dog|NN human|NN base|NN st|NN 
+dog|NN dog|NN risk|NN osteosarcoma|DS infestation|NN parasite|NN osteosarcoma|DS presentation|NN 
+bone|NN humerus|NN radius|NN femur|NN tibia|NN premise|NN elbow|NN knee|NN 
+site|NN rib|NN mandible|NN spine|NN pelvis|NN 
+osteosarcoma|DS tissue|NN osteosarcoma|DS 
+limb|NN bone|NN lung|NN 
+tumor|NN deal|NN pain|ST fracture|NN bone|NN 
+osteosarcoma|DS bone|NN biopsy|NN method|NN diagnosis|NN 
+osteosarcoma|DS bone|NN range|NN lesion|NN 
+diagnosis|NN osteosarcoma|DS skull|NN bone|NN treatment|NN prognosis|NN 
+treatment|NN metastasis|NN 
+amputation|NN survival|NN time|NN dog|NN year|NN technique|NN leg|NN procedure|NN prognosis|NN 
+study|NN inhibitor|NN effect|NN quality|NN life|NN degree|NN pain|ST risk|NN fracture|NN cat|NN 
+osteosarcoma|DS bone_tumor|DS cat|NN leg|NN 
+cancer|DS cat|NN dog|NN amputation|NN survival|NN time|NN cat|NN chemotherapy|NN grade|NN 

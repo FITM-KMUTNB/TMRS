@@ -1,6 +1,6 @@
 encyclopedia heart disease jump navigation jump search cardiovascular_disease amyloidosis mag micrograph heart fibrosis yellow amyloidosis 
 onset adult type artery disease stroke heart_failure heart disease heart disease prevention exercise tobacco smoke alcohol intake treatment blood pressure blood death 
-cardiovascular_disease cardiovascular_disease class disease heart blood vessel cardiovascular_disease artery disease cad angina infarction heart attack cardiovascular_disease stroke heart_failure heart disease heart disease heart arrhythmia heart disease heart disease artery disease disease thrombosis 
+cardiovascular_disease cardiovascular_disease class disease heart blood vessel cardiovascular_disease artery disease cad angina infarction heart attack cardiovascular_disease stroke heart_failure heart disease heart disease heart_arrhythmia heart disease heart disease artery disease disease thrombosis 
 mechanism disease artery disease stroke artery disease atherosclerosis blood pressure smoke mellitus lack exercise obesity blood cholesterol diet alcohol consumption blood pressure account cardiovascular_disease death tobacco account lack exercise obesity heart disease throat 
 cardiovascular_disease prevention cardiovascular_disease risk factor exercise avoidance tobacco smoke alcohol intake risk factor blood pressure blood people throat antibiotics risk heart disease use aspirin people benefit 
 cardiovascular_disease cause death area world cardiovascular_disease death death age cardiovascular_disease world rate world artery disease stroke account cardiovascular_disease death male cardiovascular_disease death female cardiovascular_disease adult 
@@ -31,7 +31,7 @@ heart disease time men women study world health organization sex variation sex r
 effect glucose metabolism system effect cell function production decrease menopause metabolism form cholesterol level cholesterol level 
 men women difference body weight height body fat distribution heart rate stroke volume compliance artery stiffness women men women body size dimension menopause tobacco 
 cigarette form tobacco risk health tobacco use result consumption tobacco exposure smoke cardiovascular_disease smoke people smoke age risk death smoker inactivity 
-activity minute activity week minute activity week risk factor mortality adult men women risk heart disease mellitus adult minute activity week equivalent addition activity weight loss blood glucose control blood pressure profile insulin sensitivity 
+activity minute activity week minute activity week risk factor mortality adult men women risk heart disease mellitus adult minute activity week equivalent addition activity weight_loss blood glucose control blood pressure profile insulin sensitivity 
 effect part benefit diet 
 intake fat salt intake fruit vegetable fish risk association cause 
 world health organization attribute death fruit vegetable consumption amount salt determinant blood pressure level risk consumption food food fat sugar obesity risk review fat plant oil cardiovascular_disease risk 
@@ -76,7 +76,7 @@ number variety risk score use efficacy review lack validation impact analysis ri
 cardiovascular_disease risk factor measure cardiovascular_disease 
 tobacco cessation avoidance smoke smoke cessation risk diet grain fruit vegetable intervention risk factor year term effect intervention impact cardiovascular_disease event minute hour minute exercise week limit alcohol consumption limit people drink risk cardiovascular_disease people alcohol rate cardiovascular_disease alcohol 
 alcohol intake risk cardiovascular_disease consumption alcohol risk event day consumption lower blood pressure 
-reduction blood pressure risk decrease cholesterol treatment mortality decrease body fat effect weight loss change evidence weight diet study people obesity weight loss surgery reduction risk stress measure definition intervention ischemia risk heart problem heart disease stress form heart dysfunction syndrome people stress role hypertension relaxation therapy benefit 
+reduction blood pressure risk decrease cholesterol treatment mortality decrease body fat effect weight_loss change evidence weight diet study people obesity weight_loss surgery reduction risk stress measure definition intervention ischemia risk heart problem heart disease stress form heart dysfunction syndrome people stress role hypertension relaxation therapy benefit 
 guideline strategy 
 review evidence intervention risk factor effect blood pressure body mass index waist circumference evidence author conclusion effect event mortality adult diagnosis hypertension cardiovascular_disease routine diet activity alter behavior review people cardiovascular_disease risk score cardiovascular_disease risk factor amount care uncertainty score effect cardiovascular_disease event 
 care periodontitis risk cardiovascular_disease diet cardiovascular_disease salt cardiovascular_disease 

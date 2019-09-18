@@ -1,0 +1,123 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN testicular_cancer|DS name|NN testicular_cancer|DS seminoma|NN orchiectomy|NN specimen|NN 
+oncology|NN symptom|NN testicle|NN swell|NN pain|ST scrotum|NN onset|NN year|NN male|NN type|NN cell|NN tumor|NN tumor|NN lymphoma|NN factor|NN testis|NN family|NN history|NN disease|NN history|NN testicular_cancer|DS method|NN exam|NN blood|NN test|NN removal|NN testicle|NN diagnosis|NN hernia|NN appendix|NN testis|NN treatment|NN surgery|NN radiation|NN therapy|NN chemotherapy|NN stem|NN cell|NN transplantation|NN survival|NN rate|NN rate|NN frequency|NN death|NN 
+testicular_cancer|DS cancer|DS testicle|NN part|NN system|NN symptom|NN lump|NN testicle|NN swell|NN pain|ST scrotum|NN treatment|NN infertility|ST 
+risk|NN factor|NN testis|NN family|NN history|NN disease|NN history|NN testicular_cancer|DS type|NN germ|NN cell|NN seminoma|NN type|NN tumor|NN lymphoma|NN diagnosis|NN exam|NN blood|NN test|NN removal|NN testicle|NN examination|NN microscope|NN type|NN 
+testicular_cancer|DS treatment|NN option|NN surgery|NN radiation|NN therapy|NN chemotherapy|NN stem|NN cell|NN transplantation|NN case|NN cancer|DS chemotherapy|NN cure|NN rate|NN 
+testicular_cancer|DS people|NN year|NN death|NN death|NN rate|NN world|NN male|NN year|NN year|NN survival|NN rate|NN united|NN states|NN outcome|NN disease|NN content|NN 
+sign|NN symptom|NN cause|NN mechanism|NN diagnosis|NN screen|NN classification|NN treatment|NN removal|NN lymph|NN node|NN dissection|NN treatment|NN radiation|NN therapy|NN surveillance|NN fertility|NN epidemiology|NN united|NN states|NN united|NN kingdom|NN animal|NN reference|NN link|NN 
+sign|NN symptom|NN image|NN sign|NN testicular_cancer|DS 
+sign|NN testicular_cancer|DS lump|NN swell|NN teste|NN 
+service|NN task|NN force|NN routine|NN screen|NN testicular_cancer|DS adolescent|NN adult|NN routine|NN cancer|DS society|NN men|NN testicle|NN family|NN history|NN cancer|DS urological|NN association|NN men|NN 
+lump|NN testis|NN pain|ST ache|NN abdomen|NN scrotum|NN feel|NN heaviness|NN scrotum|NN firmness|NN testicle|NN breast|NN enlargement|NN effect|NN 
+back_pain|DT cancer|DS spread|NN lymph|NN node|NN back|NN 
+testicular_cancer|DS spread|NN organ|NN lung|NN 
+shortness|NN breath|NN cough|ST cough|ST blood|NN spread|NN lung|NN lump|NN neck|NN lymph|NN node|NN 
+testicular_cancer|DS cryptorchidism|NN semen|NN quality|NN syndrome|NN syndrome|NN 
+risk|NN factor|NN development|NN testis|NN cancer|DS testicle|NN 
+presence|NN tumor|NN conjunction|NN tumor|NN tumor|NN 
+risk|NN factor|NN hernia|NN syndrome|NN mump|NN activity|NN risk|NN risk|NN 
+onset|NN characteristics|NN risk|NN 
+rate|NN testicular_cancer|DS nation|NN use|NN cannabis|NN mechanism|NN 
+germ|NN cell|NN chromosome|NN 
+arm|NN chromosome|NN side|NN centromere|NN testicular_cancer|DS cancer|DS material|NN chromosome|NN arm|NN mechanism|NN amplification|NN diagnosis|NN 
+section|NN citation|NN verification|NN 
+article|NN citation|NN source|NN 
+source|NN testicular_cancer|DS new|NN newspaper|NN book|NN scholar|NN template|NN message|NN magnification|NN seminoma|NN 
+way|NN testicular_cancer|DS lump|NN mass|NN testis|NN 
+adult|NN adolescent|NN testicle|NN doctor|NN reason|NN suspect|NN testicular_cancer|DS 
+germ|NN cell|NN tumor|NN carcinoma|NN yolk|NN sac|NN tumor|NN 
+carcinoma|NN component|NN right|NN left|NN growth|NN feature|NN epithelioid|NN cell|NN cell|NN border|NN pleomorphism|NN 
+component|NN center|NN cell|NN cell|NN membrane|NN cytoplasm|NN 
+yolk|NN sac|NN component|NN component|NN growth|NN pattern|NN 
+condition|NN symptom|NN testicular_cancer|DS 
+infection|NN inflammation|NN bladder|NN infection|NN cystitis|NN kidney|NN infection|NN vessel|NN testicle|NN scrotum|NN torsion|NN hernia|NN infection|NN inflammation|NN condition|NN lymph|NN node|NN vessel|NN scrotum|NN testicle|NN area|NN groin|NN benign|NN lesion|NN testicle|NN testicle|NN tumor|NN site|NN 
+nature|NN lump|NN scrotum|NN location|NN size|NN characteristics|NN lump|NN uniform|NN 
+extent|NN disease|NN scan|NN 
+diagnosis|NN testicular_cancer|DS histology|NN tissue|NN orchiectomy|NN excision|NN testis|NN structure|NN cord|NN 
+biopsy|NN risk|NN cancer|DS cell|NN scrotum|NN 
+method|NN risk|NN cancer|DS cell|NN 
+system|NN scrotum|NN blood|NN cell|NN cancer|DS cell|NN flow|NN link|NN extremity|NN testicle|NN link|NN back|NN cavity|NN 
+biopsy|NN cancer|DS cell|NN scrotum|NN route|NN cancer|DS cell|NN spread|NN orchiectomy|NN route|NN 
+blood|NN test|NN tumor|NN marker|NN protein|NN testicular_cancer|DS 
+gonadotropin|NN pregnancy|NN hormone|NN tumor|NN marker|NN spot|NN germ|NN cell|NN 
+pregnancy|NN test|NN level|NN gonadotropin|NN sign|NN testicular_cancer|DS lump|NN pregnancy|NN test|NN testicular_cancer|DS screen|NN 
+academy|NN family|NN physician|NN screen|NN male|NN symptom|NN testicular_cancer|DS stage|NN 
+removal|NN testicle|NN solution|NN detail|NN conformation|NN 
+tumor|NN pathologist|NN classification|NN malignant|NN cancer|DS manual|NN 
+testicular_cancer|DS stage|NN 
+size|NN tumor|NN testis|NN stage|NN term|NN testicular_cancer|DS 
+stage|NN cancer|DS testis|NN 
+stage|NN cancer|DS testis|NN metastasis|NN lymph|NN node|NN lymph|NN node|NN diaphragm|NN 
+stage|NN cancer|DS testis|NN metastasis|NN retroperitoneal|NN lymph|NN node|NN 
+stage|NN stage|NN stage|NN 
+information|NN stage|NN system|NN cancer|DS society|NN classification|NN 
+article|NN accuracy|NN information|NN 
+new|NN classification|NN 
+article|NN event|NN information|NN 
+testicular_cancer|DS cell|NN type|NN testicle|NN testicular_cancer|DS germ|NN cell|NN 
+sex|NN cell|NN cell|NN 
+diagnosis|NN treatment|NN 
+extent|NN blood|NN test|NN tumor|NN marker|NN diagnosis|NN examination|NN histology|NN specimen|NN pathologist|NN 
+pathologist|NN world|NN health|NN organization|NN classification|NN system|NN tumor|NN 
+cell|NN lesion|NN germ|NN cell|NN neoplasia|NN type|NN carcinoma|NN type|NN type|NN form|NN cell|NN variant|NN seminoma|NN sarcoma|NN carcinoma|NN sac|NN tumor|NN variant|NN choriocarcinoma|NN site|NN trophoblastic|NN tumor|NN cyst|NN variant|NN cyst|NN variant|NN teratoma|NN tumor|NN tumor|NN 
+malignancy|NN histologic|NN type|NN form|NN carcinoma|NN teratoma|NN choriocarcinoma|NN carcinoma|NN sex|NN tumor|NN cell|NN tumor|NN cell|NN tumor|NN variant|NN variant|NN cell|NN variant|NN cell|NN neoplasia|NN syndrome|NN cell|NN tumor|NN adult|NN type|NN juvenile|NN type|NN group|NN sex|NN tumor|NN sex|NN tumor|NN type|NN cell|NN sex|NN tumor|NN tumor|NN testis|NN tumor|NN type|NN tumor|NN borderline|NN malignancy|NN carcinoma|NN tumor|NN mucinous|NN tumor|NN collect|NN duct|NN tumor|NN structure|NN tumor|NN adenocarcinoma|NN epididymis|NN cystadenoma|NN epididymis|NN tumor|NN round|NN cell|NN tumor|NN cord|NN tumor|NN tumor|NN tumor|NN testis|NN 
+type|NN treatment|NN surgery|NN radiation|NN therapy|NN chemotherapy|NN 
+surgery|NN radiation|NN therapy|NN radiation|NN chemotherapy|NN work|NN 
+patient|NN testicular_cancer|DS disease|NN morbidity|NN 
+treatment|NN success|NN stage|NN survival|NN rate|NN year|NN stage|NN cancer|DS case|NN survival|NN rate|NN removal|NN 
+treatment|NN testicular_cancer|DS surgery|NN testicle|NN 
+case|NN testicular_cancer|DS tumor|NN testis|NN testis|NN testicle|NN cell|NN testicle|NN 
+tumor|NN treatment|NN risk|NN cancer|DS testicle|NN 
+testis|NN fertility|NN hormone|NN production|NN function|NN testis|NN procedure|NN orchiectomy|NN 
+testicle|NN scrotum|NN incision|NN belt|NN line|NN area|NN 
+procedure|NN orchidectomy|NN 
+lymph|NN node|NN dissection|NN 
+case|NN stage|NN surgery|NN lymph|NN node|NN operation|NN cancer|DS stage|NN stage|NN risk|NN testicular_cancer|DS cell|NN lymph|NN node|NN abdomen|NN 
+surgery|NN lymph|NN node|NN dissection|NN 
+approach|NN place|NN united|NN states|NN favor|NN cost|NN level|NN surgery|NN 
+bank|NN procedure|NN chemotherapy|NN risk|NN nerve|NN ejaculation|NN ejaculation|NN bladder|NN 
+patient|NN surveillance|NN surgery|NN test|NN cancer|DS 
+approach|NN cure|NN rate|NN accuracy|NN surveillance|NN technique|NN 
+testicular_cancer|DS patient|NN treatment|NN form|NN chemotherapy|NN radiotherapy|NN cell|NN outside|NN testicle|NN 
+type|NN therapy|NN histology|NN tumor|NN size|NN shape|NN cell|NN microscope|NN stage|NN progression|NN time|NN surgery|NN cell|NN testicle|NN tissue|NN spread|NN rest|NN body|NN 
+cancer|DS patient|NN surveillance|NN scan|NN blood|NN test|NN place|NN treatment|NN 
+survival|NN rate|NN testicular_cancer|DS 
+introduction|NN chemotherapy|NN drug|NN outlook|NN 
+case|NN testicular_cancer|DS united|NN states|NN men|NN disease|NN 
+trend|NN improvement|NN treatment|NN survival|NN rate|NN cure|NN rate|NN radiation|NN therapy|NN 
+radiation|NN stage|NN seminoma|NN cancer|DS therapy|NN case|NN stage|NN likelihood|NN lymph|NN node|NN 
+radiation|NN therapy|NN 
+treatment|NN cancer|DS part|NN body|NN stage|NN 
+chemotherapy|NN protocol|NN round|NN 
+treatment|NN professor|NN landmark|NN trial|NN treatment|NN 
+university|NN alternative|NN treatment|NN use|NN cycle|NN 
+node|NN surgery|NN chemotherapy|NN mass|NN stage|NN case|NN 
+treatment|NN use|NN chemotherapy|NN alternative|NN radiation|NN therapy|NN treatment|NN seminoma|NN radiation|NN therapy|NN side|NN effect|NN example|NN scare|NN risk|NN malignancy|NN 
+dose|NN dose|NN week|NN treatment|NN recurrence|NN rate|NN range|NN radiotherapy|NN 
+concept|NN therapy|NN professor|NN oncology|NN barts|NN school|NN medicine|NN data|NN efficacy|NN set|NN 
+decade|NN tumor|NN patient|NN chemotherapy|NN year|NN treatment|NN 
+treatment|NN testicular_cancer|DS success|NN story|NN medicine|NN response|NN treatment|NN case|NN stage|NN cure|NN rate|NN response|NN tumor|NN survival|NN chemotherapy|NN cent|NN men|NN year|NN rise|NN improvement|NN chemotherapy|NN drug|NN united|NN states|NN disease|NN people|NN year|NN surveillance|NN 
+patient|NN stage|NN cancer|DS therapy|NN surgery|NN patient|NN surveillance|NN form|NN surveillance|NN type|NN frequency|NN investigation|NN length|NN time|NN type|NN cancer|DS aim|NN treatment|NN patient|NN surgery|NN relapse|NN cancer|DS 
+approach|NN chemotherapy|NN radiotherapy|NN patient|NN 
+number|NN patient|NN surveillance|NN treatment|NN patient|NN series|NN visit|NN test|NN 
+surveillance|NN test|NN examination|NN blood|NN test|NN tumor|NN marker|NN chest|NN scan|NN 
+requirement|NN surveillance|NN program|NN type|NN disease|NN patient|NN relapse|NN blood|NN test|NN relapse|NN 
+scan|NN abdomen|NN pelvis|NN chest|NN hospital|NN 
+chest|NN lung|NN detail|NN rate|NN radiation|NN dose|NN 
+frequency|NN scan|NN surveillance|NN relapse|NN stage|NN radiation|NN exposure|NN 
+patient|NN stage|NN trial|NN research|NN council|NN surveillance|NN test|NN scan|NN month|NN year|NN relapse|NN stage|NN 
+patient|NN stage|NN surveillance|NN therapy|NN trial|NN frequency|NN scan|NN visit|NN schedule|NN world|NN country|NN 
+trial|NN scan|NN place|NN resonance|NN image|NN scan|NN 
+patient|NN radiation|NN relapse|NN 
+stage|NN testicular_cancer|DS case|NN radiation|NN therapy|NN chemotherapy|NN extent|NN monitor|NN test|NN treatment|NN basis|NN circumstance|NN year|NN case|NN risk|NN relapse|NN 
+man|NN testis|NN fertility|NN 
+sperm|NN bank|NN men|NN children|NN fertility|NN chemotherapy|NN radiotherapy|NN 
+man|NN testicle|NN procedure|NN bank|NN sperm|NN procedure|NN 
+testicular_cancer|DS death|NN death|NN testicular_cancer|DS prevalence|NN incidence|NN rate|NN prevalence|NN new|NN 
+testicular_cancer|DS men|NN year|NN peak|NN infancy|NN age|NN yolk|NN sac|NN age|NN year|NN seminoma|NN age|NN seminoma|NN 
+cell|NN tumor|NN testis|NN cancer|DS men|NN age|NN year|NN united|NN states|NN 
+united|NN states|NN case|NN year|NN risk|NN testicular_cancer|DS men|NN time|NN risk|NN men|NN time|NN men|NN risk|NN testicular_cancer|DS men|NN cause|NN difference|NN united|NN kingdom|NN 
+people|NN year|NN lifetime|NN risk|NN cancer|DS men|NN 
+cancer|DS death|NN men|NN men|NN animal|NN 
+horse|NN cell|NN 
+stallion|NN stallion|NN production|NN androgen|NN horse|NN 

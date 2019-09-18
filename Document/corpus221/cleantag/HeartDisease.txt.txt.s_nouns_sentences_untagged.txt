@@ -1,0 +1,107 @@
+encyclopedia|NN heart|NN disease|NN jump|NN navigation|NN jump|NN search|NN cardiovascular_disease|DS amyloidosis|NN mag|NN micrograph|NN heart|NN fibrosis|NN yellow|NN amyloidosis|NN 
+onset|NN adult|NN type|NN artery|NN disease|NN stroke|DS heart_failure|DS heart|NN disease|NN heart|NN disease|NN prevention|NN exercise|NN tobacco|NN smoke|NN alcohol|NN intake|NN treatment|NN blood|NN pressure|NN blood|NN death|NN 
+cardiovascular_disease|DS cardiovascular_disease|DS class|NN disease|NN heart|NN blood|NN vessel|NN cardiovascular_disease|DS artery|NN disease|NN cad|NN angina|NN infarction|NN heart|NN attack|NN cardiovascular_disease|DS stroke|DS heart_failure|DS heart|NN disease|NN heart|NN disease|NN heart_arrhythmia|ST heart|NN disease|NN heart|NN disease|NN artery|NN disease|NN disease|NN thrombosis|DS 
+mechanism|NN disease|NN artery|NN disease|NN stroke|DS artery|NN disease|NN atherosclerosis|DS blood|NN pressure|NN smoke|NN mellitus|NN lack|NN exercise|NN obesity|NN blood|NN cholesterol|NN diet|NN alcohol|NN consumption|NN blood|NN pressure|NN account|NN cardiovascular_disease|DS death|NN tobacco|NN account|NN lack|NN exercise|NN obesity|NN heart|NN disease|NN throat|NN 
+cardiovascular_disease|DS prevention|NN cardiovascular_disease|DS risk|NN factor|NN exercise|NN avoidance|NN tobacco|NN smoke|NN alcohol|NN intake|NN risk|NN factor|NN blood|NN pressure|NN blood|NN people|NN throat|NN antibiotics|NN risk|NN heart|NN disease|NN use|NN aspirin|NN people|NN benefit|NN 
+cardiovascular_disease|DS cause|NN death|NN area|NN world|NN cardiovascular_disease|DS death|NN death|NN age|NN cardiovascular_disease|DS world|NN rate|NN world|NN artery|NN disease|NN stroke|DS account|NN cardiovascular_disease|DS death|NN male|NN cardiovascular_disease|DS death|NN female|NN cardiovascular_disease|DS adult|NN 
+united|NN states|NN people|NN cardiovascular_disease|DS people|NN people|NN cardiovascular_disease|DS age|NN death|NN artery|NN disease|NN world|NN world|NN diagnosis|NN disease|NN year|NN men|NN women|NN content|NN 
+type|NN risk|NN factor|NN genetics|NN age|NN sex|NN tobacco|NN inactivity|NN diet|NN disease|NN sleep|NN disadvantage|NN air|NN pollution|NN risk|NN assessment|NN depression|ST stress|NN exposure|NN somatic|NN mutation|NN screen|NN prevention|NN diet|NN activity|NN supplement|NN management|NN epidemiology|NN research|NN reference|NN link|NN 
+type|NN life|NN year|NN heart|NN disease|NN inhabitant|NN data|NN 
+cardiovascular_disease|DS blood|NN vessel|NN 
+artery|NN disease|NN heart|NN disease|NN heart|NN disease|NN disease|NN disease|NN blood|NN vessel|NN supply|NN blood|NN arm|NN leg|NN disease|NN disease|NN blood|NN vessel|NN supply|NN blood|NN brain|NN stroke|DS artery|NN stenosis|NN aneurysm|NN 
+cardiovascular_disease|DS heart|NN 
+disease|NN muscle|NN heart|NN disease|NN disease|NN heart|NN blood|NN pressure|NN hypertension|DS heart_failure|DS syndrome|NN inability|NN heart|NN blood|NN tissue|NN requirement|NN heart|NN disease|NN failure|NN side|NN heart|NN system|NN involvement|NN abnormality|NN heart|NN rhythm|NN heart|NN disease|NN inflammation|NN layer|NN heart|NN endocardium|NN 
+structure|NN heart|NN valve|NN 
+cardiomegaly|NN inflammation|NN myocardium|NN part|NN heart|NN infection|NN infection|NN medication|NN toxin|NN disorder|NN 
+part|NN infiltration|NN heart|NN lymphocyte|NN monocyte|NN type|NN blood|NN cell|NN 
+myocarditis|DS inflammation|NN myocardium|NN blood|NN cell|NN 
+disorder|NN myocarditis|DS cause|NN treatment|NN 
+heart|NN disease|NN heart|NN disease|NN heart|NN structure|NN malformation|NN birth|NN heart|NN disease|NN heart|NN muscle|NN valve|NN damage|NN fever|ST streptococcus|NN group|NN infection|NN 
+risk|NN factor|NN 
+risk|NN factor|NN heart|NN disease|NN age|NN sex|NN tobacco|NN use|NN inactivity|NN alcohol|NN consumption|NN diet|NN obesity|NN predisposition|NN family|NN history|NN cardiovascular_disease|DS blood|NN pressure|NN hypertension|DS blood|NN sugar|NN mellitus|NN blood|NN cholesterol|NN celiac|NN disease|NN factor|NN poverty|NN status|NN air|NN pollution|NN contribution|NN risk|NN factor|NN community|NN group|NN contribution|NN risk|NN factor|NN risk|NN factor|NN age|NN sex|NN family|NN predisposition|NN risk|NN factor|NN change|NN change|NN drug|NN treatment|NN example|NN prevention|NN hypertension|DS people|NN obesity|NN risk|NN atherosclerosis|DS artery|NN genetics|NN 
+factor|NN development|NN cardiovascular_disease|DS men|NN women|NN year|NN cardiovascular_disease|DS person|NN parent|NN risk|NN fold|NN nucleotide|NN polymorphism|NN cardiovascular_disease|DS association|NN study|NN influence|NN contribution|NN cardiovascular_disease|DS age|NN heart|NN woman|NN 
+age|NN risk|NN factor|NN heart|NN disease|NN triple|NN risk|NN decade|NN life|NN streak|NN adolescence|NN percent|NN people|NN heart|NN disease|NN risk|NN stroke|DS decade|NN age|NN 
+explanation|NN age|NN risk|NN disease|NN 
+serum|NN cholesterol|NN level|NN population|NN serum|NN total|NN cholesterol|NN level|NN increase|NN age|NN increase|NN 
+men|NN increase|NN level|NN age|NN year|NN 
+women|NN increase|NN age|NN year|NN 
+change|NN property|NN wall|NN loss|NN elasticity|NN compliance|NN artery|NN disease|NN sex|NN 
+men|NN risk|NN heart|NN disease|NN women|NN menopause|NN risk|NN man|NN data|NN un|NN dispute|NN female|NN heart|NN disease|NN male|NN 
+heart|NN disease|NN time|NN men|NN women|NN study|NN world|NN health|NN organization|NN sex|NN variation|NN sex|NN ratio|NN heart|NN disease|NN mortality|NN study|NN result|NN sex|NN difference|NN risk|NN cardiovascular_disease|DS explanation|NN sex|NN difference|NN cardiovascular_disease|DS difference|NN women|NN sex|NN hormone|NN 
+effect|NN glucose|NN metabolism|NN system|NN effect|NN cell|NN function|NN production|NN decrease|NN menopause|NN metabolism|NN form|NN cholesterol|NN level|NN cholesterol|NN level|NN 
+men|NN women|NN difference|NN body|NN weight|NN height|NN body|NN fat|NN distribution|NN heart|NN rate|NN stroke|DS volume|NN compliance|NN artery|NN stiffness|NN women|NN men|NN women|NN body|NN size|NN dimension|NN menopause|NN tobacco|NN 
+cigarette|NN form|NN tobacco|NN risk|NN health|NN tobacco|NN use|NN result|NN consumption|NN tobacco|NN exposure|NN smoke|NN cardiovascular_disease|DS smoke|NN people|NN smoke|NN age|NN risk|NN death|NN smoker|NN inactivity|NN 
+activity|NN minute|NN activity|NN week|NN minute|NN activity|NN week|NN risk|NN factor|NN mortality|NN adult|NN men|NN women|NN risk|NN heart|NN disease|NN mellitus|NN adult|NN minute|NN activity|NN week|NN equivalent|NN addition|NN activity|NN weight_loss|ST blood|NN glucose|NN control|NN blood|NN pressure|NN profile|NN insulin|NN sensitivity|NN 
+effect|NN part|NN benefit|NN diet|NN 
+intake|NN fat|NN salt|NN intake|NN fruit|NN vegetable|NN fish|NN risk|NN association|NN cause|NN 
+world|NN health|NN organization|NN attribute|NN death|NN fruit|NN vegetable|NN consumption|NN amount|NN salt|NN determinant|NN blood|NN pressure|NN level|NN risk|NN consumption|NN food|NN food|NN fat|NN sugar|NN obesity|NN risk|NN review|NN fat|NN plant|NN oil|NN cardiovascular_disease|DS risk|NN 
+risk|NN cardiovascular_disease|DS heart|NN disease|NN stroke|DS 
+intake|NN effect|NN blood|NN marker|NN elimination|NN diet|NN world|NN health|NN organization|NN fat|NN cause|NN death|NN year|NN 
+evidence|NN consumption|NN sugar|NN blood|NN pressure|NN blood|NN sugar|NN intake|NN risk|NN mellitus|NN consumption|NN meat|NN risk|NN cardiovascular_disease|DS part|NN salt|NN intake|NN 
+relationship|NN alcohol|NN consumption|NN cardiovascular_disease|DS amount|NN alcohol|NN 
+relationship|NN level|NN drink|NN alcohol|NN cardiovascular_disease|DS drink|NN level|NN episode|NN drink|NN risk|NN cardiovascular_disease|DS population|NN level|NN health|NN risk|NN drink|NN alcohol|NN benefit|NN disease|NN 
+disease|NN development|NN type|NN cardiovascular_disease|DS diet|NN heal|NN 
+delay|NN recognition|NN diagnosis|NN disease|NN heart|NN damage|NN sleep|NN 
+sleep_disorder|DS sleep|NN breath|NN insomnia|DT duration|NN sleep|NN duration|NN sleep|NN risk|NN disadvantage|NN 
+cardiovascular_disease|DS country|NN country|NN information|NN pattern|NN cardiovascular_disease|DS country|NN country|NN income|NN status|NN risk|NN cardiovascular_disease|DS policy|NN inequality|NN difference|NN cardiovascular_disease|DS cause|NN effect|NN relationship|NN 
+factor|NN exposure|NN health|NN behaviour|NN access|NN quality|NN differential|NN cardiovascular_disease|DS commission|NN determinant|NN health|NN distribution|NN power|NN wealth|NN education|NN house|NN factor|NN nutrition|NN health|NN care|NN address|NN inequality|NN cardiovascular_disease|DS disease|NN air|NN pollution|NN 
+matter|NN exposure|NN effect|NN cardiovascular_disease|DS 
+focus|NN gradient|NN cardiovascular_disease|DS risk|NN 
+exposure|NN cardiovascular_disease|DS mortality|NN risk|NN women|NN risk|NN artery|NN disease|NN men|NN exposure|NN rate|NN atherosclerosis|DS inflammation|NN 
+regard|NN exposure|NN hour|NN 
+increase|NN cardiovascular_disease|DS mortality|NN risk|NN addition|NN day|NN exposure|NN rise|NN blood|NN pressure|NN 
+research|NN heart|NN rhythm|NN heart|NN rate|NN variability|NN tone|NN heart_failure|DS artery|NN thicken|NN risk|NN infarction|NN risk|NN assessment|NN 
+cardiovascular_disease|DS event|NN heart|NN attack|NN stroke|DS predictor|NN event|NN age|NN sex|NN smoke|NN blood|NN pressure|NN blood|NN predictor|NN future|NN cardiovascular_disease|DS people|NN cardiovascular_disease|DS measure|NN risk|NN score|NN individual|NN future|NN risk|NN cardiovascular_disease|DS risk|NN score|NN merit|NN test|NN evaluation|NN lack|NN evidence|NN routine|NN use|NN 
+family|NN history|NN artery|NN score|NN sensitivity|NN protein|NN pressure|NN index|NN lipoprotein|NN subclass|NN particle|NN concentration|NN fibrinogen|NN blood|NN cell|NN count|NN pro|NN peptide|NN marker|NN kidney|NN function|NN blood|NN phosphorus|NN risk|NN depression|ST stress|NN 
+evidence|NN health|NN problem|NN depression|ST stress|NN cardiovascular_disease|DS 
+health|NN problem|NN risk|NN factor|NN cardiovascular_disease|DS diet|NN factor|NN risk|NN cardiovascular_disease|DS depression|ST stress|NN anxiety|ST stress|NN disorder|NN risk|NN incident|NN heart|NN disease|NN depression|ST exposure|NN article|NN cardiovascular_disease|DS 
+relationship|NN work|NN cardiovascular_disease|DS link|NN toxin|NN heat|NN exposure|NN tobacco|NN smoke|NN health|NN concern|NN stress|NN depression|ST risk|NN factor|NN 
+factor|NN association|NN 
+work|NN lack|NN control|NN situation|NN imbalance|NN support|NN work|NN injustice|NN experience|NN opportunity|NN development|NN job|NN insecurity|NN night|NN schedule|NN week|NN noise|NN 
+risk|NN stroke|DS exposure|NN radiation|NN hypertension|DS job|NN strain|NN difference|NN women|NN men|NN risk|NN men|NN risk|NN suffer|NN heart|NN attack|NN stroke|DS women|NN life|NN chemical|NN risk|NN factor|NN 
+report|NN evidence|NN workplace|NN exposure|NN silica|NN dust|NN engine|NN exhaust|NN weld|NN fume|NN heart|NN disease|NN association|NN exposure|NN arsenic|NN lead|NN dynamite|NN carbon|NN disulphide|NN carbon|NN monoxide|NN metalwork|NN fluid|NN exposure|NN tobacco|NN smoke|NN work|NN production|NN aluminium|NN production|NN paper|NN sulphate|NN process|NN heart|NN disease|NN association|NN heart|NN disease|NN exposure|NN compound|NN work|NN environment|NN acid|NN 
+workplace|NN exposure|NN silica|NN dust|NN heart|NN evidence|NN workplace|NN exposure|NN carbon|NN disulphide|NN work|NN environment|NN aluminium|NN stroke|DS mutation|NN 
+evidence|NN mutation|NN blood|NN cell|NN risk|NN cardiovascular_disease|DS 
+research|NN project|NN data|NN link|NN presence|NN mutation|NN condition|NN hematopoiesis|NN cardiovascular_disease|DS incident|NN mortality|NN colour|NN scan|NN electron|NN calcification|NN calcium|NN phosphate|NN particle|NN material|NN green|NN matrix|NN material|NN 
+study|NN atherosclerosis|DS precursor|NN cardiovascular_disease|DS childhood|NN 
+determinant|NN atherosclerosis|DS youth|NN study|NN lesion|NN aorta|NN artery|NN youth|NN year|NN 
+people|NN complication|NN atherosclerosis|DS 
+order|NN tide|NN education|NN awareness|NN cardiovascular_disease|DS threat|NN measure|NN disease|NN 
+obesity|NN mellitus|NN cardiovascular_disease|DS history|NN kidney_disease|DS fact|NN cardiovascular_disease|DS complication|NN diabetics|NN cause|NN screen|NN 
+screen|NN rest|NN exercise|NN symptom|NN risk|NN risk|NN factor|NN risk|NN evidence|NN screen|NN perfusion|NN image|NN stress|NN test|NN risk|NN symptom|NN risk|NN factor|NN risk|NN future|NN cardiovascular_disease|DS value|NN index|NN protein|NN artery|NN calcium|NN benefit|NN symptom|NN 
+test|NN children|NN age|NN family|NN history|NN heart|NN disease|NN problem|NN test|NN factor|NN risk|NN diet|NN exercise|NN 
+screen|NN selection|NN prevention|NN intervention|NN risk|NN variety|NN score|NN 
+reynolds|NN risk|NN score|NN stratification|NN people|NN intervention|NN risk|NN medication|NN risk|NN 
+number|NN variety|NN risk|NN score|NN use|NN efficacy|NN review|NN lack|NN validation|NN impact|NN analysis|NN risk|NN stratification|NN model|NN lack|NN sensitivity|NN population|NN group|NN number|NN event|NN risk|NN group|NN result|NN future|NN screen|NN prevention|NN trial|NN result|NN intervention|NN risk|NN assessment|NN 
+cardiovascular_disease|DS risk|NN factor|NN measure|NN cardiovascular_disease|DS 
+tobacco|NN cessation|NN avoidance|NN smoke|NN smoke|NN cessation|NN risk|NN diet|NN grain|NN fruit|NN vegetable|NN intervention|NN risk|NN factor|NN year|NN term|NN effect|NN intervention|NN impact|NN cardiovascular_disease|DS event|NN minute|NN hour|NN minute|NN exercise|NN week|NN limit|NN alcohol|NN consumption|NN limit|NN people|NN drink|NN risk|NN cardiovascular_disease|DS people|NN alcohol|NN rate|NN cardiovascular_disease|DS alcohol|NN 
+alcohol|NN intake|NN risk|NN cardiovascular_disease|DS consumption|NN alcohol|NN risk|NN event|NN day|NN consumption|NN lower|NN blood|NN pressure|NN 
+reduction|NN blood|NN pressure|NN risk|NN decrease|NN cholesterol|NN treatment|NN mortality|NN decrease|NN body|NN fat|NN effect|NN weight_loss|ST change|NN evidence|NN weight|NN diet|NN study|NN people|NN obesity|NN weight_loss|ST surgery|NN reduction|NN risk|NN stress|NN measure|NN definition|NN intervention|NN ischemia|NN risk|NN heart|NN problem|NN heart|NN disease|NN stress|NN form|NN heart|NN dysfunction|NN syndrome|NN people|NN stress|NN role|NN hypertension|DS relaxation|NN therapy|NN benefit|NN 
+guideline|NN strategy|NN 
+review|NN evidence|NN intervention|NN risk|NN factor|NN effect|NN blood|NN pressure|NN body|NN mass|NN index|NN waist|NN circumference|NN evidence|NN author|NN conclusion|NN effect|NN event|NN mortality|NN adult|NN diagnosis|NN hypertension|DS cardiovascular_disease|DS routine|NN diet|NN activity|NN alter|NN behavior|NN review|NN people|NN cardiovascular_disease|DS risk|NN score|NN cardiovascular_disease|DS risk|NN factor|NN amount|NN care|NN uncertainty|NN score|NN effect|NN cardiovascular_disease|DS event|NN 
+care|NN periodontitis|NN risk|NN cardiovascular_disease|DS diet|NN cardiovascular_disease|DS salt|NN cardiovascular_disease|DS 
+diet|NN fruit|NN vegetable|NN risk|NN cardiovascular_disease|DS death|NN evidence|NN diet|NN outcome|NN evidence|NN diet|NN diet|NN change|NN risk|NN factor|NN cholesterol|NN level|NN blood|NN pressure|NN diet|NN nut|NN fish|NN fruit|NN vegetable|NN sweet|NN meat|NN fat|NN blood|NN pressure|NN density|NN lipoprotein|NN cholesterol|NN syndrome|NN benefit|NN context|NN trial|NN fiber|NN diet|NN risk|NN 
+intake|NN risk|NN factor|NN diet|NN acid|NN rate|NN cardiovascular_disease|DS guideline|NN reduction|NN fat|NN question|NN effect|NN fat|NN cardiovascular_disease|DS literature|NN review|NN evidence|NN harm|NN fat|NN review|NN evidence|NN benefit|NN fat|NN fat|NN analysis|NN substitution|NN omega|NN acid|NN type|NN fat|NN risk|NN replacement|NN fat|NN carbohydrate|NN risk|NN benefit|NN replacement|NN fat|NN supplementation|NN acid|NN type|NN fat|NN effect|NN 
+review|NN benefit|NN diet|NN people|NN blood|NN pressure|NN heart_failure|DS study|NN rest|NN trial|NN trend|NN review|NN salt|NN evidence|NN salt|NN intake|NN blood|NN pressure|NN hypertension|DS number|NN cardiovascular_disease|DS event|NN result|NN blood|NN pressure|NN mechanism|NN evidence|NN salt|NN intake|NN mortality|NN evidence|NN increase|NN mortality|NN stroke|DS hypertrophy|NN 
+blood|NN pressure|NN medication|NN cardiovascular_disease|DS people|NN risk|NN age|NN level|NN risk|NN blood|NN pressure|NN drug|NN regimen|NN efficacy|NN risk|NN event|NN difference|NN drug|NN ability|NN outcome|NN reduction|NN blood|NN pressure|NN reduction|NN risk|NN people|NN blood|NN pressure|NN drug|NN reduction|NN blood|NN pressure|NN 
+cardiovascular_disease|DS people|NN history|NN cardiovascular_disease|DS event|NN rate|NN men|NN women|NN decrease|NN event|NN men|NN women|NN risk|NN history|NN cardiovascular_disease|DS prevention|NN decrease|NN risk|NN death|NN cardiovascular_disease|DS benefit|NN united|NN states|NN guideline|NN risk|NN cardiovascular_disease|DS year|NN cholesterol|NN risk|NN cardiovascular_disease|DS 
+medication|NN risk|NN people|NN type|NN evidence|NN meta-analysis|NN participant|NN event|NN risk|NN reduction|NN cardiovascular_disease|DS glucose|NN lower|NN period|NN year|NN risk|NN hypoglycemia|DS 
+aspirin|NN benefit|NN risk|NN heart|NN disease|NN risk|NN bleed|NN benefit|NN respect|NN problem|NN risk|NN age|NN united|NN states|NN service|NN task|NN force|NN use|NN aspirin|NN prevention|NN women|NN men|NN year|NN individual|NN 
+use|NN agent|NN people|NN hypertension|DS heart|NN disease|NN lung|NN disease|NN harm|NN expense|NN activity|NN 
+rehabilitation|NN heart|NN attack|NN risk|NN death|NN cardiovascular_disease|DS quality|NN study|NN benefit|NN exercise|NN train|NN people|NN risk|NN history|NN cardiovascular_disease|DS 
+review|NN inactivity|NN burden|NN disease|NN heart|NN disease|NN author|NN death|NN heart|NN disease|NN inactivity|NN 
+review|NN evidence|NN yoga|NN effect|NN blood|NN pressure|NN cholesterol|NN study|NN review|NN quality|NN evidence|NN exercise|NN program|NN exercise|NN adherence|NN supplement|NN 
+diet|NN effect|NN supplementation|NN vitamin|NN vitamin|NN vitamin|NN cardiovascular_disease|DS case|NN harm|NN mineral|NN supplement|NN type|NN vitamin|NN exception|NN decrease|NN risk|NN event|NN risk|NN magnesium|NN supplementation|NN blood|NN pressure|NN dose|NN manner|NN magnesium|NN therapy|NN people|NN arrhythmia|ST torsade|NN de|NN syndrome|NN treatment|NN people|NN arrhythmia|ST evidence|NN acid|NN supplementation|NN management|NN 
+cardiovascular_disease|DS treatment|NN diet|NN intervention|NN heart|NN attack|NN stroke|DS influenza|DS vaccination|NN chance|NN event|NN death|NN people|NN heart|NN disease|NN 
+cardiovascular_disease|DS management|NN focus|NN mi|NN stroke|DS case|NN mortality|NN rate|NN mind|NN cost-effectiveness|NN intervention|NN country|NN income|NN level|NN mi|NN strategy|NN aspirin|NN tissue|NN activator|NN region|NN income|NN 
+cost|NN aspirin|NN 
+aspirin|NN inhibitor|NN beta|NN blocker|NN cardiovascular_disease|DS prevention|NN region|NN cost|NN 
+epidemiology|NN cardiovascular_disease|DS death|NN person|NN life|NN year|NN cardiovascular_disease|DS inhabitant|NN data|NN 
+cardiovascular_disease|DS cause|NN death|NN region|NN death|NN cardiovascular_disease|DS 
+death|NN cardiovascular_disease|DS country|NN death|NN cardiovascular_disease|DS country|NN 
+people|NN cardiovascular_disease|DS year|NN 
+world|NN cardiovascular_disease|DS burden|NN south|NN subcontinent|NN account|NN world|NN population|NN 
+combination|NN predisposition|NN factor|NN 
+organization|NN heart|NN association|NN world|NN heart|NN federation|NN awareness|NN issue|NN research|NN cardiovascular_disease|DS 
+evidence|NN cardiovascular_disease|DS research|NN cardiovascular_disease|DS date|NN century|NN cause|NN prevention|NN treatment|NN form|NN cardiovascular_disease|DS field|NN research|NN study|NN basis|NN 
+area|NN research|NN link|NN inflammation|NN atherosclerosis|DS potential|NN intervention|NN genetics|NN heart|NN disease|NN 

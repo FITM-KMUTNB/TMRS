@@ -9,13 +9,13 @@ sign symptom ulcer gastritis
 people gastritis experience symptom 
 pain symptom pain gnaw sore pain portion abdomen portion abdomen back 
 sign symptom 
-nausea vomit green severity stomach inflammation stomach pain satiety loss appetite weight loss 
+nausea vomit green severity stomach inflammation stomach pain satiety loss appetite weight_loss 
 cause nsaids 
 cause alcohol cocaine illness disease 
 stomach world population infection role pathogenesis number disease 
 colonization mucosa result development gastritis individual subset patient gastritis complication ulcer disease stomach_cancer extragastric disorder percent individual bacterium role stomach ecology illness 
 gastritis surgery injury ulcer curl ulcer infection 
-gastritis weight loss surgery band reconstruction tract 
+gastritis weight_loss surgery band reconstruction tract 
 evidence role food food coffee development ulcer people food 
 gastritis surface necrosis damage defenses nsaids enzyme biosynthesis stomach possibility ulcer nsaids aspirin substance stomach 
 drug period 

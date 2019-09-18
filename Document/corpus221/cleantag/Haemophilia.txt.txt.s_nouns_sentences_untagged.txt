@@ -1,0 +1,149 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN haemophilia|DS name|NN haemophilia|DS protein|NN draw|NN clote|NN factor|NN pronunciation|NN 
+symptom|NN onset|NN birth|NN cause|NN method|NN blood|NN test|NN prevention|NN screen|NN treatment|NN blood|NN clote|NN factor|NN frequency|NN male|NN haemophilia|DS male|NN haemophilia|DS 
+haemophilia|DS disorder|NN ability|NN blood|NN clot|NN process|NN result|NN people|NN injury|NN bruise|ST risk|NN joint|NN brain|NN case|NN disease|NN symptom|NN accident|NN surgery|NN result|NN damage|NN brain|NN term|NN headache|ST seizure|NN level|NN consciousness|NN 
+type|NN haemophilia|DS haemophilia|DS factor|NN haemophilia|DS factor|NN parent|NN chromosome|NN gene|NN mutation|NN development|NN haemophilia|DS life|NN antibody|NN clote|NN factor|NN type|NN haemophilia|DS factor|NN xi|NN para|NN haemophilia|DS factor|NN haemophilia|DS cancer|DS disorder|NN pregnancy|NN diagnosis|NN blood|NN ability|NN clot|NN level|NN clote|NN factor|NN 
+prevention|NN egg|NN embryo|NN uterus|NN treatment|NN blood|NN clote|NN factor|NN basis|NN episode|NN replacement|NN place|NN home|NN hospital|NN clote|NN factor|NN blood|NN method|NN people|NN antibody|NN clote|NN factor|NN treatment|NN medication|NN haemophilia|DS study|NN gene|NN therapy|NN trial|NN 
+haemophilia|DS affect|NN haemophilia|DS male|NN birth|NN haemophilia|DS disorder|NN female|NN female|NN gene|NN chromosome|NN haemophilia|DS haemophilia|DS family|NN difference|NN haemophilia|DS word|NN 
+mean|NN blood|NN 
+mean|NN love|NN content|NN 
+sign|NN symptom|NN complication|NN genetics|NN diagnosis|NN pregnancy|NN pregnancy|NN birth|NN classification|NN management|NN clote|NN factor|NN epidemiology|NN history|NN discovery|NN royalty|NN treatment|NN blood|NN contamination|NN research|NN gene|NN therapy|NN reference|NN link|NN 
+sign|NN symptom|NN 
+symptom|NN severity|NN 
+symptom|NN episode|NN people|NN haemophilia|DS people|NN haemophilia|DS symptom|NN surgery|NN trauma|NN 
+case|NN haemophilia|DS symptom|NN spectrum|NN form|NN 
+haemophilia|DS bleed|NN time|NN prothrombin|NN time|NN thrombin|NN time|NN thromboplastin|NN time|NN 
+bleed|NN people|NN haemophilia|DS individual|NN haemophilia|DS 
+type|NN bleed|NN bleed|NN blood|NN space|NN haemophilia|DS trauma|NN 
+damage|NN disfigurement|NN tissue|NN muscle|NN tissue|NN damage|NN treatment|NN 
+children|NN haemophilia|DS sign|NN symptom|NN birth|NN circumcision|NN 
+symptom|NN bruise|ST bump|NN fall|NN 
+bleed|NN joint|NN tissue|NN muscle|NN 
+children|NN haemophilia|DS symptom|NN year|NN 
+sign|NN haemophilia|DS procedure|NN accident|NN surgery|NN 
+female|NN carrier|NN clote|NN factor|NN gene|NN problem|NN haemophilia|DS 
+complication|NN case|NN haemophilia|DS 
+complication|NN disease|NN treatment|NN 
+bleed|NN numbness|NN pain|ST limb|NN 
+damage|NN pain|ST disfigurement|NN destruction|NN development|NN arthritis|DS 
+transfusion|NN infection|NN blood|NN transfusion|NN treatment|NN 
+reaction|NN clote|NN factor|NN treatment|NN development|NN inhibitor|NN factor|NN replacement|NN 
+haemorrhage|NN emergency|NN buildup|NN pressure|NN skull|NN 
+disorientation|NN nausea|ST loss|NN consciousness|NN brain|NN damage|NN death|NN 
+synovitis|NN cartilage|NN destruction|NN bleed|NN apoptosis|NN chondrocyte|NN synthesis|NN 
+hypertrophy|NN line|NN blood|NN cycle|NN 
+addition|NN iron|NN deposition|NN response|NN system|NN angiogenesis|NN cartilage|NN bone|NN destruction|NN genetics|NN 
+section|NN source|NN 
+section|NN citation|NN source|NN 
+template|NN message|NN inheritance|NN 
+female|NN male|NN 
+mutation|NN disease|NN female|NN defect|NN allele|NN chromosome|NN clote|NN factor|NN inactivation|NN 
+male|NN gene|NN factor|NN 
+gene|NN production|NN factor|NN factor|NN present|NN male|NN equivalent|NN gene|NN disorder|NN 
+male|NN mother|NN son|NN female|NN gene|NN chance|NN gene|NN disease|NN mother|NN haemophilia|DS chance|NN haemophilia|DS 
+contrast|NN female|NN disease|NN mother|NN father|NN haemophilia|DS 
+haemophilia|DS male|NN female|NN female|NN carrier|NN childhood|NN children|NN risk|NN gene|NN 
+carrier|NN haemophilia|DS inactivation|NN 
+haemophilia|DS daughter|NN treatment|NN disease|NN haemophilia|DS male|NN adulthood|NN parent|NN 
+adult|NN female|NN period|NN tendency|NN 
+pattern|NN inheritance|NN type|NN 
+type|NN pattern|NN colour|NN blindness|NN 
+mother|NN carrier|NN chance|NN daughter|NN father|NN gene|NN daughter|NN 
+son|NN gene|NN father|NN 
+trait|NN case|NN carrier|NN 
+test|NN counsel|NN family|NN haemophilia|DS 
+test|NN amniocentesis|NN women|NN carrier|NN condition|NN 
+disorder|NN course|NN human|NN mutation|NN mutation|NN parent|NN gamete|NN 
+mutation|NN account|NN case|NN haemophilia|DS 
+case|NN haemophilia|DS result|NN gene|NN mutation|NN 
+female|NN birth|NN haemophilia|DS son|NN female|NN carrier|NN blood|NN disorder|NN haemophilia|DS result|NN mutation|NN 
+test|NN female|NN children|NN carrier|NN 
+son|NN probability|NN carrier|NN 
+male|NN disease|NN children|NN female|NN carrier|NN daughter|NN carrier|NN haemophilia|DS 
+son|NN disease|NN 
+disease|NN father|NN pass|NN haemophilia|DS 
+male|NN disorder|NN gene|NN children|NN carrier|NN female|NN daughter|NN sire|NN carrier|NN son|NN father|NN haemophilia|DS mother|NN carrier|NN 
+mutation|NN type|NN haemophilia|DS 
+difference|NN change|NN gene|NN people|NN haemophilia|DS level|NN clote|NN factor|NN 
+individual|NN factor|NN haemophilia|DS factor|NN haemophilia|DS haemophilia|DS level|NN clote|NN factor|NN diagnosis|NN 
+haemophilia|DS birth|NN family|NN history|NN condition|NN 
+option|NN parent|NN 
+family|NN history|NN haemophilia|DS child|NN 
+haemophilia|DS injury|NN procedure|NN 
+test|NN counsel|NN risk|NN condition|NN child|NN sample|NN tissue|NN blood|NN sign|NN mutation|NN haemophilia|DS pregnancy|NN 
+woman|NN history|NN haemophilia|DS family|NN haemophilia|DS gene|NN 
+sample|NN sample|NN placenta|NN womb|NN haemophilia|DS gene|NN week|NN pregnancy|NN amniocentesis|NN sample|NN fluid|NN test|NN week|NN pregnancy|NN 
+risk|NN procedure|NN problem|NN miscarriage|ST labour|NN woman|NN doctor|NN charge|NN care|NN birth|NN 
+haemophilia|DS child|NN blood|NN test|NN diagnosis|NN 
+blood|NN cord|NN birth|NN family|NN history|NN haemophilia|DS 
+blood|NN test|NN child|NN haemophilia|DS classification|NN 
+type|NN haemophilia|DS haemophilia|DS haemophilia|DS haemophilia|DS para|NN haemophilia|DS haemophilia|DS 
+haemophilia|DS disorder|NN deficiency|NN clote|NN factor|NN haemophilia|DS disorder|NN lack|NN clote|NN factor|NN haemophilia|DS disorder|NN lack|NN clote|NN factor|NN xi|NN 
+haemophilia|DS individual|NN 
+type|NN haemophilia|DS para|NN haemophilia|DS form|NN deficiency|NN factor|NN 
+form|NN haemophilia|DS autoantibody|NN factor|NN haemophilia|DS haemophilia|DS cancer|DS disorder|NN childbirth|NN management|NN 
+treatment|NN prevention|NN episode|NN blood|NN clote|NN factor|NN factor|NN factor|NN factor|NN powder|NN vial|NN water|NN injection|NN 
+factor|NN haemophilia|DS haemophilia|DS clote|NN factor|NN bleed|NN event|NN haemophilia|DS use|NN time|NN week|NN life|NN treatment|NN episode|NN damage|NN body|NN 
+factor|NN haemophilia|DS factor|NN haemophilia|DS 
+factor|NN replacement|NN blood|NN serum|NN combination|NN 
+people|NN antibody|NN inhibitor|NN replacement|NN factor|NN amount|NN factor|NN replacement|NN product|NN factor|NN 
+person|NN replacement|NN coagulation|NN factor|NN result|NN level|NN inhibitor|NN factor|NN 
+food|NN drug|NN administration|NN factor|NN gene|NN hamster|NN ovary|NN cell|NN 
+factor|NN product|NN hamster|NN ovary|NN tissue|NN culture|NN cell|NN plasma|NN product|NN country|NN 
+clote|NN factor|NN product|NN purity|NN safety|NN world|NN 
+case|NN factor|NN product|NN sort|NN country|NN 
+use|NN infusion|NN clote|NN factor|NN schedule|NN order|NN clote|NN level|NN episode|NN 
+treatment|NN episode|NN 
+trial|NN treatment|NN boy|NN month|NN haemophilia|DS treatment|NN infusion|NN body|NN weight|NN factor|NN day|NN respect|NN effect|NN prevention|NN 
+boy|NN year|NN age|NN prophylaxis|NN group|NN group|NN index|NN treatment|NN cost|NN year|NN 
+author|NN editorial|NN issue|NN idea|NN treatment|NN demand|NN treatment|NN start|NN haemorrhage|NN age|NN haemophilia|DS cs|NN world|NN country|NN access|NN blood|NN clote|NN factor|NN product|NN 
+haemophilia|DS acid|NN acid|NN clote|NN factor|NN breakdown|NN clot|NN 
+pain|ST medicine|NN steroid|NN therapy|NN pain|ST swell|NN joint|NN haemophilia|DS benefit|NN 
+heparin|NN people|NN haemophilia|DS clote|NN difficulty|NN 
+drug|NN blood|NN thine|NN side|NN effect|NN 
+instance|NN medicine|NN aspirin|NN sodium|NN side|NN effect|NN 
+activity|NN likelihood|NN trauma|NN motorcycle|NN 
+sport|NN rate|NN contact|NN injury|NN hockey|NN box|NN wrestle|NN people|NN haemophilia|DS sport|NN soccer|NN rate|NN injury|NN contact|NN consultation|NN doctor|NN 
+aspect|NN disorder|NN life|NN expectancy|NN severity|NN treatment|NN 
+people|NN haemophilia|DS treatment|NN maturity|NN 
+treatment|NN life|NN expectancy|NN year|NN life|NN span|NN average|NN haemophilia|DS treatment|NN year|NN treatment|NN male|NN haemophilia|DS quality|NN life|NN year|NN male|NN 
+cause|NN death|NN people|NN haemophilia|DS haemorrhage|NN treatment|NN blood|NN product|NN second|NN cause|NN death|NN haemophilia|DS complication|NN haemorrhage|NN death|NN people|NN haemophilia|DS 
+cause|NN death|NN hepatitis|DS infection|NN cirrhosis|DS obstruction|NN air|NN blood|NN flow|NN tissue|NN haemorrhage|NN epidemiology|NN 
+haemophilia|DS instance|NN birth|NN birth|NN haemophilia|DS birth|NN haemophilia|DS people|NN united|NN states|NN haemophilia|DS 
+year|NN baby|NN disorder|NN 
+haemophilia|DS male|NN female|NN haemophilia|DS haemophilia|DS history|NN year|NN woman|NN name|NN smith|NN vicinity|NN new|NN idiosyncrasy|NN descendant|NN 
+family|NN subject|NN source|NN solicitude|NN cause|NN death|NN 
+scratch|NN skin|NN mortal|NN wound|ST member|NN family|NN consequence|NN wound|ST consideration|NN relation|NN discharge|ST operation|NN 
+
+otto|NN discovery|NN 
+professional|NN disease|NN 
+century|NN family|NN male|NN bleed|NN trauma|NN reference|NN disease|NN write|NN analysis|NN start|NN century|NN 
+otto|NN physician|NN account|NN disposition|NN family|NN male|NN disorder|NN male|NN female|NN 
+paper|NN paper|NN characteristics|NN disorder|NN paper|NN description|NN colour|NN blindness|NN dalton|NN family|NN 
+otto|NN disease|NN back|NN woman|NN 
+idea|NN male|NN trait|NN daughter|NN 
+hay|NN account|NN new|NN journal|NN medicine|NN 
+doctor|NN disorder|NN haemophilia|DS land|NN islands|NN southwest|NN finland|NN disorder|NN disease|NN 
+term|NN haemophilia|DS term|NN description|NN condition|NN student|NN university|NN doctor|NN globulin|NN doctor|NN buenos|NN aires|NN haemophilia|DS haemophilia|DS disease|NN lab|NN test|NN 
+test|NN blood|NN haemophilia|DS haemophilia|DS 
+fact|NN clote|NN problem|NN form|NN haemophilia|DS 
+royalty|NN article|NN haemophilia|DS royalty|NN queen|NN haemophilia|DS descendant|NN 
+haemophilia|DS royalty|NN disease|NN 
+queen|NN mutation|NN haemophilia|DS son|NN daughter|NN alice|NN royal|NN continent|NN family|NN russia|NN 
+russia|NN son|NN heir|NN tsar|NN nicholas|NN haemophilia|DS mother|NN empress|NN queen|NN granddaughter|NN 
+haemophilia|DS rise|NN prominence|NN mystic|NN court|NN 
+haemophilia|DS 
+time|NN treatment|NN doctor|NN aspirin|NN problem|NN 
+treatment|NN improvement|NN condition|NN 
+queen|NN daughter|NN princess|NN daughter|NN queen|NN 
+son|NN haemophilia|DS car|NN accident|NN 
+son|NN prince|NN alfonso|NN prince|NN asturias|NN age|NN bleed|NN car|NN telephone|NN booth|NN 
+son|NN infante|NN age|NN bleed|NN car|NN accident|NN sister|NN wall|NN cyclist|NN 
+care|NN day|NN 
+citation|NN treatment|NN 
+method|NN production|NN factor|NN graham|NN pool|NN university|NN use|NN united|NN states|NN name|NN development|NN system|NN transportation|NN storage|NN plasma|NN time|NN treatment|NN haemophilia|DS blood|NN contamination|NN article|NN haemophilia|DS blood|NN product|NN white|NN haemophilia|DS blood|NN product|NN 
+people|NN haemophilia|DS clote|NN factor|NN product|NN risk|NN hepatitis|DS infection|NN 
+plasma|NN product|NN product|NN subject|NN form|NN inactivation|NN 
+result|NN factor|NN product|NN people|NN united|NN states|NN japanese|NN iraqis|NN 
+infection|NN factor|NN product|NN time|NN inactivation|NN method|NN place|NN product|NN research|NN gene|NN therapy|NN 
+haemophilia|DS gene|NN therapy|NN symptom|NN person|NN haemophilia|DS result|NN haemophilia|DS stage|NN research|NN site|NN participant|NN gene|NN therapy|NN trial|NN people|NN haemophilia|DS dose|NN dose|NN treatment|NN haemophilia|DS see|NN 
+secondary|NN clote|NN disorder|NN world|NN federation|NN haemophilia|DS 

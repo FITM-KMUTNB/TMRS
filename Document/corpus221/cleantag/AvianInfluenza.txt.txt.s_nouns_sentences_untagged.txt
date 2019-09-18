@@ -1,0 +1,347 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN subtype|NN avian_influenza|DS virus|NN subtype|NN 
+article|NN citation|NN verification|NN 
+article|NN citation|NN source|NN 
+source|NN avian_influenza|DS new|NN newspaper|NN book|NN scholar|NN template|NN message|NN flu|NN virus|NN type|NN 
+subtype|NN swine|NN subtype|NN 
+
+vitamin|NN 
+flu|NN flu|NN hong|NN swine|NN 
+swine|NN flu|NN matthews|NN west|NN united|NN states|NN outbreak|NN 
+flu|NN season|NN evolution|NN research|NN illness|NN reformulation|NN 
+avian_influenza|DS avian_influenza|DS avian_influenza|DS variety|NN influenza|DS bird|NN type|NN risk|NN avian_influenza|DS 
+avian_influenza|DS swine|NN flu|NN dog|NN flu|NN horse|NN flu|NN flu|NN illness|NN strain|NN influenza|DS host|NN 
+type|NN influenza|DS influenza|DS virus|NN infection|NN reservoir|NN bird|NN avian_influenza|DS purpose|NN influenza|DS virus|NN 
+influenza|DS bird|NN person|NN transmission|NN influenza|DS research|NN gene|NN flu|NN virus|NN gene|NN strain|NN 
+pig|NN swine|NN influenza|DS mixture|NN gene|NN virus|NN shift|NN influenza|DS virus|NN subtype|NN people|NN protection|NN 
+avian_influenza|DS strain|NN type|NN pathogenicity|NN pathogenicity|NN strain|NN china|NN strain|NN north|NN companion|NN bird|NN captivity|NN virus|NN report|NN companion|NN bird|NN avian_influenza|DS 
+pigeon|NN strain|NN virus|NN human|NN animal|NN 
+case|NN world|NN health|NN organization|NN health|NN family|NN plan|NN commission|NN china|NN case|NN death|NN case|NN transmission|NN person|NN poultry|NN market|NN 
+case|NN shanghai|NN 
+increase|NN number|NN case|NN year|NN content|NN 
+history|NN genetics|NN spread|NN village|NN poultry|NN research|NN animal|NN birds|NN seal|NN cat|NN impact|NN prevention|NN village|NN poultry|NN farmer|NN relation|NN reference|NN source|NN link|NN 
+date|NN history|NN avian_influenza|DS fowl|NN plague|NN disease|NN mortality|NN rate|NN bird|NN plague|NN disease|NN 
+occasion|NN emergence|NN poultry|NN loss|NN 
+outbreak|NN poultry|NN time|NN outbreak|NN bird|NN 
+world|NN poultry|NN population|NN country|NN country|NN prevalence|NN avian_influenza|DS mortality|NN poultry|NN infection|NN 
+due|NN density|NN movement|NN flock|NN poultry|NN production|NN 
+goose|NN china|NN 
+infection|NN hong|NN case|NN country|NN pacific|NN east|NN country|NN genetics|NN 
+factor|NN flu|NN avian_influenza|DS 
+amino|NN acid|NN residue|NN position|NN protein|NN gene|NN 
+avian_influenza|DS position|NN influenza|DS lys|NN 
+avian_influenza|DS bind|NN alpha|NN acid|NN receptor|NN influenza|DS bind|NN alpha|NN acid|NN receptor|NN 
+swine|NN influenza|DS ability|NN type|NN acid|NN receptor|NN 
+antigen|NN virus|NN antibody|NN influenza|DS virus|NN epidemics|NN change|NN structure|NN 
+pig|NN pig|NN flu|NN 
+subtype|NN avian_influenza|DS strain|NN subtype|NN human|NN person|NN woman|NN province|NN china|NN pneumonia|DS strain|NN fatality|NN strain|NN 
+case|NN avian_influenza|DS result|NN handle|NN bird|NN contact|NN fluid|NN 
+surface|NN drop|NN 
+bird|NN form|NN strain|NN bird|NN chicken|NN turkey|NN bird|NN contact|NN 
+threat|NN poultry|NN hygiene|NN condition|NN quarter|NN 
+human|NN infection|NN bird|NN transmission|NN contact|NN 
+health|NN official|NN strain|NN avian_influenza|DS human|NN 
+spread|NN poultry|NN trade|NN bird|NN migration|NN study|NN rise|NN infection|NN bird|NN south|NN breed|NN ground|NN 
+infection|NN pattern|NN transportation|NN railroad|NN road|NN country|NN border|NN poultry|NN trade|NN 
+strain|NN avian_influenza|DS united|NN states|NN human|NN 
+example|NN avian_influenza|DS virus|NN strain|NN subtype|NN designation|NN subtype|NN designation|NN avian_influenza|DS plague|NN plague|NN spread|NN 
+avian_influenza|DS contact|NN bird|NN equipment|NN virus|NN secretion|NN nostril|NN mouth|NN eye|NN bird|NN drop|NN 
+infection|NN people|NN contact|NN poultry|NN slaughter|NN virus|NN secretion|NN disease|NN disease|NN 
+strain|NN flock|NN flock|NN hour|NN strain|NN egg|NN production|NN 
+human|NN avian_influenza|DS virus|NN bird|NN contact|NN contact|NN 
+health|NN official|NN strain|NN avian_influenza|DS human|NN strain|NN avian_influenza|DS tract|NN number|NN shore|NN bird|NN water|NN bird|NN strain|NN infection|NN 
+ecosystem|NN avian_influenza|DS virus|NN ecology|NN poultry|NN poultry|NN poultry|NN market|NN hobby|NN flock|NN bird|NN collection|NN trade|NN system|NN cockfight|NN 
+poultry|NN impact|NN spread|NN increase|NN outbreak|NN result|NN production|NN village|NN poultry|NN 
+day|NN village|NN poultry|NN owner|NN disease|NN transmission|NN village|NN poultry|NN hobby|NN flock|NN flock|NN condition|NN range|NN household|NN 
+research|NN flock|NN threat|NN poultry|NN stock|NN village|NN poultry|NN distance|NN transport|NN poultry|NN spread|NN implication|NN poultry|NN farmer|NN category|NN challenge|NN prevention|NN recommendation|NN strategy|NN poultry|NN flock|NN 
+transmission|NN electron|NN micrograph|NN avian_influenza|DS 
+virus|NN subtype|NN structure|NN infection|NN mortality|NN spread|NN impact|NN 
+information|NN virus|NN subtype|NN transmission|NN infection|NN 
+influenza|DS virus|NN subtype|NN avian_influenza|DS virus|NN concern|NN threat|NN 
+avian_influenza|DS avian_influenza|DS subtype|NN 
+poultry|NN number|NN country|NN 
+health|NN expert|NN coexistence|NN flu|NN avian_influenza|DS opportunity|NN material|NN influenza|DS strain|NN human|NN 
+mortality|NN rate|NN human|NN 
+outbreak|NN number|NN transmission|NN infection|NN 
+barrier|NN bird|NN human|NN virus|NN human|NN case|NN infection|NN transmission|NN research|NN pathogenesis|NN epidemiology|NN virus|NN human|NN 
+exposure|NN route|NN disease|NN transmission|NN characteristics|NN factor|NN likelihood|NN infection|NN 
+transmission|NN human|NN hong|NN outbreak|NN case|NN death|NN 
+people|NN poultry|NN 
+poultry|NN area|NN case|NN human-to-human|NN transmission|NN member|NN family|NN sumatra|NN contact|NN family|NN member|NN poultry|NN 
+bird|NN virus|NN discovery|NN people|NN country|NN world|NN health|NN organization|NN report|NN august|NN 
+example|NN outbreak|NN loss|NN poultry|NN worker|NN 
+confidence|NN poultry|NN product|NN consumption|NN chicken|NN product|NN 
+ban|NN country|NN 
+factor|NN spread|NN virus|NN bird|NN migration|NN temperature|NN increase|NN virus|NN survival|NN festival|NN time|NN 
+mutation|NN virus|NN patient|NN chicken|NN organ|NN risk|NN human|NN research|NN 
+study|NN science|NN magazine|NN research|NN find|NN transmission|NN laboratory|NN ferret|NN 
+study|NN mutation|NN virus|NN controversy|NN implication|NN information|NN public|NN 
+study|NN entirety|NN topic|NN community|NN 
+study|NN question|NN amino|NN acid|NN substitution|NN effect|NN disease|NN 
+fact|NN fatality|NN rate|NN ferret|NN transmission|NN biology|NN substitution|NN 
+flu|NN host|NN cell|NN protein|NN envelope|NN 
+protein|NN acid|NN receptor|NN host|NN cell|NN category|NN 
+acid|NN receptor|NN origin|NN receptor|NN preference|NN 
+origin|NN influenza|DS origin|NN sa|NN receptor|NN human|NN tract|NN fact|NN foundation|NN deadliness|NN avian_influenza|DS human|NN key|NN lack|NN transmission|NN 
+study|NN avian_influenza|DS ferret|NN receptor|NN preference|NN host|NN cell|NN human|NN tract|NN order|NN infection|NN virus|NN particle|NN 
+infection|NN tract|NN human|NN trajectory|NN disease|NN information|NN virus|NN subtype|NN 
+virus|NN subtype|NN novel|NN avian_influenza|DS virus|NN human|NN china|NN case|NN infection|NN illness|NN month|NN report|NN case|NN people|NN rate|NN infection|NN patient|NN rest|NN world|NN health|NN organization|NN virus|NN human|NN 
+june|NN case|NN death|NN 
+research|NN background|NN transmission|NN case|NN link|NN bird|NN market|NN evidence|NN human-to-human|NN transmission|NN study|NN group|NN world|NN expert|NN avian_influenza|DS instance|NN infection|NN virus|NN poultry|NN surveillance|NN 
+researcher|NN prevalence|NN male|NN patient|NN behavioral|NN explanation|NN pattern|NN reason|NN vaccine|NN use|NN influenza|DS drug|NN inhibitor|NN case|NN infection|NN 
+number|NN case|NN 
+decrease|NN number|NN case|NN containment|NN measure|NN authority|NN bird|NN market|NN change|NN season|NN combination|NN factor|NN 
+study|NN avian_influenza|DS pattern|NN infection|NN weather|NN cooler|NN china|NN 
+year|NN case|NN 
+health|NN family|NN plan|NN commission|NN china|NN case|NN 
+case|NN shanghai|NN person|NN poultry|NN market|NN 
+case|NN death|NN 
+case|NN transmission|NN 
+prefecture|NN province|NN poultry|NN market|NN province|NN route|NN poultry|NN market|NN regulation|NN 
+traveller|NN region|NN poultry|NN farm|NN bird|NN market|NN surface|NN poultry|NN 
+increase|NN number|NN case|NN year|NN animal|NN 
+symptom|NN infection|NN cat|NN dog|NN ferret|NN pig|NN bird|NN bird|NN 
+attempt|NN united|NN states|NN presence|NN poultry|NN routine|NN surveillance|NN poultry|NN flock|NN poultry|NN operation|NN 
+detection|NN virus|NN cull|NN flock|NN 
+vaccination|NN turkey|NN flock|NN code|NN fowl|NN vaccine|NN turkey|NN combination|NN vaccine|NN seal|NN 
+strain|NN virus|NN lung|NN seal|NN cat|NN 
+avian_influenza|DS cat|NN variety|NN symptom|NN death|NN 
+cat|NN bird|NN virus|NN cat|NN 
+formation|NN partnership|NN avian_influenza|DS order|NN importance|NN avian_influenza|DS effort|NN disease|NN report|NN surveillance|NN order|NN future|NN 
+network|NN laboratory|NN avian_influenza|DS crisis|NN management|NN center|NN animal|NN health|NN avian_influenza|DS network|NN surveillance|NN warn|NN system|NN animal|NN disease|NN 
+outbreak|NN member|NN state|NN need|NN share|NN vaccine|NN benefit|NN network|NN measure|NN response|NN basis|NN program|NN disease|NN 
+control|NN end|NN 
+negotiation|NN response|NN network|NN power|NN fund|NN ministry|NN health|NN support|NN food|NN agriculture|NN organization|NN nation|NN control|NN industrialization|NN livestock|NN production|NN export|NN portion|NN farm|NN number|NN poultry|NN keeper|NN 
+poultry|NN production|NN practice|NN poultry|NN production|NN threat|NN 
+production|NN risk|NN production|NN lack|NN contact|NN human|NN spread|NN flock|NN density|NN rear|NN homogeneity|NN culture|NN reason|NN intervention|NN intervention|NN solution|NN 
+press|NN account|NN avian_influenza|DS poultry|NN farmer|NN case|NN public|NN account|NN idea|NN danger|NN behavior|NN 
+avian_influenza|DS business|NN order|NN farmer|NN market|NN danger|NN avian_influenza|DS avian_influenza|DS foreigner|NN force|NN chicken|NN chicken|NN world|NN market|NN government|NN avian_influenza|DS ploy|NN fund|NN country|NN 
+rumor|NN concern|NN business|NN distrust|NN government|NN country|NN amount|NN decentralization|NN steven|NN epidemiologist|NN 
+context|NN government|NN public|NN health|NN minister|NN government|NN sample|NN patient|NN 
+decision|NN shock|NN community|NN influenza|DS surveillance|NN network|NN influenza|DS 
+country|NN virus|NN specimen|NN sample|NN company|NN order|NN vaccine|NN country|NN attempt|NN sovereignty|NN cost|NN struggle|NN 
+dispute|NN ministry|NN health|NN due|NN nature|NN government|NN leakage|NN fund|NN state|NN agency|NN health|NN intervention|NN 
+control|NN health|NN issue|NN fund|NN representative|NN ministry|NN health|NN player|NN management|NN fund|NN vaccine|NN production|NN benefit|NN surveillance|NN network|NN 
+protein|NN country|NN poultry|NN wake|NN poultry|NN 
+bird|NN infection|NN control|NN attempt|NN report|NN loss|NN south|NN east|NN impact|NN scale|NN producer|NN asset|NN chain|NN decrease|NN export|NN loss|NN consumer|NN confidence|NN 
+government|NN compensation|NN poultry|NN market|NN value|NN market|NN value|NN compensation|NN farmer|NN 
+poultry|NN source|NN food|NN security|NN liquid|NN asset|NN population|NN scale|NN farmer|NN loss|NN bird|NN cull|NN loss|NN month|NN production|NN household|NN income|NN day|NN loss|NN food|NN security|NN household|NN stunt|NN children|NN women|NN population|NN risk|NN region|NN world|NN flock|NN women|NN cull|NN enrollment|NN girl|NN school|NN turkey|NN prevention|NN 
+people|NN contact|NN bird|NN risk|NN avian_influenza|DS 
+risk|NN poultry|NN farm|NN worker|NN animal|NN control|NN worker|NN wildlife|NN biologist|NN ornithologist|NN bird|NN organization|NN worker|NN avian_influenza|DS response|NN plan|NN place|NN case|NN 
+poultry|NN flock|NN prevention|NN 
+flock|NN bird|NN bird|NN waste|NN vehicle|NN flock|NN farm|NN bird|NN slaughter|NN channel|NN farm|NN 
+infection|NN control|NN use|NN equipment|NN chance|NN infection|NN 
+eye|NN nose|NN mouth|NN hand|NN prevention|NN way|NN virus|NN body|NN 
+equipment|NN apron|NN glove|NN boot|NN boot|NN cover|NN head|NN cover|NN hair|NN cover|NN 
+respirator|NN safety|NN goggle|NN part|NN 
+air|NN purify|NN respirator|NN hood|NN helmet|NN face|NN shield|NN option|NN 
+report|NN case|NN spread|NN 
+center|NN disease|NN control|NN prevention|NN recommendation|NN worker|NN symptom|NN day|NN work|NN poultry|NN material|NN care|NN employer|NN health|NN official|NN 
+future|NN avian_influenza|DS threat|NN phase|NN part|NN plan|NN 
+phase|NN opportunity|NN infection|NN warn|NN system|NN phase|NN emergence|NN virus|NN delay|NN spread|NN source|NN phase|NN morbidity|NN mortality|NN disruption|NN conduct|NN research|NN guide|NN response|NN measure|NN 
+vaccine|NN poultry|NN influenza|DS variety|NN 
+control|NN measure|NN vaccination|NN poultry|NN world|NN health|NN organization|NN list|NN trial|NN influenza|DS prototype|NN vaccine|NN country|NN risk|NN spread|NN vaccination|NN vaccine|NN supply|NN shortage|NN problem|NN village|NN poultry|NN farmer|NN 
+response|NN size|NN recommendation|NN poultry|NN production|NN system|NN measure|NN bird|NN bird|NN 
+poultry|NN household|NN unit|NN flock|NN contact|NN flock|NN measure|NN use|NN unit|NN village|NN 
+recommendation|NN market|NN avian_influenza|DS 
+poultry|NN production|NN zone|NN poultry|NN farm|NN area|NN environment|NN poultry|NN market|NN number|NN trader|NN license|NN producer|NN trader|NN inspection|NN 
+recommendation|NN combination|NN requirement|NN fence|NN house|NN poultry|NN flock|NN producer|NN producer|NN livelihood|NN condition|NN 
+summary|NN report|NN world|NN animal|NN health|NN surveillance|NN country|NN challenge|NN donor|NN support|NN control|NN disease|NN disease|NN fowl|NN cholera|NN bursal|NN disease|NN poultry|NN population|NN 
+test|NN lack|NN test|NN diagnose|NN farmer|NN bird|NN 
+production|NN system|NN investment|NN safety|NN net|NN income|NN household|NN prevention|NN treatment|NN poultry|NN control|NN agreement|NN government|NN agency|NN food|NN security|NN 
+order|NN threat|NN avian_influenza|DS transmission|NN kill|NN bird|NN 
+manual|NN control|NN zone|NN strategy|NN identification|NN area|NN bird|NN 
+poultry|NN zone|NN area|NN boundary|NN area|NN ra|NN surveillance|NN ra|NN control|NN area|NN ca|NN buffer|NN zone|NN case|NN spread|NN 
+evidence|NN spread|NN manual|NN example|NN control|NN poultry|NN radius|NN point|NN radius|NN fowl|NN 
+cull|NN method|NN proportion|NN poultry|NN area|NN flock|NN distance|NN infection|NN village|NN effort|NN chicken|NN 
+risk|NN cull|NN bird|NN impact|NN farmer|NN poultry|NN 
+cull|NN lab|NN test|NN avian_influenza|DS policy|NN poultry|NN safeguard|NN spread|NN response|NN policy|NN farmer|NN bird|NN authority|NN poultry|NN cull|NN poultry|NN biosocial|NN worth|NN 
+end|NN government|NN policy|NN flock|NN vicinity|NN farm|NN cull|NN compensation|NN case|NN outbreak|NN 
+cull|NN result|NN impact|NN scale|NN farmer|NN measure|NN 
+mass|NN cull|NN goal|NN spread|NN evolution|NN host|NN resistance|NN success|NN control|NN 
+cull|NN influenza|DS virulence|NN result|NN mortality|NN bird|NN cull|NN strategy|NN impact|NN control|NN destruction|NN 
+prevention|NN control|NN program|NN account|NN understand|NN relation|NN 
+program|NN understand|NN disease|NN transmission|NN 
+case|NN northern|NN health|NN worker|NN poultry|NN commodity|NN environment|NN control|NN people|NN 
+poultry|NN context|NN farm|NN market|NN slaughterhouse|NN road|NN human|NN transmitter|NN avian_influenza|DS burden|NN disease|NN control|NN people|NN 
+farmer|NN poultry|NN environment|NN force|NN control|NN 
+host|NN actor|NN bird|NN weather|NN pattern|NN relationship|NN poultry|NN disease|NN farmer|NN responsibility|NN disease|NN control|NN 
+attempt|NN control|NN farmer|NN area|NN behavior|NN poultry|NN 
+recommendation|NN committee|NN avian_influenza|DS control|NN prevention|NN principle|NN restriction|NN area|NN poultry|NN barrier|NN poultry|NN contact|NN limit|NN movement|NN poultry|NN product|NN transporter|NN recommendation|NN farmer|NN hand|NN footwear|NN contact|NN poultry|NN farmer|NN wind|NN pollution|NN reason|NN poultry|NN 
+recommendation|NN livestock|NN production|NN practice|NN gate|NN sale|NN assessment|NN bird|NN appearance|NN customer|NN contact|NN 
+knowledge|NN recommendation|NN barrier|NN scapegoat|NN intervention|NN 
+prevention|NN control|NN method|NN agent|NN play|NN 
+spread|NN health|NN crisis|NN influenza|DS genome|NN sequence|NN project|NN research|NN vaccine|NN partnership|NN avian|NN pandemic|NN network|NN avian_influenza|DS pandemic|NN response|NN act|NN subtype|NN influenza|DS virus|NN transmission|NN infection|NN 
+virus|NN subtype|NN encyclopedia|NN jump|NN navigation|NN jump|NN search|NN virus|NN subtype|NN virus|NN classification|NN virus|NN realm|NN class|NN order|NN family|NN genus|NN virus|NN virus|NN subtype|NN strain|NN 
+goose|NN virus|NN 
+transmission|NN electron|NN micrograph|NN avian_influenza|DS 
+virus|NN subtype|NN structure|NN infection|NN mortality|NN spread|NN impact|NN 
+flu|NN virus|NN type|NN 
+subtype|NN swine|NN subtype|NN 
+
+vitamin|NN 
+flu|NN flu|NN hong|NN swine|NN 
+swine|NN flu|NN matthews|NN west|NN united|NN states|NN outbreak|NN 
+flu|NN season|NN evolution|NN research|NN illness|NN reformulation|NN 
+virus|NN subtype|NN subtype|NN influenza|DS virus|NN illness|NN human|NN animal|NN strain|NN avian_influenza|DS virus|NN type|NN subtype|NN agent|NN flu|NN avian_influenza|DS avian_influenza|DS 
+population|NN bird|NN population|NN southeast|NN 
+strain|NN 
+epidemic|NN nonhuman|NN panzootic|NN animal|NN area|NN kill|NN bird|NN cull|NN spread|NN 
+reference|NN avian_influenza|DS media|NN strain|NN 
+world|NN health|NN organization|NN nation|NN food|NN agriculture|NN organization|NN area|NN avian_influenza|DS disease|NN situation|NN bird|NN check|NN vaccination|NN evidence|NN human-to-human|NN transmission|NN virus|NN outbreak|NN june|NN country|NN china|NN outbreak|NN june|NN june|NN 
+situation|NN half|NN report|NN disease|NN surveillance|NN system|NN occurrence|NN virus|NN total|NN case|NN death|NN people|NN 
+vaccine|NN number|NN country|NN united|NN states|NN stockpile|NN canada|NN use|NN emergency|NN 
+research|NN strain|NN transmission|NN mammal|NN mutation|NN concern|NN content|NN 
+overview|NN sign|NN symptom|NN bird|NN genetics|NN terminology|NN structure|NN subtype|NN mutation|NN rate|NN prevention|NN health|NN treatment|NN epidemiology|NN transmission|NN host|NN range|NN transmission|NN study|NN ferret|NN society|NN culture|NN note|NN reference|NN link|NN 
+disease|NN evidence|NN human-to-human|NN transmission|NN virus|NN risk|NN factor|NN virus|NN handle|NN poultry|NN transmission|NN virus|NN bird|NN human|NN human|NN strain|NN strain|NN human-to-human|NN transmission|NN 
+virologist|NN 
+webster|NN article|NN world|NN edge|NN fraction|NN population|NN scientist|NN 
+resource|NN world|NN threat|NN live|NN nation|NN system|NN avian_influenza|DS world|NN outbreak|NN avian_influenza|DS people|NN expert|NN event|NN area|NN progression|NN avian_influenza|DS virus|NN event|NN 
+lethality|NN virulence|NN presence|NN host|NN reservoir|NN mutation|NN virus|NN world|NN threat|NN dollar|NN influenza|DS company|NN government|NN influenza|DS vaccine|NN trial|NN infection|NN 
+production|NN vaccine|NN illness|NN strain|NN month|NN emergence|NN vaccine|NN production|NN dose|NN year|NN identification|NN virus|NN 
+influenza|DS bird|NN human|NN herd|NN immunity|NN strain|NN pandemics|NN influenza|DS virus|NN analysis|NN virus|NN influenza|DS flu|NN plan|NN influenza|DS pandemic|NN index|NN level|NN category|NN speak|NN flu|NN worse|NN intervention|NN measure|NN sign|NN symptom|NN information|NN site|NN infection|NN red|NN lethality|NN ability|NN spread|NN 
+human|NN influenza|DS virus|NN flu|NN virus|NN type|NN symptom|NN fever|ST cough|ST throat|NN muscle|NN ache|NN case|NN problem|NN pneumonia|DS severity|NN infection|NN part|NN state|NN person|NN system|NN strain|NN case|NN 
+symptom|NN symptom|NN humanize|NN flu|NN 
+avian_influenza|DS hemagglutinin|NN alpha|NN acid|NN receptor|NN influenza|DS bind|NN alpha|NN acid|NN receptor|NN strain|NN human|NN tract|NN pneumonia|DS form|NN human|NN 
+mortality|NN rate|NN avian_influenza|DS human|NN data|NN case|NN death|NN 
+evidence|NN mortality|NN rate|NN avian_influenza|DS people|NN symptom|NN treatment|NN 
+case|NN boy|NN diarrhea|DT coma|NN symptom|NN study|NN level|NN human|NN flu|NN virus|NN 
+concern|NN level|NN tumor|NN necrosis|NN protein|NN tissue|NN destruction|NN site|NN infection|NN production|NN 
+flu|NN increase|NN level|NN flu|NN symptom|NN fever|ST chill|NN vomit|NN headache|ST 
+tissue|NN damage|NN flu|NN virus|NN infection|NN death|NN cascade|NN storm|NN feedback|NN process|NN damage|NN body|NN system|NN stimulation|NN 
+level|NN flu|NN virus|NN type|NN bird|NN 
+sign|NN bird|NN range|NN egg|NN production|NN discharge|ST cough|ST loss|NN energy|NN appetite|NN egg|NN discoloration|NN head|NN eyelid|NN comb|NN hock|NN diarrhea|DT 
+sign|NN death|NN genetics|NN stand|NN hemagglutinin|NN model|NN information|NN structure|NN 
+strain|NN flock|NN chicken|NN strain|NN current|NN strain|NN 
+strain|NN genotype|NN lineage|NN 
+lineage|NN 
+bird|NN isolate|NN bird|NN isolate|NN laos|NN 
+bird|NN isolate|NN china|NN japan|NN south|NN east|NN 
+infection|NN 
+analysis|NN distribution|NN infection|NN map|NN 
+east|NN china|NN 
+study|NN mutation|NN 
+isolate|NN amount|NN sequence|NN data|NN avian_influenza|DS isolate|NN 
+project|NN genome|NN period|NN genome|NN east|NN 
+analysis|NN find|NN 
+sample|NN fall|NN ancestry|NN hong|NN strain|NN 
+tree|NN segment|NN picture|NN lineage|NN tree|NN figure|NN 
+isolate|NN isolate|NN isolate|NN 
+isolate|NN fall|NN sample|NN east|NN 
+tree|NN segment|NN topology|NN case|NN 
+analyse|NN influenza|DS genome|NN sequence|NN people|NN republic|NN china|NN southeast|NN 
+isolate|NN example|NN 
+stand|NN genus|NN influenza|DS 
+chicken|NN animal|NN isolate|NN note|NN isolate|NN component|NN term|NN isolate|NN default|NN place|NN virus|NN laboratory|NN reference|NN number|NN influenza|DS place|NN year|NN year|NN isolation|NN stand|NN type|NN protein|NN 
+type|NN protein|NN 
+example|NN 
+avian_influenza|DS strain|NN 
+avian_influenza|DS mortality|NN rate|NN flock|NN approach|NN 
+virulence|NN progenitor|NN 
+strain|NN death|NN bird|NN world|NN strain|NN strain|NN north|NN strain|NN disease|NN strain|NN 
+strain|NN date|NN subtype|NN 
+distinction|NN concern|NN poultry|NN human|NN 
+virus|NN human|NN bird|NN 
+strain|NN cat|NN influenza|DS virus|NN structure|NN subtype|NN stand|NN protein|NN ribbon|NN diagram|NN 
+subtype|NN virus|NN influenzavirus|NN genus|NN family|NN 
+influenza|DS subtype|NN subtype|NN virus|NN 
+genome|NN sense|NN pa|NN na|NN ns|NN 
+code|NN hemagglutinin|NN glycoprotein|NN surface|NN influenza|DS virus|NN cell|NN 
+na|NN code|NN enzyme|NN surface|NN influenza|DS 
+release|NN progeny|NN cell|NN hemagglutinin|NN na|NN strand|NN structure|NN protein|NN target|NN drug|NN antibody|NN 
+basis|NN name|NN subtype|NN influenza|DS 
+
+potential|NN disease|NN death|NN human|NN animal|NN 
+virus|NN human|NN order|NN number|NN death|NN 
+flu|NN flu|NN flu|NN flu|NN swine|NN flu|NN flu|NN hong|NN flu|NN flu|NN avian_influenza|DS strain|NN human|NN kill|NN influenza|DS cat|NN bird|NN dollar|NN flu|NN preparation|NN preventiveness|NN potential|NN person|NN human|NN pig|NN cause|NN flu|NN people|NN people|NN people|NN people|NN people|NN lead|NN death|NN 
+avian_influenza|DS north|NN bird|NN 
+case|NN sickness|NN sign|NN disease|NN bird|NN 
+concern|NN poultry|NN poultry|NN strain|NN 
+flock|NN turkey|NN canada|NN mallard|NN duck|NN goose|NN duck|NN university|NN sample|NN procedure|NN sentinel|NN duck|NN cage|NN wild|NN period|NN time|NN gull|NN mallard|NN duck|NN duck|NN canada|NN duck|NN new|NN poultry|NN 
+past|NN requirement|NN report|NN track|NN detection|NN bird|NN state|NN university|NN bird|NN sample|NN 
+list|NN detection|NN past|NN detection|NN 
+world|NN organization|NN animal|NN health|NN requirement|NN report|NN detection|NN avian_influenza|DS 
+ai|NN subtype|NN potential|NN strain|NN 
+track|NN detection|NN bird|NN flock|NN flock|NN bird|NN market|NN 
+mutation|NN rate|NN 
+mutation|NN rate|NN 
+segmentation|NN genome|NN recombination|NN segment|NN host|NN influenza|DS time|NN strain|NN human|NN path|NN 
+ability|NN influenza|DS strain|NN variation|NN gene|NN 
+mutation|NN gene|NN cause|NN amino|NN acid|NN substitution|NN ability|NN hemagglutinin|NN protein|NN receptor|NN surface|NN host|NN cell|NN 
+mutation|NN virus|NN strain|NN cell|NN infection|NN influenza|DS virus|NN type|NN doesnt|NN amino|NN acid|NN substitution|NN amino|NN acid|NN substitution|NN avian_influenza|DS virus|NN human|NN human|NN 
+virus|NN subtype|NN pig|NN china|NN pig|NN fear|NN emergence|NN variant|NN strain|NN 
+strain|NN flu|NN virus|NN drug|NN 
+possibility|NN gene|NN reassortment|NN concern|NN 
+reassortment|NN subtype|NN subtype|NN hong|NN flu|NN strain|NN 
+strain|NN avian_influenza|DS virus|NN segment|NN 
+influenza|DS reassortment|NN influenza|DS virus|NN flu|NN source|NN prevention|NN 
+vaccine|NN variety|NN mutation|NN use|NN date|NN vaccine|NN flu|NN protection|NN vaccine|NN flu|NN virus|NN strain|NN 
+threat|NN disease|NN graduate|NN program|NN university|NN point|NN vaccine|NN vaccine|NN promise|NN research|NN preparedness|NN vaccine|NN manufacture|NN company|NN increase|NN capacity|NN vaccine|NN facility|NN production|NN amount|NN vaccine|NN strain|NN 
+health|NN information|NN 
+united|NN states|NN organization|NN world|NN health|NN organization|NN food|NN agriculture|NN organization|NN nation|NN world|NN organization|NN animal|NN health|NN government|NN situation|NN monitor|NN transparency|NN report|NN avian_influenza|DS occurrence|NN 
+united|NN states|NN partner|NN effort|NN country|NN surveillance|NN outbreak|NN poultry|NN number|NN death|NN bird|NN containment|NN measure|NN 
+agency|NN development|NN 
+department|NN state|NN 
+department|NN health|NN service|NN agriculture|NN response|NN measure|NN behalf|NN house|NN department|NN agency|NN government|NN 
+step|NN risk|NN spread|NN animal|NN population|NN risk|NN infection|NN plan|NN preparedness|NN 
+surveillance|NN analysis|NN animal|NN avian_influenza|DS outbreak|NN wildlife|NN health|NN center|NN center|NN disease|NN control|NN prevention|NN world|NN health|NN organization|NN commission|NN treatment|NN information|NN flu|NN research|NN 
+treatment|NN flu|NN influenza|DS virus|NN spread|NN user|NN body|NN 
+drug|NN focus|NN government|NN organization|NN stockpile|NN treatment|NN course|NN disposal|NN world|NN health|NN organization|NN case|NN flu|NN course|NN use|NN nation|NN ability|NN quantity|NN drug|NN 
+expert|NN 
+vaccine|NN work|NN start|NN emergence|NN virus|NN month|NN 
+moment|NN mean|NN vaccine|NN spread|NN influenza|DS virus|NN precedent|NN year|NN 
+animal|NN lab|NN study|NN class|NN drug|NN 
+study|NN mice|NN avian_influenza|DS mammal|NN addition|NN mice|NN study|NN combination|NN survival|NN rate|NN survival|NN placebo|NN arm|NN strain|NN stockpile|NN event|NN influenza|DS 
+quantity|NN transmission|NN scientist|NN study|NN case|NN strain|NN strain|NN eu|NN epidemiology|NN information|NN transmission|NN infection|NN spread|NN 
+infection|NN human|NN epizootic|NN epidemic|NN nonhuman|NN influenza|DS hong|NN poultry|NN population|NN 
+disease|NN animal|NN area|NN outbreak|NN kill|NN poultry|NN population|NN territory|NN 
+disease|NN outbreak|NN 
+total|NN case|NN death|NN contagiousness|NN country|NN human|NN poultry|NN bird|NN country|NN poultry|NN bird|NN case|NN country|NN poultry|NN bird|NN 
+bird|NN spread|NN 
+mutation|NN reassortment|NN variation|NN virus|NN variant|NN form|NN human|NN 
+virus|NN type|NN receptor|NN tract|NN nose|NN lung|NN human|NN structure|NN lung|NN oxygen|NN blood|NN 
+virus|NN cough|ST route|NN transmission|NN 
+poultry|NN movement|NN bird|NN poultry|NN product|NN use|NN poultry|NN manure|NN fertilizer|NN feed|NN 
+human|NN chicken|NN turn|NN poultry|NN waterfowl|NN 
+waterfowl|NN duck|NN geese|NN swan|NN bird|NN mammal|NN role|NN animal|NN poultry|NN waterfowl|NN host|NN 
+report|NN world|NN health|NN organization|NN 
+report|NN virus|NN surface|NN fertilizer|NN dust|NN people|NN 
+variety|NN strain|NN profile|NN 
+variation|NN virus|NN isolate|NN case|NN infection|NN 
+drift|NN variety|NN isolate|NN genotype|NN avian_influenza|DS virus|NN genotype|NN isolate|NN hong|NN bird|NN disease|NN animal|NN 
+isolate|NN bird|NN population|NN hong|NN 
+isolate|NN disease|NN dysfunction|NN death|NN duck|NN 
+case|NN influenza|DS virus|NN infection|NN bird|NN 
+genotype|NN genotype|NN bird|NN china|NN human|NN hong|NN bird|NN southeast|NN human|NN globe|NN bird|NN population|NN 
+mutation|NN genotype|NN bird|NN virus|NN period|NN time|NN death|NN transmissibility|NN virus|NN 
+transmission|NN host|NN range|NN transmission|NN electron|NN micrograph|NN virus|NN particle|NN host|NN cell|NN passage|NN 
+source|NN 
+palmer|NN center|NN disease|NN control|NN prevention|NN health|NN image|NN library|NN 
+bird|NN saliva|NN secretion|NN blood|NN 
+animal|NN virus|NN contact|NN fluid|NN contact|NN surface|NN 
+day|NN month|NN temperature|NN day|NN week|NN body|NN temperature|NN temperature|NN environment|NN week|NN 
+bird|NN carrier|NN virus|NN part|NN world|NN 
+avian_influenza|DS ability|NN animal|NN poultry|NN 
+researcher|NN 
+strain|NN chicken|NN crow|NN pigeon|NN bird|NN virus|NN ability|NN mammal|NN 
+point|NN avian_influenza|DS expert|NN containment|NN strategy|NN future|NN avian_influenza|DS 
+study|NN influenza|DS change|NN antigenicity|NN gene|NN constellation|NN host|NN range|NN ability|NN pathogenicity|NN mice|NN ferret|NN infection|NN stability|NN 
+new|NN york|NN time|NN article|NN transmission|NN bird|NN report|NN wade|NN bird|NN migration|NN trade|NN trade|NN trade|NN 
+researcher|NN avian_influenza|DS virus|NN woman|NN placenta|NN fetus|NN 
+evidence|NN doctor|NN virus|NN lung|NN body|NN tract|NN brain|NN liver|NN blood|NN cell|NN 
+case|NN mortality|NN rate|NN avian_influenza|DS country|NN case|NN death|NN case|NN death|NN case|NN death|NN case|NN death|NN case|NN death|NN case|NN death|NN case|NN death|NN case|NN death|NN case|NN death|NN case|NN death|NN case|NN death|NN case|NN death|NN case|NN death|NN canada|NN china|NN laos|NN turkey|NN edit|NN table|NN source|NN world|NN health|NN organization|NN animal|NN interface|NN 
+north|NN avian_influenza|DS outbreak|NN authority|NN duck|NN transmission|NN study|NN ferret|NN 
+strain|NN erasmus|NN center|NN netherlands|NN work|NN public|NN influenza|DS conference|NN 
+mutation|NN virus|NN genome|NN virus|NN nose|NN ferret|NN nose|NN time|NN passage|NN virus|NN ability|NN transmission|NN ferret|NN aerosol|NN droplet|NN 
+article|NN work|NN journal|NN science|NN science|NN board|NN publication|NN detail|NN study|NN nature|NN university|NN work|NN 
+consultation|NN world|NN health|NN organization|NN position|NN publication|NN version|NN paper|NN government|NN type|NN manuscript|NN export|NN permit|NN light|NN directive|NN use|NN good|NN 
+note|NN controversy|NN publish|NN research|NN protest|NN government|NN demand|NN permit|NN manuscript|NN research|NN issue|NN journal|NN science|NN paper|NN chain|NN mutation|NN virus|NN capability|NN transmission|NN mammal|NN influenza|DS 
+scientist|NN research|NN institute|NN china|NN strain|NN guinea|NN pig|NN society|NN culture|NN article|NN impact|NN 
+effect|NN society|NN response|NN death|NN bird|NN human|NN animal|NN 
+dollar|NN research|NN potential|NN avian_influenza|DS 
+people|NN chicken|NN poultry|NN sale|NN price|NN individual|NN supply|NN flu|NN 
+health|NN official|NN expert|NN question|NN disease|NN 
+chief|NN avian_influenza|DS nation|NN chief|NN crisis|NN response|NN world|NN health|NN organization|NN impact|NN human|NN 
+alarmist|NN day|NN role|NN nation|NN avian_influenza|DS people|NN 
+interview|NN herald|NN tribune|NN avian_influenza|DS aid|NN warn|NN focus|NN research|NN intervention|NN 
+shift|NN flu|NN trial|NN research|NN conference|NN disease|NN center|NN swine|NN influenza|DS avian_influenza|DS virus|NN 
+world|NN property|NN organization|NN list|NN good|NN good|NN good|NN permit|NN import|NN export|NN carrier|NN punishment|NN year|NN imprisonment|NN 

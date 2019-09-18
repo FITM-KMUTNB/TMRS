@@ -63,7 +63,7 @@ asthma condition part disease term combination disease emphysema disease airway 
 breath minute heart rate 
 beat minute sentence breath worsen symptom peak flow feature asthma 
 asthma exacerbation asthma attack 
-symptom shortness breath chest tightness symptom asthma people cough case air motion children chest pain 
+symptom shortness breath chest tightness symptom asthma people cough case air motion children chest_pain 
 sign asthma attack use accessory muscle respiration muscle neck pulse pulse inhalation exhalation chest color skin nail lack oxygen 
 exacerbation peak flow rate 
 asthma status asthma ticus exacerbation asthma treatment bronchodilator case infection air pollution medication use 

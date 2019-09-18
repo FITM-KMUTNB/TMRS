@@ -22,7 +22,6 @@ perspiration
 sweats
 swelling
 lymphadenopathy
-swollen or painful lymph node(s)
 weight gain
 heart arrhythmia
 arrhythmia
@@ -97,7 +96,7 @@ urticaria
 abnormal posturing
 acalculia
 agnosia
-alexia (acquired dyslexia)
+alexia
 alexia
 amnesia
 anomic aphasia
@@ -138,7 +137,7 @@ insomnia
 lhermitte's sign
 unconsciousness
 loss of consciousness
-syncope (medicine)
+syncope 
 neck stiffness
 opisthotonus
 pain
@@ -177,10 +176,10 @@ anhedonia
 anxiety
 apathy
 confabulation
-depression (mood)
+depression
 depression
 delusion
-euphoria (emotion)
+euphoria 
 euphoria
 homicidal ideation
 irritability

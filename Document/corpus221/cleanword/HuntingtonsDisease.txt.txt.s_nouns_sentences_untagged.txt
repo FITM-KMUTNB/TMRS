@@ -7,14 +7,14 @@ sign symptom genetics mutation inheritance mechanism function change change diag
 sign symptom rate symptom huntington's_disease irritability apathy anxiety mood 
 symptom huntington's_disease age year age infancy age stage change personality cognition skill symptom symptom stage huntington's_disease symptom onset progression extent symptom individual 
 symptom movement chorea restlessness motion lack eye movement motor abnormality sign motor dysfunction year appearance symptom rigidity motion posture disorder sign system brain movement function action muscle control 
-consequence instability expression difficulty swallow difficulty cause weight loss malnutrition sleep disturbance symptom juvenile huntington's_disease symptom rigidity symptom 
+consequence instability expression difficulty swallow difficulty cause weight_loss malnutrition sleep disturbance symptom juvenile huntington's_disease symptom rigidity symptom 
 symptom form huntington's_disease 
 ability executive function plan flexibility think rule acquisition initiation action inhibition action disease memory deficit 
 impairment range memory deficit memory difficulty deficit memory life memory body activity memory problem time dementia pattern deficit dementia syndrome effect dementia 
 alzheimers disease 
 manifestation anxiety depression display emotion aggression behavior addiction alcoholism gamble difficulty people expression prevalence symptom study rate lifetime prevalence disorder sufferer family symptom aspect disease function reason institutionalization thought suicide attempt population individual awareness impairment 
 mutant body abnormality tissue expression brain 
-abnormality muscle atrophy failure glucose tolerance weight loss osteoporosis atrophy genetics 
+abnormality muscle atrophy failure glucose tolerance weight_loss osteoporosis atrophy genetics 
 human copy gene code protein 
 gene huntington's_disease transcript 
 part gene section repeat length individual length generation 
@@ -110,7 +110,7 @@ disorder case huntington's_disease
 acanthocytosis 
 disorder type syndrome management diagram carbon hydrogen oxygen nitrogen atom structure compound management chorea huntington's_disease 
 cure huntington's_disease treatment severity symptom treatment evidence effectiveness symptom huntington's_disease disease ability care study exercise therapy help symptom huntington's_disease evidence usefulness therapy therapy speech therapy association caffeine intake age onset huntington's_disease find questionnaire data trial study work basis decision therapy 
-weight loss difficulty dysphagia muscle make nutrition management disease advance agent liquid fluid person piece food mouth use option gastrostomy 
+weight_loss difficulty dysphagia muscle make nutrition management disease advance agent liquid fluid person piece food mouth use option gastrostomy 
 tube abdomen stomach risk food management assessment management pathologist experience huntington's_disease 
 people huntington's_disease therapist way symptom 
 therapist fall risk assessment prevention strengthen stretch exercise 

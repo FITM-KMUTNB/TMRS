@@ -1,0 +1,162 @@
+encyclopedia|NN lung|NN embolism|NN jump|NN navigation|NN jump|NN search|NN pulmonary_embolism|DS saddle|NN pulmonary_embolism|DS chest|NN spiral|NN scan|NN agent|NN fill|NN defect|NN bifurcation|NN saddle|NN pulmonary_embolism|DS artery|NN 
+hematology|NN symptom|NN breath|NN chest_pain|ST blood|NN complication|NN blood|NN pressure|NN death|NN onset|NN people|NN risk|NN factor|NN cancer|DS bed|NN rest|NN smoke|NN stroke|DS condition|NN medication|NN pregnancy|NN obesity|NN surgery|NN method|NN symptom|NN angiography|NN lung|NN scan|NN treatment|NN blood|NN thinner|NN heparin|NN frequency|NN year|NN death|NN year|NN 
+pulmonary_embolism|DS pulmonary_embolism|DS blockage|NN artery|NN lung|NN substance|NN body|NN embolism|NN symptom|NN pulmonary_embolism|DS shortness|NN breath|NN chest_pain|ST breath|NN blood|NN symptom|NN blood|NN clot|NN leg|NN leg|NN sign|NN pulmonary_embolism|DS blood|NN oxygen|NN level|NN breath|NN heart|NN rate|NN fever|ST case|NN blood|NN pressure|NN death|NN 
+pulmonary_embolism|DS blood|NN clot|NN leg|NN lung|NN risk|NN blood|NN clot|NN cancer|DS bed|NN rest|NN smoke|NN stroke|DS condition|NN medication|NN pregnancy|NN obesity|NN type|NN surgery|NN proportion|NN case|NN air|NN fat|NN fluid|NN diagnosis|NN sign|NN symptom|NN combination|NN test|NN result|NN risk|NN blood|NN test|NN condition|NN angiography|NN lung|NN scan|NN leg|NN diagnosis|NN vein|NN thrombosis|DS pulmonary_embolism|DS 
+effort|NN pulmonary_embolism|DS surgery|NN leg|NN exercise|NN period|NN sit|NN use|NN blood|NN thinner|NN type|NN surgery|NN treatment|NN blood|NN thinner|NN heparin|NN month|NN case|NN thrombolysis|NN medication|NN tissue|NN activator|NN surgery|NN blood|NN thinner|NN filter|NN 
+emboly|NN people|NN year|NN united|NN states|NN case|NN year|NN death|NN rate|NN male|NN female|NN people|NN content|NN 
+sign|NN symptom|NN risk|NN factor|NN cause|NN diagnosis|NN probability|NN test|NN blood|NN test|NN image|NN prevention|NN treatment|NN cava|NN filter|NN surgery|NN epidemiology|NN mortality|NN reference|NN link|NN 
+sign|NN symptom|NN 
+symptom|NN pulmonary_embolism|DS onset|NN dyspnea|ST shortness|NN breath|NN breath|NN chest_pain|ST nature|NN breath|NN cough|ST cough|ST blood|NN case|NN sign|NN discoloration|NN lip|NN finger|NN collapse|NN instability|NN blood|NN flow|NN lung|NN side|NN heart|NN 
+case|NN death|NN pulmonary_embolism|DS pulmonary_embolism|DS syncope|NN syncope|NN case|NN pulmonary_embolism|DS 
+examination|NN lung|NN 
+friction|NN rub|NN area|NN lung|NN pulmonary_embolism|DS infarct|NN 
+effusion|NN percussion|NN note|NN breath|NN sound|NN resonance|NN 
+ventricle|NN left|NN component|NN heart|NN sound|NN jugular|NN pressure|NN fever|ST hemorrhage|NN infarction|NN 
+emboly|NN area|NN collateral|NN circulation|NN lung|NN infarction|NN effusion|NN instability|NN tachycardia|ST 
+pulmonary_embolism|DS blood|NN pressure|NN heart|NN rate|NN lung|NN infarction|NN collateral|NN circulation|NN 
+presentation|NN pulmonary_embolism|DS pain|ST tachycardia|ST embolism|NN pulmonary_embolism|DS 
+pulmonary_embolism|DS pain|ST find|NN pulmonary_embolism|DS condition|NN change|NN rise|NN level|NN 
+pulmonary_embolism|DS sign|NN symptom|NN 
+definition|NN definition|NN pulmonary_embolism|DS instability|NN blood|NN pressure|NN heart|NN rate|NN risk|NN factor|NN vein|NN thrombosis|DS leg|NN risk|NN factor|NN pulmonary_embolism|DS 
+leg|NN vein|NN thrombose|NN vein|NN risk|NN lung|NN circulation|NN 
+condition|NN continuum|NN 
+development|NN thrombosis|DS group|NN cause|NN triad|NN alteration|NN blood|NN flow|NN factor|NN vessel|NN wall|NN factor|NN property|NN blood|NN 
+risk|NN factor|NN 
+alteration|NN blood|NN flow|NN surgery|NN flight|NN injury|NN pregnancy|NN obesity|NN cancer|DS factor|NN vessel|NN wall|NN surgery|NN injury|NN injury|NN factor|NN property|NN blood|NN state|NN factor|NN prothrombin|NN mutation|NN protein|NN deficiency|NN protein|NN deficiency|NN deficiency|NN disorder|NN syndrome|NN syndrome|NN cancer|DS secretion|NN 
+pulmonary_embolism|DS search|NN cause|NN 
+second|NN pulmonary_embolism|DS therapy|NN search|NN condition|NN 
+test|NN screen|NN factor|NN mutation|NN antibody|NN protein|NN antithrombin|NN level|NN prothrombin|NN mutation|NN mutation|NN factor|NN concentration|NN coagulation|NN abnormality|NN diagnosis|NN hump|NN person|NN lobe|NN pulmonary_embolism|DS 
+order|NN pulmonary_embolism|DS review|NN criteria|NN need|NN test|NN risk|NN age|NN heart|NN rate|NN beat|NN minute|NN oxygen|NN level|NN room|NN air|NN leg|NN swell|NN blood|NN surgery|NN trauma|NN week|NN blood|NN clot|NN use|NN test|NN 
+concern|NN test|NN likelihood|NN diagnosis|NN image|NN image|NN test|NN likelihood|NN pulmonary_embolism|DS diagnosis|NN 
+diagnosis|NN pulmonary_embolism|DS criteria|NN test|NN presentation|NN shortness|NN breath|NN chest_pain|ST cause|NN chest_pain|ST shortness|NN breath|NN 
+decision|NN image|NN reason|NN history|NN symptom|NN find|NN examination|NN assessment|NN probability|NN probability|NN test|NN 
+method|NN probability|NN wells|NN score|NN prediction|NN rule|NN use|NN version|NN 
+steven|NN wells|NN prediction|NN rule|NN literature|NN search|NN likelihood|NN pulmonary_embolism|DS criteria|NN prediction|NN rule|NN prediction|NN rule|NN validation|NN wells|NN al|NN publication|NN wells|NN score|NN system|NN cutoff|NN prediction|NN rule|NN wells|NN result|NN cutoff|NN category|NN version|NN version|NN cutoff|NN find|NN study|NN study|NN use|NN cutoff|NN point|NN category|NN 
+prediction|NN rule|NN pulmonary_embolism|DS geneva|NN rule|NN 
+use|NN rule|NN reduction|NN 
+wells|NN score|NN 
+point|NN diagnosis|NN pulmonary_embolism|DS point|NN tachycardia|ST heart|NN rate|NN point|NN 
+week|NN point|NN history|NN pulmonary_embolism|DS point|NN point|NN malignancy|NN treatment|NN month|NN point|NN 
+score|NN probability|NN data|NN score|NN probability|NN data|NN score|NN probability|NN data|NN 
+score|NN pulmonary_embolism|DS 
+score|NN pulmonary_embolism|DS 
+rule|NN pulmonary_embolism|DS 
+recommendation|NN algorithm|NN pulmonary_embolism|DS investigator|NN recommendation|NN research|NN slice|NN investigator|NN 
+pulmonary_embolism|DS 
+treatment|NN result|NN 
+pulmonary_embolism|DS 
+author|NN set|NN probability|NN 
+error|NN rate|NN slice|NN 
+treatment|NN result|NN 
+treat|NN test|NN pulmonary_embolism|DS 
+pulmonary_embolism|DS risk|NN 
+pulmonary_embolism|DS criteria|NN 
+pulmonary_embolism|DS criteria|NN pulmonary_embolism|DS help|NN people|NN pulmonary_embolism|DS 
+wells|NN score|NN geneva|NN score|NN prediction|NN rule|NN risk|NN people|NN pulmonary_embolism|DS pulmonary_embolism|DS rule|NN rule|NN risk|NN pulmonary_embolism|DS people|NN physician|NN category|NN 
+people|NN risk|NN category|NN criteria|NN test|NN pulmonary_embolism|DS oxygen|NN leg|NN swell|NN blood|NN pulmonary_embolism|DS surgery|NN trauma|NN age|NN hormone|NN use|NN heart|NN rate|NN 
+rationale|NN decision|NN test|NN chest|NN harm|NN radiation|NN exposure|NN contrast|NN dye|NN risk|NN pulmonary_embolism|DS pulmonary_embolism|DS rule|NN sensitivity|NN specificity|NN rate|NN blood|NN test|NN 
+people|NN suspicion|NN pulmonary_embolism|DS level|NN blood|NN test|NN possibility|NN pulmonary_embolism|DS risk|NN event|NN specificity|NN 
+word|NN pulmonary_embolism|DS degree|NN certainty|NN indication|NN absence|NN pulmonary_embolism|DS cut|NN 
+assay|NN age|NN value|NN person|NN age|NN 
+account|NN assay|NN number|NN test|NN case|NN pulmonary_embolism|DS 
+pulmonary_embolism|DS blood|NN test|NN order|NN cause|NN pulmonary_embolism|DS 
+blood|NN count|NN clote|NN status|NN screen|NN test|NN erythrocyte|NN sedimentation|NN rate|NN function|NN liver|NN enzyme|NN electrolyte|NN 
+investigation|NN issue|NN 
+level|NN pulmonary_embolism|DS image|NN 
+people|NN risk|NN pulmonary_embolism|DS image|NN diagnosis|NN pulmonary_embolism|DS test|NN society|NN test|NN evidence|NN need|NN image|NN image|NN test|NN probability|NN find|NN evidence|NN diagnosis|NN pulmonary_embolism|DS 
+angiography|NN line|NN image|NN test|NN people|NN 
+leg|NN presence|NN pulmonary_embolism|DS rule|NN angiography|NN 
+angiography|NN tomography|NN heart|NN 
+advantage|NN equivalence|NN nature|NN availability|NN people|NN possibility|NN lung|NN disorder|NN diagnosis|NN case|NN pulmonary_embolism|DS 
+scan|NN emboly|NN level|NN tree|NN 
+emboly|NN side|NN 
+angiography|NN saddle|NN bifurcation|NN artery|NN thrombus|NN burden|NN artery|NN side|NN 
+pulmonary_embolism|DS arrow|NN lung|NN infarction|NN arrow|NN halo|NN sign|NN 
+accuracy|NN angiography|NN change|NN number|NN row|NN detector|NN machine|NN cohort|NN study|NN spiral|NN detection|NN people|NN pulmonary_embolism|DS study|NN sensitivity|NN specificity|NN 
+study|NN prevalence|NN detection|NN value|NN value|NN 
+study|NN result|NN incorporation|NN scan|NN tool|NN people|NN pulmonary_embolism|DS 
+author|NN slice|NN scan|NN pulmonary_embolism|DS 
+study|NN mixture|NN slice|NN slice|NN scanner|NN sensitivity|NN specificity|NN test|NN rule|NN pulmonary_embolism|DS image|NN pulmonary_embolism|DS 
+study|NN test|NN probability|NN image|NN result|NN scan|NN outcome|NN scan|NN scan|NN inhalation|NN ga|NN image|NN projection|NN ventilation|NN lung|NN 
+injection|NN albumin|NN image|NN projection|NN 
+view|NN activity|NN region|NN 
+scan|NN scan|NN lung|NN area|NN lung|NN blood|NN obstruction|NN clot|NN type|NN examination|NN availability|NN technology|NN 
+people|NN allergy|DS contrast|NN function|NN radiation|NN exposure|NN test|NN image|NN photon|NN emission|NN tomography|NN pulmonary_embolism|DS image|NN device|NN pulmonary_embolism|DS pulmonary_embolism|DS characterization|NN abnormality|NN 
+probability|NN test|NN 
+test|NN pulmonary_embolism|DS 
+chest|NN people|NN shortness|NN breath|NN cause|NN heart_failure|DS rib|NN fracture|NN 
+chest|NN pulmonary_embolism|DS lack|NN sign|NN diagnosis|NN pulmonary_embolism|DS example|NN sign|NN hamptons|NN hump|NN 
+leg|NN leg|NN search|NN thrombosis|DS 
+presence|NN leg|NN warrant|NN spiral|NN scan|NN association|NN pulmonary_embolism|DS 
+approach|NN pregnancy|NN modality|NN risk|NN birth_defect|DS child|NN 
+scan|NN pulmonary_embolism|DS dose|NN scan|NN mother|NN risk|NN pulmonary_embolism|DS 
+use|NN leg|NN symptom|NN vein|NN thrombosis|DS 
+angiography|NN clot|NN obstruction|NN artery|NN 
+trace|NN bottom|NN 
+gold|NN standard|NN diagnosis|NN angiography|NN fluoroscopy|NN disuse|NN availability|NN technique|NN accuracy|NN electrocardiogram|NN person|NN pulmonary_embolism|DS show|NN sinus|NN tachycardia|ST beat|NN minute|NN wave|NN lead|NN wave|NN lead|NN wave|NN lead|NN wave|NN lead|NN 
+use|NN rule|NN cause|NN chest_pain|ST electrocardiogram|NN people|NN chest_pain|ST infarction|NN heart|NN diagnosis|NN individual|NN chest_pain|ST 
+change|NN pulmonary_embolism|DS diagnosis|NN sign|NN heart|NN strain|NN case|NN pulmonary_embolism|DS sign|NN wave|NN lead|NN wave|NN lead|NN wave|NN lead|NN people|NN diagnosis|NN diagnosis|NN 
+people|NN lung|NN condition|NN value|NN 
+sign|NN sinus|NN tachycardia|ST right|NN axis|NN deviation|NN bundle|NN branch|NN block|NN tachycardia|ST people|NN pulmonary_embolism|DS 
+find|NN emboly|NN prognosis|NN find|NN strain|NN heart|NN rate|NN beat|NN minute|NN wave|NN lead|NN st|NN elevation|NN bundle|NN branch|NN block|NN fibrillation|NN risk|NN shock|NN death|NN 
+case|NN lead|NN pulmonary_embolism|DS infarction|NN 
+pulmonary_embolism|DS case|NN wave|NN lead|NN infarction|NN case|NN wave|NN 
+pulmonary_embolism|DS dysfunction|NN side|NN heart|NN indication|NN artery|NN ventricle|NN pump|NN pressure|NN 
+study|NN find|NN indication|NN thrombolysis|NN 
+person|NN pulmonary_embolism|DS elevation|NN brain|NN peptide|NN heart|NN strain|NN prognosis|NN 
+appearance|NN ventricle|NN sign|NN 
+find|NN akinesia|ST wall|NN motion|NN apex|NN 
+phenomenon|NN sensitivity|NN specificity|NN diagnosis|NN pulmonary_embolism|DS set|NN dysfunction|NN 
+week|NN media|NN 
+heart|NN sign|NN pulmonary_embolism|DS week|NN media|NN 
+heart|NN sign|NN pulmonary_embolism|DS 
+prevention|NN information|NN prophylaxis|NN 
+pulmonary_embolism|DS risk|NN factor|NN 
+people|NN hospital|NN medication|NN heparin|NN weight|NN heparin|NN stock|NN risk|NN leg|NN lung|NN 
+completion|NN pulmonary_embolism|DS aspirin|NN recurrence|NN treatment|NN 
+therapy|NN mainstay|NN treatment|NN 
+treatment|NN oxygen|NN analgesia|NN 
+people|NN hospital|NN stage|NN treatment|NN inpatient|NN care|NN level|NN 
+case|NN home|NN fashion|NN treatment|NN evidence|NN support|NN approach|NN 
+therapy|NN mainstay|NN treatment|NN 
+heparin|NN weight|NN heparin|NN therapy|NN day|NN patient|NN hospital|NN 
+people|NN pulmonary_embolism|DS review|NN trial|NN collaboration|NN review|NN incidence|NN thrombotic|NN complication|NN thrombus|NN size|NN heparin|NN 
+difference|NN mortality|NN participant|NN heparin|NN 
+therapy|NN dose|NN adjustment|NN monitor|NN ratio|NN 
+pulmonary_embolism|DS 
+episode|NN pulmonary_embolism|DS treatment|NN window|NN anticoagulant|NN 
+patient|NN malignancy|NN therapy|NN course|NN month|NN point|NN decision|NN treatment|NN 
+women|NN weight|NN heparin|NN week|NN delivery|NN teratogenic|NN effect|NN stage|NN pregnancy|NN 
+therapy|NN month|NN pulmonary_embolism|DS risk|NN factor|NN 
+level|NN end|NN treatment|NN need|NN treatment|NN patient|NN embolus|NN pulmonary_embolism|DS pulmonary_embolism|DS effect|NN thrombolysis|NN 
+pulmonary_embolism|DS instability|NN shock|NN blood|NN pressure|NN blood|NN pressure|NN pressure|NN drop|NN min|NN arrhythmia|ST sepsis|DS indication|NN thrombolysis|NN destruction|NN clot|NN medication|NN 
+situation|NN treatment|NN contraindication|NN guideline|NN arrest|NN pulmonary_embolism|DS 
+thrombolysis|NN technique|NN pulmonary_embolism|DS 
+system|NN catheter|NN vein|NN groin|NN vein|NN image|NN pulmonary_embolism|DS lung|NN circulation|NN 
+break|NN blood|NN clot|NN catheter|NN concentration|NN embolus|NN 
+radiologist|NN surgeon|NN center|NN treatment|NN thrombolysis|NN 
+use|NN thrombolysis|NN pulmonary_embolism|DS update|NN treatment|NN risk|NN death|NN risk|NN bleed|NN decrease|NN risk|NN death|NN filter|NN filter|NN 
+situation|NN filter|NN therapy|NN operation|NN person|NN embolus|NN spite|NN instance|NN artery|NN blockage|NN spite|NN device|NN advantage|NN lack|NN evidence|NN effectiveness|NN 
+filter|NN filter|NN complication|NN 
+safety|NN profile|NN filter|NN body|NN surgery|NN 
+management|NN pulmonary_embolism|DS outcome|NN 
+resurgence|NN revision|NN technique|NN people|NN pulmonary_embolism|DS hypertension|DS hypertension|DS procedure|NN 
+emboly|NN people|NN united|NN states|NN year|NN death|NN year|NN united|NN states|NN risk|NN rate|NN emboly|NN year|NN united|NN states|NN saddle|NN artery|NN arrow|NN 
+pulmonary_embolism|DS hour|NN symptom|NN 
+marker|NN risk|NN stratification|NN predictor|NN outcome|NN 
+hypotension|DS shock|NN syncope|NN evidence|NN heart|NN dysfunction|NN enzyme|NN change|NN prognosis|NN factor|NN heart_failure|DS thought|NN role|NN prognosis|NN 
+amount|NN lung|NN condition|NN lung|NN hypertension|DS 
+pulmonary_embolism|DS embolus|NN patient|NN 
+thrombotic|NN pulmonary_embolism|DS blood|NN clot|NN fibrinolysis|NN channel|NN form|NN clot|NN 
+blood|NN flow|NN day|NN pulmonary_embolism|DS improvement|NN deficit|NN 
+controversy|NN pulmonary_embolism|DS need|NN treatment|NN evidence|NN patient|NN pulmonary_embolism|DS treatment|NN 
+risk|NN pulmonary_embolism|DS year|NN 
+mortality|NN pulmonary_embolism|DS 
+figure|NN trial|NN jordan|NN placebo|NN management|NN pulmonary_embolism|DS 
+jordan|NN study|NN infirmary|NN 
+study|NN placebo|NN trial|NN place|NN anticoagulant|NN treatment|NN pulmonary_embolism|DS result|NN trial|NN 
+mortality|NN rate|NN placebo|NN group|NN overstatement|NN technology|NN day|NN pulmonary_embolism|DS 
+pulmonary_embolism|DS pulmonary_embolism|DS score|NN tool|NN mortality|NN patient|NN 
+geneva|NN prediction|NN rule|NN wells|NN criteria|NN probability|NN patient|NN pulmonary_embolism|DS 
+score|NN tool|NN judgment|NN test|NN type|NN therapy|NN pulmonary_embolism|DS algorithm|NN variable|NN subject|NN class|NN mortality|NN 
+class|NN class|NN 

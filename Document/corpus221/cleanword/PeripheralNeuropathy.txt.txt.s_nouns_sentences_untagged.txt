@@ -9,7 +9,7 @@ present birth cause usage word peripheral_neuropathy system disease modifier per
 peripheral_neuropathy nerve mono peripheral_neuropathy peripheral_neuropathy nerve area side body poly peripheral_neuropathy poly peripheral_neuropathy 
 nerve area body multiplex mono peripheral_neuropathy mono peripheral_neuropathy 
 peripheral_neuropathy cramp muscle twitch muscle loss bone degeneration change skin hair nail 
-motor peripheral_neuropathy balance muscle weakness peripheral_neuropathy numbness touch vibration position sense balance sensitivity temperature change pain tingle pain skin pain touch peripheral_neuropathy symptom gland organ symptom bladder control blood pressure heart rate ability sweat content 
+motor peripheral_neuropathy balance muscle_weakness peripheral_neuropathy numbness touch vibration position sense balance sensitivity temperature change pain tingle pain skin pain touch peripheral_neuropathy symptom gland organ symptom bladder control blood pressure heart rate ability sweat content 
 classification peripheral_neuropathy poly peripheral_neuropathy multiplex peripheral_neuropathy sign symptom cause diagnosis treatment opiate device stem cell diet therapy product manual therapy research reference read link 
 peripheral_neuropathy number distribution nerve mono peripheral_neuropathy multiplex poly peripheral_neuropathy type nerve motor process nerve inflammation compression compression peripheral_neuropathy chemotherapy peripheral_neuropathy 
 peripheral_neuropathy compression peripheral_neuropathy peripheral_neuropathy 
@@ -40,7 +40,7 @@ treatment polyneuropathy cause muscle strength function symptom pain
 multiplex polyneuritis multiplex involvement noncontiguous nerve trunk day year loss function nerve 
 pattern involvement disease deficit make poly peripheral_neuropathy attention pattern symptom 
 multiplex pain pain night back hip leg 
-people mellitus multiplex thigh pain muscle weakness loss knee reflex 
+people mellitus multiplex thigh pain muscle_weakness loss knee reflex 
 medicine study motor peripheral_neuropathy 
 mellitus granulomatosis polyangiitis granulomatosis disease arthritis infection leprosy disease sarcoidosis reaction exposure agent trichloroethylene citation sting jellyfish sea citation 
 peripheral_neuropathy form poly peripheral_neuropathy system system organ bladder muscle system tract organ 

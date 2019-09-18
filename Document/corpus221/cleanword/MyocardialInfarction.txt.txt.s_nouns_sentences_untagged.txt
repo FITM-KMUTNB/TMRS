@@ -2,10 +2,10 @@ encyclopedia jump navigation jump search myocardial_infarction
 use myocardial_infarction 
 myocardial_infarction name myocardial_infarction myocardial_infarction myocardial_infarction myocardial_infarction diagram blood supply heart blood vessel left artery 
 myocardial_infarction blockage branch artery 
-emergency medicine symptom chest pain shortness breath nausea feel sweat feel arm neck back jaw stomach pain complication heart_failure heartbeat shock arrest cause artery disease risk factor blood pressure smoke lack exercise obesity blood cholesterol method blood test angiography treatment intervention thrombolysis aspirin heparin myocardial_infarction risk death world frequency 
-myocardial_infarction myocardial_infarction myocardial_infarction blood flow decrease stop part heart damage heart muscle symptom chest pain discomfort shoulder arm back neck jaw center side chest minute discomfort heartburn symptom shortness breath nausea feel sweat feel people symptom women chest pain neck pain arm pain year myocardial_infarction history symptom myocardial_infarction heart_failure heartbeat shock arrest 
+emergency medicine symptom chest_pain shortness breath nausea feel sweat feel arm neck back jaw stomach pain complication heart_failure heartbeat shock arrest cause artery disease risk factor blood pressure smoke lack exercise obesity blood cholesterol method blood test angiography treatment intervention thrombolysis aspirin heparin myocardial_infarction risk death world frequency 
+myocardial_infarction myocardial_infarction myocardial_infarction blood flow decrease stop part heart damage heart muscle symptom chest_pain discomfort shoulder arm back neck jaw center side chest minute discomfort heartburn symptom shortness breath nausea feel sweat feel people symptom women chest_pain neck pain arm pain year myocardial_infarction history symptom myocardial_infarction heart_failure heartbeat shock arrest 
 myocardial_infarction artery disease risk factor blood pressure smoke lack exercise obesity blood cholesterol diet alcohol intake blockage artery rupture plaque mechanism myocardial_infarction myocardial_infarction artery spasm cocaine stress cold number test diagnosis blood test angiography record heart activity st elevation myocardial_infarction myocardial_infarction st elevation blood test kinase 
-treatment myocardial_infarction aspirin treatment myocardial_infarction chest pain outcome oxygen oxygen level shortness breath myocardial_infarction treatment attempt blood flow heart intervention artery thrombolysis blockage medication people elevation myocardial_infarction myocardial_infarction blood heparin use risk people blockage artery artery bypass surgery angioplasty myocardial_infarction modification term treatment aspirin beta blocker 
+treatment myocardial_infarction aspirin treatment myocardial_infarction chest_pain outcome oxygen oxygen level shortness breath myocardial_infarction treatment attempt blood flow heart intervention artery thrombolysis blockage medication people elevation myocardial_infarction myocardial_infarction blood heparin use risk people blockage artery artery bypass surgery angioplasty myocardial_infarction modification term treatment aspirin beta blocker 
 myocardial_infarction people st elevation myocardial_infarction myocardial_infarction myocardial_infarction men women people myocardial_infarction year united states world risk death myocardial_infarction rate myocardial_infarction age myocardial_infarction top condition inpatient cost hospital content 
 terminology sign symptom pain symptom women cause diet genetics mechanism cause tissue death diagnosis criteria type image diagnosis management pain rehabilitation prevention prevention prevention complication epidemiology society culture implication reference read link 
 terminology article syndrome 
@@ -15,14 +15,14 @@ phrase myocardial_infarction myocardial_infarction death
 myocardial_infarction heart organ death 
 heart_failure pump action heart 
 myocardial_infarction heart_failure sign symptom view chest area myocardial_infarction view back area myocardial_infarction area pain myocardial_infarction red light red area chest back 
-chest pain symptom myocardial_infarction sensation tightness pressure 
-pain arm jaw neck right arm back abdomen pain myocardial_infarction likelihood ratio pain arm shoulder chest pain myocardial_infarction pain myocardial_infarction position minute sign person chest pain fist sternum chest pain study value pain nitroglycerin presence absence myocardial_infarction symptom 
-chest pain nausea vomit symptom pain women symptom myocardial_infarction shortness breath weakness fatigue shortness breath symptom damage heart output ventricle breathlessness oxygen blood symptom weakness palpitation abnormality heart rate blood pressure symptom surge system response pain blood pressure loss consciousness blood flow brain shock death development fibrillation myocardial_infarction arrest symptom palpitation women people surgery patient 
+chest_pain symptom myocardial_infarction sensation tightness pressure 
+pain arm jaw neck right arm back abdomen pain myocardial_infarction likelihood ratio pain arm shoulder chest_pain myocardial_infarction pain myocardial_infarction position minute sign person chest_pain fist sternum chest_pain study value pain nitroglycerin presence absence myocardial_infarction symptom 
+chest_pain nausea vomit symptom pain women symptom myocardial_infarction shortness breath weakness fatigue shortness breath symptom damage heart output ventricle breathlessness oxygen blood symptom weakness palpitation abnormality heart rate blood pressure symptom surge system response pain blood pressure loss consciousness blood flow brain shock death development fibrillation myocardial_infarction arrest symptom palpitation women people surgery patient 
 myocardial_infarction symptom case electrocardiogram blood enzyme test autopsy person 
 myocardial_infarction infarction mellitus heart transplantation 
 people difference pain threshold neuropathy factor explanation lack symptom heart transplantation donor heart system recipient women range myocardial_infarction symptom women 
 women myocardial_infarction symptom 
-presentation chest pain women 
+presentation chest_pain women 
 women experience back neck pain indigestion heartburn shortness breath fatigue nausea pain back jaw 
 symptom condition cause 
 risk factor myocardial_infarction age blood pressure mellitus cholesterol lipoprotein level risk factor myocardial_infarction artery disease cause myocardial_infarction risk factor sex level activity family history obesity alcohol use risk factor disease risk factor stratification score risk score age men risk women development disease level blood cholesterol risk factor lipoprotein lipoprotein triglyceride 
@@ -86,7 +86,7 @@ society guideline physician person risk myocardial_infarction image test diagnos
 week media 
 movement heart myocardial_infarction week media 
 myocardial_infarction 
-cause chest pain heart lung tract aorta muscle bone nerve chest addition myocardial_infarction cause angina blood supply heart muscle evidence cell death reflux disease embolism tumor lung pneumonia rib fracture heart_failure injury diagnose dissection rupture tension effusion chest pain myocardial_infarction heartburn cause breathlessness lung heart pneumonia reaction asthma distress syndrome acidosis cause fatigue myocardial_infarction cause management article management syndrome 
+cause chest_pain heart lung tract aorta muscle bone nerve chest addition myocardial_infarction cause angina blood supply heart muscle evidence cell death reflux disease embolism tumor lung pneumonia rib fracture heart_failure injury diagnose dissection rupture tension effusion chest_pain myocardial_infarction heartburn cause breathlessness lung heart pneumonia reaction asthma distress syndrome acidosis cause fatigue myocardial_infarction cause management article management syndrome 
 myocardial_infarction attention 
 treatment heart muscle complication treatment myocardial_infarction myocardial_infarction myocardial_infarction treatment aim unblock blood vessel blot clot enlargement risk factor aim future myocardial_infarction addition treatment myocardial_infarction evidence st elevation myocardial_infarction thrombolysis intervention day myocardial_infarction addition risk stratification guide treatment myocardial_infarction score system pain 
 pain myocardial_infarction nitroglycerin morphine tongue blood supply heart work heart part therapy pain relief benefit mortality pain myocardial_infarction evidence benefit morphine outcome evidence harm 
@@ -100,7 +100,7 @@ minute myocardial_infarction minute arrival hospital person symptom hour evidenc
 medication tissue activator thrombolysis number situation risk potential bleed past stroke brain hypertension 
 situation thrombolysis caution surgery use pregnancy proclivity risk thrombolysis thrombolysis time treatment study income country impact mortality rate 
 flow oxygen myocardial_infarction evidence routine use oxygen level potential harm intervention oxygen oxygen level distress 
-thrombolysis shock chest pain improvement st elevation record minute rescue 
+thrombolysis shock chest_pain improvement st elevation record minute rescue 
 arrest temperature management evaluation implementation hypothermia protocol 
 arrest st elevation time angiography antagonist people myocardial_infarction heart_failure rehabilitation 
 rehabilitation benefit myocardial_infarction heart damage failure 

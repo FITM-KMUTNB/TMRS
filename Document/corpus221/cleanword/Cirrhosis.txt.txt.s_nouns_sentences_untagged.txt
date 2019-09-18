@@ -37,7 +37,7 @@ periostitis bone pain
 cirrhosis contracture 
 shorten fascia tissue palm hand deformity finger 
 proliferation growth collagen deposition 
-weakness fatigue anorexia weight loss 
+weakness fatigue anorexia weight_loss 
 disease complication 
 people sign disease 
 production coagulation factor 

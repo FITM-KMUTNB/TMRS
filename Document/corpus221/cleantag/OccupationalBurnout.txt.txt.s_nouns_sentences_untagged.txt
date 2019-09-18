@@ -1,0 +1,61 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN burn|NN 
+occupational_burnout|DS name|NN occupational_burnout|DS psychology|NN 
+world|NN health|NN organization|NN occupational_burnout|DS syndrome|NN group|NN symptom|NN stress|NN 
+occupational_burnout|DS classification|NN occupational_burnout|DS management|NN stress|NN syndrome|NN symptom|NN feel|NN energy|NN depletion|NN exhaustion|NN distance|NN job|NN feel|NN negativism|NN cynicism|NN job|NN efficacy|NN 
+occupational_burnout|DS influence|NN health|NN reason|NN people|NN health|NN service|NN condition|NN 
+researcher|NN journal|NN paper|NN term|NN occupational_burnout|DS 
+paper|NN observation|NN volunteer|NN staff|NN clinic|NN drug|NN addict|NN occupational_burnout|DS set|NN symptom|NN exhaustion|NN work|NN demand|NN symptom|NN headache|ST sleeplessness|NN quickness|NN anger|NN think|NN 
+worker|NN act|NN 
+publication|NN paper|NN interest|NN occupational_burnout|DS 
+phrase|NN part|NN title|NN graham|NN novel|NN case|NN doctor|NN work|NN patient|NN leprosy|NN phrase|NN use|NN psychology|NN literature|NN 
+occupational_burnout|DS term|NN exhaustion|NN colleague|NN way|NN feel|NN accomplishment|NN instrument|NN occupational_burnout|DS occupational_burnout|DS inventory|NN service|NN profession|NN teacher|NN worker|NN application|NN occupation|NN conceptualization|NN occupational_burnout|DS 
+conceptualization|NN occupational_burnout|DS conceptualization|NN 
+occupational_burnout|DS measure|NN occupational_burnout|DS term|NN exhaustion|NN weariness|NN exhaustion|NN examination|NN exhaustion|NN measure|NN concept|NN depersonalization|NN occupational_burnout|DS inventory|NN occupational_burnout|DS occupational_burnout|DS term|NN exhaustion|NN disengagement|NN conceptualization|NN instrument|NN occupational_burnout|DS inventory|NN occupational_burnout|DS inventory|NN occupational_burnout|DS measure|NN 
+al|NN malach-pines|NN pines|NN view|NN occupational_burnout|DS role|NN spouse|NN 
+core|NN conceptualization|NN exhaustion|NN 
+occupational_burnout|DS array|NN depressive|NN symptom|NN mood|NN alteration|NN sleep|NN disturbance|NN factor|NN background|NN element|NN facet|NN process|NN development|NN occupational_burnout|DS complex|NN figure|NN 
+difference|NN understand|NN occupational_burnout|DS need|NN consensus|NN definition|NN content|NN 
+diagnosis|NN classification|NN criteria|NN risk|NN factor|NN effect|NN treatment|NN prevention|NN level|NN level|NN reference|NN read|NN link|NN 
+diagnosis|NN classification|NN 
+occupational_burnout|DS health|NN problem|NN symptom|NN stress|NN syndrome|NN person|NN health|NN form|NN stress|NN occupational_burnout|DS condition|NN 
+occupational_burnout|DS disorder|NN revision|NN date|NN manual|NN disorder|NN regard|NN classification|NN disease|NN health|NN problem|NN occupational_burnout|DS edition|NN type|NN difficulty|NN occupational_burnout|DS employment|NN difficulty|NN version|NN occupational_burnout|DS problem|NN employment|NN unemployment|NN section|NN factor|NN health|NN status|NN contact|NN health|NN service|NN 
+section|NN reason|NN disease|NN health|NN condition|NN people|NN contact|NN health|NN service|NN 
+occupational_burnout|DS syndrome|NN workplace|NN stress|NN 
+dimension|NN feel|NN energy|NN depletion|NN exhaustion|NN distance|NN job|NN feel|NN negativism|NN cynicism|NN job|NN efficacy|NN 
+occupational_burnout|DS phenomena|NN context|NN experience|NN area|NN life|NN 
+instrument|NN occupational_burnout|DS occupational_burnout|DS inventory|NN conceptualization|NN occupational_burnout|DS syndrome|NN exhaustion|NN accomplishment|NN researcher|NN occupational_burnout|DS fatigue|ST exhaustion|NN exhaustion|NN occupational_burnout|DS core|NN 
+body|NN evidence|NN occupational_burnout|DS depression|ST study|NN depressive|NN symptom|NN worker|NN patient|NN difference|NN group|NN worker|NN depressive|NN symptom|NN patient|NN study|NN worker|NN occupational_burnout|DS criteria|NN depression|ST view|NN occupational_burnout|DS form|NN depression|ST support|NN study|NN author|NN concept|NN occupational_burnout|DS disorder|NN agreement|NN occupational_burnout|DS criteria|NN 
+van|NN term|NN occupational_burnout|DS mean|NN 
+occupational_burnout|DS degree|NN unhappiness|NN 
+solution|NN vacation|NN sabbatical|NN 
+fatigue|ST depression|ST word|NN depression|ST significance|NN risk|NN factor|NN 
+evidence|NN etiology|NN occupational_burnout|DS factor|NN role|NN factor|NN depression|ST occupational_burnout|DS cause|NN occupational_burnout|DS person|NN occupational_burnout|DS 
+citation|NN expectation|NN job|NN reality|NN occupational_burnout|DS 
+occupational_burnout|DS mismatch|NN nature|NN job|NN job|NN person|NN 
+indication|NN mismatch|NN work|NN overload|NN worker|NN round|NN layoff|NN layoff|NN worker|NN resource|NN 
+context|NN organization|NN goal|NN employee|NN goal|NN 
+job|NN model|NN implication|NN occupational_burnout|DS occupational_burnout|DS inventory|NN 
+job|NN demand|NN exhaustion|NN lack|NN job|NN resource|NN disengagement|NN component|NN 
+risk|NN factor|NN occupational_burnout|DS mismatch|NN mismatch|NN control|NN lack|NN award|NN loss|NN sense|NN connection|NN workplace|NN lack|NN fairness|NN conflict|NN value|NN effect|NN 
+research|NN occupational_burnout|DS job|NN performance|NN heart|NN disease|NN health|NN problem|NN 
+regard|NN health|NN problem|NN research|NN dentist|NN physician|NN occupational_burnout|DS depressive|NN syndrome|NN 
+job|NN performance|NN risk|NN occupational_burnout|DS occupational_burnout|DS tie|NN depression|ST 
+occupational_burnout|DS impairment|NN memory|NN attention|NN occupational_burnout|DS absence|NN time|NN work|NN thought|NN treatment|NN prevention|NN level|NN 
+symptom|NN occupational_burnout|DS exhaustion|NN cynicism|NN inefficacy|NN treatment|NN activity|NN way|NN cynicism|NN inefficacy|NN treatment|NN 
+research|NN intervention|NN efficacy|NN person|NN efficacy|NN 
+purpose|NN occupational_burnout|DS stress|NN management|NN intervention|NN employee|NN health|NN workplace|NN stress|NN level|NN 
+train|NN employee|NN way|NN stress|NN workplace|NN occupational_burnout|DS study|NN process|NN commitment|NN work|NN resourcefulness|NN hope|NN individual|NN occupational_burnout|DS worker|NN control|NN job|NN intervention|NN exhaustion|NN cynicism|NN workplace|NN 
+occupational_burnout|DS prevention|NN program|NN therapy|NN stress|NN management|NN relaxation|NN 
+relaxation|NN technique|NN technique|NN technique|NN schedule|NN change|NN technique|NN occupational_burnout|DS set|NN 
+activity|NN approach|NN symptom|NN 
+review|NN evidence|NN efficacy|NN worker|NN quality|NN intervention|NN 
+employee|NN rehabilitation|NN intervention|NN strategy|NN rehabilitation|NN occupational_burnout|DS symptom|NN individual|NN rehabilitation|NN population|NN activity|NN intent|NN employee|NN ability|NN supply|NN labor|NN society|NN 
+prevention|NN method|NN day|NN ritual|NN exercise|NN sleep|NN habit|NN boundary|NN break|NN technology|NN side|NN learn|NN stress|NN level|NN 
+individual|NN symptom|NN occupational_burnout|DS way|NN occupational_burnout|DS combination|NN change|NN education|NN 
+occupational_burnout|DS disconnection|NN organization|NN individual|NN regard|NN area|NN control|NN reward|NN community|NN fairness|NN value|NN discrepancy|NN action|NN part|NN individual|NN organization|NN regard|NN worker|NN resource|NN demand|NN balance|NN employee|NN energy|NN regard|NN value|NN value|NN employee|NN commitment|NN leadership|NN relationship|NN colleague|NN 
+approach|NN discrepancy|NN fairness|NN area|NN 
+study|NN employee|NN inequity|NN job|NN intervention|NN decrease|NN exhaustion|NN time|NN cynicism|NN inefficacy|NN approach|NN 
+compassion|NN fatigue|ST work|NN behavior|NN employee|NN engagement|NN spoon|NN theory|NN writer|NN block|NN meditation|NN 
+stress|NN workplace|NN 
+psychology|NN health|NN psychology|NN support|NN contract|NN violation|NN balance|NN 
+depression|ST mood|NN stress|NN medicine|NN 

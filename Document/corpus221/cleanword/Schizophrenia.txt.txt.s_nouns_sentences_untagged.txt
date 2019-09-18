@@ -103,8 +103,8 @@ treatment schizophrenia medication symptom psychosis day
 symptom dysfunction use risk relapse evidence effect use year use anti-psychotics hypersensitivity risk symptom 
 choice use benefit risk cost class antipsychotics side effect antipsychotics symptom relapse rate dosage response response treatment resistance failure symptom week antipsychotics people treatment drug schizophrenia side effect blood cell count people 
 people antipsychotics side effect 
-people antipsychotics rate side effect atypical weight gain risk syndrome 
-weight gain rate symptom antipsychotics chance syndrome tardive disorder 
+people antipsychotics rate side effect atypical weight_gain risk syndrome 
+weight_gain rate symptom antipsychotics chance syndrome tardive disorder 
 people medication depot preparation antipsychotics control risk relapse degree medication combination intervention adherence treatment association people symptom year 
 number intervention treatment schizophrenia family therapy community treatment employment remediation skill train token intervention intervention substance use weight management family therapy education family patient relapse evidence effectiveness therapy symptom relapse evidence train review benefit art drama therapy peer support people knowledge illness help benefit schizophrenia article prognosis schizophrenia life year schizophrenia inhabitant 
 

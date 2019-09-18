@@ -1,0 +1,217 @@
+encyclopedia|NN colorectal_cancer|DS jump|NN navigation|NN jump|NN search|NN colorectal_cancer|DS name|NN colorectal_cancer|DS colorectal_cancer|DS colorectal_cancer|DS stomach|NN colon|NN rectum|NN diagram|NN tract|NN oncology|NN symptom|NN blood|NN stool|NN change|NN bowel|NN movement|NN weight_loss|ST feel|NN time|NN cause|NN age|NN factor|NN disorder|NN factor|NN diet|NN obesity|NN smoke|NN lack|NN activity|NN alcohol|NN use|NN method|NN tissue|NN biopsy|NN sigmoidoscopy|NN colonoscopy|NN prevention|NN screen|NN age|NN treatment|NN surgery|NN radiation|NN therapy|NN chemotherapy|NN therapy|NN survival|NN rate|NN frequency|NN death|NN 
+colorectal_cancer|DS colorectal_cancer|DS colorectal_cancer|DS colorectal_cancer|DS development|NN cancer|DS colon|NN rectum|NN part|NN intestine|NN cancer|DS growth|NN cell|NN ability|NN part|NN body|NN sign|NN symptom|NN blood|NN stool|NN change|NN bowel|NN movement|NN weight_loss|ST feel|NN time|NN 
+colorectal_cancer|DS age|NN factor|NN number|NN case|NN disorder|NN risk|NN factor|NN diet|NN obesity|NN smoke|NN lack|NN activity|NN factor|NN risk|NN meat|NN meat|NN alcohol|NN risk|NN factor|NN bowel|NN disease|NN disease|NN colitis|NN disorder|NN colorectal_cancer|DS polyposis|NN non-polyposis|NN colorectal_cancer|DS case|NN tumor|NN form|NN polyp|NN time|NN 
+colorectal_cancer|DS sample|NN colon|NN sigmoidoscopy|NN colonoscopy|NN image|NN disease|NN screen|NN death|NN colorectal_cancer|DS screen|NN number|NN method|NN start|NN age|NN colonoscopy|NN polyp|NN polyp|NN tumor|NN biopsy|NN 
+aspirin|NN drug|NN risk|NN use|NN purpose|NN side|NN effect|NN 
+treatment|NN colorectal_cancer|DS combination|NN surgery|NN radiation|NN therapy|NN chemotherapy|NN therapy|NN wall|NN colon|NN surgery|NN cancer|DS management|NN quality|NN life|NN symptom|NN survival|NN rate|NN united|NN states|NN likelihood|NN survival|NN cancer|DS cancer|DS surgery|NN person|NN health|NN colorectal_cancer|DS type|NN cancer|DS case|NN case|NN death|NN disease|NN country|NN case|NN women|NN men|NN content|NN 
+sign|NN symptom|NN cause|NN bowel|NN disease|NN genetics|NN field|NN defect|NN diagnosis|NN prevention|NN supplement|NN screen|NN treatment|NN surgery|NN radiation|NN therapy|NN care|NN exercise|NN epidemiology|NN united|NN states|NN united|NN kingdom|NN history|NN society|NN culture|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN location|NN appearance|NN example|NN tumor|NN 
+sign|NN symptom|NN colorectal_cancer|DS location|NN tumor|NN bowel|NN body|NN metastasis|NN 
+warn|NN sign|NN constipation|DT blood|NN stool|NN decrease|NN stool|NN thickness|NN loss|NN appetite|NN loss|NN weight|NN nausea|ST vomit|NN year|NN individual|NN colorectal_cancer|DS symptom|NN 
+bleed|NN symptom|NN people|NN age|NN weight_loss|ST change|NN person|NN bowel|NN habit|NN cause|NN 
+greater|NN colorectal_cancer|DS people|NN risk|NN risk|NN factor|NN age|NN male|NN sex|NN intake|NN sugar|NN alcohol|NN meat|NN meat|NN obesity|NN smoke|NN lack|NN exercise|NN case|NN activity|NN risk|NN alcohol|NN drink|NN day|NN drink|NN glass|NN water|NN day|NN decrease|NN risk|NN colorectal_cancer|DS polyp|NN gallolyticus|NN colorectal_cancer|DS strain|NN streptococcus|NN complex|NN people|NN people|NN bovisgallolyticus|NN tumor|NN bovisgallolyticus|NN candidate|NN marker|NN prediction|NN bowel|NN lesion|NN risk|NN population|NN presence|NN antibody|NN antigen|NN antigen|NN marker|NN carcinogenesis|NN colon|NN bowel|NN disease|NN 
+people|NN bowel|NN disease|NN colitis|NN disease|NN risk|NN colorectal_cancer|DS risk|NN person|NN disease|NN severity|NN inflammation|NN risk|NN group|NN prevention|NN aspirin|NN colonoscopy|NN surveillance|NN population|NN development|NN colorectal_cancer|DS diagnosis|NN chance|NN colorectal_cancer|DS people|NN bowel|NN disease|NN account|NN colorectal_cancer|DS case|NN disease|NN colorectal_cancer|DS year|NN year|NN year|NN people|NN colitis|NN cancer|DS precursor|NN cancer|DS colon|NN year|NN genetics|NN 
+family|NN history|NN relative|NN parent|NN risk|NN disease|NN group|NN account|NN case|NN 
+number|NN syndrome|NN rate|NN colorectal_cancer|DS 
+colorectal_cancer|DS lynch|NN syndrome|NN people|NN colorectal_cancer|DS syndrome|NN colorectal_cancer|DS syndrome|NN polyposis|NN 
+people|NN syndrome|NN cancer|DS cancer|DS case|NN people|NN measure|NN risk|NN malignancy|NN 
+removal|NN colon|NN measure|NN risk|NN colorectal_cancer|DS rectum|NN 
+mutation|NN pair|NN gene|NN colorectal_cancer|DS 
+death|NN colorectal_cancer|DS disease|NN 
+gene|NN potential|NN disease|NN metastasis|NN colorectal_cancer|DS factor|NN expression|NN growth|NN factor|NN 
+gene|NN proliferation|NN invasion|NN scatter|NN colorectal_cancer|DS cell|NN cell|NN culture|NN tumor|NN growth|NN metastasis|NN mice|NN 
+target|NN cancer|DS intervention|NN possibility|NN study|NN 
+factor|NN methylation|NN tumor|NN suppressor|NN promoter|NN role|NN development|NN colorectal_cancer|DS pathogenesis|NN 
+colorectal_cancer|DS disease|NN cell|NN colon|NN rectum|NN tract|NN result|NN mutation|NN pathway|NN increase|NN activity|NN 
+mutation|NN crypt|NN stem|NN cell|NN gene|NN colorectal_cancer|DS gene|NN protein|NN 
+protein|NN accumulation|NN 
+level|NN move|NN nucleus|NN transcription|NN 
+gene|NN stem|NN cell|NN renewal|NN differentiation|NN level|NN cancer|DS 
+colorectal_cancer|DS cancer|DS 
+block|NN breakdown|NN mutation|NN gene|NN function|NN 
+defect|NN pathway|NN mutation|NN cell|NN 
+protein|NN gene|NN cell|NN division|NN cell|NN pathway|NN defect|NN 
+cell|NN line|NN mutation|NN gene|NN tissue|NN tumor|NN cell|NN cancer|DS 
+gene|NN protein|NN 
+protein|NN cell|NN death|NN colorectal_cancer|DS 
+colorectal_cancer|DS 
+mutation|NN half|NN colorectal_cancer|DS 
+protein|NN segment|NN chromosome|NN colorectal_cancer|DS 
+gene|NN colorectal_cancer|DS expression|NN colorectal_cancer|DS form|NN cancer|DS gene|NN colorectal_cancer|DS 
+example|NN gene|NN protein|NN cell|NN response|NN growth|NN factor|NN mutation|NN result|NN cell|NN proliferation|NN 
+order|NN mutation|NN 
+mutation|NN kra|NN mutation|NN cancer|DS borderline|NN lesion|NN tumor|NN suppressor|NN 
+analysis|NN carcinoma|NN tumor|NN type|NN addition|NN mutation|NN gene|NN sample|NN 
+set|NN event|NN display|NN form|NN 
+theme|NN gene|NN tumor|NN type|NN involvement|NN 
+pathway|NN result|NN activity|NN player|NN colorectal_cancer|DS 
+repair|NN amount|NN tandem|NN deficiency|NN protein|NN silence|NN mutation|NN 
+lynch|NN syndrome|NN percent|NN colorectal_cancer|DS deficiency|NN percent|NN lynch|NN syndrome|NN role|NN mismatch|NN repair|NN system|NN integrity|NN material|NN cell|NN error|NN detect|NN deficiency|NN deficiency|NN inability|NN damage|NN mutation|NN colorectal_cancer|DS progress|NN 
+polyp|NN cancer|DS progression|NN sequence|NN model|NN colorectal_cancer|DS pathogenesis|NN polyp|NN cancer|DS sequence|NN phase|NN transition|NN colorectal_cancer|DS year|NN polyp|NN colorectal_cancer|DS sequence|NN gene|NN mutation|NN alteration|NN change|NN polyp|NN colorectal_cancer|DS sequence|NN framework|NN change|NN lead|NN cancer|DS subtype|NN field|NN defect|NN colon|NN segment|NN cancer|DS polyp|NN 
+diagram|NN field|NN defect|NN region|NN tissue|NN development|NN cancer|DS colon|NN segment|NN 
+diagram|NN precursor|NN tumor|NN 
+term|NN field|NN area|NN field|NN epithelium|NN process|NN time|NN development|NN cancer|DS term|NN field|NN field|NN carcinogenesis|NN field|NN defect|NN field|NN effect|NN tissue|NN cancer|DS 
+field|NN defect|NN progression|NN colorectal_cancer|DS 
+cancer|DS research|NN majority|NN study|NN cancer|DS research|NN tumor|NN 
+evidence|NN mutation|NN phenotype|NN tumor|NN onset|NN expansion|NN 
+al|NN mutation|NN tumor|NN phase|NN field|NN defect|NN growth|NN cell|NN 
+alteration|NN tumor|NN field|NN defect|NN 
+view|NN field|NN effect|NN field|NN effect|NN change|NN cell|NN influence|NN factor|NN change|NN evolution|NN tumor|NN initiation|NN death|NN 
+alteration|NN colorectal_cancer|DS alteration|NN 
+cancer|DS colon|NN mutation|NN tumor|NN suppressor|NN mutation|NN driver|NN mutation|NN passenger|NN mutation|NN 
+tumor|NN suppressor|NN gene|NN 
+addition|NN alteration|NN expression|NN type|NN alteration|NN cancer|DS change|NN gene|NN expression|NN level|NN island|NN gene|NN alteration|NN histone|NN architecture|NN influence|NN gene|NN expression|NN example|NN protein|NN code|NN gene|NN colorectal_cancer|DS 
+gene|NN colorectal_cancer|DS colorectal_cancer|DS addition|NN colorectal_cancer|DS methylation|NN consequence|NN age|NN risk|NN colorectal_cancer|DS increase|NN person|NN source|NN trigger|NN methylation|NN gene|NN methylation|NN change|NN gene|NN development|NN colorectal_cancer|DS find|NN reason|NN age|NN risk|NN colorectal_cancer|DS 
+reduction|NN repair|NN enzyme|NN expression|NN instability|NN characteristic|NN cancer|DS article|NN cancer|DS general|NN deficiency|NN repair|NN mutation|NN repair|NN gene|NN alteration|NN silence|NN expression|NN repair|NN gene|NN 
+alteration|NN development|NN colorectal_cancer|DS person|NN response|NN chemotherapy|NN diagnosis|NN colorectal_cancer|DS liver|NN 
+colorectal_cancer|DS diagnosis|NN sample|NN area|NN colon|NN tumor|NN development|NN colonoscopy|NN sigmoidoscopy|NN location|NN lesion|NN examination|NN tissue|NN sample|NN 
+presence|NN scan|NN chest|NN abdomen|NN pelvis|NN potential|NN image|NN test|NN pet|NN case|NN cancer|DS find|NN 
+form|NN cancer|DS tumor|NN stage|NN system|NN tumor|NN presence|NN lymph|NN node|NN organ|NN edition|NN 
+characteristics|NN tumor|NN analysis|NN tissue|NN biopsy|NN surgery|NN 
+pathology|NN report|NN description|NN characteristics|NN tumor|NN tissue|NN tumor|NN cell|NN tumor|NN tissue|NN tumor|NN 
+form|NN colorectal_cancer|DS adenocarcinoma|NN 
+type|NN lymphoma|NN cell|NN carcinoma|NN 
+side|NN intestine|NN colon|NN tumor|NN location|NN bowel|NN wall|NN 
+obstruction|NN present|NN symptom|NN 
+bowel|NN lumen|NN napkin|NN ring|NN result|NN stool|NN 
+tumor|NN cell|NN colon|NN rectum|NN 
+wall|NN muscularis|NN layer|NN submucosa|NN muscularis|NN 
+cell|NN structure|NN multiple|NN stroma|NN back|NN back|NN aspect|NN 
+tumor|NN cell|NN mucus|NN pool|NN mucus|NN 
+adenocarcinoma|NN cell|NN 
+mucus|NN tumor|NN cell|NN nucleus|NN periphery|NN cell|NN 
+architecture|NN pattern|NN adenocarcinoma|NN degree|NN differentiation|NN 
+case|NN metastasis|NN colorectal_cancer|DS diagnosis|NN protein|NN colorectal_cancer|DS marker|NN screen|NN lynch|NN syndrome|NN disorder|NN risk|NN cancer|DS 
+diagnosis|NN lynch|NN syndrome|NN mutation|NN gene|NN test|NN guide|NN treatment|NN prognosis|NN 
+marker|NN tumor|NN cancer|DS type|NN susceptibility|NN treatment|NN 
+appearance|NN colon|NN carcinoma|NN tumor|NN 
+appearance|NN colectomy|NN specimen|NN polyp|NN tumor|NN label|NN line|NN stalk|NN carcinoma|NN tumor|NN label|NN 
+image|NN colorectal_cancer|DS colon|NN screen|NN colonoscopy|NN set|NN disease|NN 
+stage|NN exam|NN colon|NN carcinoma|NN 
+tumor|NN lot|NN lesion|NN 
+cursor|NN position|NN lung|NN nodule|NN 
+carcinoma|NN colon|NN 
+adenocarcinoma|NN type|NN colorectal_cancer|DS 
+cell|NN center|NN bottom|NN right|NN image|NN blue|NN 
+cell|NN right|NN image|NN 
+image|NN carcinoid|NN 
+adenoma|NN left|NN image|NN type|NN polyp|NN precursor|NN colorectal_cancer|DS 
+mucosa|NN right|NN 
+stage|NN system|NN organization|NN 
+classification|NN dukes|NN classification|NN 
+tumor|NN stage|NN range|NN evidence|NN tumor|NN tumor|NN surface|NN peritoneum|NN organ|NN structure|NN 
+stage|NN number|NN lymph|NN node|NN range|NN lymph|NN node|NN metastasis|NN lymph|NN node|NN metastasis|NN stage|NN information|NN metastasis|NN metastasis|NN presence|NN metastasis|NN 
+classification|NN diagnosis|NN classification|NN surgery|NN 
+stage|NN colorectal_cancer|DS 
+dukes|NN stage|NN colorectal_cancer|DS cancer|DS line|NN bowel|NN 
+dukes|NN stage|NN colorectal_cancer|DS cancer|DS muscle|NN 
+dukes|NN stage|NN colorectal_cancer|DS cancer|DS lymph|NN node|NN 
+dukes|NN stage|NN colorectal_cancer|DS cancer|DS 
+metastasis|NN site|NN colorectal_cancer|DS liver|NN lung|NN peritoneum|NN 
+colorectal_cancer|DS presence|NN cell|NN cluster|NN tumor|NN cell|NN front|NN carcinoma|NN 
+marker|NN outcome|NN carcinoma|NN people|NN risk|NN category|NN stage|NN guide|NN treatment|NN decision|NN stage|NN duke|NN carcinoma|NN 
+acceptance|NN factor|NN lack|NN uniformity|NN respect|NN aspect|NN tumor|NN prevention|NN 
+colorectal_cancer|DS case|NN factor|NN quarter|NN case|NN surveillance|NN activity|NN diet|NN fiber|NN smoke|NN alcohol|NN consumption|NN decrease|NN risk|NN 
+risk|NN factor|NN evidence|NN lack|NN exercise|NN cigarette|NN smoke|NN alcohol|NN obesity|NN risk|NN colorectal_cancer|DS body|NN weight|NN combination|NN exercise|NN diet|NN 
+recommendation|NN colorectal_cancer|DS consumption|NN grain|NN fruit|NN vegetable|NN intake|NN meat|NN meat|NN 
+animal|NN study|NN study|NN 
+scale|NN study|NN effect|NN cause|NN cancer|DS complexity|NN correlation|NN diet|NN health|NN intervention|NN diet|NN cancer|DS institute|NN evidence|NN diet|NN adulthood|NN fat|NN meat|NN fruit|NN vegetable|NN risk|NN colorectal_cancer|DS degree|NN 
+regard|NN fiber|NN world|NN health|NN organization|NN cancer|DS report|NN colorectal_cancer|DS study|NN status|NN science|NN review|NN evidence|NN benefit|NN fiber|NN grain|NN world|NN cancer|DS research|NN fund|NN benefit|NN fiber|NN prevention|NN colorectal_cancer|DS 
+activity|NN exercise|NN reduction|NN colon|NN colorectal_cancer|DS risk|NN level|NN activity|NN risk|NN colorectal_cancer|DS sit|NN period|NN mortality|NN colorectal_cancer|DS 
+risk|NN exercise|NN supplement|NN 
+aspirin|NN risk|NN colorectal_cancer|DS risk|NN aspirin|NN year|NN risk|NN risk|NN disease|NN colorectal_cancer|DS risk|NN 
+evidence|NN calcium|NN supplementation|NN recommendation|NN vitamin|NN intake|NN blood|NN level|NN risk|NN colorectal_cancer|DS screen|NN 
+colorectal_cancer|DS polyp|NN screen|NN cancer|DS detection|NN prevention|NN diagnosis|NN case|NN colorectal_cancer|DS screen|NN year|NN diagnosis|NN case|NN symptom|NN polyp|NN colonoscopy|NN sigmoidoscopy|NN cancer|DS 
+screen|NN potential|NN colorectal_cancer|DS death|NN 
+screen|NN test|NN colonoscopy|NN occult|NN blood|NN test|NN sigmoidoscopy|NN 
+sigmoidoscopy|NN screen|NN side|NN colon|NN cancer|DS sigmoidoscopy|NN evidence|NN risk|NN death|NN cause|NN 
+occult|NN blood|NN test|NN stool|NN year|NN result|NN participant|NN colonoscopy|NN examination|NN 
+year|NN screen|NN colorectal_cancer|DS death|NN screen|NN colorectal_cancer|DS death|NN mortality|NN test|NN medication|NN change|NN test|NN 
+option|NN colonoscopy|NN stool|NN screen|NN test|NN 
+colonoscopy|NN scan|NN good|NN colonoscopy|NN cancer|DS adenoma|NN radiation|NN exposure|NN growth|NN colonoscopy|NN stool|NN screen|NN test|NN colorectal_cancer|DS precancerous|NN lesion|NN blood|NN 
+result|NN colonoscopy|NN 
+positive|NN result|NN effect|NN study|NN screen|NN interval|NN recommendation|NN 
+united|NN states|NN screen|NN age|NN year|NN cancer|DS society|NN start|NN age|NN year|NN decision|NN screen|NN screen|NN method|NN stool|NN test|NN year|NN sigmoidoscopy|NN year|NN colonoscopy|NN year|NN 
+risk|NN screen|NN method|NN cancer|DS part|NN colon|NN cost|NN complication|NN people|NN risk|NN colonoscopy|NN result|NN gastroenterological|NN association|NN type|NN screen|NN year|NN colonoscopy|NN people|NN life|NN expectancy|NN year|NN screen|NN year|NN screen|NN people|NN list|NN strategy|NN screen|NN thing|NN strategy|NN 
+canada|NN year|NN risk|NN test|NN year|NN sigmoidoscopy|NN year|NN 
+country|NN screen|NN program|NN screen|NN adult|NN age|NN group|NN age|NN 
+example|NN country|NN screen|NN united|NN kingdom|NN netherlands|NN treatment|NN 
+treatment|NN colorectal_cancer|DS cure|NN palliation|NN 
+decision|NN aim|NN factor|NN person|NN health|NN preference|NN stage|NN tumor|NN colorectal_cancer|DS surgery|NN 
+stage|NN treatment|NN palliation|NN symptom|NN person|NN surgery|NN diagram|NN resection|NN stage|NN colorectal_cancer|DS diagram|NN surgery|NN colorectal_cancer|DS 
+cancer|DS stage|NN colonoscopy|NN people|NN cancer|DS treatment|NN removal|NN margin|NN attempt|NN cure|NN 
+laparotomy|NN colon|NN person|NN colostomy|NN 
+liver|NN lung|NN 
+chemotherapy|NN surgery|NN cancer|DS 
+site|NN recurrence|NN colorectal_cancer|DS liver|NN lung|NN 
+cancer|DS colon|NN rectum|NN chemotherapy|NN addition|NN surgery|NN case|NN 
+decision|NN chemotherapy|NN management|NN colon|NN colorectal_cancer|DS stage|NN disease|NN 
+stage|NN colorectal_cancer|DS chemotherapy|NN surgery|NN treatment|NN 
+role|NN chemotherapy|NN stage|NN colorectal_cancer|DS risk|NN factor|NN tumor|NN tumor|NN invasion|NN lymph|NN node|NN sample|NN people|NN abnormality|NN mismatch|NN repair|NN gene|NN chemotherapy|NN 
+stage|NN stage|NN colorectal_cancer|DS chemotherapy|NN part|NN treatment|NN 
+cancer|DS lymph|NN node|NN organ|NN case|NN stage|NN stage|NN colorectal_cancer|DS chemotherapy|NN agent|NN increase|NN life|NN expectancy|NN 
+lymph|NN node|NN cancer|DS benefit|NN chemotherapy|NN 
+cancer|DS treatment|NN 
+set|NN number|NN chemotherapy|NN medication|NN drug|NN condition|NN drug|NN medication|NN medicine|NN 
+regimen|NN colorectal_cancer|DS drug|NN line|NN therapy|NN 
+class|NN drug|NN line|NN set|NN growth|NN factor|NN receptor|NN inhibitor|NN 
+difference|NN approach|NN stage|NN colorectal_cancer|DS incorporation|NN radiation|NN therapy|NN 
+conjunction|NN chemotherapy|NN fashion|NN resection|NN colostomy|NN 
+ly|NN case|NN colostomy|NN 
+stage|NN colorectal_cancer|DS stage|NN colorectal_cancer|DS 
+radiation|NN therapy|NN 
+combination|NN radiation|NN chemotherapy|NN colorectal_cancer|DS use|NN colorectal_cancer|DS routine|NN sensitivity|NN bowel|NN radiation|NN chemotherapy|NN radiotherapy|NN set|NN stage|NN colorectal_cancer|DS 
+colorectal_cancer|DS treatment|NN 
+inhibitor|NN type|NN colorectal_cancer|DS mismatch|NN repair|NN deficiency|NN instability|NN colorectal_cancer|DS treatment|NN people|NN month|NN year|NN type|NN colorectal_cancer|DS care|NN 
+care|NN person|NN colorectal_cancer|DS symptom|NN 
+involvement|NN care|NN quality|NN life|NN person|NN family|NN symptom|NN anxiety|ST admission|NN hospital|NN 
+people|NN colorectal_cancer|DS care|NN procedure|NN symptom|NN complication|NN cancer|DS cancer|DS quality|NN life|NN 
+option|NN removal|NN cancer|DS tissue|NN part|NN intestine|NN placement|NN 
+procedure|NN symptom|NN complication|NN tumor|NN pain|ST obstruction|NN method|NN treatment|NN radiation|NN therapy|NN decrease|NN tumor|NN size|NN pain|ST medication|NN 
+aim|NN stage|NN metastasis|NN cancer|DS lesion|NN 
+cancer|DS network|NN society|NN oncology|NN guideline|NN colorectal_cancer|DS history|NN examination|NN month|NN year|NN month|NN year|NN 
+antigen|NN blood|NN level|NN measurement|NN time|NN people|NN lesion|NN candidate|NN intervention|NN 
+chest|NN abdomen|NN pelvis|NN year|NN people|NN risk|NN recurrence|NN example|NN invasion|NN candidate|NN surgery|NN aim|NN 
+colonoscopy|NN year|NN stage|NN mass|NN case|NN month|NN 
+polyp|NN polyp|NN grade|NN dysplasia|NN year|NN year|NN 
+abnormality|NN colonoscopy|NN year|NN 
+routine|NN pet|NN scan|NN chest|NN blood|NN count|NN liver|NN function|NN test|NN review|NN surveillance|NN survival|NN benefit|NN colorectal_cancer|DS exercise|NN 
+exercise|NN future|NN therapy|NN cancer|DS survivor|NN 
+study|NN exercise|NN colorectal_cancer|DS mortality|NN mortality|NN 
+result|NN amount|NN exercise|NN benefit|NN 
+difference|NN difference|NN biology|NN expression|NN 
+patient|NN tumor|NN expression|NN 
+signal|NN pathway|NN met|NN hour|NN week|NN measure|NN exercise|NN reduction|NN colorectal_cancer|DS mortality|NN 
+mechanism|NN exercise|NN benefit|NN survival|NN surveillance|NN inflammation|NN pathway|NN 
+study|NN response|NN patient|NN stage|NN colorectal_cancer|DS week|NN exercise|NN therapy|NN 
+balance|NN mechanism|NN benefit|NN 
+decrease|NN urine|NN patient|NN week|NN exercise|NN therapy|NN 
+mechanism|NN hormone|NN hormone|NN pathway|NN type|NN cancer|DS 
+survivor|NN met|NN hour|NN week|NN mortality|NN survival|NN met|NN hour|NN week|NN 
+survivor|NN expression|NN outcome|NN 
+activation|NN pathway|NN loss|NN energy|NN balance|NN cancer|DS cell|NN prognosis|NN 
+survival|NN rate|NN colorectal_cancer|DS 
+world|NN people|NN disease|NN 
+survival|NN detection|NN type|NN cancer|DS cancer|DS 
+survival|NN rate|NN stage|NN detection|NN time|NN stage|NN cancer|DS 
+people|NN tumor|NN muscularis|NN mucosa|NN stage|NN survival|NN rate|NN cancer|DS submucosal|NN layer|NN layer|NN survival|NN rate|NN 
+tumor|NN node|NN involvement|NN survival|NN rate|NN 
+patient|NN lymph|NN node|NN survival|NN rate|NN survival|NN rate|NN survival|NN time|NN month|NN 
+recurrence|NN rate|NN people|NN surgery|NN stage|NN cancer|DS stage|NN stage|NN 
+number|NN risk|NN factor|NN stage|NN stage|NN 
+gene|NN outcome|NN colorectal_cancer|DS gene|NN expression|NN outcome|NN example|NN heat|NN shock|NN protein|NN gene|NN expression|NN survival|NN example|NN protein|NN epidemiology|NN colon|NN rectum|NN cancer|DS death|NN person|NN 
+people|NN colorectal_cancer|DS year|NN death|NN 
+second|NN cause|NN cancer|DS women|NN diagnose|NN men|NN cause|NN cancer|DS death|NN lung|NN stomach|NN liver_cancer|DS country|NN incidence|NN rate|NN new|NN rate|NN united|NN states|NN 
+colorectal_cancer|DS cause|NN cancer|DS occurrence|NN death|NN men|NN women|NN united|NN states|NN 
+case|NN 
+rate|NN men|NN women|NN colorectal_cancer|DS lifetime|NN age|NN diagnosis|NN cancer|DS colon|NN rectum|NN year|NN age|NN 
+age|NN year|NN age|NN 
+rate|NN male|NN female|NN 
+united|NN kingdom|NN 
+people|NN year|NN colorectal_cancer|DS type|NN 
+men|NN women|NN colorectal_cancer|DS age|NN men|NN women|NN year|NN age|NN history|NN colorectal_cancer|DS 
+colorectal_cancer|DS mummy|NN oasis|NN period|NN society|NN culture|NN article|NN list|NN people|NN colorectal_cancer|DS 
+united|NN states|NN march|NN colorectal_cancer|DS awareness|NN month|NN research|NN 
+evidence|NN acid|NN bacteria|NN development|NN progression|NN colorectal_cancer|DS mechanism|NN activity|NN cell|NN death|NN effect|NN modification|NN cancer|DS cell|NN 
+mouse|NN model|NN cancer|DS research|NN 
+cancer|DS genome|NN colorectal_cancer|DS data|NN colorectal_cancer|DS tissue|NN cell|NN line|NN 

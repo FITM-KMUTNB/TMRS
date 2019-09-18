@@ -24,7 +24,7 @@ level symptom
 disease symptom failure degree cause symptom 
 kidney_failure symptom 
 symptom kidney_failure 
-level urea blood vomit diarrhea dehydration nausea weight loss urination urination amount urine urination amount urine blood urine pressure difficulty amount urination quantity buildup phosphate blood kidney filter bone damage bone muscle cramp level calcium buildup potassium blood kidney filter heart rhythm muscle paralysis failure kidney fluid hand leg ankle feet face shortness breath fluid lung kidney_disease cyst kidney liver pain back side kidney hormone bone marrow blood cell 
+level urea blood vomit diarrhea dehydration nausea weight_loss urination urination amount urine urination amount urine blood urine pressure difficulty amount urination quantity buildup phosphate blood kidney filter bone damage bone muscle cramp level calcium buildup potassium blood kidney filter heart rhythm muscle paralysis failure kidney fluid hand leg ankle feet face shortness breath fluid lung kidney_disease cyst kidney liver pain back side kidney hormone bone marrow blood cell 
 kidney production blood cell breakdown blood cell 
 result blood condition 
 memory problem difficulty blood pressure protein kidney 

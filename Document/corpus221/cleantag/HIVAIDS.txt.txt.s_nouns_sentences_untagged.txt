@@ -1,0 +1,189 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN hiv/aids|DS 
+use|NN hiv/aids|DS 
+hiv/aids|DS name|NN hiv/aids|DS hiv/aids|DS ribbon|NN shape|NN bow|NN ribbon|NN symbol|NN solidarity|NN people|NN live|NN hiv/aids|DS disease|NN symptom|NN illness|NN lymph|NN node|NN fever|ST weight_loss|ST complication|NN infection|NN duration|NN cause|NN virus|NN risk|NN factor|NN exposure|NN blood|NN breast|NN milk|NN sex|NN method|NN blood|NN test|NN prevention|NN sex|NN needle|NN exchange|NN male|NN circumcision|NN prophylaxis|NN prophylaxis|NN treatment|NN therapy|NN life|NN expectancy|NN treatment|NN year|NN life|NN expectancy|NN treatment|NN frequency|NN case|NN live|NN death|NN 
+virus|NN infection|NN deficiency|NN syndrome|NN hiv/aids|DS spectrum|NN condition|NN infection|NN virus|NN infection|NN person|NN symptom|NN period|NN illness|NN period|NN symptom|NN infection|NN system|NN risk|NN infection|NN tuberculosis|DS infection|NN tumor|NN people|NN system|NN symptom|NN infection|NN syndrome|NN hiv/aids|DS stage|NN weight_loss|ST 
+sex|NN sex|NN blood|NN transfusion|NN needle|NN mother|NN child|NN pregnancy|NN delivery|NN fluid|NN saliva|NN tear|NN method|NN prevention|NN sex|NN needle|NN exchange|NN program|NN prophylaxis|NN circumcision|NN disease|NN baby|NN mother|NN child|NN medication|NN cure|NN vaccine|NN treatment|NN course|NN disease|NN life|NN expectancy|NN treatment|NN diagnosis|NN treatment|NN survival|NN time|NN infection|NN year|NN 
+people|NN death|NN case|NN time|NN hiv/aids|DS disease|NN death|NN hiv/aids|DS disease|NN outbreak|NN area|NN century|NN hiv/aids|DS united|NN states|NN center|NN disease|NN control|NN prevention|NN cause|NN hiv/aids|DS part|NN decade|NN 
+hiv/aids|DS impact|NN society|NN illness|NN source|NN discrimination|NN disease|NN impact|NN misconception|NN hiv/aids|DS belief|NN contact|NN disease|NN subject|NN controversy|NN religion|NN catholic|NN position|NN use|NN prevention|NN attention|NN fund|NN hiv/aids|DS media|NN video|NN summary|NN script|NN content|NN 
+sign|NN symptom|NN infection|NN latency|NN syndrome|NN transmission|NN body|NN fluid|NN diagnosis|NN test|NN prevention|NN contact|NN vaccination|NN treatment|NN therapy|NN opportunistic|NN infection|NN diet|NN medicine|NN epidemiology|NN history|NN discovery|NN origin|NN society|NN culture|NN impact|NN religion|NN hiv/aids|DS media|NN portrayal|NN transmission|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN article|NN sign|NN symptom|NN hiv/aids|DS 
+stage|NN hiv/aids|DS infection|NN latency|NN hiv/aids|DS infection|NN diagram|NN torso|NN symptom|NN hiv/aids|DS symptom|NN hiv/aids|DS 
+period|NN contraction|NN syndrome|NN individual|NN illness|NN illness|NN week|NN exposure|NN symptom|NN symptom|NN case|NN fever|ST lymph|NN node|NN throat|NN inflammation|NN headache|ST tiredness|NN sore|NN mouth|NN genital|NN rash|ST case|NN trunk|NN people|NN infection|NN stage|NN symptom|NN vomit|NN symptom|NN neuropathy|NN syndrome|NN duration|NN symptom|NN week|NN 
+character|NN symptom|NN sign|NN hiv/aids|DS 
+case|NN family|NN doctor|NN hospital|NN disease|NN symptom|NN 
+people|NN fever|ST risk|NN factor|NN infection|NN latency|NN 
+symptom|NN stage|NN latency|NN treatment|NN second|NN stage|NN history|NN hiv/aids|DS year|NN year|NN average|NN year|NN symptom|NN end|NN stage|NN people|NN experience|NN fever|ST weight_loss|ST problem|NN muscle|NN pain|ST people|NN lymphadenopathy|ST enlargement|NN group|NN lymph|NN node|NN groin|NN month|NN 
+individual|NN load|NN absence|NN treatment|NN hiv/aids|DS proportion|NN level|NN cell|NN helper|NN cell|NN therapy|NN year|NN individual|NN controller|NN group|NN load|NN treatment|NN elite|NN controller|NN elite|NN 
+person|NN syndrome|NN diagram|NN torso|NN symptom|NN hiv/aids|DS symptom|NN hiv/aids|DS 
+syndrome|NN hiv/aids|DS term|NN cell|NN count|NN cell|NN occurrence|NN disease|NN association|NN hiv/aids|DS absence|NN treatment|NN people|NN hiv/aids|DS year|NN condition|NN presence|NN hiv/aids|DS pneumonia|DS form|NN wast|NN syndrome|NN candidiasis|NN sign|NN tract|NN infection|NN 
+infection|NN bacteria|NN parasite|NN system|NN infection|NN organism|NN person|NN environment|NN infection|NN organ|NN system|NN 
+people|NN hiv/aids|DS risk|NN cancer|DS sarcoma|NN lymphoma|NN system|NN lymphoma|NN cancer|DS sarcoma|NN cancer|DS people|NN second|NN cancer|DS lymphoma|NN cause|NN death|NN people|NN hiv/aids|DS sign|NN hiv/aids|DS cancer|DS herpesvirus|NN cancer|DS hiv/aids|DS association|NN papillomavirus|NN conjunctival|NN cancer|DS layer|NN part|NN eyelid|NN part|NN eye|NN 
+people|NN hiv/aids|DS symptom|NN fever|ST sweat|NN night|NN lymph|NN node|NN weakness|ST weight_loss|ST diarrhea|DT symptom|NN present|NN people|NN hiv/aids|DS symptom|NN infection|NN cancer|DS transmission|NN average|NN act|NN risk|NN exposure|NN route|NN source|NN exposure|NN route|NN chance|NN infection|NN blood|NN transfusion|NN verification|NN childbirth|NN child|NN injection|NN drug|NN use|NN needle|NN stick|NN intercourse|NN intercourse|NN intercourse|NN intercourse|NN intercourse|NN intercourse|NN use|NN source|NN intercourse|NN man|NN 
+route|NN contact|NN exposure|NN body|NN fluid|NN tissue|NN mother|NN child|NN pregnancy|NN delivery|NN transmission|NN risk|NN secretion|NN saliva|NN sputum|ST sweat|NN tear|NN urine|NN vomit|NN blood|NN strain|NN condition|NN 
+mode|NN transmission|NN contact|NN person|NN person|NN load|NN result|NN treatment|NN risk|NN mode|NN transmission|NN contact|NN people|NN sex|NN pattern|NN transmission|NN country|NN 
+transmission|NN united|NN states|NN men|NN sex|NN men|NN diagnose|NN male|NN diagnose|NN men|NN diagnose|NN men|NN age|NN group|NN diagnose|NN men|NN men|NN women|NN test|NN 
+regard|NN contact|NN estimate|NN risk|NN transmission|NN act|NN time|NN country|NN country|NN country|NN risk|NN transmission|NN act|NN transmission|NN act|NN estimate|NN country|NN act|NN transmission|NN act|NN transmission|NN risk|NN transmission|NN intercourse|NN act|NN contact|NN risk|NN transmission|NN sex|NN risk|NN sex|NN case|NN risk|NN intercourse|NN set|NN prostitution|NN income|NN country|NN risk|NN transmission|NN act|NN transmission|NN act|NN 
+risk|NN transmission|NN increase|NN presence|NN infection|NN ulcer|NN ulcer|NN risk|NN infection|NN vaginosis|NN increase|NN risk|NN transmission|NN 
+load|NN person|NN risk|NN factor|NN transmission|NN month|NN hiv/aids|DS person|NN time|NN load|NN person|NN stage|NN infection|NN rate|NN transmission|NN 
+sex|NN worker|NN pornography|NN likelihood|NN sex|NN factor|NN risk|NN transmission|NN assault|NN risk|NN transmission|NN trauma|NN vagina|NN rectum|NN risk|NN infection|NN body|NN fluid|NN poster|NN man|NN towel|NN hand|NN word|NN drug|NN life|NN poster|NN threat|NN hiv/aids|DS drug|NN use|NN 
+second|NN mode|NN transmission|NN blood|NN blood|NN product|NN transmission|NN drug|NN use|NN needle|NN stick|NN injury|NN transfusion|NN blood|NN blood|NN product|NN injection|NN equipment|NN 
+risk|NN needle|NN drug|NN injection|NN act|NN average|NN risk|NN needle|NN stick|NN person|NN act|NN risk|NN mucous|NN membrane|NN exposure|NN blood|NN act|NN united|NN states|NN drug|NN user|NN case|NN area|NN people|NN drug|NN 
+blood|NN transfusion|NN blood|NN country|NN risk|NN blood|NN transfusion|NN donor|NN selection|NN screen|NN example|NN risk|NN united|NN states|NN income|NN country|NN transfusion|NN hiv/aids|DS area|NN transfusion|NN blood|NN blood|NN product|NN infection|NN screen|NN organ|NN tissue|NN transplantation|NN 
+injection|NN role|NN spread|NN 
+infection|NN region|NN syringe|NN use|NN world|NN health|NN organization|NN risk|NN transmission|NN result|NN injection|NN risk|NN procedure|NN delivery|NN care|NN area|NN world|NN 
+people|NN tattoo|NN risk|NN infection|NN case|NN insect|NN article|NN pregnancy|NN 
+mother|NN child|NN pregnancy|NN delivery|NN breast|NN milk|NN baby|NN way|NN absence|NN treatment|NN risk|NN transmission|NN birth|NN transmission|NN case|NN children|NN treatment|NN risk|NN infection|NN treatment|NN mother|NN pregnancy|NN delivery|NN section|NN drug|NN mother|NN infant|NN decrease|NN risk|NN transmission|NN measure|NN world|NN blood|NN contaminate|NN food|NN risk|NN transmission|NN 
+woman|NN year|NN result|NN hiv/aids|DS risk|NN baby|NN 
+treatment|NN risk|NN year|NN 
+risk|NN death|NN area|NN world|NN world|NN health|NN organization|NN mother|NN baby|NN medication|NN provision|NN formula|NN infection|NN pregnancy|NN miscarriage|ST article|NN diagram|NN viron|NN structure|NN diagram|NN structure|NN round|NN object|NN object|NN 
+scan|NN electron|NN micrograph|NN lymphocyte|NN 
+cause|NN spectrum|NN disease|NN hiv/aids|DS 
+retrovirus|NN component|NN system|NN cell|NN macrophage|NN cell|NN 
+member|NN genus|NN part|NN family|NN share|NN characteristics|NN 
+mammal|NN illness|NN incubation|NN period|NN 
+entry|NN target|NN cell|NN genome|NN reverse|NN reverse|NN genome|NN virus|NN particle|NN 
+cell|NN nucleus|NN host|NN virus|NN virus|NN host|NN cell|NN detection|NN system|NN virus|NN genome|NN protein|NN cell|NN virus|NN particle|NN replication|NN cycle|NN 
+cell|NN route|NN spread|NN spread|NN spread|NN mechanism|NN spread|NN virus|NN particle|NN bud|NN cell|NN fluid|NN cell|NN chance|NN encounter|NN transmission|NN cell|NN process|NN spread|NN spread|NN mechanism|NN replication|NN therapy|NN 
+type|NN 
+virus|NN 
+cause|NN majority|NN hiv/aids|DS 
+infectivity|NN people|NN exposure|NN 
+capacity|NN transmission|NN west|NN article|NN hiv/aids|DS hiv/aids|DS media|NN hiv/aids|DS way|NN replication|NN cycle|NN 
+virus|NN body|NN period|NN replication|NN abundance|NN virus|NN blood|NN 
+infection|NN level|NN virus|NN particle|NN milliliter|NN blood|NN response|NN drop|NN number|NN cell|NN 
+viremia|NN activation|NN cell|NN cell|NN antibody|NN production|NN 
+cell|NN response|NN virus|NN level|NN peak|NN decline|NN cell|NN count|NN 
+cell|NN response|NN disease|NN progression|NN prognosis|NN virus|NN 
+cause|NN hiv/aids|DS cell|NN 
+system|NN infection|NN 
+cell|NN response|NN body|NN fight|NN infection|NN cell|NN 
+mechanism|NN cell|NN depletion|NN phase|NN phase|NN cell|NN lysis|NN kill|NN cell|NN cell|NN account|NN cell|NN depletion|NN apoptosis|NN factor|NN 
+phase|NN consequence|NN activation|NN loss|NN ability|NN system|NN cell|NN account|NN decline|NN cell|NN number|NN 
+symptom|NN deficiency|NN characteristic|NN hiv/aids|DS year|NN person|NN bulk|NN cell|NN loss|NN week|NN infection|NN mucosa|NN majority|NN lymphocyte|NN body|NN reason|NN loss|NN cell|NN majority|NN cell|NN protein|NN access|NN cell|NN fraction|NN cell|NN change|NN protein|NN chromosome|NN infection|NN 
+cell|NN infection|NN response|NN infection|NN phase|NN 
+cell|NN tissue|NN replication|NN state|NN activation|NN phase|NN activation|NN activation|NN state|NN cell|NN release|NN result|NN activity|NN gene|NN product|NN response|NN replication|NN 
+breakdown|NN surveillance|NN system|NN barrier|NN depletion|NN cell|NN phase|NN disease|NN diagnosis|NN article|NN diagnosis|NN hiv/aids|DS graph|NN line|NN 
+move|NN right|NN left|NN rise|NN middle|NN 
+line|NN move|NN zero|NN graph|NN relationship|NN copy|NN load|NN cell|NN count|NN course|NN hiv/aids|DS 
+copy|NN plasma|NN day|NN exposure|NN test|NN blood|NN test|NN day|NN antibody|NN test|NN test|NN gen|NN antibody|NN antigen|NN test|NN gen|NN 
+hiv/aids|DS laboratory|NN test|NN presence|NN sign|NN symptom|NN screen|NN united|NN states|NN service|NN task|NN force|NN people|NN year|NN year|NN age|NN women|NN test|NN risk|NN illness|NN area|NN world|NN carrier|NN stage|NN disease|NN hiv/aids|DS test|NN 
+people|NN antibody|NN week|NN infection|NN diagnosis|NN antigen|NN result|NN antibody|NN test|NN antibody|NN 
+antibody|NN test|NN children|NN month|NN due|NN presence|NN antibody|NN hiv/aids|DS test|NN test|NN antigen|NN world|NN access|NN test|NN place|NN symptom|NN child|NN antibody|NN test|NN population|NN status|NN men|NN women|NN country|NN increase|NN year|NN 
+stage|NN system|NN disease|NN surveillance|NN purpose|NN disease|NN stage|NN system|NN hiv/aids|DS disease|NN classification|NN system|NN hiv/aids|DS classification|NN system|NN country|NN 
+stage|NN system|NN laboratory|NN test|NN condition|NN country|NN guide|NN management|NN 
+difference|NN system|NN comparison|NN purpose|NN 
+world|NN health|NN organization|NN definition|NN hiv/aids|DS classification|NN time|NN version|NN system|NN category|NN 
+hiv/aids|DS syndrome|NN stage|NN hiv/aids|DS cell|NN count|NN count|NN blood|NN lymph|NN node|NN enlargement|NN stage|NN symptom|NN mucocutaneous|NN manifestation|NN tract|NN infection|NN 
+count|NN stage|NN symptom|NN diarrhea|DT month|NN infection|NN tuberculosis|DS lung|NN count|NN stage|NN hiv/aids|DS symptom|NN toxoplasmosis|NN brain|NN candidiasis|NN trachea|NN lung|NN sarcoma|NN 
+united|NN states|NN center|NN disease|NN control|NN prevention|NN classification|NN system|NN system|NN hiv/aids|DS count|NN symptom|NN infection|NN group|NN year|NN age|NN 
+stage|NN time|NN test|NN day|NN test|NN 
+stage|NN count|NN 
+hiv/aids|DS condition|NN 
+stage|NN count|NN hiv/aids|DS condition|NN 
+stage|NN count|NN 
+hiv/aids|DS condition|NN 
+information|NN classification|NN 
+surveillance|NN purpose|NN hiv/aids|DS diagnosis|NN treatment|NN cell|NN count|NN rise|NN blood|NN hiv/aids|DS illness|NN prevention|NN article|NN prevention|NN hiv/aids|DS run|NN build|NN number|NN sign|NN hiv/aids|DS prevention|NN hiv/aids|DS clinic|NN contact|NN 
+use|NN risk|NN transmission|NN term|NN couple|NN person|NN rate|NN hiv/aids|DS year|NN evidence|NN level|NN protection|NN application|NN gel|NN inhibitor|NN sex|NN infection|NN rate|NN women|NN contrast|NN use|NN risk|NN transmission|NN tendency|NN irritation|NN 
+acquisition|NN men|NN month|NN study|NN world|NN health|NN organization|NN un|NN hiv/aids|DS circumcision|NN method|NN transmission|NN area|NN rate|NN transmission|NN benefit|NN country|NN men|NN sex|NN men|NN antiviral|NN society|NN male|NN option|NN men|NN sex|NN men|NN expert|NN perception|NN vulnerability|NN men|NN behavior|NN effect|NN 
+program|NN abstinence|NN risk|NN evidence|NN benefit|NN peer|NN education|NN education|NN school|NN risk|NN behavior|NN minority|NN people|NN practice|NN hiv/aids|DS risk|NN counsel|NN test|NN people|NN behavior|NN use|NN infection|NN 
+treatment|NN people|NN count|NN 
+way|NN hiv/aids|DS partner|NN strategy|NN treatment|NN prevention|NN fold|NN reduction|NN transmission|NN risk|NN prophylaxis|NN dose|NN medication|NN people|NN risk|NN men|NN sex|NN men|NN couple|NN heterosexual|NN drug|NN user|NN study|NN decrease|NN risk|NN person|NN year|NN draft|NN risk|NN 
+precaution|NN health|NN care|NN environment|NN risk|NN drug|NN use|NN risk|NN factor|NN harm|NN reduction|NN strategy|NN program|NN substitution|NN therapy|NN risk|NN 
+course|NN hour|NN exposure|NN blood|NN secretion|NN prophylaxis|NN pep|NN use|NN agent|NN risk|NN hiv/aids|DS injury|NN prevention|NN regimen|NN united|NN states|NN risk|NN 
+pep|NN treatment|NN assault|NN perpetrator|NN status|NN duration|NN treatment|NN week|NN case|NN result|NN effect|NN nausea|ST fatigue|ST distress|NN headache|ST article|NN pregnancy|NN 
+program|NN transmission|NN mother|NN children|NN rate|NN transmission|NN use|NN combination|NN medication|NN pregnancy|NN birth|NN infant|NN bottle|NN replacement|NN feed|NN mother|NN infant|NN month|NN life|NN case|NN provision|NN prophylaxis|NN infant|NN risk|NN transmission|NN country|NN world|NN transmission|NN vaccination|NN article|NN vaccine|NN 
+vaccine|NN hiv/aids|DS vaccine|NN trial|NN date|NN reduction|NN risk|NN transmission|NN hope|NN research|NN community|NN vaccine|NN trial|NN vaccine|NN treatment|NN article|NN management|NN hiv/aids|DS 
+cure|NN vaccine|NN 
+treatment|NN therapy|NN progression|NN disease|NN people|NN income|NN country|NN treatment|NN treatment|NN infection|NN 
+therapy|NN prescription|NN bottle|NN label|NN 
+pill|NN mark|NN side|NN 
+art|NN regime|NN booster|NN 
+option|NN combination|NN cocktail|NN medication|NN type|NN class|NN agent|NN treatment|NN reverse|NN inhibitor|NN nucleoside|NN inhibitor|NN nrtis|NN combination|NN agent|NN protease|NN inhibitor|NN pi|NN regimen|NN effectiveness|NN 
+world|NN health|NN organization|NN united|NN states|NN people|NN age|NN women|NN diagnosis|NN count|NN treatment|NN break|NN holiday|NN people|NN treatment|NN outcome|NN treatment|NN term|NN plasma|NN count|NN level|NN treatment|NN week|NN level|NN check|NN month|NN control|NN criteria|NN treatment|NN people|NN year|NN 
+benefit|NN treatment|NN risk|NN progression|NN hiv/aids|DS risk|NN death|NN world|NN treatment|NN health|NN treatment|NN risk|NN tuberculosis|DS benefit|NN risk|NN transmission|NN disease|NN partner|NN decrease|NN transmission|NN effectiveness|NN treatment|NN part|NN compliance|NN reason|NN access|NN care|NN support|NN illness|NN drug|NN abuse|NN complexity|NN treatment|NN regimen|NN pill|NN number|NN dose|NN frequency|NN effect|NN adherence|NN cost|NN issue|NN medication|NN income|NN country|NN rate|NN adherence|NN country|NN 
+event|NN agent|NN event|NN syndrome|NN mellitus|NN protease|NN inhibitor|NN symptom|NN risk|NN disease|NN treatment|NN effect|NN medication|NN birth_defect|DS women|NN children|NN 
+treatment|NN recommendation|NN children|NN adult|NN 
+world|NN health|NN organization|NN children|NN year|NN age|NN children|NN adult|NN united|NN states|NN guideline|NN children|NN month|NN age|NN year|NN year|NN age|NN infection|NN 
+measure|NN infection|NN people|NN hiv/aids|DS 
+addition|NN disease|NN treatment|NN risk|NN infection|NN adult|NN adolescent|NN therapy|NN evidence|NN tuberculosis|DS set|NN tuberculosis|DS burden|NN therapy|NN skin|NN test|NN vaccination|NN hepatitis|DS people|NN risk|NN infection|NN prophylaxis|NN week|NN age|NN infant|NN mother|NN resource|NN set|NN person|NN count|NN people|NN therapy|NN toxoplasmosis|NN mac|NN measure|NN rate|NN infection|NN vaccination|NN vaccine|NN people|NN hiv/aids|DS evidence|NN benefit|NN diet|NN article|NN nutrition|NN hiv/aids|DS 
+world|NN health|NN organization|NN recommendation|NN nutrient|NN requirement|NN hiv/aids|DS diet|NN 
+intake|NN micronutrient|NN level|NN adult|NN intake|NN vitamin|NN zinc|NN iron|NN effect|NN adult|NN deficiency|NN supplementation|NN people|NN nutrition|NN deficiency|NN system|NN infection|NN evidence|NN benefit|NN morbidity|NN reduction|NN mortality|NN 
+evidence|NN supplementation|NN selenium|NN evidence|NN benefit|NN women|NN supplement|NN outcome|NN mother|NN children|NN mother|NN medication|NN transmission|NN supplement|NN treatment|NN evidence|NN vitamin|NN supplementation|NN children|NN hiv/aids|DS mortality|NN growth|NN medicine|NN 
+people|NN use|NN form|NN medicine|NN effectiveness|NN therapy|NN evidence|NN use|NN medicine|NN evidence|NN use|NN cannabis|NN increase|NN appetite|NN weight_gain|ST death|NN hiv/aids|DS person|NN 
+hiv/aids|DS disease|NN area|NN world|NN prognosis|NN people|NN count|NN load|NN outcome|NN treatment|NN average|NN survival|NN time|NN infection|NN year|NN subtype|NN diagnosis|NN hiv/aids|DS treatment|NN survival|NN range|NN month|NN prevention|NN infection|NN death|NN rate|NN life|NN expectancy|NN adult|NN year|NN population|NN treatment|NN infection|NN prognosis|NN example|NN treatment|NN diagnosis|NN hiv/aids|DS life|NN expectancy|NN year|NN infant|NN year|NN age|NN treatment|NN map|NN world|NN life|NN year|NN hiv/aids|DS inhabitant|NN 
+
+cause|NN death|NN hiv/aids|DS infection|NN cancer|DS result|NN failure|NN system|NN risk|NN cancer|DS count|NN 
+rate|NN disease|NN progression|NN individual|NN number|NN factor|NN person|NN susceptibility|NN function|NN access|NN health|NN care|NN presence|NN strain|NN strain|NN virus|NN 
+tuberculosis|DS cause|NN sickness|NN death|NN hiv/aids|DS present|NN people|NN death|NN risk|NN factor|NN tuberculosis|DS hepatitis|DS disease|NN progression|NN cancer|DS hiv/aids|DS sarcoma|NN hiv/aids|DS lymphoma|NN cancer|DS cancer|DS lymphoma|NN system|NN lymphoma|NN cancer|DS 
+treatment|NN term|NN people|NN disorder|NN osteoporosis|DS neuropathy|NN cancer|DS nephropathy|NN disease|NN condition|NN treatment|NN epidemiology|NN article|NN epidemiology|NN hiv/aids|DS map|NN world|NN land|NN percentage|NN adult|NN country|NN data|NN 
+hiv/aids|DS people|NN number|NN infection|NN year|NN infection|NN population|NN women|NN children|NN death|NN peak|NN 
+region|NN 
+case|NN death|NN region|NN adult|NN population|NN cause|NN death|NN children|NN contrast|NN region|NN women|NN case|NN south|NN population|NN people|NN country|NN world|NN life|NN expectancy|NN country|NN hiv/aids|DS example|NN year|NN transmission|NN south|NN improvement|NN nation|NN access|NN therapy|NN 
+south|NN south|NN east|NN second|NN region|NN case|NN people|NN death|NN case|NN 
+united|NN states|NN people|NN death|NN 
+center|NN disease|NN control|NN prevention|NN infection|NN people|NN hiv/aids|DS epidemic|NN kingdom|NN case|NN death|NN canada|NN case|NN death|NN recognition|NN hiv/aids|DS death|NN prevalence|NN east|NN north|NN east|NN country|NN estimate|NN russia|NN moldova|NN belarus|NN order|NN prevalence|NN history|NN article|NN history|NN hiv/aids|DS discovery|NN text|NN morbidity|NN mortality|NN report|NN newsletter|NN morbidity|NN mortality|NN report|NN hiv/aids|DS 
+hiv/aids|DS june|NN case|NN united|NN states|NN case|NN cluster|NN drug|NN user|NN men|NN cause|NN immunity|NN symptom|NN pneumocystis|NN pneumonia|DS infection|NN people|NN system|NN number|NN men|NN skin_cancer|DS sarcoma|NN ks|NN case|NN ks|NN 
+center|NN disease|NN control|NN prevention|NN task|NN force|NN outbreak|NN 
+day|NN name|NN disease|NN way|NN disease|NN example|NN lymphadenopathy|ST disease|NN discoverer|NN virus|NN sarcoma|NN infection|NN name|NN task|NN force|NN point|NN phrase|NN disease|NN syndrome|NN heroin|NN user|NN homosexual|NN press|NN term|NN grid|NN deficiency|NN hiv/aids|DS community|NN term|NN grid|NN term|NN hiv/aids|DS meet|NN disease|NN hiv/aids|DS 
+research|NN group|NN novel|NN retrovirus|NN people|NN hiv/aids|DS find|NN issue|NN journal|NN science|NN virus|NN group|NN person|NN hiv/aids|DS shape|NN group|NN 
+group|NN virus|NN 
+time|NN group|NN virus|NN person|NN swell|NN lymph|NN node|NN neck|NN weakness|ST characteristic|NN symptom|NN hiv/aids|DS 
+report|NN group|NN colleague|NN core|NN protein|NN virus|NN 
+group|NN virus|NN virus|NN origin|NN primate|NN source|NN left|NN right|NN monkey|NN source|NN mangabey|NN source|NN chimpanzee|NN source|NN 
+primate|NN human|NN century|NN evolution|NN virus|NN chimpanzee|NN chimpanzee|NN pan|NN troglodytes|NN relative|NN virus|NN mangabey|NN world|NN monkey|NN live|NN west|NN world|NN monkey|NN owl|NN monkey|NN infection|NN fusion|NN resistance|NN gene|NN barrier|NN occasion|NN rise|NN group|NN virus|NN 
+evidence|NN human|NN activity|NN vendor|NN virus|NN system|NN week|NN infection|NN 
+transmission|NN virus|NN individual|NN individual|NN succession|NN time|NN transmission|NN rate|NN population|NN presence|NN transmission|NN channel|NN century|NN 
+transmission|NN channel|NN virus|NN human|NN spread|NN society|NN time|NN cross|NN 
+study|NN virus|NN ancestor|NN group|NN proponent|NN date|NN link|NN epidemic|NN emergence|NN colonialism|NN growth|NN city|NN change|NN degree|NN promiscuity|NN spread|NN prostitution|NN frequency|NN ulcer|NN disease|NN syphilis|DS city|NN transmission|NN rate|NN intercourse|NN circumstance|NN fold|NN partner|NN infection|NN ulcer|NN 
+city|NN prevalence|NN prostitution|NN ulcer|NN degree|NN resident|NN prostitute|NN resident|NN city|NN syphilis|DS 
+view|NN practice|NN world|NN war|NN reuse|NN use|NN syringe|NN vaccination|NN antibiotic|NN treatment|NN campaign|NN vector|NN virus|NN human|NN spread|NN 
+case|NN date|NN case|NN hiv/aids|DS wake|NN independence|NN nation|NN expert|NN technician|NN world|NN gap|NN elite|NN country|NN 
+group|NN expert|NN group|NN total|NN country|NN 
+jacques|NN author|NN origin|NN hiv/aids|DS entry|NN point|NN united|NN states|NN atlantic|NN virus|NN united|NN states|NN majority|NN infection|NN individual|NN infection|NN united|NN states|NN time|NN epidemic|NN group|NN men|NN sex|NN men|NN 
+prevalence|NN resident|NN new|NN york|NN city|NN san|NN individual|NN country|NN society|NN culture|NN article|NN discrimination|NN people|NN hiv/aids|DS male|NN hand|NN rest|NN shoulder|NN camera|NN white|NN poster|NN child|NN school|NN 
+hiv/aids|DS stigma|NN world|NN variety|NN way|NN ostracism|NN rejection|NN discrimination|NN avoidance|NN people|NN test|NN consent|NN protection|NN confidentiality|NN violence|NN individual|NN people|NN quarantine|NN individual|NN violence|NN fear|NN violence|NN people|NN test|NN result|NN treatment|NN illness|NN death|NN sentence|NN spread|NN 
+hiv/aids|DS stigma|NN category|NN 
+hiv/aids|DS reflection|NN fear|NN apprehension|NN illness|NN hiv/aids|DS use|NN hiv/aids|DS attitude|NN group|NN disease|NN courtesy|NN hiv/aids|DS people|NN issue|NN hiv/aids|DS people|NN 
+hiv/aids|DS stigma|NN conjunction|NN homosexuality|NN bisexuality|NN promiscuity|NN prostitution|NN drug|NN use|NN 
+country|NN association|NN hiv/aids|DS homosexuality|NN bisexuality|NN association|NN level|NN prejudice|NN attitude|NN association|NN hiv/aids|DS behavior|NN sex|NN men|NN mode|NN spread|NN transmission|NN 
+part|NN reform|NN marriage|NN population|NN legislation|NN people|NN hiv/aids|DS china|NN 
+library|NN medicine|NN exhibition|NN hiv/aids|DS politics|NN culture|NN research|NN government|NN response|NN story|NN people|NN hiv/aids|DS activist|NN impact|NN article|NN impact|NN hiv/aids|DS cost|NN treatment|NN graph|NN number|NN line|NN fall|NN line|NN change|NN life|NN expectancy|NN country|NN 
+hiv/aids|DS economics|NN individual|NN country|NN product|NN country|NN lack|NN capital|NN nutrition|NN health|NN care|NN medicine|NN number|NN people|NN hiv/aids|DS complication|NN 
+hiv/aids|DS orphan|NN grandparent|NN 
+work|NN treatment|NN hiv/aids|DS people|NN worker|NN 
+unemployment|NN people|NN hiv/aids|DS memory|NN problem|NN isolation|NN 
+employment|NN sense|NN dignity|NN confidence|NN quality|NN life|NN people|NN hiv/aids|DS 
+treatment|NN people|NN hiv/aids|DS work|NN chance|NN person|NN hiv/aids|DS quality|NN evidence|NN 
+adult|NN hiv/aids|DS population|NN turn|NN resource|NN expenditure|NN education|NN health|NN service|NN hiv/aids|DS pressure|NN state|NN finance|NN growth|NN economy|NN 
+growth|NN tax|NN base|NN effect|NN expenditure|NN train|NN worker|NN pay|NN care|NN hiv/aids|DS orphan|NN 
+increase|NN adult|NN mortality|NN responsibility|NN blame|NN family|NN government|NN care|NN orphan|NN 
+household|NN level|NN hiv/aids|DS loss|NN income|NN spend|NN 
+study|NN household|NN person|NN hiv/aids|DS expense|NN household|NN 
+expenditure|NN income|NN education|NN family|NN investment|NN religion|NN hiv/aids|DS article|NN religion|NN hiv/aids|DS 
+topic|NN religion|NN hiv/aids|DS year|NN authority|NN opposition|NN use|NN approach|NN spread|NN hiv/aids|DS report|NN health|NN expert|NN church|NN hiv/aids|DS crisis|NN change|NN re-emphasis|NN fidelity|NN marriage|NN abstinence|NN outside|NN 
+organization|NN prayer|NN hiv/aids|DS 
+prayer|NN hiv/aids|DS study|NN health|NN people|NN medication|NN advice|NN pastor|NN number|NN death|NN synagogue|NN church|NN nation|NN anoint|NN water|NN god|NN group|NN people|NN medication|NN media|NN portrayal|NN article|NN media|NN portrayal|NN hiv/aids|DS 
+case|NN hiv/aids|DS rock|NN actor|NN life|NN virus|NN year|NN 
+casualty|NN hiv/aids|DS year|NN nicholas|NN politician|NN son|NN minister|NN virus|NN life|NN rock|NN star|NN lead|NN singer|NN band|NN queen|NN hiv/aids|DS illness|NN diagnosis|NN day|NN case|NN virus|NN tennis|NN player|NN 
+august|NN virus|NN blood|NN transfusion|NN heart|NN surgery|NN 
+test|NN hour|NN diagnosis|NN hiv/aids|DS public|NN diagnosis|NN result|NN age|NN 
+therese|NN photograph|NN activist|NN hiv/aids|DS family|NN 
+life|NN magazine|NN photo|NN image|NN hiv/aids|DS epidemic|NN 
+photo|NN life|NN magazine|NN winner|NN world|NN press|NN photo|NN notoriety|NN color|NN advertise|NN campaign|NN sex|NN women|NN diagnosis|NN 
+complication|NN hiv/aids|DS murder|NN life|NN transmission|NN article|NN transmission|NN 
+transmission|NN infection|NN person|NN virus|NN 
+country|NN jurisdiction|NN area|NN united|NN states|NN law|NN transmission|NN exposure|NN law|NN 
+article|NN hiv/aids|DS discredit|NN hiv/aids|DS origin|NN theory|NN 
+misconception|NN hiv/aids|DS 
+hiv/aids|DS contact|NN intercourse|NN virgin|NN hiv/aids|DS men|NN drug|NN user|NN 
+public|NN kiss|NN glass|NN spit|NN toilet|NN seat|NN cough|ST misconception|NN act|NN intercourse|NN men|NN hiv/aids|DS discussion|NN homosexuality|NN school|NN rate|NN hiv/aids|DS 
+group|NN individual|NN connection|NN hiv/aids|DS existence|NN validity|NN test|NN treatment|NN method|NN claim|NN hiv/aids|DS community|NN impact|NN south|NN government|NN embrace|NN hiv/aids|DS response|NN country|NN hiv/aids|DS epidemic|NN death|NN hiv/aids|DS 
+conspiracy|NN theory|NN scientist|NN 
+operation|NN measure|NN operation|NN claim|NN united|NN states|NN hiv/aids|DS 
+survey|NN number|NN people|NN claim|NN research|NN article|NN hiv/aids|DS research|NN 
+hiv/aids|DS research|NN research|NN treat|NN cure|NN hiv/aids|DS research|NN nature|NN agent|NN hiv/aids|DS disease|NN 
+government|NN research|NN institution|NN hiv/aids|DS research|NN 
+research|NN health|NN intervention|NN sex|NN education|NN drug|NN development|NN research|NN microbicide|NN disease|NN vaccine|NN drug|NN 
+research|NN area|NN topics|NN prophylaxis|NN prophylaxis|NN circumcision|NN 
+health|NN official|NN researcher|NN program|NN picture|NN barrier|NN efficacy|NN treatment|NN prevention|NN standard|NN indicator|NN use|NN indicator|NN focus|NN development|NN organization|NN researcher|NN 

@@ -1,0 +1,163 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN peptic_ulcer_disease|DS name|NN peptic_ulcer_disease|DS peptic_ulcer_disease|DS peptic_ulcer_disease|DS peptic_ulcer_disease|DS peptic_ulcer_disease|DS peptic_ulcer_disease|DS surgery|NN symptom|NN pain|ST vomit|NN weight_loss|ST appetite|NN complication|NN perforation|NN blockage|NN stomach|NN cause|NN drug|NN tobacco|NN smoke|NN disease|NN method|NN symptom|NN endoscopy|NN barium|NN swallow|NN diagnosis|NN stomach_cancer|DS heart|NN disease|NN inflammation|NN stomach|NN line|NN inflammation|NN treatment|NN smoke|NN nsaids|NN stop|NN alcohol|NN medication|NN proton|NN pump|NN inhibitor|NN blocker|NN antibiotics|NN frequency|NN death|NN 
+peptic_ulcer_disease|DS peptic_ulcer_disease|DS break|NN line|NN stomach|NN part|NN intestine|NN esophagus|NN ulcer|NN stomach|NN peptic_ulcer_disease|DS part|NN intestine|NN peptic_ulcer_disease|DS symptom|NN peptic_ulcer_disease|DS night|NN pain|ST pain|ST peptic_ulcer_disease|DS pain|ST pain|ST burn|NN ache|NN symptom|NN vomit|NN weight_loss|ST appetite|NN people|NN symptom|NN complication|NN perforation|NN blockage|NN stomach|NN people|NN 
+cause|NN bacteria|NN drug|NN nsaids|NN cause|NN tobacco|NN smoke|NN stress|NN illness|NN disease|NN syndrome|NN disease|NN liver|NN cirrhosis|DS people|NN effect|NN nsaids|NN diagnosis|NN present|NN symptom|NN confirmation|NN endoscopy|NN barium|NN swallow|NN blood|NN antibody|NN urea|NN breath|NN test|NN stool|NN sign|NN bacteria|NN biopsy|NN stomach|NN condition|NN symptom|NN stomach_cancer|DS heart|NN disease|NN inflammation|NN stomach|NN line|NN inflammation|NN 
+diet|NN role|NN ulcer|NN treatment|NN stop|NN smoke|NN nsaids|NN stop|NN alcohol|NN medication|NN decrease|NN stomach|NN acid|NN medication|NN decrease|NN acid|NN proton|NN pump|NN inhibitor|NN blocker|NN week|NN treatment|NN combination|NN medication|NN resistance|NN treatment|NN ulcer|NN endoscopy|NN surgery|NN case|NN 
+peptic_ulcer_disease|DS population|NN ulcer|NN people|NN people|NN peptic_ulcer_disease|DS point|NN life|NN death|NN death|NN description|NN peptic_ulcer_disease|DS princess|NN peptic_ulcer_disease|DS barry|NN robin|NN warren|NN century|NN discovery|NN prize|NN content|NN 
+sign|NN symptom|NN complication|NN cause|NN nsaids|NN stress|NN diet|NN diagnosis|NN classification|NN appearance|NN appearance|NN diagnosis|NN prevention|NN management|NN therapy|NN nsaids|NN ulcer|NN epidemiology|NN history|NN note|NN reference|NN link|NN 
+sign|NN symptom|NN peptic_ulcer_disease|DS peptic_ulcer_disease|DS stage|NN 
+sign|NN symptom|NN peptic_ulcer_disease|DS 
+pain|ST mealtime|NN 
+case|NN peptic_ulcer_disease|DS pain|ST hour|NN meal|NN bloat|NN fullness|NN rush|NN saliva|NN episode|NN regurgitation|NN acid|NN esophagus|NN reflux|NN disease|NN nausea|ST vomit|NN loss|NN appetite|NN weight_loss|ST vomit|NN blood|NN peptic_ulcer_disease|DS damage|NN esophagus|NN vomit|NN 
+tarry|NN presence|NN iron|NN ulcer|NN perforation|NN peritonitis|NN stab|NN pain|ST surgery|NN 
+history|NN heartburn|ST reflux|NN disease|NN use|NN form|NN medication|NN suspicion|NN peptic_ulcer_disease|DS 
+medicine|NN peptic_ulcer_disease|DS nsaids|NN drug|NN 
+people|NN age|NN week|NN symptom|NN odd|NN peptic_ulcer_disease|DS investigation|NN 
+time|NN symptom|NN relation|NN meal|NN peptic_ulcer_disease|DS peptic_ulcer_disease|DS pain|ST meal|NN nausea|ST vomit|NN acid|NN production|NN food|NN stomach|NN 
+pain|ST peptic_ulcer_disease|DS hunger|NN meal|NN night|NN pain|ST 
+symptom|NN peptic_ulcer_disease|DS location|NN ulcer|NN person|NN age|NN 
+ulcer|NN result|NN pain|ST day|NN week|NN wane|NN children|NN symptom|NN complication|NN 
+feel|NN stomach|NN area|NN minute|NN hour|NN ulcer|NN 
+pain|ST hunger|NN indigestion|ST heartburn|ST 
+pain|ST ulcer|NN stomach|NN acid|NN contact|NN area|NN 
+pain|ST peptic_ulcer_disease|DS navel|NN sternum|NN minute|NN hour|NN stomach|NN 
+pain|ST night|NN food|NN buffer|NN stomach|NN acid|NN medication|NN peptic_ulcer_disease|DS symptom|NN sufferer|NN complication|NN 
+bleed|NN complication|NN 
+bleed|NN death|NN rate|NN hole|NN wall|NN tract|NN peptic_ulcer_disease|DS consequence|NN 
+erosion|NN wall|NN ulcer|NN spillage|NN stomach|NN content|NN cavity|NN 
+surface|NN stomach|NN peritonitis|NN peritonitis|NN 
+citation|NN sign|NN pain|ST syndrome|NN 
+wall|NN perforation|NN due|NN involvement|NN artery|NN posterior|NN part|NN duodenum|NN 
+citation|NN death|NN rate|NN case|NN penetration|NN form|NN perforation|NN hole|NN ulcer|NN organ|NN liver|NN outlet|NN obstruction|NN narrow|NN canal|NN scare|NN swell|NN antrum|NN duodenum|NN peptic_ulcer_disease|DS 
+person|NN vomit|NN cancer|DS diagnosis|NN biopsy|NN factor|NN time|NN stomach_cancer|DS ulcer|NN 
+cause|NN 
+factor|NN peptic_ulcer_disease|DS 
+urease|NN environment|NN survival|NN 
+blood|NN group|NN antigen|NN protein|NN epithelium|NN 
+bacterium|NN virulence|NN factor|NN cause|NN stomach|NN inflammation|NN 
+gene|NN cytotoxin|NN mechanism|NN peptic_ulcer_disease|DS 
+stomach|NN inflammation|NN stomach|NN acid|NN secretion|NN stomach|NN acid|NN secretion|NN 
+cell|NN acid|NN secretion|NN 
+product|NN hydrogen|NN potassium|NN peptide|NN neuron|NN secretion|NN acid|NN production|NN cell|NN gastrin|NN secretion|NN 
+reduction|NN acid|NN production|NN cause|NN peptic_ulcer_disease|DS hand|NN acid|NN production|NN antrum|NN peptic_ulcer_disease|DS infection|NN case|NN 
+case|NN production|NN gastrin|NN production|NN histamine|NN secretion|NN cell|NN acid|NN production|NN 
+environment|NN antrum|NN metaplasia|NN cell|NN peptic_ulcer_disease|DS 
+response|NN bacteria|NN emergence|NN peptic_ulcer_disease|DS 
+gene|NN beta|NN gene|NN necrosis|NN factor|NN alpha|NN role|NN inflammation|NN nsaids|NN 
+drug|NN aspirin|NN risk|NN peptic_ulcer_disease|DS time|NN 
+risk|NN peptic_ulcer_disease|DS time|NN aspirin|NN user|NN 
+risk|NN increase|NN nsaids|NN inhibitor|NN 
+mucosa|NN acid|NN layer|NN mucus|NN secretion|NN 
+nsaids|NN block|NN function|NN production|NN 
+nsaids|NN stomach|NN mucosa|NN cell|NN proliferation|NN blood|NN flow|NN bicarbonate|NN mucus|NN secretion|NN integrity|NN mucosa|NN 
+type|NN nsaids|NN drug|NN mucosa|NN 
+probability|NN peptic_ulcer_disease|DS ulcer|NN heal|NN peptic_ulcer_disease|DS stress|NN 
+stress|NN health|NN problem|NN treatment|NN care|NN unit|NN cause|NN peptic_ulcer_disease|DS stress|NN ulcer|NN 
+life|NN stress|NN cause|NN ulcer|NN case|NN role|NN effect|NN stress|NN physiology|NN risk|NN cause|NN use|NN diet|NN 
+factor|NN spice|NN consumption|NN cause|NN ulcer|NN century|NN importance|NN caffeine|NN coffee|NN cause|NN ulcer|NN effect|NN study|NN alcohol|NN consumption|NN risk|NN infection|NN increase|NN risk|NN 
+infection|NN increase|NN comparison|NN risk|NN 
+cause|NN peptic_ulcer_disease|DS drug|NN disturbance|NN cytomegalovirus|NN radiotherapy|NN disease|NN vasculitis|NN syndrome|NN ulcer|NN 
+smoke|NN risk|NN peptic_ulcer_disease|DS diagnosis|NN image|NN peptic_ulcer_disease|DS biopsy|NN cancer|DS 
+diagnosis|NN symptom|NN 
+stomach|NN pain|ST signal|NN peptic_ulcer_disease|DS 
+case|NN doctor|NN ulcer|NN test|NN symptom|NN diagnosis|NN 
+peptic_ulcer_disease|DS muscularis|NN minimum|NN level|NN submucosa|NN contrast|NN erosion|NN muscularis|NN 
+confirmation|NN diagnosis|NN help|NN test|NN endoscopy|NN barium|NN contrast|NN 
+test|NN symptom|NN week|NN treatment|NN person|NN age|NN symptom|NN weight_loss|ST stomach_cancer|DS symptom|NN 
+ulcer|NN treatment|NN person|NN ulcer|NN ulcer|NN place|NN doctor|NN condition|NN stomach|NN acid|NN 
+form|NN endoscopy|NN gastroscopy|NN people|NN peptic_ulcer_disease|DS 
+gold|NN standard|NN diagnosis|NN peptic_ulcer_disease|DS identification|NN location|NN severity|NN ulcer|NN 
+ulcer|NN diagnosis|NN 
+reason|NN blood|NN test|NN peptic_ulcer_disease|DS diagnosis|NN inability|NN exposure|NN bacteria|NN infection|NN 
+result|NN blood|NN test|NN person|NN drug|NN antibiotics|NN inhibitor|NN 
+diagnosis|NN 
+breath|NN test|NN culture|NN biopsy|NN specimen|NN 
+lab|NN culture|NN detection|NN urease|NN activity|NN biopsy|NN specimen|NN urease|NN test|NN measurement|NN antibody|NN level|NN blood|NN 
+antibody|NN warrant|NN eradication|NN therapy|NN stool|NN antigen|NN test|NN examination|NN stain|NN biopsy|NN 
+breath|NN test|NN carbon|NN exam|NN person|NN liquid|NN carbon|NN part|NN substance|NN bacteria|NN 
+hour|NN person|NN blow|NN bag|NN 
+person|NN breath|NN sample|NN carbon|NN dioxide|NN 
+test|NN advantage|NN response|NN treatment|NN bacteria|NN 
+possibility|NN cause|NN ulcer|NN malignancy|NN cancer|DS mind|NN 
+ulcer|NN curvature|NN stomach|NN consequence|NN infection|NN 
+peptic_ulcer_disease|DS air|NN tract|NN air|NN cavity|NN air|NN 
+ga|NN cavity|NN 
+person|NN chest|NN ga|NN position|NN diaphragm|NN 
+ga|NN cavity|NN chest|NN omen|NN peptic_ulcer_disease|DS 
+stomach|NN location|NN 
+peptic_ulcer_disease|DS ulcer|NN stomach|NN peptic_ulcer_disease|DS diverticulum|NN ulcer|NN 
+type|NN body|NN stomach|NN curve|NN angularis|NN locus|NN 
+acid|NN hypersecretion|NN 
+type|NN body|NN combination|NN peptic_ulcer_disease|DS 
+type|NN channel|NN pylorus|NN 
+type|NN ulcer|NN type|NN stomach|NN 
+use|NN nsaids|NN 
+appearance|NN peptic_ulcer_disease|DS antrum|NN gastrectomy|NN specimen|NN 
+peptic_ulcer_disease|DS curvature|NN stomach|NN 
+ulcer|NN round|NN defect|NN hole|NN diameter|NN base|NN border|NN 
+border|NN form|NN peptic_ulcer_disease|DS border|NN form|NN 
+form|NN cancer|DS border|NN 
+mucosa|NN fold|NN consequence|NN scare|NN 
+appearance|NN peptic_ulcer_disease|DS 
+peptic_ulcer_disease|DS perforation|NN muscularis|NN lamina|NN aggression|NN 
+margin|NN gastritis|DS 
+phase|NN base|NN ulcer|NN zone|NN necrosis|NN exudate|NN granulation|NN tissue|NN tissue|NN 
+base|NN ulcer|NN vessel|NN wall|NN thrombosis|DS diagnosis|NN 
+stomach_cancer|DS reflux|NN disease|NN congestion|NN infarction|NN pain|ST pleurisy|DS artery|NN syndrome|NN 
+prevention|NN peptic_ulcer_disease|DS nsaids|NN risk|NN proton|NN pump|NN inhibitor|NN antagonist|NN nsaids|NN inhibitor|NN type|NN rate|NN ulcer|NN nsaids|NN agent|NN peptic_ulcer_disease|DS prevention|NN evidence|NN antagonist|NN stomach|NN bleed|NN take|NN nsaids|NN peptic_ulcer_disease|DS property|NN abortion|NN distress|NN use|NN risk|NN choice|NN dose|NN aspirin|NN management|NN peptic_ulcer_disease|DS treatment|NN pharmacology|NN drug|NN therapy|NN 
+diagnosis|NN line|NN treatment|NN regimen|NN 
+treatment|NN regimen|NN day|NN 
+effectiveness|NN 
+rate|NN eradication|NN dosage|NN duration|NN treatment|NN day|NN 
+therapy|NN 
+therapy|NN eradication|NN rate|NN 
+resistance|NN rate|NN area|NN usage|NN 
+bismuth|NN therapy|NN bismuth|NN citrate|NN day|NN 
+bismuth|NN therapy|NN eradication|NN rate|NN second|NN line|NN therapy|NN line|NN regimen|NN therapy|NN 
+risk|NN ulcer|NN nsaids|NN nsaids|NN ulcer|NN 
+nsaids|NN ulcer|NN week|NN nsaids|NN introduction|NN proton|NN pump|NN inhibitor|NN 
+peptic_ulcer_disease|DS fluid|NN replacement|NN crystalloid|NN volume|NN blood|NN vessel|NN 
+blood|NN transfusion|NN rate|NN death|NN 
+score|NN patient|NN hospital|NN outpatient|NN 
+stomach|NN suppression|NN 
+stomach|NN platelet|NN place|NN clot|NN lysis|NN 
+acid|NN agent|NN peptic_ulcer_disease|DS 
+therapy|NN epinephrine|NN injection|NN 
+treatment|NN stomach|NN vessel|NN adherent|NN clot|NN 
+endoscopy|NN patient|NN hospital|NN discharge|ST 
+agent|NN endoscopy|NN view|NN 
+dose|NN endoscopy|NN 
+dose|NN bolus|NN dose|NN infusion|NN hour|NN hour|NN 
+word|NN infusion|NN day|NN 
+oral|NN risk|NN peptic_ulcer_disease|DS 
+shock|NN ulcer|NN size|NN chance|NN treatment|NN 
+surgery|NN embolism|NN case|NN 
+rate|NN complication|NN surgery|NN stomach|NN site|NN endoscopy|NN 
+rate|NN rate|NN death|NN surgery|NN 
+expert|NN opinion|NN ratio|NN 
+aspirin|NN user|NN treatment|NN bleed|NN peptic_ulcer_disease|DS time|NN risk|NN time|NN risk|NN death|NN week|NN post|NN resumption|NN aspirin|NN 
+agent|NN blood|NN vessel|NN agent|NN risk|NN thrombosis|DS 
+treatment|NN plasma|NN vitamin|NN prothrombin|NN complex|NN concentrate|NN factor|NN effect|NN 
+dose|NN vitamin|NN time|NN stomach|NN bleed|NN 
+factor|NN bleed|NN risk|NN anticoagulant|NN 
+case|NN bleed|NN charcoal|NN hour|NN antidote|NN choice|NN 
+risk|NN risk|NN mortality|NN resumption|NN epidemiology|NN death|NN peptic_ulcer_disease|DS person|NN life|NN year|NN peptic_ulcer_disease|DS inhabitant|NN data|NN 
+lifetime|NN risk|NN peptic_ulcer_disease|DS rate|NN year|NN death|NN death|NN 
+country|NN percentage|NN people|NN infection|NN age|NN age|NN age|NN age|NN 
+prevalence|NN world|NN country|NN population|NN country|NN maximum|NN ratio|NN 
+infection|NN decrease|NN country|NN 
+transmission|NN food|NN saliva|NN kiss|NN share|NN food|NN utensil|NN 
+peptic_ulcer_disease|DS effect|NN morbidity|NN mortality|NN decade|NN century|NN trend|NN point|NN fall|NN incidence|NN 
+reason|NN rate|NN peptic_ulcer_disease|DS development|NN medication|NN acid|NN use|NN drug|NN nsaids|NN history|NN peptic_ulcer_disease|DS 
+practitioner|NN people|NN peptic_ulcer_disease|DS antibiotics|NN bacteria|NN cause|NN disease|NN 
+scientist|NN robin|NN warren|NN barry|NN 
+factor|NN ulcer|NN paper|NN warren|NN peptic_ulcer_disease|DS gastritis|DS colonization|NN bacterium|NN stress|NN food|NN 
+hypothesis|NN act|NN dish|NN culture|NN organism|NN person|NN ulcer|NN day|NN gastritis|DS 
+symptom|NN week|NN antibiotics|NN bacteria|NN urge|NN wife|NN halitosis|ST symptom|NN infection|NN experiment|NN journal|NN article|NN journal|NN 
+center|NN disease|NN control|NN prevention|NN government|NN agency|NN institution|NN industry|NN education|NN campaign|NN health|NN care|NN provider|NN consumer|NN link|NN ulcer|NN 
+campaign|NN new|NN ulcer|NN infection|NN health|NN money|NN information|NN 
+institute|NN prize|NN physiology|NN medicine|NN 
+collaborator|NN 
+warren|NN discovery|NN bacterium|NN role|NN gastritis|DS peptic_ulcer_disease|DS 
+professor|NN research|NN biology|NN lab|NN western|NN 
+mastic|NN gum|NN tree|NN resin|NN extract|NN bacteria|NN study|NN effect|NN mastic|NN gum|NN level|NN note|NN 
+study|NN factor|NN ulcer|NN heal|NN alcohol|NN intake|NN ulcer|NN heal|NN 

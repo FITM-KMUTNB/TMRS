@@ -173,7 +173,7 @@ treatment psychosis diagnosis schizophrenia disorder substance intoxication
 treatment disorder medication symptom psychosis day 
 choice use benefit risk cost class antipsychotics evidence symptom result side effect antipsychotics symptom relapse rate dosage response response treatment resistance failure symptom week antipsychotics people treatment drug schizophrenia side effect blood cell count people 
 people antipsychotics side effect 
-people antipsychotics rate side effect atypical weight gain risk syndrome weight gain rate symptom counsel 
+people antipsychotics rate side effect atypical weight_gain risk syndrome weight_gain rate symptom counsel 
 treatment acceptance commitment therapy act treatment psychosis people term life direction intervention article intervention psychosis 
 intervention psychosis observation stage psychosis term outcome approach use approach period intervention term morbidity illness 
 word psychosis literature work 

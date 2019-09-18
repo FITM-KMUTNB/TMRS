@@ -1,8 +1,8 @@
 encyclopedia jump navigation jump search use cancer 
 cancer name cancer cancer scan legend 
 effusion lung spine rib aorta spleen kidney liver pronunciation 
-oncology symptom cough weight loss change bowel movement factor tobacco obesity diet lack activity alcohol infection treatment radiation therapy surgery chemotherapy therapy average year survival frequency death 
-cancer group disease cell growth potential part body contrast tumor sign symptom lump cough weight loss change bowel movement symptom cancer cause type cancer affect human 
+oncology symptom cough weight_loss change bowel movement factor tobacco obesity diet lack activity alcohol infection treatment radiation therapy surgery chemotherapy therapy average year survival frequency death 
+cancer group disease cell growth potential part body contrast tumor sign symptom lump cough weight_loss change bowel movement symptom cancer cause type cancer affect human 
 tobacco use cause cancer death obesity diet lack activity drink alcohol factor infection exposure radiation pollutant world cancer infection hepatitis hepatitis papillomavirus infection virus virus factor gene cell change cancer cancer defect person parent cancer sign symptom screen test image biopsy 
 cancer weight alcohol plenty vegetable fruit grain vaccination disease meat sunlight exposure detection screen cancer benefit screen breast_cancer cancer combination radiation therapy surgery chemotherapy therapy pain symptom management part care care people disease chance survival type cancer extent disease start treatment children diagnosis survival rate world average cancer united states survival rate 
 people cancer case year skin_cancer melanoma death death type cancer male lung_cancer prostate_cancer cancer stomach_cancer female type breast_cancer cancer lung_cancer cancer skin_cancer melanoma cancer case year case children leukemia brain_tumor lymphoma children year age cancer risk cancer increase age cancer country rate people age change world cost cancer year cancer media video summary script content 
@@ -28,7 +28,7 @@ lung cough blood bowel anemia bleed bladder blood urine uterus
 pain cancer swell 
 cancer buildup fluid chest abdomen symptom 
 symptom effect spread 
-weight loss fever fatigue change skin disease cancer liver kidney fever 
+weight_loss fever fatigue change skin disease cancer liver kidney fever 
 cancer group symptom syndrome 
 example appearance myasthenia gravis thymoma lung_cancer article 
 cancer site spread spread lymph node spread blood site metastasis 

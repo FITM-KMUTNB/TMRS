@@ -2,7 +2,7 @@ encyclopedia jump navigation jump search constipation name constipation constipa
 circle area matter stool bowel ga 
 symptom bowel movement pain bloat complication fissure impaction cause movement stool colon bowel syndrome disease gluten sensitivity floor disorder factor disease disorder colon cancer bowel disease medication treatment drink fluid exercise laxative bulk agent agent stool softener lubricant type frequency 
 constipation bowel movement stool symptom pain bloat feel bowel movement complication constipation fissure impaction frequency bowel movement adult day week baby bowel movement day children day 
-constipation cause cause movement stool colon bowel syndrome floor disorder disease hypothyroidism disease disease gluten sensitivity colon cancer bowel disease constipation antacid calcium channel blocker anticholinergics constipation constipation weight loss blood stool history bowel disease colon cancer person family onset 
+constipation cause cause movement stool colon bowel syndrome floor disorder disease hypothyroidism disease disease gluten sensitivity colon cancer bowel disease constipation antacid calcium channel blocker anticholinergics constipation constipation weight_loss blood stool history bowel disease colon cancer person family onset 
 treatment constipation cause duration measure fluid exercise laxative bulk agent agent stool softener lubricant type laxative type treatment case surgery 
 population rate constipation percent people live care home rate constipation percent people united states medication constipation year content 
 definition cause diet condition approach description examination test criteria prevention treatment fiber supplement intervention intervention epidemiology history population children women reference link 
@@ -44,7 +44,7 @@ habit surgery condition constipation
 disease constipation hypothyroidism type cancer bowel syndrome 
 fiber intake amount fluid immobility medication constipation presence constipation culmination symptom cause constipation 
 cause symptom 
-example colon cancer person family history colon cancer fever weight loss sign symptom family history bowel disease age onset change stool nausea vomit symptom weakness numbness difficulty examination 
+example colon cancer person family history colon cancer fever weight_loss sign symptom family history bowel disease age onset change stool nausea vomit symptom weakness numbness difficulty examination 
 examination exam exam 
 exam mass stool burden discomfort 
 examination impression tone rectum 

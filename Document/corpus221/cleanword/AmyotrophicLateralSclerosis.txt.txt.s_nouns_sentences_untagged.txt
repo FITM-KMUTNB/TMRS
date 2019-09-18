@@ -1,6 +1,6 @@
 encyclopedia amyotrophic_lateral_sclerosis jump navigation jump search amyotrophic_lateral_sclerosis 
 use amyotrophic_lateral_sclerosis 
-amyotrophic_lateral_sclerosis name amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis signal part capsule motor cortex diagnosis amyotrophic_lateral_sclerosis specialty symptom muscle muscle weakness complication difficulty breath onset cause method symptom treatment ventilation life expectancy year frequency year 
+amyotrophic_lateral_sclerosis name amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis signal part capsule motor cortex diagnosis amyotrophic_lateral_sclerosis specialty symptom muscle muscle_weakness complication difficulty breath onset cause method symptom treatment ventilation life expectancy year frequency year 
 amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis disease death neuron muscle term motor neuron disease group condition amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis muscle muscle twitch weakness muscle size weakness arm leg difficulty speak people difficulty think behavior people experience pain ability hand swallow 
 cause case factor case person parent case gene mechanism damage motor neuron diagnosis person sign symptom test rule cause 
 cure amyotrophic_lateral_sclerosis goal treatment symptom medication life month ventilation quality length life ventilation survival disease progression feed tube disease people age age case age survival onset death year year failure disease people year rate world united states people people 
@@ -15,7 +15,7 @@ amyotrophic_lateral_sclerosis type motor neuron
 amyotrophic_lateral_sclerosis neuron brain motor neuron cord motor neuron sclerosis motor neuron atrophy motor neuron 
 debate disease variant amyotrophic_lateral_sclerosis 
 amyotrophic_lateral_sclerosis account case amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis weakness arm leg account case amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis weakness muscle speech chew account case classic amyotrophic_lateral_sclerosis prognosis amyotrophic_lateral_sclerosis study amyotrophic_lateral_sclerosis survival year survival rate amyotrophic_lateral_sclerosis survival year survival rate 
-sclerosis account case amyotrophic_lateral_sclerosis motor neuron arm leg people motor neuron sign year symptom onset mean diagnosis prognosis amyotrophic_lateral_sclerosis result decline ability weight loss 
+sclerosis account case amyotrophic_lateral_sclerosis motor neuron arm leg people motor neuron sign year symptom onset mean diagnosis prognosis amyotrophic_lateral_sclerosis result decline ability weight_loss 
 atrophy account case amyotrophic_lateral_sclerosis motor neuron arm leg survival average amyotrophic_lateral_sclerosis cord region time failure death motor neuron sign course case diagnosis classic amyotrophic_lateral_sclerosis variant 
 variant amyotrophic_lateral_sclerosis symptom cord region year amyotrophic_lateral_sclerosis survival 
 example flail arm syndrome flail leg syndrome bulbar amyotrophic_lateral_sclerosis 
@@ -31,13 +31,13 @@ peak age onset amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis case 
 people amyotrophic_lateral_sclerosis amyotrophic_lateral_sclerosis mutation fus prognosis onset age decline survival onset 
 amyotrophic_lateral_sclerosis variant account case amyotrophic_lateral_sclerosis symptom difficulty breath exertion rest symptom 
 male amyotrophic_lateral_sclerosis prognosis amyotrophic_lateral_sclerosis variant study survival year survival year sign symptom 
-disorder muscle weakness atrophy muscle spasm body degeneration motor motor neuron 
+disorder muscle_weakness atrophy muscle spasm body degeneration motor motor neuron 
 individual disorder ability movement bladder bowel function muscle muscle eye movement stage disease 
 dysfunction individual amyotrophic_lateral_sclerosis people amyotrophic_lateral_sclerosis experience change cognition behavior sign dementia phrase gesture apathy loss inhibition feature amyotrophic_lateral_sclerosis language dysfunction executive dysfunction trouble cognition memory symptom amyotrophic_lateral_sclerosis meta-analysis relationship dysfunction disease severity dysfunction survival people amyotrophic_lateral_sclerosis burden part deficit cognition people amyotrophic_lateral_sclerosis experience lability reason amyotrophic_lateral_sclerosis 
-pain symptom people amyotrophic_lateral_sclerosis form pain pain nerve damage spasticity muscle cramp pain mobility muscle weakness example pain amyotrophic_lateral_sclerosis shorten muscle neck pain back_pain shoulder pain pressure ulcer 
+pain symptom people amyotrophic_lateral_sclerosis form pain pain nerve damage spasticity muscle cramp pain mobility muscle_weakness example pain amyotrophic_lateral_sclerosis shorten muscle neck pain back_pain shoulder pain pressure ulcer 
 nerve system mean majority people amyotrophic_lateral_sclerosis hear sight touch smell taste symptom 
-start amyotrophic_lateral_sclerosis symptom symptom amyotrophic_lateral_sclerosis muscle weakness muscle atrophy 
-symptom trouble swallow breath cramp stiffness muscle muscle weakness arm leg speech 
+start amyotrophic_lateral_sclerosis symptom symptom amyotrophic_lateral_sclerosis muscle_weakness muscle atrophy 
+symptom trouble swallow breath cramp stiffness muscle muscle_weakness arm leg speech 
 part body symptom amyotrophic_lateral_sclerosis motor neuron body 
 amyotrophic_lateral_sclerosis symptom arm leg 
 leg people awkwardness walk walk foot ground 
@@ -49,7 +49,7 @@ proportion people experience amyotrophic_lateral_sclerosis muscle support breath
 time people experience difficulty dysphagia speak word 
 symptom motor neuron involvement muscle spasticity gag reflex 
 reflex motor neuron damage 
-symptom motor neuron degeneration muscle weakness atrophy muscle cramp muscle skin 
+symptom motor neuron degeneration muscle_weakness atrophy muscle cramp muscle skin 
 twitch side effect symptom weakness atrophy progression 
 symptom rate progression person person disease region region 
 people hand arm ability food saliva ability cough 
@@ -102,7 +102,7 @@ nerve cell death level calcium stimulation mechanism form amyotrophic_lateral_sc
 motor neuron type neuron capacity type receptor receptor calcium 
 amyotrophic_lateral_sclerosis level amino acid transporter transporter synapse level 
 drug survival amyotrophic_lateral_sclerosis release neuron mechanism effect diagnosis flair signal part capsule diagnosis amyotrophic_lateral_sclerosis 
-test diagnosis amyotrophic_lateral_sclerosis presence motor neuron sign limb diagnosis amyotrophic_lateral_sclerosis symptom sign physician person series test rule disease physician person history examination interval symptom muscle weakness atrophy muscle spasticity number condition use criteria 
+test diagnosis amyotrophic_lateral_sclerosis presence motor neuron sign limb diagnosis amyotrophic_lateral_sclerosis symptom sign physician person series test rule disease physician person history examination interval symptom muscle_weakness atrophy muscle spasticity number condition use criteria 
 diagnosis amyotrophic_lateral_sclerosis el criteria criteria el criteria level certainty cord region lumbar 
 amyotrophic_lateral_sclerosis motor neuron motor neuron sign cord region amyotrophic_lateral_sclerosis sign region amyotrophic_lateral_sclerosis sign region amyotrophic_lateral_sclerosis sign 
 el criteria house criteria amyotrophic_lateral_sclerosis category amyotrophic_lateral_sclerosis category 
@@ -124,7 +124,7 @@ cure amyotrophic_lateral_sclerosis
 management symptom care goal quality life prolong survival care team professional amyotrophic_lateral_sclerosis clinic survival hospitalization quality life survival month decline number people amyotrophic_lateral_sclerosis infusion quality life medication symptom 
 ventilation treatment failure amyotrophic_lateral_sclerosis people function survival month quality life 
 study people function survival benefit people amyotrophic_lateral_sclerosis difficulty ventilation option people amyotrophic_lateral_sclerosis symptom ventilation survival disease progression decline quality life people amyotrophic_lateral_sclerosis ventilation japan north 
-therapy independence range motion stretch exercise therapy activity live equipment speech therapy people amyotrophic_lateral_sclerosis difficulty weight loss malnutrition people amyotrophic_lateral_sclerosis survival quality life difficulty dysphagia change technique 
+therapy independence range motion stretch exercise therapy activity live equipment speech therapy people amyotrophic_lateral_sclerosis difficulty weight_loss malnutrition people amyotrophic_lateral_sclerosis survival quality life difficulty dysphagia change technique 
 feed tube amyotrophic_lateral_sclerosis body weight swallow food water feed tube gastrostomy peg 
 evidence peg tube survival peg insertion intent quality life 
 care amyotrophic_lateral_sclerosis discussion issue people amyotrophic_lateral_sclerosis time preference care intervention procedure 
@@ -140,7 +140,7 @@ disease people amyotrophic_lateral_sclerosis shortness breath activity talk rest
 failure cause death amyotrophic_lateral_sclerosis 
 function people amyotrophic_lateral_sclerosis month start symptom survival 
 person amyotrophic_lateral_sclerosis symptom function measurement capacity detector failure choice symptom difficulty seal mouthpiece 
-person back measure diaphragm weakness inspiratory pressure snip test diaphragm strength muscle weakness amyotrophic_lateral_sclerosis sign symptom failure daytime blood ga analysis oxygen blood carbon dioxide blood daytime blood ga analysis pulse sleep 
+person back measure diaphragm weakness inspiratory pressure snip test diaphragm strength muscle_weakness amyotrophic_lateral_sclerosis sign symptom failure daytime blood ga analysis oxygen blood carbon dioxide blood daytime blood ga analysis pulse sleep 
 ventilation survival 
 trial survival day quality life people amyotrophic_lateral_sclerosis benefit intervention 
 function survival month quality life 
@@ -157,14 +157,14 @@ therapist exercise benefit muscle muscle exhaustion worsen symptom amyotrophic_l
 therapist equipment adaptation amyotrophic_lateral_sclerosis people safety independence activity live 
 people amyotrophic_lateral_sclerosis difficulty speak work pathologist health professional people strategy technique 
 amyotrophic_lateral_sclerosis pathologist use augmentative communication voice amplifier device voice output communication device communication technique head laser pointer alphabet board signal nutrition tube wall abdomen stomach 
-weight loss malnutrition people amyotrophic_lateral_sclerosis survival quality life weight loss amyotrophic_lateral_sclerosis muscle motor neuron death rest energy expenditure food intake 
-difficulty dysphagia people amyotrophic_lateral_sclerosis point course disease cause food intake malnutrition weight loss weight ability people amyotrophic_lateral_sclerosis dysphagia change swallow technique difficulty liquid switch liquid fruit nectar fluid fluid water coffee 
-people amyotrophic_lateral_sclerosis food food head posture evidence diet weight loss survival 
+weight_loss malnutrition people amyotrophic_lateral_sclerosis survival quality life weight_loss amyotrophic_lateral_sclerosis muscle motor neuron death rest energy expenditure food intake 
+difficulty dysphagia people amyotrophic_lateral_sclerosis point course disease cause food intake malnutrition weight_loss weight ability people amyotrophic_lateral_sclerosis dysphagia change swallow technique difficulty liquid switch liquid fruit nectar fluid fluid water coffee 
+people amyotrophic_lateral_sclerosis food food head posture evidence diet weight_loss survival 
 feed tube amyotrophic_lateral_sclerosis body weight swallow food water form tube tube wall abdomen stomach tube tube nose esophagus stomach tube use tube ulcer feed tube gastrostomy peg 
 evidence peg tube capacity drop capacity risk complication 
 study peg insertion people amyotrophic_lateral_sclerosis capacity procedure 
-evidence peg tube survival peg insertion intent quality life nutrition medication intake risk weight loss dehydration anxiety mealtime food intake care 
-care symptom quality life disease amyotrophic_lateral_sclerosis discussion issue people amyotrophic_lateral_sclerosis time preference care intervention procedure aspect measure directive attitude ventilation ventilation feed tube disease course difficulty muscle weakness dysfunction ability care failure preference person amyotrophic_lateral_sclerosis emergency intervention ventilation 
+evidence peg tube survival peg insertion intent quality life nutrition medication intake risk weight_loss dehydration anxiety mealtime food intake care 
+care symptom quality life disease amyotrophic_lateral_sclerosis discussion issue people amyotrophic_lateral_sclerosis time preference care intervention procedure aspect measure directive attitude ventilation ventilation feed tube disease course difficulty muscle_weakness dysfunction ability care failure preference person amyotrophic_lateral_sclerosis emergency intervention ventilation 
 people amyotrophic_lateral_sclerosis family member issue introduction gastrostomy ventilation opportunity subject 
 hospice care care end life amyotrophic_lateral_sclerosis management symptom likelihood death phase amyotrophic_lateral_sclerosis difficulty communicate case people amyotrophic_lateral_sclerosis fear death time 
 people amyotrophic_lateral_sclerosis die day life pain anxiety epidemiology 

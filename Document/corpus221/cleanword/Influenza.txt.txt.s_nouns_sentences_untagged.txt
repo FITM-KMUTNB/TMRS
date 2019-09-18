@@ -20,7 +20,7 @@ united states center disease control prevention summary laboratory test test sen
 influenza illness pneumonia pneumonia symptom trouble breath 
 addition child adult relapse fever danger sign relapse pneumonia 
 influenza presentation confusion syndrome emergency warn sign 
-shortness breath chest pain confusion vomit influenza symptom relapse fever cough pneumonia fever rash 
+shortness breath chest_pain confusion vomit influenza symptom relapse fever cough pneumonia fever rash 
 inability influenza id 
 sign dehydration 
 infant diaper influenza id infant tear 
@@ -209,7 +209,7 @@ variant convention bird influenza influenza swine influenza horse influenza dog 
 cat influenza rhinotracheitis calicivirus infection influenza virus 
 pig horse dog influenza symptom human cough fever loss appetite frequency animal disease infection outbreak influenza seal seal death new coast outbreak pig mortality vaccine poultry influenza 
 vaccine strain part strategy cull attempt outbreak bird influenza 
-influenza symptom bird symptom infection influenza feather reduction egg production weight loss disease symptom diagnosis field track spread influenza laboratory test sample bird 
+influenza symptom bird symptom infection influenza feather reduction egg production weight_loss disease symptom diagnosis field track spread influenza laboratory test sample bird 
 strain poultry symptom mortality form influenza chicken turkey appearance symptom mortality day virus condition farm chicken turkey outbreak loss poultry farmer 
 strain influenza virus type subtype cause influenza influenza bird influenza bird population southeast 
 lineage strain 
@@ -223,6 +223,6 @@ strain virus human person
 case family cluster shanghai cluster girl boy raise possibility transmission 
 point cluster case lab matter information transmission condition contact community outbreak swine influenza 
 pig swine influenza fever lethargy cough difficulty breath appetite case infection abortion 
-mortality virus weight loss growth loss farmer pig pound body weight period transmission influenza virus pig human swine influenza 
+mortality virus weight_loss growth loss farmer pig pound body weight period transmission influenza virus pig human swine influenza 
 case virus century death 
 virus strain swine influenza influenza evidence pig swine influenza transmission pig people virus person person strain reassortment strain human bird pig 

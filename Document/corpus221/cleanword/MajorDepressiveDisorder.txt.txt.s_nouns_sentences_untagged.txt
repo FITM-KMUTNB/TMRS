@@ -12,7 +12,7 @@ person depressive episode mood aspect life inability experience pleasure activit
 people thought feel worthlessness guilt regret helplessness hopelessness case people symptom psychosis 
 symptom delusion hallucination symptom major_depressive_disorder concentration memory feature withdrawal situation activity sex drive irritability thought death suicide 
 pattern person sleep insomnia effect 
-person symptom fatigue headache problem complaint problem country world health organization criteria major_depressive_disorder appetite weight loss appetite weight gain family friend person behavior people symptom onset forgetfulness slow movement major_depressive_disorder disorder stroke disease disease disease 
+person symptom fatigue headache problem complaint problem country world health organization criteria major_depressive_disorder appetite weight_loss appetite weight_gain family friend person behavior people symptom onset forgetfulness slow movement major_depressive_disorder disorder stroke disease disease disease 
 children mood symptom age situation interest school decline performance 
 diagnosis symptom moodiness 
 major_depressive_disorder problem 
@@ -76,7 +76,7 @@ major_depressive_disorder mania mood state pole
 case symptom result bereavement bereavement depressive episode mood feature depressive episode criteria account aspect context major_depressive_disorder addition study support criteria convention continuum depressive symptom severity duration bereavement exclusion criterion clinician reaction loss major_depressive_disorder 
 range diagnose mood disturbance brief major_depressive_disorder depressive episode depressive disorder symptom major_depressive_disorder adjustment disorder mood mood response event depressive disorder mood disorder childhood irritability tantrum disorder major_depressive_disorder period anxiety major_depressive_disorder irritability week menstruation depressive disorder 
 subtype major_depressive_disorder specifier addition length severity presence feature 
-major_depressive_disorder loss pleasure activity failure reactivity quality mood grief loss worsen symptom morn hour wake retardation weight loss anorexia guilt major_depressive_disorder mood reactivity positivity weight gain appetite comfort sleep sleepiness sensation heaviness limb paralysis impairment consequence hypersensitivity rejection major_depressive_disorder form major_depressive_disorder disturbance motor behavior symptom 
+major_depressive_disorder loss pleasure activity failure reactivity quality mood grief loss worsen symptom morn hour wake retardation weight_loss anorexia guilt major_depressive_disorder mood reactivity positivity weight_gain appetite comfort sleep sleepiness sensation heaviness limb paralysis impairment consequence hypersensitivity rejection major_depressive_disorder form major_depressive_disorder disturbance motor behavior symptom 
 person movement 
 symptom schizophrenia episode syndrome major_depressive_disorder distress mean major_depressive_disorder mania anxiety risk suicide individual anxiety 
 way prognosis depressive disorder major_depressive_disorder onset major_depressive_disorder women birth woman 

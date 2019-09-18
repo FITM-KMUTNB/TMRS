@@ -1,21 +1,21 @@
 encyclopedia jump navigation jump article lung_cancer 
 lung lung tumor 
-lung_cancer name lung_cancer chest tumor lung arrow oncology symptom blood weight loss shortness breath chest pain onset year type lung_cancer lung_cancer risk factor 
+lung_cancer name lung_cancer chest tumor lung arrow oncology symptom blood weight_loss shortness breath chest_pain onset year type lung_cancer lung_cancer risk factor 
 tobacco pollution 
 method image tissue biopsy treatment surgery chemotherapy radiotherapy survival rate frequency death 
-lung_cancer lung_cancer lung tumor cell growth tissue lung growth lung process metastasis tissue part body cancer lung lung_cancer carcinoma type lung_cancer lung_cancer symptom cough blood weight loss shortness breath chest pain 
+lung_cancer lung_cancer lung tumor cell growth tissue lung growth lung process metastasis tissue part body cancer lung lung_cancer carcinoma type lung_cancer lung_cancer symptom cough blood weight_loss shortness breath chest_pain 
 majority case lung_cancer tobacco smoke case people case combination factor exposure radon ga smoke form air pollution lung_cancer chest radiograph tomography diagnosis biopsy bronchoscopy 
 avoidance risk factor smoke air pollution method prevention treatment outcome type cancer stage degree spread person health case treatment surgery chemotherapy radiotherapy surgery chemotherapy radiotherapy 
 lung_cancer people death cause death men second women breast_cancer age diagnosis year people united states lung_cancer year diagnosis outcome average world content 
 sign symptom cause smoke radon ga air pollution genetics cause diagnosis classification prevention smoke ban screen prevention strategy management surgery radiotherapy care epidemiology history research direction reference link 
 sign symptom 
 sign symptom lung_cancer 
-symptom cough blood shortness breath symptom weight loss weakness fever fingernail symptom cancer mass structure chest pain bone pain obstruction difficulty 
+symptom cough blood shortness breath symptom weight_loss weakness fever fingernail symptom cancer mass structure chest_pain bone pain obstruction difficulty 
 cancer airway breath difficulty 
 obstruction accumulation secretion blockage pneumonia 
-type tumor phenomena symptom presence cancer attention disease lung_cancer phenomena syndrome hormone urine blood production syndrome muscle weakness autoantibody 
+type tumor phenomena symptom presence cancer attention disease lung_cancer phenomena syndrome hormone urine blood production syndrome muscle_weakness autoantibody 
 top lung tumor part system syndrome drop eyelid pupil side damage plexus 
-symptom lung_cancer appetite weight loss fever fatigue people cancer site time symptom attention symptom presence disease weight loss bone pain symptom headache convulsion limb weakness site spread brain bone gland lung liver kidney people lung_cancer symptom diagnosis cancer routine chest radiography cause relationship cigarette consumption person blue male lung_cancer rate yellow century 
+symptom lung_cancer appetite weight_loss fever fatigue people cancer site time symptom attention symptom presence disease weight_loss bone pain symptom headache convulsion limb weakness site spread brain bone gland lung liver kidney people lung_cancer symptom diagnosis cancer routine chest radiography cause relationship cigarette consumption person blue male lung_cancer rate yellow century 
 risk death lung_cancer smoke 
 cancer damage change 
 change cell function cell proliferation cell death apoptosis repair 
@@ -150,7 +150,7 @@ individual disease hospice care outcome lung_cancer stage stage survival lung_ca
 people lung_cancer year diagnosis wales survival lung_cancer outcome world stage time diagnosis 
 presentation case stage stage survival lung_cancer fall stage diagnosis data patient year stage fall disease stage 
 factor presence symptom tumor size cell type histology degree spread stage lymph node invasion 
-people disease outcome performance status weight loss prognostic factor cell lung_cancer performance status sex stage disease involvement system liver time diagnosis 
+people disease outcome performance status weight_loss prognostic factor cell lung_cancer performance status sex stage disease involvement system liver time diagnosis 
 prognosis resection stage disease survival people survival rate 
 survival time disease month survival rate 
 data cancer institute age diagnosis lung_cancer year age death year people insurance outcome epidemiology trachea lung_cancer death person lung_cancer distribution male united states lung_cancer incidence mortality survival 

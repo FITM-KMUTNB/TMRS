@@ -26,7 +26,7 @@ cancer stage cirrhosis
 option resection ablation liver_cancer article cancer 
 cancers adenocarcinoma women 
 cancer gallstone porcelain appearance presence polyp 
-cancer weight loss jaundice pain right 
+cancer weight_loss jaundice pain right 
 
 prognosis cancer 
 malt lymphoma cancer tissue stomach 

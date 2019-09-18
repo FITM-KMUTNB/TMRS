@@ -1,0 +1,134 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN chronic_kidney_disease|DS name|NN chronic_kidney_disease|DS chronic_kidney_disease|DS frost|NN forehead|NN scalp|NN frost|NN head|NN chronic_kidney_disease|DS specialty|NN symptom|NN leg|NN feel|NN vomit|NN loss|NN appetite|NN confusion|ST complication|NN heart|NN disease|NN blood|NN pressure|NN duration|NN cause|NN blood|NN pressure|NN kidney_disease|DS method|NN blood|NN test|NN urine|NN test|NN treatment|NN blood|NN pressure|NN blood|NN sugar|NN cholesterol|NN replacement|NN therapy|NN kidney|NN transplant|NN frequency|NN death|NN 
+chronic_kidney_disease|DS chronic_kidney_disease|DS type|NN kidney_disease|DS loss|NN kidney|NN function|NN period|NN month|NN year|NN symptom|NN leg|NN feel|NN vomit|NN loss|NN appetite|NN confusion|ST complication|NN heart|NN disease|NN blood|NN pressure|NN bone|NN disease|NN anemia|DS 
+cause|NN chronic_kidney_disease|DS blood|NN pressure|NN kidney_disease|DS risk|NN factor|NN family|NN history|NN condition|NN diagnosis|NN blood|NN test|NN filtration|NN rate|NN urine|NN test|NN measure|NN albumin|NN kidney|NN biopsy|NN cause|NN number|NN classification|NN system|NN 
+screen|NN people|NN treatment|NN medication|NN blood|NN pressure|NN blood|NN sugar|NN cholesterol|NN nsaids|NN measure|NN change|NN disease|NN dialysis|NN kidney|NN transplant|NN treatment|NN anemia|DS bone|NN disease|NN 
+chronic_kidney_disease|DS people|NN female|NN male|NN death|NN cause|NN number|NN death|NN blood|NN pressure|NN glomerulonephritis|NN content|NN 
+sign|NN symptom|NN cause|NN diagnosis|NN screen|NN kidney|NN function|NN test|NN stage|NN chronic_kidney_disease|DS 
+treatment|NN blood|NN pressure|NN cancer|DS risk|NN epidemiology|NN society|NN culture|NN animal|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN 
+chronic_kidney_disease|DS symptom|NN increase|NN serum|NN creatinine|NN protein|NN urine|NN 
+kidney|NN function|NN 
+blood|NN pressure|NN fluid|NN overload|NN production|NN hormone|NN kidney|NN system|NN risk|NN hypertension|DS suffer|NN heart_failure|DS 
+symptom|NN lethargy|NN pericarditis|DS encephalopathy|NN 
+circulation|NN urea|NN sweat|NN concentration|NN crystallize|NN skin|NN sweat|NN frost|NN 
+potassium|NN blood|NN range|NN symptom|NN malaise|ST arrhythmia|ST 
+filtration|NN rate|NN point|NN kidney|NN ability|NN potassium|NN 
+chronic_kidney_disease|DS acidemia|NN shift|NN potassium|NN lack|NN insulin|NN synthesis|NN 
+fluid|NN volume|NN overload|NN symptom|NN edema|ST edema|ST 
+due|NN phosphate|NN excretion|NN decrease|NN filtration|NN 
+risk|NN stimulus|NN calcification|NN concentration|NN fibroblast|NN growth|NN increase|NN capacity|NN phosphate|NN excretion|NN decline|NN response|NN hypertrophy|NN mortality|NN chronic_kidney_disease|DS patient|NN deficiency|NN stimulation|NN reduction|NN mass|NN resistance|NN action|NN hormone|NN production|NN inhibitor|NN enzyme|NN conversion|NN osteodystrophy|NN calcification|NN function|NN 
+consequence|NN occurrence|NN condition|NN concept|NN chronic_kidney_disease|DS bone|NN disorder|NN chronic_kidney_disease|DS syndrome|NN disorder|NN mineral|NN bone|NN metabolism|NN chronic_kidney_disease|DS combination|NN abnormality|NN calcium|NN phosphorus|NN phosphate|NN hormone|NN vitamin|NN metabolism|NN abnormality|NN bone|NN turnover|NN volume|NN growth|NN strength|NN chronic_kidney_disease|DS outcome|NN acidosis|NN accumulation|NN phosphate|NN acid|NN enzyme|NN activity|NN acid|NN enzyme|NN excitability|NN membrane|NN promotion|NN due|NN acid|NN acidosis|NN capacity|NN ammonia|NN cell|NN tubule|NN iron_deficiency|DS prevalence|NN kidney|NN function|NN 
+cause|NN inflammation|NN reduction|NN bone|NN marrow|NN suppression|NN 
+people|NN chronic_kidney_disease|DS atherosclerosis|DS disease|NN population|NN 
+patient|NN chronic_kidney_disease|DS disease|NN prognose|NN suffer|NN 
+dysfunction|NN men|NN women|NN chronic_kidney_disease|DS 
+majority|NN men|NN sex|NN drive|NN difficulty|NN erection|NN orgasm|NN problem|NN age|NN 
+majority|NN women|NN trouble|NN arousal|NN menstruation|NN problem|NN perform|NN sex|NN cause|NN 
+cause|NN chronic_kidney_disease|DS mellitus|NN blood|NN pressure|NN cause|NN chronic_kidney_disease|DS cause|NN kidney|NN cause|NN adult|NN case|NN 
+kidney_disease|DS part|NN kidney|NN anatomy|NN 
+disease|NN vessel|NN disease|NN artery|NN stenosis|NN vessel|NN disease|NN nephropathy|NN syndrome|NN vasculitis|NN 
+disease|NN group|NN disease|NN glomerulosclerosis|NN nephropathy|NN disease|NN nephropathy|NN lupus|NN disease|NN kidney_disease|DS 
+disease|NN reflux|NN nephropathy|NN 
+nephropathy|NN kidney_stone_disease|DS prostate|NN hyperplasia|NN 
+case|NN kidney|NN nephropathy|NN 
+cause|NN chronic_kidney_disease|DS chronic_kidney_disease|DS cause|NN chronic_kidney_disease|DS chronic_kidney_disease|DS cause|NN subject|NN study|NN sri|NN ministry|NN health|NN world|NN health|NN organization|NN nephropathy|NN form|NN chronic_kidney_disease|DS form|NN kidney_disease|DS nephropathy|NN 
+diagnosis|NN person|NN chronic_kidney_disease|DS electrolyte|NN imbalance|NN hypocalcemia|NN 
+interval|NN 
+diagnosis|NN chronic_kidney_disease|DS history|NN examination|NN urine|NN measurement|NN serum|NN creatinine|NN level|NN 
+chronic_kidney_disease|DS kidney|NN injury|NN 
+clue|NN help|NN chronic_kidney_disease|DS rise|NN serum|NN creatinine|NN month|NN year|NN increase|NN serum|NN creatinine|NN day|NN week|NN 
+chronic_kidney_disease|DS patient|NN kidney_disease|DS disease|NN 
+number|NN present|NN chronic_kidney_disease|DS cause|NN 
+chronic_kidney_disease|DS uremic|NN toxin|NN blood|NN 
+chronic_kidney_disease|DS dialysis|NN toxin|NN level|NN dialysis|NN 
+kidney|NN transplant|NN level|NN kidney|NN 
+creatinine|NN level|NN 
+toxin|NN activity|NN serum|NN weight|NN protein|NN albumin|NN 
+toxin|NN group|NN solute|NN middle|NN hemodialysis|NN dialysis|NN membrane|NN treatment|NN flow|NN removal|NN weight|NN toxin|NN 
+weight|NN molecule|NN hemodialysis|NN membrane|NN 
+dialysis|NN treatment|NN ability|NN toxin|NN screen|NN 
+screen|NN symptom|NN risk|NN factor|NN chronic_kidney_disease|DS hypertension|DS history|NN disease|NN obesity|NN year|NN subject|NN ancestry|NN history|NN kidney_disease|DS past|NN subject|NN relative|NN kidney_disease|DS dialysis|NN 
+screen|NN calculation|NN serum|NN creatinine|NN level|NN measurement|NN urine|NN ratio|NN urine|NN specimen|NN amount|NN protein|NN albumin|NN urine|NN urine|NN screen|NN hematuria|ST filtration|NN rate|NN serum|NN creatinine|NN relationship|NN creatinine|NN 
+aspect|NN kidney|NN function|NN filter|NN unit|NN work|NN 
+mass|NN kidney|NN aspect|NN kidney|NN health|NN function|NN 
+level|NN assessment|NN patient|NN state|NN level|NN potassium|NN phosphate|NN hormone|NN 
+unit|NN creatinine|NN country|NN country|NN 
+guideline|NN referral|NN nephrologist|NN country|NN 
+referral|NN stage|NN chronic_kidney_disease|DS stage|NN 
+chronic_kidney_disease|DS urine|NN albumin-to-creatinine|NN ratio|NN blood|NN pressure|NN control|NN hematuria|ST find|NN disorder|NN disease|NN treatment|NN 
+benefit|NN nephrology|NN referral|NN patient|NN education|NN option|NN replacement|NN therapy|NN transplantation|NN placement|NN fistula|NN patient|NN future|NN kidney|NN function|NN test|NN 
+test|NN medicine|NN scan|NN blood|NN flow|NN function|NN kidney|NN 
+acid|NN scan|NN kidney|NN image|NN element|NN 
+citation|NN stage|NN chronic_kidney_disease|DS chronic_kidney_disease|DS stage|NN chronic_kidney_disease|DS filtration|NN rate|NN ratio|NN kidney|NN damage|NN present|NN kidney|NN damage|NN present|NN mildly|NN moderately|NN kidney_failure|DS number|NN risk|NN progression|NN frequency|NN monitor|NN number|NN time|NN year|NN 
+kidney_disease|DS outcome|NN practice|NN guideline|NN evaluation|NN management|NN chronic_kidney_disease|DS 
+filtration|NN rate|NN 
+chronic_kidney_disease|DS kidney|NN damage|NN present|NN 
+kidney|NN damage|NN sign|NN damage|NN blood|NN urine|NN image|NN study|NN lab|NN ratio|NN 
+people|NN month|NN chronic_kidney_disease|DS 
+protein|NN urine|NN marker|NN worsen|NN kidney|NN function|NN disease|NN 
+guideline|NN letter|NN stage|NN chronic_kidney_disease|DS protein|NN loss|NN 
+stage|NN function|NN kidney|NN damage|NN 
+kidney|NN damage|NN abnormality|NN marker|NN damage|NN abnormality|NN blood|NN urine|NN test|NN image|NN study|NN stage|NN reduction|NN kidney|NN damage|NN 
+kidney|NN damage|NN abnormality|NN marker|NN damage|NN abnormality|NN blood|NN urine|NN test|NN image|NN study|NN stage|NN reduction|NN guideline|NN stage|NN stage|NN purpose|NN screen|NN referral|NN stage|NN reduction|NN preparation|NN replacement|NN therapy|NN 
+stage|NN kidney_failure|DS replacement|NN therapy|NN kidney_disease|DS 
+term|NN chronic_kidney_disease|DS chronic_kidney_disease|DS designation|NN status|NN person|NN chronic_kidney_disease|DS treatment|NN kidney_failure|DS replacement|NN therapy|NN maintenance|NN dialysis|NN kidney|NN transplantation|NN 
+condition|NN individual|NN chronic_kidney_disease|DS type|NN replacement|NN therapy|NN dialysis|NN transplant|NN kidney_disease|DS 
+start|NN conclusion|NN chronic_kidney_disease|DS 
+chronic_kidney_disease|DS status|NN status|NN person|NN stage|NN chronic_kidney_disease|DS stage|NN patient|NN stage|NN chronic_kidney_disease|DS stage|NN replacement|NN therapy|NN chronic_kidney_disease|DS 
+purpose|NN chronic_kidney_disease|DS 
+pathologic|NN change|NN sclerosis|NN atrophy|NN fibrosis|NN inflammation|NN result|NN cortex|NN 
+kidney|NN liver|NN spleen|NN figure|NN figure|NN 
+size|NN thine|NN disease|NN figure|NN figure|NN 
+kidney|NN size|NN height|NN person|NN kidney|NN kidney|NN size|NN parameter|NN 
+chronic_kidney_disease|DS glomerulonephritis|NN thickness|NN 
+measurement|NN kidney|NN length|NN image|NN line|NN 
+kidney|NN demarcation|NN cortex|NN medulla|NN 
+pyelonephritis|NN kidney|NN size|NN thine|NN 
+measurement|NN kidney|NN length|NN image|NN line|NN 
+chronic_kidney_disease|DS architecture|NN differentiation|NN parenchyma|NN sinus|NN kidney|NN size|NN 
+measurement|NN kidney|NN length|NN image|NN line|NN 
+risk|NN factor|NN goal|NN therapy|NN progression|NN chronic_kidney_disease|DS 
+control|NN blood|NN pressure|NN treatment|NN disease|NN principle|NN management|NN 
+blood|NN pressure|NN 
+enzyme|NN inhibitor|NN receptor|NN antagonist|NN progression|NN risk|NN event|NN infarction|NN stroke|DS heart_failure|DS death|NN disease|NN placebo|NN individual|NN chronic_kidney_disease|DS protection|NN progression|NN kidney_failure|DS death|NN cause|NN chronic_kidney_disease|DS blood|NN pressure|NN lower|NN people|NN risk|NN death|NN 
+use|NN inhibitor|NN standard|NN care|NN people|NN chronic_kidney_disease|DS people|NN kidney|NN function|NN medication|NN renal|NN study|NN decrease|NN time|NN measure|NN chronic_kidney_disease|DS progression|NN guideline|NN people|NN method|NN 
+treatment|NN blood|NN diet|NN progression|NN chronic_kidney_disease|DS reduction|NN symptom|NN chronic_kidney_disease|DS delay|NN dialysis|NN start|NN replacement|NN hormone|NN kidney|NN people|NN disease|NN 
+guideline|NN treatment|NN iron|NN treatment|NN target|NN level|NN normalization|NN hemoglobin|NN benefit|NN help|NN phosphate|NN binder|NN serum|NN phosphate|NN level|NN chronic_kidney_disease|DS 
+evidence|NN inhibitor|NN zinc|NN show|NN potential|NN men|NN dysfunction|NN 
+stage|NN chronic_kidney_disease|DS replacement|NN therapy|NN form|NN dialysis|NN transplant|NN 
+chronic_kidney_disease|DS risk|NN disease|NN people|NN chronic_kidney_disease|DS risk|NN factor|NN heart|NN disease|NN blood|NN 
+cause|NN death|NN people|NN chronic_kidney_disease|DS disease|NN kidney_failure|DS 
+chronic_kidney_disease|DS result|NN mortality|NN death|NN rate|NN kidney|NN function|NN cause|NN death|NN chronic_kidney_disease|DS disease|NN progression|NN stage|NN 
+replacement|NN therapy|NN people|NN life|NN quality|NN life|NN kidney|NN transplantation|NN survival|NN people|NN stage|NN chronic_kidney_disease|DS option|NN mortality|NN complication|NN surgery|NN 
+survival|NN quality|NN life|NN dialysis|NN cancer|DS risk|NN 
+patient|NN risk|NN cancer|DS risk|NN patient|NN age|NN specialty|NN organization|NN physician|NN routine|NN cancer|DS screen|NN patient|NN life|NN expectancy|NN evidence|NN test|NN patient|NN outcome|NN epidemiology|NN 
+people|NN chronic_kidney_disease|DS 
+hispanics|NN south|NN sri|NN risk|NN chronic_kidney_disease|DS 
+risk|NN prevalence|NN hypertension|DS 
+example|NN case|NN blood|NN pressure|NN 
+people|NN blood|NN pressure|NN risk|NN suffer|NN chronic_kidney_disease|DS people|NN condition|NN 
+adult|NN hypertension|DS adult|NN chronic_kidney_disease|DS 
+health|NN condition|NN chronic_kidney_disease|DS obesity|NN cholesterol|NN family|NN history|NN disease|NN form|NN disease|NN 
+chronic_kidney_disease|DS cause|NN death|NN death|NN canada|NN people|NN chronic_kidney_disease|DS 
+center|NN disease|NN control|NN prevention|NN chronic_kidney_disease|DS adult|NN year|NN period|NN estimate|NN population|NN great|NN northern|NN chronic_kidney_disease|DS 
+treatment|NN efficacy|NN group|NN 
+administration|NN drug|NN disease|NN progression|NN population|NN effect|NN kidney_disease|DS black|NN treatment|NN bicarbonate|NN therapy|NN status|NN prevalence|NN chronic_kidney_disease|DS difference|NN chronic_kidney_disease|DS prevalence|NN white|NN factor|NN 
+study|NN association|NN history|NN chronic_kidney_disease|DS relative|NN risk|NN disease|NN addition|NN serum|NN level|NN antigen|NN high|NN concentration|NN inflammation|NN susceptibility|NN kidney_disease|DS 
+lack|NN reduction|NN blood|NN pressure|NN group|NN explanation|NN credence|NN cause|NN chronic_kidney_disease|DS disparity|NN 
+incidence|NN chronic_kidney_disease|DS nephropathy|NN worker|NN sugar|NN cane|NN field|NN lowland|NN el|NN 
+heat|NN stress|NN hour|NN work|NN temperature|NN chemical|NN factor|NN 
+sri|NN epidemic|NN chronic_kidney_disease|DS cause|NN health|NN concern|NN society|NN culture|NN 
+kidney|NN foundation|NN organization|NN patient|NN professional|NN kidney_disease|DS 
+kidney|NN fund|NN organization|NN assistance|NN dialysis|NN patient|NN year|NN 
+support|NN network|NN organization|NN service|NN chronic_kidney_disease|DS 
+association|NN kidney|NN patient|NN group|NN health|NN chronic_kidney_disease|DS dialysis|NN patient|NN 
+physician|NN association|NN association|NN professional|NN 
+united|NN kingdom|NN kidney|NN federation|NN kidney|NN patient|NN association|NN patient|NN association|NN physician|NN service|NN framework|NN kidney_disease|DS 
+kidney|NN health|NN country|NN 
+society|NN nephrology|NN body|NN specialist|NN kidney_disease|DS 
+rate|NN chronic_kidney_disease|DS dog|NN case|NN year|NN 
+mortality|NN rate|NN chronic_kidney_disease|DS death|NN 
+breed|NN rate|NN mountain|NN dog|NN miniature|NN boxer|NN 
+spitz|NN breed|NN rate|NN research|NN 
+compound|NN development|NN treatment|NN chronic_kidney_disease|DS 
+receptor|NN blocker|NN mixture|NN weight|NN heparin|NN 

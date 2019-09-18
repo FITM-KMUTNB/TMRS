@@ -7,7 +7,7 @@ endocarditis lesion vegetation mass platelet fibrin microorganism cell form endo
 way endocarditis 
 classification cause microorganism source inflammation 
 diagnosis endocarditis feature investigation blood culture presence endocarditis microorganism 
-sign symptom fever chill malaise weakness anorexia weight loss feel murmur heart_failure spot skin node nodule hand feet lesion lesion palm sole spot 
+sign symptom fever chill malaise weakness anorexia weight_loss feel murmur heart_failure spot skin node nodule hand feet lesion lesion palm sole spot 
 endocarditis endocarditis reference read link 
 endocarditis article endocarditis 
 endocarditis infection surface heart valve symptom fever area bleed skin heart murmur feel blood cell complication insufficiency heart_failure stroke kidney_failure 

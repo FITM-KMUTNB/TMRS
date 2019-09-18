@@ -1,0 +1,103 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN sleep_paralysis|DS henry|NN nightmare|NN henry|NN depiction|NN sleep_paralysis|DS visitation|NN 
+sleep|NN medicine|NN symptom|NN awareness|NN inability|NN wake|NN duration|NN couple|NN minute|NN risk|NN factor|NN sleep|NN alcohol|NN use|NN sleep|NN deprivation|NN method|NN description|NN diagnosis|NN seizure|NN paralysis|ST night|NN terror|NN treatment|NN sleep|NN hygiene|NN behavioral|NN therapy|NN frequency|NN 
+sleep_paralysis|DS person|NN episode|NN feel|NN thing|NN fear|NN couple|NN minute|NN episode|NN 
+condition|NN narcolepsy|DS family|NN result|NN change|NN condition|NN sleep|NN deprivation|NN stress|NN sleep|NN cycle|NN mechanism|NN dysfunction|NN sleep|NN diagnosis|NN person|NN description|NN condition|NN seizure|NN paralysis|ST 
+treatment|NN option|NN sleep_paralysis|DS people|NN condition|NN effort|NN sleep|NN hygiene|NN behavioral|NN therapy|NN 
+people|NN experience|NN sleep_paralysis|DS time|NN people|NN episode|NN male|NN female|NN sleep_paralysis|DS history|NN role|NN creation|NN story|NN abduction|NN event|NN content|NN 
+sign|NN symptom|NN threat|NN diagnosis|NN classification|NN diagnosis|NN prevention|NN treatment|NN therapy|NN therapy|NN epidemiology|NN society|NN culture|NN significance|NN prime|NN literature|NN documentary|NN film|NN reference|NN link|NN 
+sign|NN symptom|NN 
+symptom|NN sleep_paralysis|DS awaken|NN 
+noise|NN sleep_paralysis|DS sound|NN voice|NN whisper|NN roar|NN symptom|NN emotion|NN fear|NN panic|NN people|NN sensation|NN bed|NN numbness|NN feel|NN tingle|NN vibration|NN body|NN 
+sleep_paralysis|DS hallucination|ST creature|NN individual|NN feel|NN pressure|NN chest|NN difficulty|NN breath|NN example|NN hallucination|ST figure|NN room|NN window|NN subject|NN content|NN interpretation|NN hallucination|ST fear|NN sensation|NN arousal|NN sleeper|NN narrative|NN 
+sleep|NN physiology|NN symptom|NN awareness|NN variety|NN symptom|NN sleep_paralysis|DS fear|NN worry|NN cognition|NN attack|NN reaction|NN arousal|NN 
+person|NN attempt|NN paralysis|ST symptom|NN arousal|NN execution|NN motor|NN program|NN absence|NN feedback|NN sensation|NN tightness|NN pressure|NN pain|ST spasm|NN limb|NN 
+sleep_paralysis|DS theory|NN cause|NN stem|NN understand|NN sleep_paralysis|DS overlap|NN wake|NN stage|NN sleep|NN study|NN individual|NN sleep_paralysis|DS sleep|NN latency|NN sleep|NN cycle|NN fragmentation|NN sleep|NN study|NN observation|NN disturbance|NN sleep|NN pattern|NN episode|NN sleep_paralysis|DS fragmentation|NN sleep|NN sleep|NN pattern|NN combination|NN sleep_paralysis|DS 
+theory|NN function|NN sleep|NN balance|NN way|NN sleep|NN state|NN overlap|NN case|NN sleep|NN population|NN sleep|NN population|NN result|NN cell|NN signal|NN arousal|NN sleep|NN state|NN population|NN difficulty|NN signal|NN cell|NN brain|NN sleep|NN state|NN sleep|NN threshold|NN stimulus|NN cause|NN arousal|NN 
+condition|NN center|NN thing|NN head|NN eye|NN movement|NN orientation|NN space|NN 
+individual|NN block|NN stimulus|NN individual|NN problem|NN regulation|NN circumstance|NN population|NN point|NN sleep|NN inhibition|NN time|NN sleep|NN population|NN stimulus|NN arousal|NN stage|NN sleep|NN hypothesis|NN disorientation|NN hallucination|ST source|NN 
+wake|NN stage|NN sleep|NN overlap|NN sleep_paralysis|DS muscle|NN paralysis|ST awaken|NN effect|NN sleep|NN population|NN characteristics|NN sleep|NN awaken|NN 
+consequence|NN sleep_paralysis|DS headache|ST muscle|NN pain|ST weakness|ST paranoia|ST 
+correlation|NN sleep_paralysis|DS use|NN trace|NN eye|NN movement|NN episode|NN experience|NN sleep_paralysis|DS 
+research|NN component|NN sleep_paralysis|DS fragmentation|NN sleep|NN hallucination|ST component|NN credence|NN idea|NN sleep_paralysis|DS twin|NN study|NN twin|NN pair|NN twin|NN experience|NN sleep_paralysis|DS twin|NN identification|NN component|NN sort|NN disruption|NN function|NN level|NN 
+study|NN mistake|NN pathway|NN arousal|NN theory|NN regulation|NN population|NN 
+picture|NN vision|NN contrast|NN incubus|NN 
+dream|NN dream|NN 
+type|NN hallucination|ST sleep_paralysis|DS belief|NN intruder|NN room|NN presence|NN incubus|NN sensation|NN hypothesis|NN sleep_paralysis|DS mechanism|NN body|NN movement|NN information|NN body|NN position|NN movement|NN sensation|NN 
+intruder|NN incubus|NN hallucination|ST hallucination|ST disorientation|NN experience|NN vigilance|NN system|NN threat|NN 
+state|NN midbrain|NN hallucination|ST emergency|NN response|NN brain|NN individual|NN helplessness|NN effect|NN threat|NN response|NN level|NN dream|NN vision|NN sleep_paralysis|DS vigilance|NN system|NN mechanism|NN situation|NN fear|NN response|NN 
+response|NN creation|NN threat|NN process|NN hallucination|ST variation|NN presence|NN subject|NN chest|NN strangulation|NN explanation|NN result|NN combination|NN threat|NN vigilance|NN activation|NN system|NN muscle|NN paralysis|ST sleep_paralysis|DS control|NN feature|NN breath|NN pattern|NN feel|NN suffocation|NN breath|NN blockage|NN airway|NN symptom|NN sleep|NN patient|NN 
+account|NN subject|NN attempt|NN sensation|NN resistance|NN vigilance|NN system|NN chest|NN suffocation|NN sensation|NN entrapment|NN feedback|NN loop|NN fear|NN suffocation|NN increase|NN result|NN helplessness|NN subject|NN struggle|NN episode|NN diagnosis|NN 
+sleep_paralysis|DS interview|NN rule|NN sleep_disorder|DS feel|NN paralysis|ST disorder|NN due|NN prevalence|NN narcolepsy|DS conjunction|NN sleep_paralysis|DS 
+availability|NN test|NN narcolepsy|DS disorder|NN rule|NN measure|NN screen|NN screen|NN sleep_paralysis|DS 
+episodes|NN sleep_paralysis|DS context|NN condition|NN 
+episode|NN condition|NN substance|NN use|NN sleep_paralysis|DS episode|NN cause|NN distress|NN interference|NN sleep_paralysis|DS 
+sleep_paralysis|DS classification|NN minute|NN episode|NN risp|NN individual|NN episode|NN sleep_paralysis|DS night|NN individual|NN 
+cataplexy|ST narcolepsy|DS sleep_paralysis|DS phenomena|NN way|NN attack|NN 
+attack|NN individual|NN attack|NN diagnosis|NN 
+head|NN syndrome|NN hallucination|ST paralysis|ST 
+nightmare|NN disorder|NN 
+sleep|NN terror|NN lack|NN awareness|NN surround|NN scream|NN 
+panic|NN attack|NN fear|NN distress|NN paralysis|ST dream|NN imagery|NN 
+stress|NN disorder|NN imagery|NN anxiety|ST transition|NN prevention|NN 
+circumstance|NN risk|NN sleep_paralysis|DS 
+insomnia|DT sleep|NN deprivation|NN sleep|NN schedule|NN stress|NN fatigue|ST 
+component|NN development|NN risp|NN incidence|NN sleep_paralysis|DS twin|NN position|NN instigator|NN sleep_paralysis|DS 
+sleep|NN position|NN sleeper|NN episode|NN sleep_paralysis|DS position|NN palate|NN collapse|NN airway|NN possibility|NN individual|NN sleep|NN 
+rate|NN sleep|NN position|NN amount|NN pressure|NN lung|NN gravity|NN 
+factor|NN risk|NN change|NN sleep|NN schedule|NN sleep|NN hygiene|NN chance|NN sleep_paralysis|DS 
+subject|NN intake|NN stimulant|NN stress|NN life|NN hobby|NN psychologist|NN mechanism|NN stress|NN 
+case|NN people|NN sleep_paralysis|DS 
+meditation|NN sleep|NN occurrence|NN sleep_paralysis|DS research|NN meditation|NN practitioner|NN time|NN wave|NN sleep|NN meditation|NN practice|NN arousal|NN sleep_paralysis|DS treatment|NN 
+treatment|NN education|NN sleep|NN stage|NN inability|NN muscle|NN sleep|NN 
+people|NN narcolepsy|DS symptom|NN treatment|NN sleep_paralysis|DS people|NN sleep|NN habit|NN 
+case|NN inhibitor|NN fact|NN treatment|NN drug|NN episode|NN sleep_paralysis|DS majority|NN time|NN 
+trial|NN place|NN focus|NN treatment|NN sleep_paralysis|DS drug|NN promise|NN case|NN study|NN trial|NN people|NN reduction|NN sleep_paralysis|DS episode|NN therapy|NN 
+work|NN sleep_paralysis|DS therapy|NN 
+work|NN cognition|NN sleep_paralysis|DS attack|NN approach|NN sleep_paralysis|DS trial|NN 
+treatment|NN sleep_paralysis|DS therapy|NN sleep_paralysis|DS adherence|NN manual|NN research|NN purpose|NN episode|NN symptom|NN thought|NN paralysis|ST nature|NN sleep_paralysis|DS 
+prevention|NN technique|NN sleep|NN hygiene|NN use|NN relaxation|NN technique|NN breath|NN muscle|NN relaxation|NN meditation|NN 
+episode|NN disruption|NN technique|NN session|NN attack|NN 
+trial|NN effectiveness|NN 
+therapy|NN treatment|NN sleep_paralysis|DS therapy|NN step|NN sleep_paralysis|DS reappraisal|NN mean|NN attack|NN reappraisal|NN eye|NN mean|NN attack|NN distance|NN emotion|NN regulation|NN sleeper|NN event|NN fear|NN worry|NN meditation|NN attention|NN object|NN muscle|NN relaxation|NN muscle|NN breath|NN 
+case|NN report|NN treatment|NN trial|NN effectiveness|NN epidemiology|NN 
+sleep_paralysis|DS male|NN female|NN lifetime|NN prevalence|NN rate|NN study|NN population|NN student|NN patient|NN experience|NN episode|NN sleep_paralysis|DS point|NN live|NN rate|NN sleep_paralysis|DS lifetime|NN history|NN sleep_paralysis|DS criteria|NN sleep_paralysis|DS survey|NN canada|NN china|NN japan|NN individual|NN sleep_paralysis|DS lifetime|NN experience|NN sleep_paralysis|DS rate|NN white|NN magnitude|NN difference|NN population|NN sleep_paralysis|DS year|NN age|NN 
+sleep_paralysis|DS patient|NN 
+people|NN narcolepsy|DS sleep_paralysis|DS symptom|NN majority|NN individual|NN sleep_paralysis|DS episode|NN month|NN year|NN 
+individual|NN sleep_paralysis|DS disorder|NN episode|NN 
+sleep_paralysis|DS individual|NN fear|NN experience|NN worry|NN attack|NN nighttime|NN awaken|NN sleep|NN arousal|NN hyper-alertness|NN symptom|NN paralysis|ST person|NN sleep_paralysis|DS future|NN student|NN patient|NN society|NN culture|NN century|NN version|NN fÃ¼sslis|NN nightmare|NN 
+definition|NN sleep_paralysis|DS dictionary|NN language|NN nightmare|NN term|NN definition|NN 
+term|NN neurologist|NN 
+dissertation|NN narcolepsy|DS sleep_paralysis|DS work|NN demon|NN chest|NN sleeper|NN 
+name|NN mare|NN 
+mare|NN word|NN nightmare|NN 
+word|NN mar|NN 
+
+significance|NN prime|NN nightmare|NN 
+core|NN feature|NN sleep_paralysis|DS sensorium|NN hallucination|ST way|NN time|NN place|NN culture|NN term|NN experience|NN scientist|NN sleep_paralysis|DS explanation|NN report|NN phenomena|NN ghost|NN visit|NN demon|NN possession|NN alien|NN abduction|NN experience|NN night|NN hag|NN shadow|NN people|NN haunt|NN 
+night|NN hag|NN name|NN creature|NN folklore|NN people|NN phenomenon|NN sleep_paralysis|DS 
+description|NN person|NN presence|NN person|NN chest|NN culture|NN name|NN phenomenon|NN character|NN 
+example|NN sleep_paralysis|DS attack|NN 
+witch|NN creature|NN sleep_paralysis|DS ghost|NN belief|NN visitation|NN relative|NN sleep_paralysis|DS jinn|NN attack|NN 
+jinn|NN victim|NN sleep_paralysis|DS space|NN alien|NN abduction|NN united|NN states|NN 
+scientist|NN culture|NN factor|NN shape|NN sleep_paralysis|DS sleep_paralysis|DS filter|NN salience|NN 
+example|NN sleep_paralysis|DS culture|NN fear|NN fear|NN experience|NN turn|NN rate|NN idea|NN rate|NN duration|NN immobility|NN sleep_paralysis|DS belief|NN sleep_paralysis|DS creature|NN jinn|NN 
+research|NN sleep_paralysis|DS fear|NN fear|NN death|NN sufferer|NN study|NN rate|NN characteristics|NN sleep_paralysis|DS phenomenon|NN time|NN belief|NN sleep_paralysis|DS experience|NN event|NN sleep_paralysis|DS episode|NN people|NN literature|NN 
+form|NN magic|NN possession|NN cause|NN literature|NN 
+century|NN vagary|NN diet|NN 
+example|NN charles|NN carol|NN scrooge|NN ghost|NN bit|NN beef|NN blot|NN mustard|NN crumb|NN cheese|NN fragment|NN potato|NN 
+vein|NN household|NN advice|NN nightmare|NN 
+attention|NN regularity|NN choice|NN diet|NN 
+intemperance|NN kind|NN disease|NN wine|NN 
+meat|NN pastry|NN 
+exercise|NN degree|NN digestion|NN food|NN flatulence|ST occupation|NN study|NN labor|NN 
+bed|NN hour|NN cause|NN patient|NN night|NN 
+night|NN part|NN night|NN rest|NN birth|NN disease|NN patient|NN night|NN 
+sleep|NN morn|NN method|NN paroxysm|NN strength|NN propensity|NN time|NN 
+author|NN peter|NN pan|NN story|NN sleep_paralysis|DS 
+boyhood|NN sheet|NN night|NN incident|NN peter|NN pan|NN story|NN awareness|NN loss|NN muscle|NN tone|NN state|NN 
+example|NN call|NN 
+bed|NN children|NN air|NN progress|NN way|NN force|NN 
+air|NN peter|NN fist|NN symptom|NN book|NN nature|NN consciousness|NN point|NN view|NN documentary|NN film|NN 
+nightmare|NN documentary|NN cause|NN sleep_paralysis|DS interview|NN participant|NN experience|NN actor|NN 
+synopsis|NN abduction|NN death|NN experience|NN shadow|NN people|NN case|NN sleep_paralysis|DS 
+horror|NN film|NN film|NN festival|NN june|NN 

@@ -19,7 +19,7 @@ individual chagas_disease symptom chagas_disease heart disorder lifetime chagas_
 individual disease form form chagas_disease 
 stage system system heart 
 people symptom damage heart rhythm abnormality death 
-patient system damage dilation tract megacolon megaesophagus weight loss 
+patient system damage dilation tract megacolon megaesophagus weight_loss 
 difficulty achalasia symptom disturbance malnutrition 
 individual involvement involvement individual result tendon impairment 
 case system involvement dementia confusion encephalopathy deficit 

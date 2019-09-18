@@ -1,10 +1,10 @@
 encyclopedia jump navigation jump search 
 journal arthritis journal 
 arthritis photograph hand arthritis hand arthritis form arthritis pronunciation 
-symptom pain stiffness redness range motion type arthritis arthritis treatment rest ice heat weight loss exercise replacement 
+symptom pain stiffness redness range motion type arthritis arthritis treatment rest ice heat weight_loss exercise replacement 
 arthritis term disorder joint symptom pain stiffness symptom redness warmth swell range motion joint type organ 
 type arthritis form arthritis disease arthritis arthritis age finger knee hip arthritis disorder hand feet type gout arthritis type disease 
-treatment ice heat weight loss exercise pain medication replacement 
+treatment ice heat weight_loss exercise pain medication replacement 
 arthritis people arthritis people population point live people united states type arthritis disease age arthritis reason people work quality life term mean joint mean inflammation content 
 classification sign symptom disability diagnosis arthritis arthritis lupus comparison type treatment therapy surgery aid medicine epidemiology history terminology reference link 
 disease pain feature 
@@ -17,10 +17,10 @@ arthritis arthritis disease category stage disease sign symptom feature disease 
 pain severity symptom type arthritis 
 symptom stiffness joint 
 disorder lupus arthritis organ body variety symptom symptom 
-inability hand walk morn use fatigue weight loss sleep muscle ache pain difficulty 
+inability hand walk morn use fatigue weight_loss sleep muscle ache pain difficulty 
 arthritis change 
 example symptom person exercise effect illustration gout foot 
-muscle weakness loss flexibility fitness 
+muscle_weakness loss flexibility fitness 
 change addition symptom impact quality life 
 arthritis cause disability united states 
 individual arthritis limitation function basis visit physician individual arthritis 

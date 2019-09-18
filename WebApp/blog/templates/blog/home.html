@@ -2,7 +2,7 @@
 {% extends 'base.html' %}
 
 <html>
-<body>
+<body background>
 {% block body %}
 <center>
 <div class="container">
@@ -25,6 +25,9 @@
 
 </div>
 
+
+
+
 {% if symptom %}
 <h4>Symptoms : 
 {% for symp in symptom %}
@@ -40,7 +43,7 @@
 <tr>
 <th>Disease</th>
 <th>Average Distance</th>
-<th>Hop Distance</th>
+<th>Average Hop Distance</th>
 <th>Document</th>
 </tr>
 

@@ -1,5 +1,5 @@
-encyclopedia jump navigation jump search peptic_ulcer_disease name peptic_ulcer_disease peptic_ulcer_disease peptic_ulcer_disease peptic_ulcer_disease peptic_ulcer_disease peptic_ulcer_disease surgery symptom pain vomit weight loss appetite complication perforation blockage stomach cause drug tobacco smoke disease method symptom endoscopy barium swallow diagnosis stomach_cancer heart disease inflammation stomach line inflammation treatment smoke nsaids stop alcohol medication proton pump inhibitor blocker antibiotics frequency death 
-peptic_ulcer_disease peptic_ulcer_disease break line stomach part intestine esophagus ulcer stomach peptic_ulcer_disease part intestine peptic_ulcer_disease symptom peptic_ulcer_disease night pain pain peptic_ulcer_disease pain pain burn ache symptom vomit weight loss appetite people symptom complication perforation blockage stomach people 
+encyclopedia jump navigation jump search peptic_ulcer_disease name peptic_ulcer_disease peptic_ulcer_disease peptic_ulcer_disease peptic_ulcer_disease peptic_ulcer_disease peptic_ulcer_disease surgery symptom pain vomit weight_loss appetite complication perforation blockage stomach cause drug tobacco smoke disease method symptom endoscopy barium swallow diagnosis stomach_cancer heart disease inflammation stomach line inflammation treatment smoke nsaids stop alcohol medication proton pump inhibitor blocker antibiotics frequency death 
+peptic_ulcer_disease peptic_ulcer_disease break line stomach part intestine esophagus ulcer stomach peptic_ulcer_disease part intestine peptic_ulcer_disease symptom peptic_ulcer_disease night pain pain peptic_ulcer_disease pain pain burn ache symptom vomit weight_loss appetite people symptom complication perforation blockage stomach people 
 cause bacteria drug nsaids cause tobacco smoke stress illness disease syndrome disease liver cirrhosis people effect nsaids diagnosis present symptom confirmation endoscopy barium swallow blood antibody urea breath test stool sign bacteria biopsy stomach condition symptom stomach_cancer heart disease inflammation stomach line inflammation 
 diet role ulcer treatment stop smoke nsaids stop alcohol medication decrease stomach acid medication decrease acid proton pump inhibitor blocker week treatment combination medication resistance treatment ulcer endoscopy surgery case 
 peptic_ulcer_disease population ulcer people people peptic_ulcer_disease point life death death description peptic_ulcer_disease princess peptic_ulcer_disease barry robin warren century discovery prize content 
@@ -7,7 +7,7 @@ sign symptom complication cause nsaids stress diet diagnosis classification appe
 sign symptom peptic_ulcer_disease peptic_ulcer_disease stage 
 sign symptom peptic_ulcer_disease 
 pain mealtime 
-case peptic_ulcer_disease pain hour meal bloat fullness rush saliva episode regurgitation acid esophagus reflux disease nausea vomit loss appetite weight loss vomit blood peptic_ulcer_disease damage esophagus vomit 
+case peptic_ulcer_disease pain hour meal bloat fullness rush saliva episode regurgitation acid esophagus reflux disease nausea vomit loss appetite weight_loss vomit blood peptic_ulcer_disease damage esophagus vomit 
 tarry presence iron ulcer perforation peritonitis stab pain surgery 
 history heartburn reflux disease use form medication suspicion peptic_ulcer_disease 
 medicine peptic_ulcer_disease nsaids drug 
@@ -62,7 +62,7 @@ stomach pain signal peptic_ulcer_disease
 case doctor ulcer test symptom diagnosis 
 peptic_ulcer_disease muscularis minimum level submucosa contrast erosion muscularis 
 confirmation diagnosis help test endoscopy barium contrast 
-test symptom week treatment person age symptom weight loss stomach_cancer symptom 
+test symptom week treatment person age symptom weight_loss stomach_cancer symptom 
 ulcer treatment person ulcer ulcer place doctor condition stomach acid 
 form endoscopy gastroscopy people peptic_ulcer_disease 
 gold standard diagnosis peptic_ulcer_disease identification location severity ulcer 

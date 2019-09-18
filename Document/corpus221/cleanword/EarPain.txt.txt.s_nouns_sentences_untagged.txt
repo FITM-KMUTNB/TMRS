@@ -4,7 +4,7 @@ ear_pain name ear_pain ear_pain photo essay examination ear canal eardrum surger
 ear_pain ear_pain pain ear ear_pain pain ear 
 ear_pain type pain mean source pain location pain 
 cause ear_pain ear_pain ear_pain infection injury condition ear_pain range syndrome inflammation throat 
-general reason ear_pain history symptom examination need image tool scan test flag hear loss dizziness ring ear weight loss 
+general reason ear_pain history symptom examination need image tool scan test flag hear loss dizziness ring ear weight_loss 
 management ear_pain cause 
 infection antibiotics counter pain medication control discomfort cause ear_pain procedure surgery 
 percent children episode ear infection year age content 
@@ -75,7 +75,7 @@ flag source ear_pain
 cause diagnosis feature otitis_media history day child ear_pain ear 
 fever hear loss pain sleep membrane discharge pain improvement children history day history ear infection sign otitis_media exam pain ear mastoid process swell suppurative otitis_media hear loss discharge perforation membrane cholesteatoma exam otitis_media 
 otitis_media effusion sign infection hear loss history otitis_media swim dermatitis ear_pain pain ear granulation tissue canal exam 
-otitis pain severity night discharge pain proportion exam find biopsy granulation tissue culture ear trauma ear ear ear shape cause diagnosis feature pain pain sensation episode light touch weight loss arthritis neck pain neck movement eagle syndrome pain molar food temperature pain age chew pain dysfunction patient teeth pain pain jaw click 
+otitis pain severity night discharge pain proportion exam find biopsy granulation tissue culture ear trauma ear ear ear shape cause diagnosis feature pain pain sensation episode light touch weight_loss arthritis neck pain neck movement eagle syndrome pain molar food temperature pain age chew pain dysfunction patient teeth pain pain jaw click 
 cant miss diagnosis flag 
 cause diagnosis feature ear trauma dive fly onset pain event hear loss tube dysfunction pain ear pressure sensation ear hear loss sound ear history allergy light reflex mobility level ear_pain ear pressure sensation ear ear wax present etiology management 
 management ear_pain cause 

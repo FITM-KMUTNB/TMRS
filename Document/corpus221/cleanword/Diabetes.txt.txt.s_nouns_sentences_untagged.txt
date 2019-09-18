@@ -4,12 +4,12 @@ symptom urination thirst hunger complication state heart disease stroke kidney_f
 diabetes diabetes diabetes group disorder blood sugar level period symptom blood sugar urination thirst hunger diabetes complication complication ketoacidosis state death complication disease stroke kidney_disease foot ulcer damage eye 
 diabetes insulin cell body insulin type diabetes 
 type diabetes result failure insulin loss beta cell form diabetes diabetes diabetes cause type diabetes insulin resistance condition cell insulin disease lack insulin form diabetes diabetes diabetes cause combination body weight exercise diabetes form women history diabetes blood sugar level 
-prevention treatment diet exercise body weight use tobacco control blood pressure foot care people disease type diabetes insulin injection type diabetes medication insulin insulin medication blood sugar weight loss surgery obesity measure type diabetes diabetes birth baby 
+prevention treatment diet exercise body weight use tobacco control blood pressure foot care people disease type diabetes insulin injection type diabetes medication insulin insulin medication blood sugar weight_loss surgery obesity measure type diabetes diabetes birth baby 
 people diabetes type diabetes case adult population rate women men trend rate diabetes double person risk death diabetes death cost diabetes health expenditure united states diabetes cost expenditure people diabetes time content 
 sign symptom emergency complication cause type type diabetes type diagnosis prevention management surgery support epidemiology history society culture name animal research major trial reference link 
 sign symptom overview symptom diabetes 
-symptom diabetes weight loss urination thirst hunger symptom week month type diabetes type diabetes 
-symptom diabetes weight loss tiredness 
+symptom diabetes weight_loss urination thirst hunger symptom week month type diabetes type diabetes 
+symptom diabetes weight_loss tiredness 
 sign symptom onset diabetes disease 
 addition vision headache fatigue heal cut skin 
 blood glucose glucose absorption eye change shape vision change 
@@ -116,14 +116,14 @@ measure type diabetes type diabetes case body weight activity diet level activit
 relationship type diabetes modifiable risk factor excess weight diet inactivity tobacco use region world 
 evidence determinant diabetes reflection force change urbanization population age health policy environment management article diabetes management fileabcs diabetes media overview management diabetes 
 diabetes disease cure situation management blood sugar level close blood sugar 
-diet exercise weight loss use medication insulin case type diabetes medication insulin type diabetes 
+diet exercise weight_loss use medication insulin case type diabetes medication insulin type diabetes 
 learn disease treatment complication people blood sugar level goal treatment level attention health problem effect diabetes 
 cholesterol level obesity blood pressure lack exercise footwear risk ulceration feet 
 evidence efficacy remain diet 
 people diabetes education disease treatment nutrition body weight exercise goal blood glucose level bound 
 addition risk disease modification control blood pressure 
 pattern people diabetes 
-people type diabetes diet weight loss control medication 
+people type diabetes diet weight_loss control medication 
 diabetes lower blood sugar level 
 consensus people diabetes glucose control control glucose level blood range complication kidney problem eye problem debate cost people life 
 number class medication 
@@ -132,7 +132,7 @@ type diabetes insulin combination insulin insulin
 line treatment type diabetes evidence mortality liver production glucose group drug mouth blood sugar type diabetes 
 agent increase insulin release agent decrease absorption sugar intestine agent body insulin agent excretion glucose urine insulin type diabetes formulation medication insulin effect blood pressure 
 disease complication diabetes blood pressure level evidence benefit blood pressure target range decrease stroke risk risk event review harm medication blood pressure enzyme inhibitor outcome diabetes medication receptor blocker aspirin people problem routine use aspirin outcome diabetes surgery 
-weight loss surgery obesity type diabetes measure blood sugar level medication surgery mortality mortality risk surgery body mass index surgery option weight blood sugar control 
+weight_loss surgery obesity type diabetes measure blood sugar level medication surgery mortality mortality risk surgery body mass index surgery option weight blood sugar control 
 transplant people type diabetes complication disease end stage kidney_disease kidney transplantation support 
 country practitioner system kingdom care place hospital specialist care case complication blood sugar control research project 
 circumstance practitioner specialist share care team approach 
@@ -180,7 +180,7 @@ association risk diabetes
 symptom fluid loss polyuria course 
 animal infection 
 complication human animal 
-principle treatment weight loss insulin management emergency human research diabetes journal 
+principle treatment weight_loss insulin management emergency human research diabetes journal 
 insulin product side effect development pharmaceutical company corporation united states food drug administration sale june advantage insulin 
 insulin form cream trial people type diabetes major trial 
 diabetes control complication trial study united states institute diabetes kidney_disease new journal medicine 

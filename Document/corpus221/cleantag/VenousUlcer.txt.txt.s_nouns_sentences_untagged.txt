@@ -1,0 +1,64 @@
+encyclopedia|NN venous_ulcer|DS jump|NN navigation|NN jump|NN search|NN venous_ulcer|DS name|NN venous_ulcer|DS venous_ulcer|DS venous_ulcer|DS venous_ulcer|DS venous_ulcer|DS venous_ulcer|DS venous_ulcer|DS back|NN leg|NN 
+venous_ulcer|DS wound|ST function|NN valve|NN leg|NN leg|NN occurrence|NN wound|ST leg|NN ulcer|NN case|NN venous_ulcer|DS leg|NN effect|NN quality|NN life|NN 
+compression|NN stock|NN increase|NN guideline|NN leg|NN ulcer|NN service|NN assessment|NN surgery|NN content|NN 
+sign|NN symptom|NN diagnosis|NN classification|NN distinction|NN ulcer|NN diagnosis|NN prevention|NN treatment|NN compression|NN therapy|NN skin|NN graft|NN skin|NN surgery|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN 
+sign|NN symptom|NN venous_ulcer|DS 
+pain|ST elevation|NN ulcer|NN elevation|NN edge|NN pressure|NN loss|NN skin|NN pigmentation|NN death|NN erythrocyte|NN scare|NN harden|NN skin|NN champagne|NN bottle|NN appearance|NN leg|NN vein|NN ankle|NN flare|NN collection|NN dark|NN vein|NN 
+venous_ulcer|DS surgery|NN 
+process|NN stasis|NN ulcer|NN leg|NN 
+venous_ulcer|DS month|NN 
+cause|NN venous_ulcer|DS valve|NN blood|NN pressure|NN vein|NN body|NN pressure|NN gradient|NN artery|NN vein|NN order|NN heart|NN pump|NN blood|NN artery|NN vein|NN 
+hypertension|DS artery|NN pressure|NN vein|NN blood|NN area|NN 
+hypertension|DS vein|NN blood|NN protein|NN leak|NN space|NN matrix|NN molecule|NN growth|NN factor|NN wound|ST leakage|NN fibrinogen|NN vein|NN deficiency|NN fibrinolysis|NN fibrin|NN vessel|NN oxygen|NN nutrient|NN cell|NN insufficiency|NN blood|NN cell|NN blood|NN vessel|NN factor|NN oxygen|NN ros|NN radical|NN wound|ST formation|NN buildup|NN blood|NN cell|NN blood|NN vessel|NN vessel|NN blockage|NN blood|NN vessel|NN phenomenon|NN tissue|NN blood|NN flow|NN back|NN limb|NN example|NN injury|NN root|NN cause|NN venous_ulcer|DS 
+crus|NN stasis|NN ulcer|NN 
+stasis|NN result|NN damage|NN vein|NN system|NN extremity|NN case|NN pressure|NN vein|NN pressure|NN artery|NN 
+pressure|NN result|NN transudation|NN mediator|NN tissue|NN extremity|NN breakdown|NN tissue|NN skin|NN 
+wound|ST extremity|NN cause|NN insufficiency|NN scratch|NN bite|NN burn|NN incision|NN disease|NN 
+citation|NN diagnosis|NN classification|NN 
+severity|NN score|NN venous_ulcer|DS 
+etiology|NN anatomy|NN classification|NN system|NN expert|NN panel|NN 
+score|NN prognosis|NN distinction|NN ulcer|NN 
+venous_ulcer|DS side|NN leg|NN malleolus|NN area|NN ulcer|NN side|NN leg|NN prominence|NN 
+venous_ulcer|DS edge|NN ulcer|NN appearance|NN 
+venous_ulcer|DS exudate|NN ulcer|NN 
+skin|NN venous_ulcer|DS evidence|NN vein|NN skin|NN ulcer|NN 
+ulcer|NN ulcer|NN elevation|NN leg|NN example|NN bed|NN 
+leg|NN ulceration|NN process|NN 
+cause|NN leg|NN ulceration|NN blood|NN flow|NN oxygen|NN delivery|NN tissue|NN disease|NN stasis|NN ulceration|NN 
+cause|NN sweet|NN syndrome|NN process|NN calciphylaxis|NN people|NN kidney_disease|DS medication|NN cancer|DS cell|NN carcinoma|NN ulcer|NN syndrome|NN neuropathy|NN neuropathy|NN infection|NN sporotrichosis|NN infection|NN 
+compression|NN stock|NN formation|NN ulcer|NN people|NN history|NN venous_ulcer|DS treatment|NN 
+aim|NN treatment|NN environment|NN skin|NN ulcer|NN 
+majority|NN case|NN find|NN reflux|NN 
+institute|NN health|NN care|NN excellence|NN referral|NN service|NN leg|NN ulcer|NN week|NN leg|NN ulcer|NN 
+venous_ulcer|DS patient|NN education|NN elevation|NN foot|NN elastic|NN compression|NN evaluation|NN regimen|NN exercise|NN compression|NN stock|NN heal|NN evidence|NN antibiotics|NN mouth|NN silver|NN product|NN evidence|NN benefit|NN iodine|NN cream|NN lack|NN quality|NN evidence|NN use|NN grade|NN honey|NN leg|NN ulcer|NN 
+recommendation|NN dress|NN venous_ulcer|DS country|NN 
+antibiotics|NN physician|NN emergence|NN resistance|NN bacteria|NN antibiotics|NN 
+issue|NN venous_ulcer|DS wound|ST example|NN 
+alternative|NN term|NN use|NN market|NN honey|NN resin|NN salve|NN 
+product|NN device|NN eu|NN product|NN ce|NN compression|NN therapy|NN 
+ambulatory|NN knee|NN compression|NN counter|NN impact|NN reflux|NN pump|NN failure|NN 
+compression|NN therapy|NN leg|NN ulcer|NN blood|NN vessel|NN diameter|NN pressure|NN effectiveness|NN blood|NN compression|NN decrease|NN release|NN amount|NN fluid|NN capillary|NN clote|NN activation|NN thrombin|NN compression|NN bandage|NN boot|NN purpose|NN 
+effectiveness|NN compression|NN dress|NN system|NN system|NN patient|NN compression|NN type|NN dress|NN compression|NN matter|NN adherent|NN dress|NN study|NN ointment|NN combination|NN compression|NN therapy|NN treatment|NN wound|ST leg|NN ulcer|NN 
+compression|NN device|NN compression|NN dress|NN 
+intervention|NN people|NN compression|NN therapy|NN research|NN field|NN 
+treatment|NN compression|NN stock|NN platelet|NN aggregation|NN thrombus|NN formation|NN 
+disturbance|NN effect|NN 
+formation|NN blood|NN clot|NN inflammation|NN heal|NN venous_ulcer|DS conjunction|NN wound|ST care|NN research|NN effect|NN effectiveness|NN dose|NN protocol|NN treatment|NN 
+dose|NN aspirin|NN treatment|NN option|NN people|NN venous_ulcer|DS 
+review|NN research|NN treatment|NN option|NN 
+zinc|NN supplement|NN heal|NN venous_ulcer|DS research|NN result|NN 
+treatment|NN protease|NN activity|NN heal|NN wound|ST benefit|NN skin|NN graft|NN skin|NN 
+layer|NN skin|NN animal|NN source|NN skin|NN graft|NN leg|NN ulcer|NN 
+skin|NN collagen|NN skin|NN cell|NN cover|NN venous_ulcer|DS growth|NN factor|NN review|NN skin|NN compression|NN bandage|NN heal|NN venous_ulcer|DS dress|NN surgery|NN 
+trial|NN surgery|NN recurrence|NN ulcer|NN year|NN result|NN proportion|NN ulcer|NN time|NN 
+surgery|NN laser|NN ablation|NN closure|NN foam|NN success|NN rate|NN heal|NN recurrence|NN ulcer|NN average|NN year|NN improvement|NN group|NN leg|NN ulcer|NN 
+dress|NN agent|NN leg|NN ulcer|NN dress|NN probability|NN heal|NN leg|NN ulcer|NN trial|NN mixture|NN sugar|NN glucose|NN powder|NN 
+venous_ulcer|DS chance|NN heal|NN study|NN venous_ulcer|DS year|NN heal|NN treatment|NN technique|NN reduction|NN recurrence|NN rate|NN 
+care|NN ulcer|NN cellulitis|DS gangrene|NN amputation|NN part|NN limb|NN future|NN 
+drug|NN venous_ulcer|DS eczema|NN research|NN 
+practice|NN reflux|NN ulcer|NN 
+treatment|NN ulcer|NN heal|NN evidence|NN approach|NN care|NN 
+venous_ulcer|DS trial|NN trial|NN treatment|NN reflux|NN patient|NN venous_ulcer|DS recruitment|NN 
+study|NN increase|NN heal|NN rate|NN week|NN 
+research|NN university|NN surrey|NN leg|NN charity|NN impact|NN leg|NN ulcer|NN relative|NN friend|NN person|NN influence|NN treatment|NN 

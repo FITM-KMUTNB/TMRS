@@ -1,12 +1,12 @@
 encyclopedia lung embolism jump navigation jump search pulmonary_embolism saddle pulmonary_embolism chest spiral scan agent fill defect bifurcation saddle pulmonary_embolism artery 
-hematology symptom breath chest pain blood complication blood pressure death onset people risk factor cancer bed rest smoke stroke condition medication pregnancy obesity surgery method symptom angiography lung scan treatment blood thinner heparin frequency year death year 
-pulmonary_embolism pulmonary_embolism blockage artery lung substance body embolism symptom pulmonary_embolism shortness breath chest pain breath blood symptom blood clot leg leg sign pulmonary_embolism blood oxygen level breath heart rate fever case blood pressure death 
+hematology symptom breath chest_pain blood complication blood pressure death onset people risk factor cancer bed rest smoke stroke condition medication pregnancy obesity surgery method symptom angiography lung scan treatment blood thinner heparin frequency year death year 
+pulmonary_embolism pulmonary_embolism blockage artery lung substance body embolism symptom pulmonary_embolism shortness breath chest_pain breath blood symptom blood clot leg leg sign pulmonary_embolism blood oxygen level breath heart rate fever case blood pressure death 
 pulmonary_embolism blood clot leg lung risk blood clot cancer bed rest smoke stroke condition medication pregnancy obesity type surgery proportion case air fat fluid diagnosis sign symptom combination test result risk blood test condition angiography lung scan leg diagnosis vein thrombosis pulmonary_embolism 
 effort pulmonary_embolism surgery leg exercise period sit use blood thinner type surgery treatment blood thinner heparin month case thrombolysis medication tissue activator surgery blood thinner filter 
 emboly people year united states case year death rate male female people content 
 sign symptom risk factor cause diagnosis probability test blood test image prevention treatment cava filter surgery epidemiology mortality reference link 
 sign symptom 
-symptom pulmonary_embolism onset dyspnea shortness breath breath chest pain nature breath cough cough blood case sign discoloration lip finger collapse instability blood flow lung side heart 
+symptom pulmonary_embolism onset dyspnea shortness breath breath chest_pain nature breath cough cough blood case sign discoloration lip finger collapse instability blood flow lung side heart 
 case death pulmonary_embolism pulmonary_embolism syncope syncope case pulmonary_embolism 
 examination lung 
 friction rub area lung pulmonary_embolism infarct 
@@ -28,7 +28,7 @@ second pulmonary_embolism therapy search condition
 test screen factor mutation antibody protein antithrombin level prothrombin mutation mutation factor concentration coagulation abnormality diagnosis hump person lobe pulmonary_embolism 
 order pulmonary_embolism review criteria need test risk age heart rate beat minute oxygen level room air leg swell blood surgery trauma week blood clot use test 
 concern test likelihood diagnosis image image test likelihood pulmonary_embolism diagnosis 
-diagnosis pulmonary_embolism criteria test presentation shortness breath chest pain cause chest pain shortness breath 
+diagnosis pulmonary_embolism criteria test presentation shortness breath chest_pain cause chest_pain shortness breath 
 decision image reason history symptom find examination assessment probability probability test 
 method probability wells score prediction rule use version 
 steven wells prediction rule literature search likelihood pulmonary_embolism criteria prediction rule prediction rule validation wells al publication wells score system cutoff prediction rule wells result cutoff category version version cutoff find study study use cutoff point category 
@@ -94,7 +94,7 @@ use leg symptom vein thrombosis
 angiography clot obstruction artery 
 trace bottom 
 gold standard diagnosis angiography fluoroscopy disuse availability technique accuracy electrocardiogram person pulmonary_embolism show sinus tachycardia beat minute wave lead wave lead wave lead wave lead 
-use rule cause chest pain electrocardiogram people chest pain infarction heart diagnosis individual chest pain 
+use rule cause chest_pain electrocardiogram people chest_pain infarction heart diagnosis individual chest_pain 
 change pulmonary_embolism diagnosis sign heart strain case pulmonary_embolism sign wave lead wave lead wave lead people diagnosis diagnosis 
 people lung condition value 
 sign sinus tachycardia right axis deviation bundle branch block tachycardia people pulmonary_embolism 

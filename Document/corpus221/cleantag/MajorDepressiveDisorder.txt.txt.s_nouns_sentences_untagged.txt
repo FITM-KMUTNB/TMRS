@@ -1,0 +1,215 @@
+encyclopedia|NN major_depressive_disorder|DS jump|NN navigation|NN jump|NN search|NN type|NN major_depressive_disorder|DS mood|NN disorder|NN 
+major_depressive_disorder|DS mood|NN 
+major_depressive_disorder|DS name|NN major_depressive_disorder|DS major_depressive_disorder|DS major_depressive_disorder|DS major_depressive_disorder|DS major_depressive_disorder|DS van|NN alter|NN vincent|NN van|NN paint|NN man|NN gate|NN psychiatry|NN symptom|NN mood|NN loss|NN interest|NN activity|NN energy|NN pain|ST cause|NN complication|NN suicide|NN onset|NN duration|NN week|NN cause|NN factor|NN factor|NN family|NN history|NN life|NN change|NN medication|NN health|NN problem|NN substance|NN abuse|NN diagnosis|NN disorder|NN sadness|NN treatment|NN medication|NN therapy|NN exercise|NN frequency|NN 
+major_depressive_disorder|DS major_depressive_disorder|DS major_depressive_disorder|DS disorder|NN week|NN mood|NN situation|NN loss|NN interest|NN activity|NN energy|NN pain|ST cause|NN people|NN belief|NN thing|NN people|NN period|NN major_depressive_disorder|DS year|NN symptom|NN major_depressive_disorder|DS person|NN life|NN work|NN life|NN education|NN sleep|NN habit|NN health|NN adult|NN major_depressive_disorder|DS die|NN suicide|NN people|NN suicide|NN major_depressive_disorder|DS mood|NN disorder|NN 
+cause|NN combination|NN factor|NN factor|NN family|NN history|NN condition|NN life|NN change|NN medication|NN health|NN problem|NN substance|NN abuse|NN risk|NN genetics|NN diagnosis|NN major_depressive_disorder|DS person|NN experience|NN status|NN examination|NN laboratory|NN test|NN major_depressive_disorder|DS test|NN rule|NN condition|NN symptom|NN major_depressive_disorder|DS sadness|NN part|NN life|NN united|NN states|NN service|NN task|NN force|NN screen|NN major_depressive_disorder|DS age|NN review|NN routine|NN use|NN screen|NN questionnaire|NN effect|NN detection|NN treatment|NN 
+people|NN counsel|NN medication|NN effect|NN medication|NN risk|NN suicide|NN type|NN counsel|NN therapy|NN therapy|NN measure|NN therapy|NN case|NN risk|NN harm|NN self|NN person|NN 
+major_depressive_disorder|DS people|NN world|NN population|NN percentage|NN people|NN point|NN life|NN japan|NN lifetime|NN rate|NN world|NN world|NN year|NN disability|NN back_pain|DT time|NN onset|NN person|NN female|NN male|NN association|NN major_depressive_disorder|DS manual|NN disorder|NN split|NN depressive|NN neurosis|NN condition|NN adjustment|NN disorder|NN mood|NN major_depressive_disorder|DS media|NN video|NN summary|NN script|NN content|NN 
+sign|NN symptom|NN condition|NN cause|NN genetics|NN health|NN problem|NN diagnosis|NN assessment|NN criteria|NN screen|NN diagnose|NN prevention|NN management|NN medication|NN therapy|NN stimulation|NN epidemiology|NN history|NN society|NN culture|NN terminology|NN research|NN animal|NN model|NN reference|NN work|NN link|NN 
+sign|NN symptom|NN lithograph|NN woman|NN major_depressive_disorder|DS 
+major_depressive_disorder|DS person|NN family|NN relationship|NN work|NN school|NN life|NN sleep|NN habit|NN health|NN impact|NN function|NN condition|NN 
+person|NN depressive|NN episode|NN mood|NN aspect|NN life|NN inability|NN experience|NN pleasure|NN activity|NN 
+people|NN thought|NN feel|NN worthlessness|NN guilt|NN regret|NN helplessness|NN hopelessness|NN case|NN people|NN symptom|NN psychosis|DS 
+symptom|NN delusion|ST hallucination|ST symptom|NN major_depressive_disorder|DS concentration|NN memory|NN feature|NN withdrawal|NN situation|NN activity|NN sex|NN drive|NN irritability|ST thought|NN death|NN suicide|NN 
+pattern|NN person|NN sleep|NN insomnia|DT effect|NN 
+person|NN symptom|NN fatigue|ST headache|ST problem|NN complaint|NN problem|NN country|NN world|NN health|NN organization|NN criteria|NN major_depressive_disorder|DS appetite|NN weight_loss|ST appetite|NN weight_gain|ST family|NN friend|NN person|NN behavior|NN people|NN symptom|NN onset|NN forgetfulness|NN slow|NN movement|NN major_depressive_disorder|DS disorder|NN stroke|DS disease|NN disease|NN disease|NN 
+children|NN mood|NN symptom|NN age|NN situation|NN interest|NN school|NN decline|NN performance|NN 
+diagnosis|NN symptom|NN moodiness|NN 
+major_depressive_disorder|DS problem|NN 
+survey|NN major_depressive_disorder|DS lifetime|NN anxiety_disorder|DS anxiety_disorder|DS anxiety|ST symptom|NN impact|NN course|NN depressive|NN illness|NN recovery|NN risk|NN relapse|NN disability|NN suicide|NN attempt|NN rate|NN alcohol|NN drug|NN abuse|NN dependence|NN individual|NN major_depressive_disorder|DS stress|NN disorder|NN major_depressive_disorder|DS major_depressive_disorder|DS attention_deficit_hyperactivity_disorder|DS diagnosis|NN treatment|NN major_depressive_disorder|DS alcohol|NN abuse|NN personality|NN disorder|NN major_depressive_disorder|DS month|NN winter|NN disorder|NN 
+overuse|NN media|NN depressive|NN symptom|NN media|NN situation|NN mood|NN 
+major_depressive_disorder|DS pain|ST 
+pain|ST symptom|NN patient|NN patient|NN pain|ST major_depressive_disorder|DS set|NN prevalence|NN practice|NN specialty|NN clinics|NN 
+diagnosis|NN major_depressive_disorder|DS outcome|NN major_depressive_disorder|DS 
+major_depressive_disorder|DS risk|NN disease|NN risk|NN factor|NN risk|NN factor|NN smoke|NN obesity|NN 
+people|NN major_depressive_disorder|DS recommendation|NN disorder|NN risk|NN complication|NN addition|NN major_depressive_disorder|DS problem|NN care|NN cup|NN analogy|NN model|NN amount|NN person|NN person|NN predisposition|NN 
+cause|NN major_depressive_disorder|DS 
+model|NN factor|NN role|NN major_depressive_disorder|DS model|NN major_depressive_disorder|DS result|NN vulnerability|NN life|NN event|NN 
+vulnerability|NN interaction|NN nature|NN nurture|NN view|NN world|NN childhood|NN 
+childhood|NN abuse|NN risk|NN factor|NN major_depressive_disorder|DS issue|NN anxiety|ST drug|NN abuse|NN 
+childhood|NN trauma|NN severity|NN major_depressive_disorder|DS lack|NN response|NN treatment|NN length|NN illness|NN 
+illness|NN major_depressive_disorder|DS trauma|NN gene|NN control|NN susceptibility|NN genetics|NN 
+family|NN twin|NN study|NN difference|NN risk|NN major_depressive_disorder|DS factor|NN disorder|NN major_depressive_disorder|DS change|NN 
+association|NN study|NN variant|NN genome|NN risk|NN major_depressive_disorder|DS study|NN variant|NN genome|NN major_depressive_disorder|DS result|NN scientist|NN risk|NN score|NN effect|NN genome|NN score|NN order|NN person|NN liability|NN major_depressive_disorder|DS 
+score|NN proportion|NN difference|NN risk|NN major_depressive_disorder|DS 
+transporter|NN promoter|NN gene|NN allele|NN risk|NN major_depressive_disorder|DS 
+result|NN review|NN effect|NN find|NN gene|NN interaction|NN stress|NN reaction|NN axis|NN 
+effect|NN candidate|NN gene|NN major_depressive_disorder|DS combination|NN life|NN stress|NN research|NN candidate|NN gene|NN tendency|NN find|NN effort|NN interaction|NN life|NN stress|NN risk|NN major_depressive_disorder|DS health|NN problem|NN 
+major_depressive_disorder|DS condition|NN asthma|DS major_depressive_disorder|DS 
+disease|NN major_depressive_disorder|DS effect|NN quality|NN life|NN etiology|NN degeneration|NN ganglia|NN disease|NN asthma|DS major_depressive_disorder|DS result|NN major_depressive_disorder|DS 
+major_depressive_disorder|DS contraceptive|NN agent|NN drug|NN agent|NN hormone|NN agonist|NN drug|NN abuse|NN age|NN risk|NN major_depressive_disorder|DS life|NN major_depressive_disorder|DS result|NN pregnancy|NN major_depressive_disorder|DS result|NN change|NN pregnancy|NN disorder|NN type|NN major_depressive_disorder|DS change|NN sunlight|NN result|NN sunlight|NN information|NN biology|NN major_depressive_disorder|DS epigenetics|NN major_depressive_disorder|DS 
+major_depressive_disorder|DS theory|NN center|NN system|NN rhythm|NN dysfunction|NN axis|NN dysfunction|NN abnormality|NN circuit|NN 
+theory|NN efficacy|NN drug|NN major_depressive_disorder|DS theory|NN 
+theory|NN activity|NN cause|NN major_depressive_disorder|DS 
+evidence|NN theory|NN area|NN 
+depletion|NN tryptophan|NN precursor|NN monoamine|NN major_depressive_disorder|DS remission|NN relative|NN patient|NN major_depressive_disorder|DS correlation|NN major_depressive_disorder|DS risk|NN polymorphism|NN gene|NN code|NN receptor|NN link|NN 
+size|NN locus|NN activity|NN tyrosine|NN density|NN receptor|NN evidence|NN rat|NN model|NN major_depressive_disorder|DS level|NN acid|NN response|NN response|NN depressive|NN symptom|NN receptor|NN agonist|NN receptor|NN bind|NN striatum|NN polymorphism|NN receptor|NN gene|NN monoamine|NN major_depressive_disorder|DS activity|NN oxidase|NN major_depressive_disorder|DS theory|NN fact|NN depletion|NN major_depressive_disorder|DS person|NN fact|NN increase|NN level|NN monoamine|NN week|NN work|NN existence|NN pathway|NN explanation|NN lag|NN support|NN deficiency|NN monoamine|NN desensitization|NN raphe|NN result|NN activity|NN depletion|NN state|NN 
+hypothesis|NN fact|NN rat|NN lesion|NN raphe|NN depressive|NN find|NN jugular|NN patient|NN treatment|NN preference|NN carbohydrate|NN patient|NN hypothesis|NN public|NN 
+system|NN abnormality|NN level|NN sickness|NN behavior|NN overlap|NN major_depressive_disorder|DS effectiveness|NN drug|NN nsaids|NN inhibitor|NN major_depressive_disorder|DS normalization|NN level|NN treatment|NN system|NN abnormality|NN major_depressive_disorder|DS 
+axis|NN abnormality|NN major_depressive_disorder|DS association|NN major_depressive_disorder|DS frequency|NN test|NN patient|NN 
+abnormality|NN diagnosis|NN tool|NN sensitivity|NN abnormality|NN cause|NN volume|NN reduction|NN patient|NN meta-analysis|NN suppression|NN response|NN result|NN awaken|NN response|NN response|NN major_depressive_disorder|DS 
+theory|NN find|NN 
+model|NN limbic|NN model|NN hyperactivity|NN region|NN hypoactivity|NN region|NN process|NN model|NN model|NN abnormality|NN cortex|NN structure|NN result|NN major_depressive_disorder|DS model|NN hyperactivity|NN salience|NN structure|NN hypoactivity|NN structure|NN major_depressive_disorder|DS study|NN diagnosis|NN assessment|NN information|NN rate|NN scale|NN major_depressive_disorder|DS 
+assessment|NN practitioner|NN psychiatrist|NN psychologist|NN person|NN circumstance|NN history|NN symptom|NN family|NN history|NN 
+aim|NN factor|NN individual|NN mood|NN 
+assessor|NN person|NN way|NN mood|NN alcohol|NN drug|NN use|NN 
+assessment|NN state|NN examination|NN assessment|NN person|NN mood|NN thought|NN content|NN presence|NN theme|NN hopelessness|NN pessimism|NN suicide|NN absence|NN thought|NN plan|NN specialist|NN health|NN service|NN area|NN diagnosis|NN management|NN clinician|NN issue|NN country|NN health|NN examination|NN use|NN rate|NN scale|NN rate|NN scale|NN major_depressive_disorder|DS beck|NN major_depressive_disorder|DS inventory|NN suicide|NN score|NN rate|NN scale|NN major_depressive_disorder|DS satisfaction|NN indication|NN severity|NN symptom|NN time|NN period|NN person|NN point|NN depressive|NN disorder|NN diagnosis|NN rate|NN scale|NN purpose|NN 
+physician|NN physician|NN difficulty|NN major_depressive_disorder|DS physician|NN part|NN symptom|NN major_depressive_disorder|DS addition|NN patient|NN provider|NN system|NN barrier|NN 
+review|NN physician|NN case|NN study|NN 
+major_depressive_disorder|DS general|NN doctor|NN examination|NN investigation|NN rule|NN cause|NN symptom|NN 
+blood|NN test|NN thyroxine|NN hypothyroidism|NN electrolyte|NN serum|NN calcium|NN rule|NN disturbance|NN blood|NN count|NN rule|NN infection|NN disease|NN reaction|NN medication|NN alcohol|NN misuse|NN 
+level|NN cause|NN major_depressive_disorder|DS men|NN vitamin|NN level|NN level|NN vitamin|NN risk|NN major_depressive_disorder|DS 
+complaint|NN people|NN onset|NN disorder|NN alzheimers|NN disease|NN test|NN brain|NN image|NN major_depressive_disorder|DS dementia|DS scan|NN brain|NN pathology|NN symptom|NN investigation|NN episode|NN indication|NN 
+test|NN major_depressive_disorder|DS major_depressive_disorder|DS method|NN diagnosis|NN 
+factor|NN technique|NN 
+study|NN decision|NN tree|NN model|NN series|NN scan|NN activity|NN 
+subject|NN author|NN study|NN sensitivity|NN specificity|NN value|NN value|NN likelihood|NN ratio|NN 
+research|NN test|NN criteria|NN 
+criteria|NN depressive|NN condition|NN association|NN manual|NN disorder|NN world|NN health|NN organization|NN classification|NN disease|NN health|NN problem|NN name|NN depressive|NN episode|NN episode|NN depressive|NN disorder|NN episode|NN system|NN country|NN nation|NN author|NN 
+mark|NN depressive|NN symptom|NN depressive|NN symptom|NN mood|NN energy|NN depressive|NN disorder|NN diagnosis|NN depressive|NN mood|NN loss|NN activity|NN 
+symptom|NN symptom|NN week|NN extent|NN function|NN diagnosis|NN 
+major_depressive_disorder|DS mood|NN disorder|NN diagnosis|NN hinge|NN presence|NN depressive|NN episode|NN qualifier|NN episode|NN course|NN disorder|NN 
+category|NN disorder|NN depressive|NN episode|NN manifestation|NN criteria|NN depressive|NN episode|NN system|NN term|NN major_depressive_disorder|DS list|NN criteria|NN diagnosis|NN depressive|NN episode|NN term|NN episode|NN mania|ST major|NN depressive|NN episode|NN article|NN major|NN depressive|NN episode|NN 
+depressive|NN episode|NN presence|NN mood|NN week|NN symptom|NN excess|NN criteria|NN impact|NN function|NN 
+episode|NN major_depressive_disorder|DS patient|NN episode|NN mania|ST mood|NN diagnosis|NN disorder|NN 
+major_depressive_disorder|DS mania|ST mood|NN state|NN pole|NN 
+case|NN symptom|NN result|NN bereavement|NN bereavement|NN depressive|NN episode|NN mood|NN feature|NN depressive|NN episode|NN criteria|NN account|NN aspect|NN context|NN major_depressive_disorder|DS addition|NN study|NN support|NN criteria|NN convention|NN continuum|NN depressive|NN symptom|NN severity|NN duration|NN bereavement|NN exclusion|NN criterion|NN clinician|NN reaction|NN loss|NN major_depressive_disorder|DS 
+range|NN diagnose|NN mood|NN disturbance|NN brief|NN major_depressive_disorder|DS depressive|NN episode|NN depressive|NN disorder|NN symptom|NN major_depressive_disorder|DS adjustment|NN disorder|NN mood|NN mood|NN response|NN event|NN depressive|NN disorder|NN mood|NN disorder|NN childhood|NN irritability|ST tantrum|NN disorder|NN major_depressive_disorder|DS period|NN anxiety|ST major_depressive_disorder|DS irritability|ST week|NN menstruation|NN depressive|NN disorder|NN 
+subtype|NN major_depressive_disorder|DS specifier|NN addition|NN length|NN severity|NN presence|NN feature|NN 
+major_depressive_disorder|DS loss|NN pleasure|NN activity|NN failure|NN reactivity|NN quality|NN mood|NN grief|NN loss|NN worsen|NN symptom|NN morn|NN hour|NN wake|NN retardation|NN weight_loss|ST anorexia|ST guilt|NN major_depressive_disorder|DS mood|NN reactivity|NN positivity|NN weight_gain|ST appetite|NN comfort|NN sleep|NN sleepiness|NN sensation|NN heaviness|NN limb|NN paralysis|ST impairment|NN consequence|NN hypersensitivity|NN rejection|NN major_depressive_disorder|DS form|NN major_depressive_disorder|DS disturbance|NN motor|NN behavior|NN symptom|NN 
+person|NN movement|NN 
+symptom|NN schizophrenia|DS episode|NN syndrome|NN major_depressive_disorder|DS distress|NN mean|NN major_depressive_disorder|DS mania|ST anxiety|ST risk|NN suicide|NN individual|NN anxiety|ST 
+way|NN prognosis|NN depressive|NN disorder|NN major_depressive_disorder|DS onset|NN major_depressive_disorder|DS women|NN birth|NN woman|NN 
+classification|NN major_depressive_disorder|DS order|NN case|NN woman|NN pregnancy|NN major_depressive_disorder|DS onset|NN incidence|NN rate|NN mother|NN 
+mandate|NN order|NN major_depressive_disorder|DS onset|NN onset|NN pregnancy|NN month|NN delivery|NN 
+major_depressive_disorder|DS month|NN disorder|NN form|NN major_depressive_disorder|DS depressive|NN episode|NN autumn|NN winter|NN resolve|NN spring|NN 
+diagnosis|NN episode|NN month|NN time|NN period|NN 
+united|NN states|NN service|NN task|NN force|NN screen|NN adult|NN population|NN evidence|NN detection|NN people|NN major_depressive_disorder|DS treatment|NN outcome|NN screen|NN age|NN 
+review|NN screen|NN program|NN detection|NN rate|NN treatment|NN outcome|NN diagnose|NN article|NN major_depressive_disorder|DS diagnose|NN 
+major_depressive_disorder|DS diagnosis|NN diagnose|NN adjustment|NN disorder|NN mood|NN disorder|NN 
+mood|NN disturbance|NN person|NN mood|NN span|NN year|NN 
+symptom|NN major_depressive_disorder|DS people|NN episode|NN major_depressive_disorder|DS major_depressive_disorder|DS adjustment|NN disorder|NN mood|NN mood|NN disturbance|NN response|NN event|NN symptom|NN criteria|NN depressive|NN episode|NN disorder|NN disorder|NN condition|NN depressive|NN phase|NN period|NN mania|ST hypomania|NN 
+major_depressive_disorder|DS disorder|NN debate|NN individual|NN major_depressive_disorder|DS experience|NN symptom|NN mood|NN disorder|NN continuum|NN diagnose|NN fatigue|ST syndrome|NN 
+disorder|NN major_depressive_disorder|DS 
+major_depressive_disorder|DS due|NN illness|NN medication|NN substance|NN abuse|NN 
+major_depressive_disorder|DS due|NN illness|NN mood|NN disorder|NN condition|NN 
+condition|NN history|NN laboratory|NN find|NN examination|NN 
+major_depressive_disorder|DS medication|NN drug|NN abuse|NN exposure|NN toxin|NN mood|NN disorder|NN mood|NN disorder|NN prevention|NN 
+effort|NN decrease|NN rate|NN condition|NN amount|NN fish|NN risk|NN 
+intervention|NN therapy|NN therapy|NN onset|NN major_depressive_disorder|DS intervention|NN individual|NN group|NN target|NN audience|NN 
+meta-analysis|NN program|NN component|NN program|NN program|NN people|NN support|NN program|NN 
+addition|NN program|NN major_depressive_disorder|DS session|NN minute|NN combination|NN worker|NN research|NN design|NN attrition|NN rate|NN intervention|NN 
+netherlands|NN health|NN care|NN system|NN intervention|NN cope|NN major_depressive_disorder|DS course|NN people|NN major_depressive_disorder|DS 
+course|NN intervention|NN treatment|NN prevention|NN major_depressive_disorder|DS adaptability|NN population|NN result|NN risk|NN reduction|NN major_depressive_disorder|DS efficacy|NN treatment|NN management|NN article|NN management|NN major_depressive_disorder|DS 
+treatment|NN major_depressive_disorder|DS psychotherapy|NN medication|NN therapy|NN 
+psychotherapy|NN treatment|NN choice|NN medication|NN people|NN 
+institute|NN health|NN care|NN excellence|NN guideline|NN treatment|NN major_depressive_disorder|DS ratio|NN 
+guideline|NN treatment|NN combination|NN intervention|NN 
+people|NN history|NN major_depressive_disorder|DS major_depressive_disorder|DS period|NN line|NN treatment|NN major_depressive_disorder|DS intervention|NN line|NN treatment|NN major_depressive_disorder|DS 
+guideline|NN treatment|NN month|NN risk|NN relapse|NN 
+association|NN treatment|NN guideline|NN treatment|NN factor|NN severity|NN symptom|NN disorder|NN treatment|NN experience|NN patient|NN preference|NN 
+option|NN psychotherapy|NN exercise|NN therapy|NN stimulation|NN therapy|NN 
+medication|NN treatment|NN choice|NN people|NN major_depressive_disorder|DS patient|NN major_depressive_disorder|DS evidence|NN care|NN team|NN health|NN care|NN practitioner|NN result|NN routine|NN care|NN 
+treatment|NN option|NN country|NN access|NN health|NN staff|NN medication|NN psychotherapy|NN 
+development|NN health|NN service|NN country|NN major_depressive_disorder|DS phenomenon|NN world|NN evidence|NN contrary|NN condition|NN review|NN evidence|NN effectiveness|NN therapy|NN children|NN information|NN effect|NN exercise|NN major_depressive_disorder|DS 
+exercise|NN management|NN major_depressive_disorder|DS effect|NN symptom|NN exercise|NN major_depressive_disorder|DS use|NN medication|NN therapy|NN people|NN people|NN major_depressive_disorder|DS exercise|NN people|NN exercise|NN program|NN treatment|NN 
+amount|NN evidence|NN night|NN sleep|NN depressive|NN symptom|NN effect|NN day|NN 
+sleepiness|NN method|NN side|NN effect|NN mania|ST hypomania|NN 
+study|NN smoke|NN cessation|NN benefit|NN major_depressive_disorder|DS medication|NN 
+exercise|NN sleep|NN diet|NN role|NN major_depressive_disorder|DS intervention|NN area|NN method|NN 
+psychotherapy|NN individual|NN group|NN family|NN health|NN professional|NN 
+review|NN therapy|NN medication|NN term|NN effect|NN review|NN psychotherapy|NN treatment|NN treatment|NN complex|NN form|NN major_depressive_disorder|DS combination|NN medication|NN psychotherapy|NN review|NN intervention|NN intervention|NN day|NN people|NN major_depressive_disorder|DS evidence|NN therapy|NN addition|NN treatment|NN major_depressive_disorder|DS term|NN 
+psychotherapy|NN people|NN psychotherapy|NN recurrence|NN major_depressive_disorder|DS booster|NN session|NN 
+behavioral|NN therapy|NN theory|NN major_depressive_disorder|DS 
+behavioral|NN therapy|NN research|NN evidence|NN treatment|NN major_depressive_disorder|DS children|NN adolescent|NN psychotherapy|NN therapy|NN major_depressive_disorder|DS people|NN institute|NN health|NN excellence|NN medication|NN conjunction|NN therapy|NN therapy|NN family|NN therapy|NN behavioral|NN therapy|NN number|NN day|NN people|NN major_depressive_disorder|DS conjunction|NN care|NN 
+form|NN psychotherapy|NN major_depressive_disorder|DS client|NN way|NN think|NN change|NN behavior|NN 
+research|NN patient|NN major_depressive_disorder|DS adolescent|NN effect|NN episode|NN variable|NN success|NN therapy|NN adolescent|NN level|NN thought|NN hopelessness|NN thought|NN distortion|NN relapse|NN 
+behavioral|NN therapy|NN program|NN modification|NN work|NN activity|NN assistance|NN day|NN worker|NN major_depressive_disorder|DS variant|NN 
+variant|NN behavior|NN therapy|NN major_depressive_disorder|DS behavior|NN therapy|NN therapy|NN stress|NN reduction|NN program|NN major_depressive_disorder|DS symptom|NN program|NN intervention|NN youth|NN psychoanalysis|NN 
+psychoanalysis|NN school|NN thought|NN resolution|NN conflict|NN technique|NN practitioner|NN client|NN major_depressive_disorder|DS therapy|NN psychotherapy|NN tradition|NN psychoanalysis|NN meet|NN week|NN 
+person|NN problem|NN focus|NN meta-analysis|NN trial|NN psychodynamic|NN psychotherapy|NN modification|NN medication|NN major_depressive_disorder|DS major_depressive_disorder|DS adult|NN 
+result|NN study|NN effectiveness|NN people|NN major_depressive_disorder|DS evidence|NN usefulness|NN treatment|NN major_depressive_disorder|DS 
+benefit|NN researcher|NN kirsch|NN thomas|NN state|NN issue|NN trial|NN effect|NN medication|NN publication|NN effect|NN medication|NN criteria|NN significance|NN result|NN meta-analysis|NN 
+review|NN institute|NN health|NN care|NN excellence|NN evidence|NN inhibitor|NN efficacy|NN placebo|NN reduction|NN major_depressive_disorder|DS score|NN major_depressive_disorder|DS evidence|NN effect|NN major_depressive_disorder|DS review|NN trial|NN evidence|NN efficacy|NN placebo|NN 
+food|NN drug|NN administration|NN review|NN maintenance|NN trial|NN agency|NN 
+author|NN maintenance|NN treatment|NN risk|NN relapse|NN placebo|NN effect|NN major_depressive_disorder|DS placebo|NN group|NN drug|NN withdrawal|NN effect|NN 
+medication|NN dosage|NN combination|NN class|NN 
+response|NN rate|NN range|NN week|NN start|NN medication|NN improvement|NN medication|NN treatment|NN week|NN remission|NN chance|NN recurrence|NN year|NN continuation|NN people|NN major_depressive_disorder|DS medication|NN relapse|NN 
+medication|NN overdose|NN people|NN result|NN improvement|NN case|NN option|NN mechanism|NN action|NN treatment|NN evidence|NN risk|NN benefit|NN children|NN adolescent|NN 
+children|NN research|NN use|NN benefit|NN children|NN children|NN disease|NN evidence|NN effectiveness|NN major_depressive_disorder|DS dementia|DS blood|NN sodium|NN level|NN ssris|NN ssris|NN cause|NN insomnia|DT case|NN 
+oxidase|NN inhibitor|NN class|NN drug|NN interaction|NN 
+agent|NN class|NN safety|NN profile|NN oxidase|NN inhibitor|NN risk|NN interaction|NN restriction|NN 
+children|NN adolescent|NN adult|NN year|NN risk|NN ideation|NN behavior|NN ssris|NN adult|NN risk|NN 
+review|NN connection|NN risk|NN risk|NN year|NN risk|NN box|NN warn|NN united|NN states|NN medication|NN risk|NN suicide|NN patient|NN year|NN notice|NN revision|NN ministry|NN health|NN medication|NN 
+evidence|NN acid|NN fish|NN oil|NN supplement|NN level|NN acid|NN acid|NN dha|NN treatment|NN prevention|NN major_depressive_disorder|DS review|NN quality|NN evidence|NN acid|NN major_depressive_disorder|DS evidence|NN vitamin|NN supplementation|NN value|NN symptom|NN major_depressive_disorder|DS individual|NN vitamin|NN evidence|NN inhibitor|NN effect|NN major_depressive_disorder|DS lithium|NN risk|NN suicide|NN disorder|NN major_depressive_disorder|DS level|NN population|NN range|NN dosage|NN lithium|NN monitor|NN hormone|NN major_depressive_disorder|DS symptom|NN people|NN course|NN medication|NN evidence|NN stimulant|NN amphetamine|NN term|NN therapy|NN supplement|NN role|NN major_depressive_disorder|DS management|NN evidence|NN benefit|NN testosterone|NN male|NN therapy|NN 
+therapy|NN treatment|NN seizure|NN patient|NN relief|NN consent|NN line|NN intervention|NN major_depressive_disorder|DS 
+round|NN people|NN major_depressive_disorder|DS treatment|NN people|NN relapse|NN month|NN 
+effect|NN brain|NN risk|NN treatment|NN effect|NN confusion|ST memory|NN loss|NN treatment|NN option|NN women|NN 
+course|NN administration|NN time|NN week|NN patient|NN suffer|NN symptom|NN 
+anesthesia|NN muscle|NN therapy|NN application|NN way|NN electrode|NN placement|NN frequency|NN treatment|NN stimulus|NN 
+form|NN application|NN difference|NN side|NN effect|NN symptom|NN remission|NN 
+treatment|NN drug|NN therapy|NN patient|NN maintenance|NN 
+term|NN effect|NN lobe|NN term|NN effect|NN lobe|NN stimulation|NN 
+stimulation|NN stimulation|NN method|NN region|NN brain|NN major_depressive_disorder|DS major_depressive_disorder|DS evidence|NN association|NN network|NN mood|NN anxiety_disorder|DS new|NN college|NN psychiatrist|NN major_depressive_disorder|DS 
+light|NN therapy|NN major_depressive_disorder|DS symptom|NN severity|NN benefit|NN disorder|NN major_depressive_disorder|DS effect|NN 
+major_depressive_disorder|DS therapy|NN treatment|NN major_depressive_disorder|DS light|NN combination|NN wake|NN therapy|NN effect|NN response|NN control|NN treatment|NN study|NN study|NN morn|NN light|NN treatment|NN people|NN total|NN sleep|NN deprivation|NN analyse|NN quality|NN duration|NN size|NN study|NN 
+evidence|NN dance|NN movement|NN therapy|NN major_depressive_disorder|DS prognosis|NN 
+major|NN depressive|NN episode|NN time|NN 
+wait|NN list|NN reduction|NN symptom|NN month|NN meet|NN criteria|NN depressive|NN disorder|NN duration|NN episode|NN week|NN rate|NN recovery|NN month|NN 
+study|NN suffer|NN depressive|NN episode|NN life|NN lifetime|NN average|NN episode|NN population|NN study|NN episode|NN half|NN experience|NN recurrence|NN study|NN inpatient|NN source|NN recovery|NN chronicity|NN study|NN outpatient|NN episode|NN duration|NN month|NN 
+major_depressive_disorder|DS criteria|NN disorder|NN experience|NN recurrence|NN 
+proportion|NN people|NN remission|NN symptom|NN treatment|NN symptom|NN treatment|NN guideline|NN month|NN remission|NN relapse|NN 
+evidence|NN trial|NN medication|NN recovery|NN chance|NN relapse|NN placebo|NN 
+effect|NN month|NN use|NN 
+people|NN episode|NN major_depressive_disorder|DS treatment|NN order|NN major_depressive_disorder|DS 
+case|NN people|NN medication|NN rest|NN live|NN 
+case|NN outcome|NN treatment|NN symptom|NN psychosis|DS age|NN onset|NN episode|NN recovery|NN year|NN treatment|NN disorder|NN family|NN dysfunction|NN 
+individual|NN life|NN expectancy|NN major_depressive_disorder|DS part|NN patient|NN risk|NN suicide|NN rate|NN cause|NN condition|NN heart|NN disease|NN people|NN suicide|NN mood|NN disorder|NN major_depressive_disorder|DS risk|NN person|NN sense|NN hopelessness|NN major_depressive_disorder|DS borderline|NN personality|NN disorder|NN lifetime|NN risk|NN suicide|NN diagnosis|NN major_depressive_disorder|DS figure|NN men|NN women|NN suicide|NN attempt|NN women|NN estimate|NN figure|NN study|NN patient|NN 
+major_depressive_disorder|DS unemployment|NN poverty|NN major_depressive_disorder|DS cause|NN disease|NN burden|NN north|NN country|NN cause|NN 
+year|NN cause|NN disease|NN burden|NN delay|NN failure|NN treatment|NN relapse|NN failure|NN health|NN professional|NN treatment|NN barrier|NN disability|NN epidemiology|NN article|NN epidemiology|NN major_depressive_disorder|DS life|NN year|NN depressive|NN disorder|NN inhabitant|NN data|NN 
+major_depressive_disorder|DS people|NN population|NN percentage|NN people|NN point|NN life|NN japan|NN country|NN number|NN people|NN major_depressive_disorder|DS live|NN range|NN north|NN probability|NN depressive|NN episode|NN period|NN male|NN female|NN major_depressive_disorder|DS women|NN men|NN factor|NN increase|NN occurrence|NN development|NN age|NN adult|NN ratio|NN age|NN factor|NN major_depressive_disorder|DS cause|NN disability|NN 
+people|NN depressive|NN episode|NN age|NN second|NN peak|NN incidence|NN age|NN risk|NN major_depressive_disorder|DS condition|NN stroke|DS disease|NN sclerosis|NN year|NN childbirth|NN illness|NN disease|NN outcome|NN study|NN conflict|NN prevalence|NN major_depressive_disorder|DS data|NN reduction|NN age|NN group|NN disorder|NN population|NN prevalence|NN group|NN factor|NN homelessness|NN history|NN diagnose|NN major_depressive_disorder|DS go|NN back|NN hippocrates|NN article|NN history|NN major_depressive_disorder|DS 
+physician|NN syndrome|NN melancholia|NN disease|NN symptom|NN fear|NN despondency|NN time|NN ailment|NN concept|NN today|NN major_depressive_disorder|DS prominence|NN cluster|NN symptom|NN sadness|NN dejection|NN despondency|NN fear|NN anger|NN delusion|ST obsession|NN 
+term|NN major_depressive_disorder|DS verb|NN century|NN spirit|NN 
+author|NN baker|NN chronicle|NN major_depressive_disorder|DS spirit|NN author|NN sense|NN term|NN use|NN physiology|NN economics|NN 
+usage|NN symptom|NN psychiatrist|NN louis|NN dictionary|NN lower|NN function|NN melancholia|NN men|NN learn|NN brilliance|NN hazard|NN contemplation|NN creativity|NN 
+concept|NN association|NN century|NN women|NN caricature|NN man|NN major_depressive_disorder|DS 
+melancholia|NN term|NN major_depressive_disorder|DS currency|NN treatise|NN synonym|NN end|NN century|NN psychiatrist|NN term|NN kind|NN melancholia|NN depressive|NN state|NN 
+state|NN melancholia|NN mourn|NN paper|NN mourn|NN melancholia|NN 
+loss|NN loss|NN relationship|NN death|NN result|NN loss|NN individual|NN object|NN affection|NN process|NN cathexis|NN ego|NN 
+loss|NN result|NN symptom|NN mourn|NN world|NN ego|NN patient|NN decline|NN belief|NN blame|NN inferiority|NN unworthiness|NN life|NN experience|NN factor|NN framework|NN reaction|NN context|NN individual|NN life|NN term|NN major_depressive_disorder|DS melancholia|NN version|NN depressive|NN reaction|NN depressive|NN neurosis|NN reaction|NN conflict|NN event|NN depressive|NN type|NN psychosis|DS major|NN disorder|NN 
+century|NN researcher|NN major_depressive_disorder|DS imbalance|NN brain|NN theory|NN observation|NN effect|NN level|NN depressive|NN symptom|NN imbalance|NN theory|NN 
+term|NN term|NN bipolar|NN neurologist|NN psychiatrist|NN disciple|NN neele|NN 
+term|NN major_depressive_disorder|DS group|NN clinician|NN part|NN proposal|NN criteria|NN pattern|NN symptom|NN research|NN criteria|NN build|NN criteria|NN consistency|NN criteria|NN alteration|NN threshold|NN depressive|NN episode|NN threshold|NN category|NN episode|NN idea|NN melancholia|NN notion|NN subtype|NN 
+definition|NN major_depressive_disorder|DS find|NN view|NN 
+argument|NN return|NN diagnosis|NN melancholia|NN criticism|NN expansion|NN coverage|NN diagnosis|NN development|NN promotion|NN model|NN society|NN culture|NN president|NN condition|NN major_depressive_disorder|DS list|NN people|NN major_depressive_disorder|DS terminology|NN 
+term|NN major_depressive_disorder|DS number|NN way|NN 
+syndrome|NN mood|NN disorder|NN mood|NN 
+people|NN conceptualization|NN major_depressive_disorder|DS culture|NN 
+lack|NN certainty|NN commentator|NN debate|NN major_depressive_disorder|DS turn|NN question|NN language|NN 
+disorder|NN state|NN 
+difference|NN extent|NN major_depressive_disorder|DS illness|NN treatment|NN indicator|NN need|NN problem|NN result|NN imbalance|NN reflection|NN difference|NN understand|NN distress|NN feel|NN powerlessness|NN struggle|NN 
+diagnosis|NN country|NN china|NN 
+major_depressive_disorder|DS denial|NN major_depressive_disorder|DS culture|NN expression|NN distress|NN disorder|NN status|NN 
+professor|NN parker|NN concept|NN major_depressive_disorder|DS sadness|NN misery|NN psychiatrist|NN thomas|NN major_depressive_disorder|DS illness|NN disease|NN concern|NN field|NN psychiatry|NN phenomena|NN major_depressive_disorder|DS fact|NN construct|NN psychologist|NN james|NN hillman|NN major_depressive_disorder|DS soul|NN refuge|NN limitation|NN focus|NN gravity|NN weight|NN powerlessness|NN 
+hillman|NN attempt|NN major_depressive_disorder|DS echo|NN theme|NN resurrection|NN effect|NN demonize|NN state|NN 
+figure|NN treatment|NN major_depressive_disorder|DS due|NN stigma|NN condition|NN ignorance|NN diagnosis|NN treatment|NN 
+analysis|NN interpretation|NN letter|NN journal|NN write|NN statement|NN family|NN friend|NN personality|NN presumption|NN form|NN major_depressive_disorder|DS 
+people|NN major_depressive_disorder|DS author|NN mary|NN writer|NN henry|NN james|NN president|NN people|NN major_depressive_disorder|DS playwright|NN novelist|NN williams|NN psychologist|NN james|NN 
+major_depressive_disorder|DS 
+discussion|NN disorder|NN mood|NN disorder|NN creativity|NN discussion|NN time|NN literature|NN example|NN reflection|NN major_depressive_disorder|DS philosopher|NN mill|NN period|NN state|NN nerve|NN enjoyment|NN excitement|NN mood|NN pleasure|NN time|NN 
+poet|NN dejection|NN description|NN case|NN grief|NN pang|NN void|NN dark|NN grief|NN outlet|NN relief|NN word|NN sigh|NN tear|NN 
+writer|NN term|NN dog|NN major_depressive_disorder|DS major_depressive_disorder|DS sufferer|NN minister|NN sir|NN 
+stigma|NN major_depressive_disorder|DS contact|NN health|NN service|NN 
+opinion|NN treatment|NN health|NN professional|NN treatment|NN college|NN psychiatrist|NN college|NN practitioner|NN defeat|NN major_depressive_disorder|DS campaign|NN stigma|NN study|NN change|NN attitude|NN major_depressive_disorder|DS treatment|NN life|NN major_depressive_disorder|DS 
+major_depressive_disorder|DS year|NN age|NN increase|NN frequency|NN age|NN addition|NN risk|NN major_depressive_disorder|DS increase|NN relation|NN frailty|NN major_depressive_disorder|DS factor|NN impact|NN quality|NN life|NN adult|NN symptom|NN treatment|NN rest|NN population|NN 
+disease|NN depressive|NN symptom|NN diagnosis|NN treatment|NN number|NN drug|NN disease|NN treatment|NN study|NN ssris|NN effect|NN drug|NN inhibitor|NN effect|NN effect|NN dizziness|ST dryness|NN mouth|NN constipation|DT 
+problem|NN solve|NN therapy|NN therapy|NN effect|NN form|NN behavioral|NN therapy|NN major_depressive_disorder|DS treatment|NN evidence|NN treatment|NN rest|NN population|NN 
+risk|NN treatment|NN major_depressive_disorder|DS benefit|NN research|NN 
+scan|NN patient|NN major_depressive_disorder|DS number|NN difference|NN brain|NN structure|NN 
+meta-analyses|NN study|NN major_depressive_disorder|DS control|NN patient|NN volume|NN ventricle|NN gland|NN volume|NN ganglia|NN thalamus|NN hippocampus|NN lobe|NN cortex|NN gyrus|NN patient|NN age|NN onset|NN development|NN theory|NN major_depressive_disorder|DS 
+trial|NN effect|NN toxin|NN major_depressive_disorder|DS 
+idea|NN drug|NN person|NN look|NN feedback|NN face|NN result|NN effect|NN placebo|NN effect|NN 
+food|NN drug|NN administration|NN phase|NN study|NN treatment|NN major_depressive_disorder|DS breakthrough|NN therapy|NN animal|NN model|NN information|NN animal|NN major_depressive_disorder|DS information|NN animal|NN model|NN major_depressive_disorder|DS 
+model|NN major_depressive_disorder|DS animal|NN purpose|NN study|NN major_depressive_disorder|DS model|NN swim|NN test|NN tail|NN suspension|NN test|NN helplessness|NN model|NN 
+criteria|NN major_depressive_disorder|DS animal|NN expression|NN despair|NN change|NN anhedonia|ST criteria|NN major_depressive_disorder|DS animal|NN guilt|NN 

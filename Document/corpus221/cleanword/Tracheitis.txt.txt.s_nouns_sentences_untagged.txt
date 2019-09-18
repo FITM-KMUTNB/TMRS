@@ -9,7 +9,7 @@ image side right image vice
 anatomy trachea 
 tracheitis tracheitis trachea part tract tracheitis infection 
 symptom cause diagnosis treatment reference link 
-croup cough infection sound feel throat chest pain fever ear ache headache light breath 
+croup cough infection sound feel throat chest_pain fever ear ache headache light breath 
 tracheitis infection trachea airway obstruction 
 cause staphylococcus aureus infection 
 tracheitis complication influenza infection children size trachea 

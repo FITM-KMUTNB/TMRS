@@ -1,0 +1,30 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN hepatomegaly|DS tomography|NN hepatomegaly|DS specialty|NN cause|NN liver|NN abscess|NN abscess|NN malaria|DS method|NN treatment|NN 
+hepatomegaly|DS condition|NN liver|NN sign|NN cause|NN infection|NN disorder|NN 
+hepatomegaly|DS mass|NN 
+cause|NN jaundice|DT content|NN 
+sign|NN symptom|NN cause|NN drug|NN alcohol|NN mechanism|NN diagnosis|NN treatment|NN reference|NN read|NN link|NN 
+sign|NN symptom|NN 
+symptom|NN hepatomegaly|DS individual|NN weight_loss|ST appetite|NN lethargy|NN jaundice|DT bruise|ST cause|NN 
+cause|NN hepatomegaly|DS infective|NN 
+fever|ST mononucleosis|NN hepatitis|DS liver|NN abscess|NN abscess|NN malaria|DS infection|NN cyst|NN 
+carcinoma|NN lymphoma|NN 
+cirrhosis|DS cholangitis|NN 
+storage|NN disease|NN wilsons|NN disease|NN pick|NN disease|NN liver|NN disease|NN storage|NN disease|NN 
+drug|NN alcohol|NN 
+alcohol|NN abuse|NN hepatitis|DS 
+anemia|DS liver|NN disease|NN sickle_cell_disease|DS fructose|NN intolerance|NN 
+syndrome|NN syndrome|NN deficiency|NN 
+mechanism|NN hepatomegaly|DS inflammation|NN cause|NN origin|NN deposition|NN cell|NN cell|NN content|NN iron|NN hemochromatosis|NN hemosiderosis|NN fat|NN liver|NN disease|NN diagnosis|NN liver|NN plane|NN line|NN measurement|NN lobe|NN liver|NN line|NN age|NN 
+suspicion|NN hepatomegaly|DS history|NN examination|NN liver|NN span|NN 
+liver|NN dimension|NN plane|NN view|NN line|NN adult|NN dimension|NN adult|NN dimension|NN depth|NN lobe|NN disease|NN 
+plane|NN lobe|NN rest|NN liver|NN 
+scan|NN hepatomegaly|DS axis|NN line|NN 
+blood|NN test|NN series|NN impression|NN patient|NN picture|NN 
+blood|NN test|NN liver|NN disease|NN obstruction|NN liver|NN system|NN characteristics|NN liver|NN 
+tomography|NN information|NN individual|NN hepatomegaly|DS purpose|NN diagnosis|NN treatment|NN 
+treatment|NN hepatomegaly|DS cause|NN liver|NN enlargement|NN diagnosis|NN concern|NN 
+case|NN liver|NN disease|NN treatment|NN 
+case|NN lymphoma|NN treatment|NN option|NN chemotherapy|NN radiotherapy|NN surgery|NN option|NN situation|NN 
+group|NN conjugate|NN vaccine|NN case|NN 
+cirrhosis|DS acid|NN bile|NN survival|NN individual|NN 
+liver|NN function|NN test|NN 

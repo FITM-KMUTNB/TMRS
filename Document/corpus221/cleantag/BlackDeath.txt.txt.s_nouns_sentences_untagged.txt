@@ -1,0 +1,153 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN black_death|DS 
+spread|NN black_death|DS east|NN 
+black_death|DS black_death|DS black_death|DS black_death|DS pandemics|NN history|NN death|NN people|NN bacterium|NN result|NN form|NN black_death|DS cause|NN black_death|DS outbreak|NN black_death|DS second|NN black_death|DS black_death|DS number|NN upheaval|NN effect|NN course|NN history|NN 
+black_death|DS plain|NN silk|NN road|NN flea|NN rat|NN merchant|NN ship|NN basin|NN 
+black_death|DS population|NN total|NN black_death|DS world|NN population|NN century|NN year|NN world|NN population|NN level|NN black_death|DS outbreak|NN century|NN 
+chronology|NN origin|NN disease|NN outbreak|NN outbreak|NN sign|NN symptom|NN cause|NN evidence|NN explanation|NN consequence|NN death|NN toll|NN black_death|DS name|NN reference|NN read|NN link|NN 
+chronology|NN origin|NN disease|NN article|NN black_death|DS migration|NN 
+black_death|DS disease|NN pestis|NN population|NN flea|NN ground|NN rodent|NN marmot|NN area|NN western|NN north|NN climate|NN change|NN rodent|NN grassland|NN area|NN disease|NN grave|NN inscription|NN black_death|DS epidemiologist|NN outbreak|NN epidemic|NN china|NN geneticist|NN wave|NN black_death|DS china|NN 
+conquest|NN china|NN decline|NN farm|NN trade|NN 
+recovery|NN century|NN 
+number|NN disaster|NN black_death|DS famine|NN start|NN black_death|DS epidemics|NN black_death|DS year|NN 
+disease|NN silk|NN road|NN army|NN trader|NN ship|NN end|NN report|NN black_death|DS seaport|NN mesopotamia|NN body|NN 
+black_death|DS trader|NN port|NN city|NN siege|NN city|NN army|NN beg|NN army|NN disease|NN army|NN corpse|NN city|NN wall|NN inhabitant|NN 
+trader|NN black_death|DS ship|NN south|NN north|NN hypothesis|NN condition|NN war|NN famine|NN weather|NN severity|NN black_death|DS 
+outbreak|NN year|NN town|NN port|NN seacoast|NN county|NN country|NN inhabitant|NN 
+length|NN people|NN person|NN sort|NN 
+baker|NN chronicon|NN 
+introduction|NN 
+black_death|DS galley|NN island|NN 
+outbreak|NN week|NN entry|NN point|NN 
+end|NN galley|NN 
+disease|NN spread|NN northwest|NN june|NN spread|NN east|NN north|NN 
+ship|NN spread|NN iceland|NN russia|NN 
+black_death|DS part|NN trade|NN relation|NN majority|NN country|NN part|NN netherlands|NN village|NN continent|NN 
+researcher|NN black_death|DS rat|NN population|NN 
+disease|NN rodent|NN carrier|NN flea|NN outbreak|NN process|NN 
+outbreak|NN year|NN period|NN area|NN black_death|DS gerbil|NN outbreak|NN 
+black_death|DS region|NN east|NN depopulation|NN change|NN structure|NN 
+china|NN trade|NN post|NN republic|NN 
+rodent|NN rodent|NN disease|NN spread|NN region|NN russia|NN 
+autumn|NN black_death|DS port|NN trade|NN port|NN sea|NN 
+disease|NN north|NN coast|NN city|NN acre|NN damascus|NN 
+disease|NN 
+resident|NN north|NN journey|NN 
+year|NN record|NN city|NN epidemic|NN city|NN round|NN disease|NN 
+sign|NN symptom|NN hand|NN gangrene|NN finger|NN black_death|DS skin|NN flesh|NN bubo|NN thigh|NN person|NN black_death|DS 
+lymph|NN gland|NN neck|NN armpit|NN groin|NN region|NN black_death|DS victim|NN 
+account|NN black_death|DS 
+symptom|NN appearance|NN groin|NN neck|NN armpit|NN pus|NN description|NN 
+men|NN women|NN emergence|NN groin|NN armpit|NN apple|NN egg|NN 
+part|NN body|NN direction|NN form|NN malady|NN spot|NN appearance|NN case|NN arm|NN thigh|NN minute|NN 
+token|NN death|NN spot|NN 
+detail|NN description|NN token|NN death|NN discharge|ST recovery|NN 
+fever|ST vomit|NN blood|NN 
+victim|NN day|NN infection|NN 
+spot|NN flea-bites|NN sign|NN black_death|DS 
+account|NN master|NN cardinal|NN black_death|DS form|NN disease|NN lung|NN problem|NN black_death|DS 
+black_death|DS form|NN 
+people|NN infection|NN lung|NN breath|NN difficulty|NN 
+corruption|NN contamination|NN extent|NN escape|NN day|NN 
+form|NN boil|NN armpit|NN form|NN people|NN groin|NN 
+cause|NN rat|NN flea|NN blood|NN 
+flea|NN vector|NN transmission|NN organism|NN black_death|DS black_death|DS epidemics|NN 
+male|NN flea|NN blood|NN infection|NN 
+rat|NN flea|NN bacterium|NN mass|NN gut|NN 
+proventriculus|NN flea|NN pestis|NN flea|NN attempt|NN host|NN pestis|NN wound|ST infection|NN 
+pestis|NN magnification|NN bacterium|NN black_death|DS 
+knowledge|NN age|NN 
+account|NN time|NN faculty|NN paris|NN report|NN king|NN heaven|NN form|NN conjunction|NN planet|NN pestilence|NN air|NN report|NN series|NN black_death|DS tract|NN advice|NN sufferer|NN 
+black_death|DS air|NN theory|NN 
+miasma|NN theory|NN 
+word|NN black_death|DS significance|NN time|NN recurrence|NN outbreak|NN age|NN name|NN term|NN 
+importance|NN hygiene|NN century|NN street|NN animal|NN sort|NN parasite|NN 
+disease|NN condition|NN 
+development|NN result|NN black_death|DS establishment|NN idea|NN quarantine|NN outbreak|NN 
+explanation|NN black_death|DS black_death|DS theory|NN outbreak|NN pestis|NN epidemic|NN china|NN 
+investigation|NN pathogen|NN black_death|DS team|NN scientist|NN hong|NN french-swiss|NN pathogen|NN mechanism|NN pestis|NN bite|NN flea|NN day|NN host|NN 
+blockage|NN result|NN starvation|NN feed|NN behaviour|NN flea|NN blockage|NN regurgitation|NN black_death|DS bacteria|NN feed|NN site|NN host|NN 
+black_death|DS mechanism|NN population|NN rodent|NN disease|NN act|NN host|NN disease|NN lack|NN resistance|NN 
+population|NN flea|NN host|NN people|NN epidemic|NN 
+historian|NN francis|NN pestilence|NN form|NN black_death|DS 
+epidemiology|NN black_death|DS black_death|DS edition|NN rat|NN flea|NN process|NN interpretation|NN epidemics|NN black_death|DS empire|NN ce|NN 
+estimate|NN mortality|NN rate|NN black_death|DS introduction|NN antibiotics|NN region|NN symptom|NN disease|NN fever|ST headache|ST joint|NN nausea|ST vomit|NN feel|NN malaise|ST 
+contract|NN black_death|DS percent|NN day|NN black_death|DS mortality|NN rate|NN percent|NN 
+symptom|NN fever|ST cough|ST sputum|ST 
+disease|NN sputum|ST red|NN 
+black_death|DS form|NN mortality|NN rate|NN 
+symptom|NN fever|ST skin|NN coagulation|NN 
+case|NN pneumonic|NN black_death|DS progress|NN disease|NN time|NN development|NN lymph|NN node|NN 
+number|NN theory|NN disease|NN black_death|DS scientist|NN explanation|NN 
+evidence|NN skeleton|NN grave|NN martigues|NN evidence|NN strain|NN organism|NN black_death|DS 
+black_death|DS black_death|DS 
+journal|NN paper|NN team|NN investigation|NN role|NN pestis|NN black_death|DS identification|NN 
+presence|NN chain|NN reaction|NN technique|NN tooth|NN socket|NN skeleton|NN grave|NN black_death|DS resurgence|NN 
+author|NN research|NN analyse|NN south|NN debate|NN cause|NN black_death|DS pestis|NN agent|NN epidemic|NN black_death|DS age|NN 
+study|NN pestis|NN genome|NN mass|NN grave|NN 
+isolate|NN pestis|NN strain|NN black_death|DS wave|NN 
+survey|NN black_death|DS pit|NN variant|NN port|NN year|NN spring|NN country|NN epidemics|NN 
+survey|NN black_death|DS pit|NN town|NN zoom|NN pestis|NN genotype|NN spread|NN country|NN zoom|NN part|NN netherlands|NN second|NN wave|NN black_death|DS country|NN city|NN site|NN 
+result|NN study|NN 
+evidence|NN black_death|DS victim|NN east|NN burial|NN site|NN al|NN black_death|DS variant|NN 
+study|NN nature|NN genome|NN black_death|DS victim|NN strain|NN black_death|DS strain|NN disease|NN 
+skeleton|NN century|NN black_death|DS strain|NN explanation|NN article|NN theory|NN black_death|DS 
+black_death|DS theory|NN work|NN bacteriologist|NN 
+rate|NN mortality|NN area|NN black_death|DS account|NN exaggeration|NN zoologist|NN graham|NN work|NN black_death|DS theory|NN doubt|NN identity|NN black_death|DS number|NN author|NN 
+
+account|NN black_death|DS identification|NN symptom|NN researcher|NN lack|NN statistics|NN period|NN 
+work|NN spread|NN black_death|DS estimate|NN population|NN start|NN census|NN time|NN publication|NN domesday|NN book|NN year|NN estimate|NN black_death|DS victim|NN figure|NN clergy|NN 
+addition|NN rat|NN population|NN black_death|DS sceptics|NN black_death|DS theory|NN point|NN symptom|NN black_death|DS account|NN black_death|DS transference|NN flea|NN good|NN significance|NN result|NN sample|NN mass|NN grave|NN argument|NN lack|NN account|NN death|NN rat|NN outbreak|NN black_death|DS century|NN temperature|NN survival|NN flea|NN transport|NN system|NN spread|NN black_death|DS black_death|DS mortality|NN rate|NN black_death|DS black_death|DS disease|NN black_death|DS area|NN pattern|NN black_death|DS outbreak|NN area|NN year|NN black_death|DS decade|NN 
+archaeologist|NN process|NN rat|NN remain|NN author|NN simonds|NN infection|NN model|NN rat|NN 
+rat|NN flea|NN 
+spread|NN black_death|DS way|NN epidemic|NN infection|NN possibility|NN green|NN attention|NN range|NN animal|NN transmission|NN black_death|DS skin|NN lesion|NN 
+variety|NN alternative|NN 
+cause|NN form|NN anthrax|NN cantor|NN combination|NN anthrax|NN pandemics|NN 
+form|NN disease|NN black_death|DS 
+archaeologist|NN barney|NN evidence|NN extinction|NN number|NN rat|NN record|NN waterfront|NN black_death|DS spread|NN thesis|NN pestis|NN flea|NN rat|NN transmission|NN person|NN person|NN theory|NN research|NN transmission|NN body|NN lice|NN flea|NN second|NN black_death|DS 
+alternative|NN solution|NN acceptance|NN scholar|NN agent|NN extent|NN symptom|NN combination|NN black_death|DS disease|NN typhus|NN smallpox|DS infection|NN 
+addition|NN infection|NN point|NN septicemic|NN type|NN blood|NN poison|NN black_death|DS lung|NN rest|NN body|NN form|NN black_death|DS duration|NN outbreak|NN season|NN help|NN account|NN mortality|NN rate|NN symptom|NN health|NN result|NN examination|NN body|NN area|NN period|NN hypothesis|NN consequence|NN article|NN consequence|NN black_death|DS death|NN toll|NN citizen|NN black_death|DS victim|NN 
+figure|NN death|NN toll|NN rate|NN locality|NN 
+population|NN outbreak|NN duration|NN period|NN mortality|NN people|NN historian|NN 
+trend|NN research|NN figure|NN population|NN period|NN 
+amount|NN variation|NN 
+mediterranean|NN area|NN south|NN black_death|DS year|NN population|NN 
+
+death|NN rate|NN historian|NN 
+study|NN mortality|NN data|NN point|NN feature|NN relation|NN mortality|NN black_death|DS level|NN mortality|NN black_death|DS similarity|NN consistency|NN level|NN mortality|NN 
+data|NN black_death|DS cent|NN population|NN 
+size|NN population|NN time|NN 
+people|NN black_death|DS 
+estimate|NN east|NN time|NN death|NN rate|NN black_death|DS population|NN half|NN population|NN people|NN 
+population|NN florence|NN inhabitant|NN 
+population|NN bremen|NN percentage|NN disease|NN people|NN report|NN account|NN burial|NN pit|NN response|NN number|NN investigation|NN burial|NN pit|NN individual|NN grave|NN burial|NN time|NN settlement|NN black_death|DS spread|NN physician|NN government|NN authority|NN time|NN origin|NN population|NN 
+city|NN population|NN disease|NN area|NN area|NN contagion|NN 
+monk|NN priest|NN victim|NN black_death|DS black_death|DS persecution|NN black_death|DS dance|NN death|NN allegory|NN universality|NN death|NN paint|NN motif|NN period|NN 
+fanaticism|NN wake|NN black_death|DS 
+group|NN friar|NN foreigner|NN beggar|NN pilgrim|NN leper|NN think|NN crisis|NN 
+individual|NN skin|NN disease|NN acne|DS psoriasis|NN 
+healer|NN loss|NN cause|NN force|NN earthquake|NN poison|NN well|NN reason|NN black_death|DS emergence|NN government|NN response|NN crisis|NN cause|NN 
+mechanism|NN infection|NN transmission|NN disease|NN century|NN people|NN epidemic|NN punishment|NN god|NN sin|NN 
+belief|NN idea|NN cure|NN disease|NN god|NN forgiveness|NN 
+attack|NN community|NN massacre|NN august|NN community|NN 
+community|NN massacre|NN 
+period|NN welcome|NN king|NN article|NN second|NN black_death|DS black_death|DS people|NN 
+black_death|DS century|NN black_death|DS year|NN pandemic|NN year|NN 
+outbreak|NN retreat|NN century|NN century|NN parker|NN people|NN black_death|DS epidemic|NN 
+absence|NN census|NN figure|NN historian|NN range|NN population|NN figure|NN population|NN figure|NN end|NN black_death|DS 
+year|NN outbreak|NN half|NN century|NN outbreak|NN population|NN death|NN rate|NN black_death|DS outbreak|NN black_death|DS black_death|DS riot|NN course|NN black_death|DS people|NN population|NN 
+people|NN black_death|DS paris|NN century|NN black_death|DS paris|NN cent|NN time|NN black_death|DS year|NN russia|NN disease|NN country|NN time|NN black_death|DS epidemics|NN population|NN year|NN population|NN black_death|DS time|NN black_death|DS population|NN outbreak|NN black_death|DS troop|NN movement|NN year|NN war|NN black_death|DS 
+population|NN black_death|DS outbreak|NN 
+half|NN century|NN black_death|DS victim|NN population|NN black_death|DS naples|NN inhabitant|NN death|NN incidence|NN black_death|DS black_death|DS population|NN half|NN black_death|DS epidemic|NN war|NN 
+russia|NN ally|NN black_death|DS inhabitant|NN population|NN epidemic|NN distribution|NN black_death|DS animal|NN 
+black_death|DS world|NN black_death|DS location|NN world|NN year|NN black_death|DS city|NN north|NN 
+algiers|NN inhabitant|NN black_death|DS event|NN society|NN quarter|NN century|NN 
+epidemics|NN visitation|NN black_death|DS population|NN third|NN black_death|DS article|NN black_death|DS 
+black_death|DS china|NN century|NN spread|NN continent|NN kill|NN people|NN black_death|DS outbreak|NN death|NN 
+establishment|NN health|NN department|NN research|NN black_death|DS transmission|NN rat|NN flea|NN human|NN bacillus|NN 
+north|NN black_death|DS epidemic|NN san|NN black_death|DS outbreak|NN 
+treatment|NN method|NN insecticide|NN use|NN antibiotics|NN black_death|DS vaccine|NN 
+black_death|DS bacterium|NN drug|NN resistance|NN health|NN threat|NN 
+case|NN form|NN bacterium|NN outbreak|NN outbreak|NN black_death|DS time|NN kill|NN people|NN 
+phrase|NN black_death|DS de|NN astronomer|NN poem|NN judgment|NN sun|NN feast|NN de|NN solis|NN black_death|DS conjunction|NN use|NN name|NN mor|NN epidemic|NN book|NN history|NN 
+effect|NN black_death|DS name|NN spread|NN epidemic|NN name|NN fever|ST sign|NN symptom|NN disease|NN de|NN sinthomatibus|NN physician|NN gilles|NN de|NN term|NN writer|NN black_death|DS event|NN black_death|DS pestilence|NN 
+black_death|DS black_death|DS film|NN black_death|DS gene|NN black_death|DS crisis|NN age|NN chronicle|NN florence|NN history|NN black_death|DS florence|NN death|NN doomsday|NN book|NN novel|NN science|NN fiction|NN novel|NN willis|NN thieve|NN vinegar|NN legend|NN recipe|NN immunity|NN black_death|DS disease|NN outbreak|NN black_death|DS black_death|DS doctor|NN black_death|DS doctor|NN costume|NN ring|NN ring|NN rose|NN seal|NN film|NN black_death|DS 

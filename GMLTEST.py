@@ -2,7 +2,7 @@ import networkx as nx
 import operator
 import nltk
 
-#G = nx.read_gpickle("Database/Pickle/221clean.gpickle")
+G = nx.read_gpickle("Database/Pickle/221tag.gpickle")
 #print(nx.info(G))
 #maxdistance2 = nx.single_source_dijkstra_path_length(Cooccs,'disease', weight='cost')
 #print('max2 : ', Cooccs.edges['Year', 'Baby']['cost'])
@@ -14,3 +14,14 @@ import nltk
 #    print(target_word)
 #g2 = nx.convert_node_labels_to_integers(G, first_label=0, ordering='default', label_attribute=None)
 #word_allSP = dict(nx.floyd_warshall(g2, weight='cost'))
+no = 0
+for n in G.nodes:
+
+    try:
+        if G.node[n]['tag'] == "ST":
+            print(n)
+            no += 1
+    except:
+        pass
+
+print(no)

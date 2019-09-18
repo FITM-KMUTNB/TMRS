@@ -3,7 +3,7 @@ from django.shortcuts import render
 import networkx as nx
 import sys
 sys.path.append('..')
-import DiseaseCentroid as dc
+import Tmrs as ts
 import os
 from django.template.defaulttags import register
 import json
@@ -19,12 +19,12 @@ class HomeView(TemplateView):
         query = checkgraphnode(Cooccs, query)
 
         #Find disease that proximity to keywords
-        disease, centroid = dc.disease(Cooccs, query)
-        document = dc.diseasedocument(Cooccs, disease)
+        disease, centroid, hop = ts.disease(Cooccs, query)
+        document = ts.disease_document(Cooccs, disease)
       
         #Limit five value in dictionary
         top5disease = {k: disease[k] for k in list(disease.keys())[:10]}
-        context = {'symptom' : query, 'disease' : top5disease, 'diseasehop' : None, 'centroid' : centroid, 'document' : document}
+        context = {'symptom' : query, 'disease' : top5disease, 'diseasehop' : hop, 'centroid' : centroid, 'document' : document}
         return render(request, self.template_name, context)
 
 def document(request):
@@ -47,7 +47,7 @@ def neighbor(request):
       
         if centroid and not hop:
                   
-            node, link = dc.disease_neighbors(Cooccs, centroid)
+            node, link = ts.disease_neighbors(Cooccs, centroid)
             context = dict()
             context['my_centroid'] = json.dumps(centroid)
             context['my_node'] = json.dumps(node)
@@ -57,7 +57,7 @@ def neighbor(request):
         elif centroid and hop:
             if '"' in centroid:
                 centroid = centroid.strip('"')
-            node, link = dc.disease_neighbors(Cooccs, centroid, int(hop))
+            node, link = ts.disease_neighbors(Cooccs, centroid, int(hop))
             context = dict()
             context['my_centroid'] = json.dumps(centroid)
             context['my_node'] = json.dumps(node)
@@ -70,7 +70,7 @@ def neighbor(request):
 def ReadGraph():
     global Cooccs
     #Read graph from gpickle format
-    Cooccs = nx.read_gpickle("../Database/Pickle/221clean.gpickle")
+    Cooccs = nx.read_gpickle("../Database/Pickle/221tag.gpickle")
     #Display graph information
     print(nx.info(Cooccs))
 

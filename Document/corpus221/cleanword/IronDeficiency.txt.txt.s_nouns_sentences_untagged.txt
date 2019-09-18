@@ -34,7 +34,7 @@ defect iron_deficiency rodent disorder iron metabolism cause iron_deficiency
 reason athletics iron level hemolysis destruction blood cell impact loss iron sweat urine blood loss presence blood urine amount iron sweat urine loss sweat urine production athlete body iron hemolysis sport distance runner impact feet ground 
 bleed endurance athlete 
 athlete impact body feet road hand 
-athlete sport weight loss ballet gymnastics marathon run wrestle sport diet risk iron_deficiency intake 
+athlete sport weight_loss ballet gymnastics marathon run wrestle sport diet risk iron_deficiency intake 
 survey food consumption women men age consumption food beverage 
 women age range year requirement men age consumption data government survey food consumption men women age average iron intake 
 consumption ear men minority women age year teen women 

@@ -1,8 +1,8 @@
 encyclopedia cancer jump navigation jump search pancreatic_cancer diagram position diagram position stomach 
-oncology symptom skin pain weight loss stool urine loss appetite onset year risk factor tobacco smoke obesity condition method image blood test tissue biopsy prevention smoke weight meat diet treatment surgery radiotherapy chemotherapy care year survival rate frequency death 
+oncology symptom skin pain weight_loss stool urine loss appetite onset year risk factor tobacco smoke obesity condition method image blood test tissue biopsy prevention smoke weight meat diet treatment surgery radiotherapy chemotherapy care year survival rate frequency death 
 pancreatic_cancer cell organ stomach control mass 
 cell ability part body number type pancreatic_cancer adenocarcinoma account case term pancreatic_cancer type adenocarcinoma part enzyme type cancer majority cell percent case pancreatic_cancer cell adenocarcinoma 
-sign symptom form pancreatic_cancer skin pain weight loss stool urine loss appetite symptom disease stage symptom pancreatic_cancer disease stage time diagnosis pancreatic_cancer part body 
+sign symptom form pancreatic_cancer skin pain weight_loss stool urine loss appetite symptom disease stage symptom pancreatic_cancer disease stage time diagnosis pancreatic_cancer part body 
 pancreatic_cancer age case adenocarcinoma risk factor pancreatic_cancer tobacco smoke obesity condition case smoke gene pancreatic_cancer combination image technique tomography blood test examination tissue sample biopsy disease stage stage stage screen population 
 risk pancreatic_cancer people weight consumption red meat smoker chance disease smoke rest population year pancreatic_cancer surgery radiotherapy chemotherapy care combination treatment option cancer stage surgery treatment adenocarcinoma quality life potential cure pain management medication digestion care treatment cure 
 pancreatic_cancer type death pancreatic_cancer cause death cancer kingdom united states disease world case adenocarcinoma prognosis diagnosis people year year cancer survival rate rise cancer outcome year diagnosis survival type tumor content 
@@ -39,7 +39,7 @@ location pain part tumor
 pain night time 
 case pancreatic_cancer visit hospital emergency department pain jaundice 
 people pain symptom total jaundice jaundice pain tint white eye skin pain combination urine 
-result cancer head bile duct weight loss loss appetite loss function digestion tumor organ process stomach nausea feel fullness 
+result cancer head bile duct weight_loss loss appetite loss function digestion tumor organ process stomach nausea feel fullness 
 fat constipation people adenocarcinoma time diagnosis risk factor pancreatic_cancer risk factor cancer case onset sign disease people time risk adenocarcinoma year risk 
 syndrome blood form portal blood vessel vein extremity vein body pancreatic_cancer case depression association pancreatic_cancer case hindrance management 
 depression diagnosis cancer biology disease 
@@ -90,11 +90,11 @@ image contrast color
 cross line left adenocarcinoma head 
 pancreatic_cancer adenocarcinoma duct right 
 symptom adenocarcinoma disease stage disease symptom diagnosis location cancer anatomist left right diagram head neck body end tail 
-location symptom weight loss 
+location symptom weight_loss 
 minority people disease nausea vomit feel weakness 
 head cause jaundice pain loss appetite dark urine stool 
 body tail cause pain 
-people onset type history blood vessel inflammation blood clot sign attack pancreatitis doctor pancreatic_cancer onset year symptom weight loss pain indigestion vomit sign suspicion pancreatic_cancer gallstone 
+people onset type history blood vessel inflammation blood clot sign attack pancreatitis doctor pancreatic_cancer onset year symptom weight_loss pain indigestion vomit sign suspicion pancreatic_cancer gallstone 
 image technique tomography scan diagnosis tumor contrast scan pancreatic_cancer uptake washout washout pancreatitis resonance image positron emission tomography resonance case tumor cancer liver fluid cavity examination technique 
 biopsy needle aspiration uncertainty diagnosis diagnosis removal tumor surgery 
 liver function test combination result bile duct obstruction bilirubin 

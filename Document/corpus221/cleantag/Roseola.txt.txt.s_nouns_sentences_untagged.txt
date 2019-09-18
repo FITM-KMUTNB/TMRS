@@ -1,0 +1,39 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN roseola|DS name|NN roseola|DS roseola|DS roseola|DS roseola|DS roseola|DS roseola|DS roseola|DS roseola|DS girl|NN disease|NN symptom|NN fever|ST complication|NN seizure|NN onset|NN age|NN duration|NN day|NN cause|NN herpesvirus|NN method|NN symptom|NN diagnosis|NN measle|NN rubella|DS fever|ST treatment|NN care|NN 
+roseola|DS disease|NN type|NN virus|NN infection|NN age|NN symptom|NN presentation|NN fever|ST onset|NN rash|ST fever|ST day|NN rash|ST day|NN complication|NN seizure|NN complication|NN 
+herpesvirus|NN spread|NN saliva|NN mother|NN baby|NN pregnancy|NN diagnosis|NN symptom|NN blood|NN test|NN number|NN blood|NN cell|NN 
+treatment|NN fluid|NN medication|NN fever|ST people|NN point|NN time|NN male|NN female|NN disease|NN virus|NN disease|NN system|NN health|NN problem|NN content|NN 
+sign|NN symptom|NN cause|NN prevention|NN treatment|NN history|NN name|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN 
+roseola|DS children|NN month|NN year|NN age|NN fever|ST 
+case|NN convulsion|ST seizure|NN fever|ST rise|NN body|NN temperature|NN case|NN child|NN 
+day|NN fever|ST child|NN rash|ST 
+trunk|NN torso|NN arm|NN leg|NN neck|NN 
+rash|ST day|NN contrast|NN child|NN suffer|NN measle|NN symptom|NN symptom|NN cough|ST rash|ST face|NN day|NN 
+liver|NN dysfunction|NN case|NN 
+percentage|NN children|NN sign|NN symptom|NN disease|NN 
+roseola|DS children|NN infection|NN symptom|NN infection|NN meningitis|DS measle|NN 
+case|NN seizure|NN advice|NN reassurance|NN 
+seizure|NN treatment|NN term|NN effect|NN minute|NN 
+case|NN adult|NN childhood|NN sign|NN cause|NN electron|NN micrograph|NN 
+roseola|DS human|NN herpesvirus|NN 
+variant|NN study|NN japan|NN roseola|DS 
+form|NN infant|NN age|NN 
+vaccine|NN treatment|NN roseola|DS children|NN disease|NN 
+case|NN infection|NN encephalitis|DS history|NN 
+disease|NN century|NN presentation|NN st|NN louis|NN society|NN children|NN illness|NN 
+article|NN name|NN roseola|DS infantilis|NN place|NN terminology|NN writer|NN skin|NN disease|NN description|NN disease|NN writer|NN disease|NN 
+article|NN report|NN children|NN roseola|DS note|NN condition|NN diagnosis|NN measle|NN rubella|DS note|NN fever|ST rubella|DS hour|NN fever|ST roseola|DS day|NN formation|NN rash|ST name|NN 
+section|NN citation|NN verification|NN 
+article|NN citation|NN source|NN 
+source|NN roseola|DS new|NN newspaper|NN book|NN scholar|NN template|NN message|NN country|NN local|NN name|NN language|NN name|NN roseola|DS roseola|DS 
+rash|ST republic|NN roseola|DS day|NN fever|ST roseola|DS day|NN fever|ST finland|NN roseola|DS roseola|DS roseola|DS 
+rash|ST hromnapos|NN roseola|DS roseola|DS iceland|NN measle|NN brother|NN 
+rash|ST roseola|DS japan|NN 
+rash|ST south|NN 
+rash|ST measle|NN netherlands|NN roseola|DS disease|NN philippines|NN tigdas|NN wind|NN measle|NN gor|NN 
+roseola|DS roseola|DS roseola|DS russia|NN 
+roseola|DS roseola|DS 
+measle|NN roseola|DS roseola|DS south|NN roseola|DS roseola|DS roseola|DS roseola|DS 
+rose|NN rash|ST turkey|NN alt|NN 
+roseola|DS 
+baby|NN rash|ST research|NN 

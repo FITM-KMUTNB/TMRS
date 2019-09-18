@@ -87,7 +87,7 @@ researcher williams diarrhea expulsion defense mechanism
 result delay recovery support argument research diarrhea drug people 
 diarrhea defense mechanism approach 
 type diarrhea investigation 
-infant diarrhea children blood day pain fever weight loss 
+infant diarrhea children blood day pain fever weight_loss 
 traveler food handler potential institution hospital child care center home 
 severity score aid diagnosis children diarrhea 
 diarrhea week number test 
@@ -114,7 +114,7 @@ practice effect incidence diarrhea disease population
 study number nation month life infection diarrhea disease study brazil infant time diarrhea infant month infant life year age 
 decrease risk diarrhea antibiotics management 
 case diarrhea fluid salt treatment 
-mouth rehydration therapy case diet restriction diet research limit milk children effect duration diarrhea contrary children diarrhea nutrient growth weight gain speed recovery function children adult cholera 
+mouth rehydration therapy case diet restriction diet research limit milk children effect duration diarrhea contrary children diarrhea nutrient growth weight_gain speed recovery function children adult cholera 
 bismuth situation management dehydration person rehydration solution 
 rehydration solution water dehydration 
 home solution rice water drink vegetable chicken soup salt 

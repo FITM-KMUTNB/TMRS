@@ -1,0 +1,87 @@
+encyclopedia|NN zika_virus|DS jump|NN navigation|NN jump|NN article|NN virus|NN 
+disease|NN fever|ST 
+outbreak|NN zika_virus|DS epidemic|NN 
+zika_virus|DS electron|NN micrograph|NN zika_virus|DS 
+virus|NN particle|NN diameter|NN envelope|NN core|NN 
+electron|NN micrograph|NN zika_virus|DS 
+virus|NN particle|NN diameter|NN envelope|NN core|NN zika_virus|DS model|NN chain|NN entry|NN zika_virus|DS model|NN chain|NN entry|NN virus|NN classification|NN virus|NN realm|NN family|NN genus|NN zika_virus|DS 
+zika_virus|DS zika_virus|DS member|NN virus|NN family|NN albopictus|NN name|NN forest|NN virus|NN zika_virus|DS fever|ST japanese|NN encephalitis|DS west|NN belt|NN 
+virus|NN spread|NN pacific|NN ocean|NN americas|NN zika_virus|DS epidemic|NN 
+infection|NN fever|ST zika_virus|DS disease|NN symptom|NN form|NN fever|ST treatment|NN rest|NN symptom|NN illness|NN medication|NN vaccine|NN woman|NN baby|NN 
+brain|NN malformation|NN birth_defect|DS infection|NN adult|NN syndrome|NN 
+united|NN states|NN center|NN disease|NN control|NN prevention|NN travel|NN guidance|NN country|NN use|NN precaution|NN guideline|NN women|NN travel|NN government|NN health|NN agency|NN travel|NN warn|NN republic|NN el|NN women|NN risk|NN 
+transmission|NN mosquito|NN pregnancy|NN blood|NN transfusion|NN fever|ST development|NN history|NN virus|NN isolation|NN monkey|NN evidence|NN infection|NN spread|NN americas|NN case|NN reference|NN link|NN 
+zika_virus|DS family|NN family|NN genus|NN fever|ST japanese|NN encephalitis|DS west|NN 
+zika_virus|DS genome|NN 
+virus|NN virus|NN zika_virus|DS envelope|NN envelope|NN protein|NN membrane|NN protein|NN purple|NN membrane|NN white|NN protein|NN orange|NN genome|NN center|NN virus|NN 
+genome|NN protein|NN 
+west|NN virus|NN genome|NN protein|NN protein|NN protein|NN virus|NN 
+protein|NN envelope|NN glycoprotein|NN membrane|NN host|NN cell|NN genome|NN copy|NN protein|NN 
+turn|NN membrane|NN glycoprotein|NN 
+genome|NN replication|NN make|NN genome|NN transcription|NN replication|NN genome|NN 
+study|NN hour|NN cell|NN zika_virus|DS vacuole|NN mitochondria|NN cell|NN 
+swell|NN cell|NN death|NN 
+form|NN cell|NN death|NN gene|NN expression|NN 
+protein|NN cell|NN infection|NN virus|NN attachment|NN 
+cell|NN infection|NN level|NN 
+cell|NN virus|NN reticulum|NN vacuole|NN cell|NN death|NN 
+lineage|NN lineage|NN lineage|NN study|NN virus|NN spread|NN americas|NN genotype|NN strain|NN outbreak|NN 
+strain|NN transmission|NN 
+host|NN virus|NN monkey|NN enzootic|NN cycle|NN transmission|NN human|NN 
+infection|NN human|NN area|NN 
+disease|NN spread|NN cycle|NN fever|ST virus|NN fever|ST virus|NN virus|NN togavirus|NN reason|NN arbovirus|NN mosquito|NN vector|NN urbanization|NN contact|NN blood|NN transfusion|NN reproduction|NN number|NN measure|NN transmissibility|NN zika_virus|DS 
+new|NN report|NN attention|NN spread|NN time|NN pan|NN health|NN organization|NN list|NN country|NN territory|NN zika_virus|DS transmission|NN barbados|NN bolivia|NN brazil|NN republic|NN el|NN honduras|NN panama|NN saint|NN martin|NN august|NN country|NN transmission|NN zika_virus|DS mosquito|NN distribution|NN distribution|NN 
+map|NN probability|NN occurrence|NN occurrence|NN 
+female|NN mosquito|NN daytime|NN mosquito|NN blood|NN virus|NN number|NN mosquito|NN genus|NN africanus|NN apicoargenteus|NN luteocephalus|NN vittatus|NN incubation|NN period|NN day|NN 
+extent|NN vector|NN 
+perfuscus|NN vector|NN presence|NN virus|NN material|NN lab|NN technique|NN 
+method|NN light|NN head|NN thorax|NN mosquito|NN compound|NN characteristic|NN virus|NN spectroscopy|NN 
+transmission|NN albopictus|NN tiger|NN mosquito|NN outbreak|NN country|NN vector|NN virus|NN outbreak|NN outbreak|NN person|NN virus|NN travel|NN region|NN albopictus|NN 
+risk|NN distribution|NN mosquito|NN 
+distribution|NN carrier|NN trade|NN distribution|NN continent|NN north|NN periphery|NN netherlands|NN sea|NN coast|NN mosquito|NN population|NN hill|NN evidence|NN winter|NN region|NN 
+study|NN author|NN mosquito|NN persistence|NN climate|NN zika_virus|DS week|NN infection|NN 
+virus|NN period|NN time|NN infection|NN week|NN semen|NN 
+research|NN niche|NN degree|NN change|NN precipitation|NN temperature|NN make|NN area|NN 
+temperature|NN disease|NN vector|NN range|NN north|NN 
+men|NN women|NN partner|NN case|NN transmission|NN men|NN women|NN transmission|NN country|NN chile|NN new|NN united|NN states|NN outbreak|NN 
+men|NN area|NN sex|NN month|NN return|NN virus|NN symptom|NN pregnancy|NN 
+zika_virus|DS transmission|NN pregnancy|NN delivery|NN infection|NN pregnancy|NN change|NN development|NN child|NN progression|NN infection|NN development|NN microcephaly|DS child|NN infection|NN disorder|NN adulthood|NN brain|NN abnormality|NN outbreak|NN study|NN mice|NN immunity|NN virus|NN infection|NN phenotype|NN damage|NN pregnancy|NN human|NN blood|NN transfusion|NN 
+case|NN transmission|NN blood|NN transfusion|NN brazil|NN food|NN drug|NN administration|NN screen|NN blood|NN donor|NN donor|NN week|NN risk|NN screen|NN study|NN outbreak|NN donor|NN time|NN blood|NN donation|NN 
+donor|NN symptom|NN fever|ST donation|NN sample|NN culture|NN 
+zika_virus|DS mosquito|NN cell|NN gland|NN cell|NN 
+day|NN virus|NN mosquito|NN saliva|NN 
+mosquito|NN saliva|NN skin|NN virus|NN skin|NN fibroblast|NN skin|NN cell|NN 
+pathogenesis|NN virus|NN spread|NN lymph|NN node|NN cytoplasm|NN antigen|NN cell|NN fever|ST article|NN fever|ST arm|NN 
+fever|ST zika_virus|DS disease|NN illness|NN zika_virus|DS case|NN symptom|NN fever|ST symptom|NN fever|ST eye|NN pain|ST headache|ST rash|ST symptom|NN day|NN death|NN infection|NN infection|NN pregnancy|NN cause|NN brain|NN malformation|NN baby|NN infection|NN adult|NN syndrome|NN zika_virus|DS cell|NN 
+diagnosis|NN blood|NN urine|NN saliva|NN presence|NN zika_virus|DS person|NN 
+prevention|NN mosquito|NN bite|NN area|NN disease|NN use|NN effort|NN bite|NN use|NN insect|NN repellent|NN body|NN cloth|NN mosquito|NN net|NN water|NN vaccine|NN health|NN official|NN women|NN area|NN outbreak|NN pregnancy|NN women|NN area|NN treatment|NN rest|NN symptom|NN admission|NN hospital|NN vaccine|NN development|NN article|NN zika_virus|DS vaccine|NN 
+world|NN health|NN organization|NN priority|NN vaccine|NN vaccine|NN women|NN 
+march|NN company|NN institution|NN vaccine|NN vaccine|NN year|NN 
+june|NN approval|NN trial|NN vaccine|NN march|NN vaccine|NN trial|NN 
+vaccine|NN piece|NN gene|NN zika_virus|DS envelope|NN protein|NN 
+vaccine|NN sequence|NN virus|NN infection|NN subunit|NN vaccine|NN trial|NN history|NN fever|ST epidemiology|NN zika_virus|DS outbreak|NN country|NN past|NN evidence|NN transmission|NN spread|NN spread|NN sequence|NN data|NN virus|NN isolation|NN monkey|NN 
+virus|NN rhesus|NN macaque|NN monkey|NN cage|NN forest|NN lake|NN scientist|NN fever|ST research|NN institute|NN isolation|NN mosquito|NN africanus|NN site|NN monkey|NN fever|ST researcher|NN serum|NN agent|NN evidence|NN infection|NN 
+human|NN result|NN survey|NN antibody|NN 
+part|NN outbreak|NN investigation|NN jaundice|DT fever|ST researcher|NN isolation|NN virus|NN patient|NN pathogen|NN virus|NN cause|NN infection|NN researcher|NN spread|NN 
+study|NN country|NN virus|NN population|NN region|NN case|NN infection|NN virus|NN case|NN infection|NN southeast|NN study|NN zika_virus|DS case|NN west|NN decade|NN blood|NN sample|NN zika_virus|DS antibody|NN article|NN islands|NN zika_virus|DS outbreak|NN 
+outbreak|NN outside|NN island|NN yap|NN state|NN rash|ST ross|NN river|NN disease|NN serum|NN sample|NN patient|NN phase|NN illness|NN 
+case|NN case|NN hospitalization|NN death|NN article|NN zika_virus|DS outbreak|NN 
+outbreak|NN population|NN syndrome|NN 
+spread|NN zika_virus|DS new|NN easter|NN island|NN cook|NN islands|NN case|NN 
+year|NN easter|NN island|NN case|NN 
+case|NN 
+research|NN traveler|NN country|NN 
+new|NN infection|NN rate|NN increase|NN traveler|NN 
+country|NN new|NN islands|NN islands|NN tonga|NN 
+epidemics|NN easter|NN island|NN cook|NN islands|NN new|NN americas|NN article|NN zika_virus|DS epidemic|NN image|NN baby|NN left|NN baby|NN right|NN 
+effect|NN zika_virus|DS 
+sign|NN microcephaly|DS month|NN birth|NN 
+epidemic|NN americas|NN 
+outbreak|NN brazil|NN spread|NN country|NN south|NN north|NN 
+virus|NN americas|NN end|NN year|NN cluster|NN microcephaly|DS syndrome|NN case|NN brazil|NN outbreak|NN health|NN emergency|NN concern|NN people|NN brazil|NN case|NN microcephaly|DS 
+number|NN country|NN travel|NN warn|NN outbreak|NN impact|NN tourism|NN industry|NN country|NN step|NN citizen|NN delay|NN pregnancy|NN virus|NN impact|NN development|NN summer|NN game|NN rio|NN de|NN health|NN official|NN concern|NN crisis|NN brazil|NN athlete|NN tourist|NN virus|NN 
+researcher|NN tourist|NN period|NN infection|NN tourist|NN world|NN health|NN organization|NN zika_virus|DS emergency|NN virus|NN problem|NN 
+august|NN number|NN zika_virus|DS case|NN americas|NN case|NN 
+march|NN reuters|NN blood|NN sample|NN man|NN part|NN study|NN 
+august|NN case|NN zika_virus|DS infection|NN 
+case|NN fever|ST 

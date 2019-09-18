@@ -9,7 +9,7 @@ disease outbreak town south republic village ebola_virus_disease river disease n
 sign symptom recovery death cause transmission case reservoir system evasion diagnosis laboratory test diagnosis prevention vaccine infection control equipment isolation contact trace management standard support care epidemiology west republic province society culture literature animal animal animal virus research treatment test reference link 
 sign symptom sign symptom ebola_virus_disease onset 
 length time exposure virus development symptom incubation period day day estimate model case day 
-symptom stage fever weakness appetite pain pain headache throat fever nausea pain combination vomit dehydration shortness breath chest pain headache confusion case skin rash area bump day symptom 
+symptom stage fever weakness appetite pain pain headache throat fever nausea pain combination vomit dehydration shortness breath chest_pain headache confusion case skin rash area bump day symptom 
 case bleed day symptom people blood clote mucous membrane site needle puncture case vomit blood blood blood stool skin purpura needle injection site white eye bleed tract incidence bleed tract epidemics prevention intravascular coagulation recovery death 
 recovery day symptom death day symptom blood pressure fluid loss bleed outcome blood loss death people coma end life 
 pain liver inflammation hear tiredness weakness appetite difficulty weight problem vision 

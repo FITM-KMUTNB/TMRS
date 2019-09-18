@@ -1,5 +1,5 @@
-encyclopedia jump navigation jump search myocarditis name myocarditis myocarditis microscope image myocarditis autopsy person onset heart_failure symptom breath chest pain ability heartbeat complication heart_failure arrest duration hour month cause infection infection medication toxin disorder method blood heart heart biopsy treatment heart transplant inhibitor beta blocker diuretics frequency death 
-myocarditis myocarditis inflammation heart muscle symptom shortness breath chest pain ability exercise heartbeat duration problem hour month complication heart_failure arrest 
+encyclopedia jump navigation jump search myocarditis name myocarditis myocarditis microscope image myocarditis autopsy person onset heart_failure symptom breath chest_pain ability heartbeat complication heart_failure arrest duration hour month cause infection infection medication toxin disorder method blood heart heart biopsy treatment heart transplant inhibitor beta blocker diuretics frequency death 
+myocarditis myocarditis inflammation heart muscle symptom shortness breath chest_pain ability exercise heartbeat duration problem hour month complication heart_failure arrest 
 myocarditis infection cause infection medication toxin disorder diagnosis electrocardiogram heart heart biopsy heart cause heart valve problem 
 treatment severity cause inhibitor beta blocker diuretics period exercise recovery case case heart transplant 
 case myocarditis people age male female case myocarditis death description condition content 
@@ -7,7 +7,7 @@ sign symptom cause agent mechanism diagnosis treatment surgery medicine epidemio
 sign symptom 
 sign symptom myocarditis inflammation myocardium weakness heart muscle inflammation 
 sign symptom myocarditis 
-chest pain stab character heart_failure shortness breath liver congestion heart rhythm heart death adult myocarditis case death fever fever symptom children malaise appetite pain cough 
+chest_pain stab character heart_failure shortness breath liver congestion heart rhythm heart death adult myocarditis case death fever fever symptom children malaise appetite pain cough 
 stage illness symptom work breath asthma 
 myocarditis illness patient history symptom infection fever rash pain 
 myocarditis pericarditis people myocarditis present sign symptom myocarditis time 

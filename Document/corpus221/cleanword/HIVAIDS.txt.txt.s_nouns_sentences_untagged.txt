@@ -1,7 +1,7 @@
 encyclopedia jump navigation jump search hiv/aids 
 use hiv/aids 
-hiv/aids name hiv/aids hiv/aids ribbon shape bow ribbon symbol solidarity people live hiv/aids disease symptom illness lymph node fever weight loss complication infection duration cause virus risk factor exposure blood breast milk sex method blood test prevention sex needle exchange male circumcision prophylaxis prophylaxis treatment therapy life expectancy treatment year life expectancy treatment frequency case live death 
-virus infection deficiency syndrome hiv/aids spectrum condition infection virus infection person symptom period illness period symptom infection system risk infection tuberculosis infection tumor people system symptom infection syndrome hiv/aids stage weight loss 
+hiv/aids name hiv/aids hiv/aids ribbon shape bow ribbon symbol solidarity people live hiv/aids disease symptom illness lymph node fever weight_loss complication infection duration cause virus risk factor exposure blood breast milk sex method blood test prevention sex needle exchange male circumcision prophylaxis prophylaxis treatment therapy life expectancy treatment year life expectancy treatment frequency case live death 
+virus infection deficiency syndrome hiv/aids spectrum condition infection virus infection person symptom period illness period symptom infection system risk infection tuberculosis infection tumor people system symptom infection syndrome hiv/aids stage weight_loss 
 sex sex blood transfusion needle mother child pregnancy delivery fluid saliva tear method prevention sex needle exchange program prophylaxis circumcision disease baby mother child medication cure vaccine treatment course disease life expectancy treatment diagnosis treatment survival time infection year 
 people death case time hiv/aids disease death hiv/aids disease outbreak area century hiv/aids united states center disease control prevention cause hiv/aids part decade 
 hiv/aids impact society illness source discrimination disease impact misconception hiv/aids belief contact disease subject controversy religion catholic position use prevention attention fund hiv/aids media video summary script content 
@@ -12,13 +12,13 @@ period contraction syndrome individual illness illness week exposure symptom sym
 character symptom sign hiv/aids 
 case family doctor hospital disease symptom 
 people fever risk factor infection latency 
-symptom stage latency treatment second stage history hiv/aids year year average year symptom end stage people experience fever weight loss problem muscle pain people lymphadenopathy enlargement group lymph node groin month 
+symptom stage latency treatment second stage history hiv/aids year year average year symptom end stage people experience fever weight_loss problem muscle pain people lymphadenopathy enlargement group lymph node groin month 
 individual load absence treatment hiv/aids proportion level cell helper cell therapy year individual controller group load treatment elite controller elite 
 person syndrome diagram torso symptom hiv/aids symptom hiv/aids 
 syndrome hiv/aids term cell count cell occurrence disease association hiv/aids absence treatment people hiv/aids year condition presence hiv/aids pneumonia form wast syndrome candidiasis sign tract infection 
 infection bacteria parasite system infection organism person environment infection organ system 
 people hiv/aids risk cancer sarcoma lymphoma system lymphoma cancer sarcoma cancer people second cancer lymphoma cause death people hiv/aids sign hiv/aids cancer herpesvirus cancer hiv/aids association papillomavirus conjunctival cancer layer part eyelid part eye 
-people hiv/aids symptom fever sweat night lymph node weakness weight loss diarrhea symptom present people hiv/aids symptom infection cancer transmission average act risk exposure route source exposure route chance infection blood transfusion verification childbirth child injection drug use needle stick intercourse intercourse intercourse intercourse intercourse intercourse use source intercourse man 
+people hiv/aids symptom fever sweat night lymph node weakness weight_loss diarrhea symptom present people hiv/aids symptom infection cancer transmission average act risk exposure route source exposure route chance infection blood transfusion verification childbirth child injection drug use needle stick intercourse intercourse intercourse intercourse intercourse intercourse use source intercourse man 
 route contact exposure body fluid tissue mother child pregnancy delivery transmission risk secretion saliva sputum sweat tear urine vomit blood strain condition 
 mode transmission contact person person load result treatment risk mode transmission contact people sex pattern transmission country 
 transmission united states men sex men diagnose male diagnose men diagnose men age group diagnose men men women test 
@@ -110,7 +110,7 @@ addition disease treatment risk infection adult adolescent therapy evidence tube
 world health organization recommendation nutrient requirement hiv/aids diet 
 intake micronutrient level adult intake vitamin zinc iron effect adult deficiency supplementation people nutrition deficiency system infection evidence benefit morbidity reduction mortality 
 evidence supplementation selenium evidence benefit women supplement outcome mother children mother medication transmission supplement treatment evidence vitamin supplementation children hiv/aids mortality growth medicine 
-people use form medicine effectiveness therapy evidence use medicine evidence use cannabis increase appetite weight gain death hiv/aids person 
+people use form medicine effectiveness therapy evidence use medicine evidence use cannabis increase appetite weight_gain death hiv/aids person 
 hiv/aids disease area world prognosis people count load outcome treatment average survival time infection year subtype diagnosis hiv/aids treatment survival range month prevention infection death rate life expectancy adult year population treatment infection prognosis example treatment diagnosis hiv/aids life expectancy year infant year age treatment map world life year hiv/aids inhabitant 
 
 cause death hiv/aids infection cancer result failure system risk cancer count 

@@ -1,0 +1,236 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN 
+use|NN 
+human_papillomavirus_infection|DS name|NN human_papillomavirus_infection|DS virus|NN electron|NN micrograph|NN human_papillomavirus_infection|DS wart|DS disease|NN symptom|NN wart|DS complication|NN cancer|DS cervix|NN vulva|NN vagina|NN penis|NN anus|NN mouth|NN throat|NN cause|NN human_papillomavirus_infection|DS contact|NN prevention|NN vaccine|NN frequency|NN people|NN point|NN time|NN 
+human_papillomavirus_infection|DS human_papillomavirus_infection|DS infection|NN human_papillomavirus_infection|DS human_papillomavirus_infection|DS symptom|NN people|NN human_papillomavirus_infection|DS result|NN wart|DS lesion|NN lesion|NN risk|NN cancer|DS cervix|NN vulva|NN vagina|NN penis|NN anus|NN mouth|NN throat|NN cancer|DS type|NN account|NN case|NN cancer|DS cause|NN wart|DS papillomatosis|NN 
+human_papillomavirus_infection|DS human_papillomavirus_infection|DS virus|NN papillomavirus|NN family|NN type|NN type|NN contact|NN anus|NN genital|NN factor|NN type|NN age|NN intercourse|NN partner|NN smoke|NN function|NN type|NN skin-to-skin|NN contact|NN sex|NN method|NN mother|NN baby|NN pregnancy|NN item|NN toilet|NN seat|NN type|NN cause|NN wart|DS surface|NN floor|NN people|NN type|NN human|NN 
+vaccine|NN type|NN infection|NN onset|NN activity|NN age|NN cancer|DS screen|NN test|NN pap|NN cervix|NN acid|NN cancer|DS cell|NN cancer|DS screen|NN treatment|NN outcome|NN screen|NN number|NN case|NN number|NN death|NN cancer|DS 
+infection|NN people|NN point|NN live|NN case|NN death|NN cancer|DS country|NN united|NN states|NN case|NN cancer|DS year|NN adult|NN wart|DS case|NN wart|DS time|NN nature|NN content|NN 
+sign|NN symptom|NN cancer|DS individual|NN cause|NN transmission|NN diagnosis|NN test|NN mouth|NN test|NN test|NN men|NN test|NN prevention|NN vaccine|NN treatment|NN epidemiology|NN united|NN states|NN history|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN 
+type|NN disease|NN 
+type|NN number|NN 
+type|NN infection|NN lifetime|NN individual|NN symptom|NN 
+type|NN wart|DS individual|NN 
+citation|NN type|NN wart|DS type|NN table|NN list|NN symptom|NN human_papillomavirus_infection|DS strain|NN 
+disease|NN type|NN wart|DS wart|DS wart|DS wart|DS dysplasia|NN lesion|NN cancer|DS 
+type|NN hyperplasia|NN mouth|NN mouth|NN cancer|DS cyst|NN wart|DS sample|NN test|NN report|NN laboratory|NN 
+skin|NN infection|NN infection|NN skin|NN infection|NN skin|NN growth|NN wart|DS 
+growth|NN cell|NN layer|NN skin|NN case|NN wart|DS time|NN cause|NN 
+skin|NN wart|DS childhood|NN course|NN week|NN month|NN 
+skin|NN wart|DS infection|NN number|NN stem|NN cell|NN skin|NN 
+infection|NN control|NN appearance|NN symptom|NN wart|DS 
+control|NN mean|NN individual|NN type|NN type|NN 
+study|NN infection|NN type|NN people|NN wart|DS infection|NN type|NN people|NN skin|NN 
+type|NN wart|DS 
+wart|DS hand|NN feet|NN area|NN elbow|NN knee|NN 
+wart|DS characteristic|NN surface|NN skin|NN 
+cutaneous|NN type|NN wart|DS development|NN cancer|DS 
+wart|DS sole|NN feet|NN pain|ST 
+wart|DS form|NN fingernail|NN fingernail|NN cuticle|NN 
+wart|DS location|NN wart|DS arm|NN face|NN forehead|NN 
+wart|DS flat|NN wart|DS children|NN teen|NN 
+people|NN function|NN flat|NN wart|DS development|NN cancer|DS 
+wart|DS flat|NN plantar|NN wart|DS person|NN person|NN 
+human_papillomavirus_infection|DS skin|NN area|NN infection|NN infection|NN wart|DS wart|DS wart|DS sign|NN human_papillomavirus_infection|DS 
+strain|NN wart|DS cause|NN wart|DS part|NN body|NN hand|NN feet|NN thigh|NN 
+variety|NN type|NN wart|DS type|NN account|NN case|NN total|NN type|NN contact|NN skin|NN anus|NN genital|NN infection|NN wart|DS 
+majority|NN human_papillomavirus_infection|DS symptom|NN system|NN matter|NN month|NN 
+people|NN virus|NN symptom|NN infection|NN 
+people|NN human_papillomavirus_infection|DS point|NN live|NN women|NN increase|NN incidence|NN human_papillomavirus_infection|DS age|NN individual|NN activity|NN 
+immunity|NN strain|NN 
+addition|NN wart|DS infection|NN type|NN condition|NN papillomatosis|NN wart|DS larynx|NN area|NN tract|NN wart|DS breath|NN case|NN cancer|DS 
+reason|NN surgery|NN wart|DS cancer|DS cancer|DS 
+type|NN type|NN type|NN infection|NN cancer|DS cancer|DS larynx|NN vulva|NN vagina|NN cervix|NN penis|NN anus|NN cancer|DS infection|NN tissue|NN individual|NN risk|NN cancer|DS 
+cancer|DS case|NN cancer|DS make|NN cause|NN cancer|DS cancer|DS cancer|DS case|NN incidence|NN country|NN case|NN year|NN 
+united|NN states|NN case|NN cancer|DS year|NN number|NN cancer|DS period|NN cancer|DS area|NN average|NN number|NN case|NN cervix|NN men|NN women|NN women|NN men|NN women|NN men|NN genome|NN organization|NN human_papillomavirus_infection|DS type|NN subtype|NN cancer|DS gene|NN gene|NN 
+individual|NN system|NN 
+infection|NN type|NN type|NN development|NN cancer|DS cigarette|NN smoke|NN risk|NN cancer|DS 
+cancer|DS gene|NN virus|NN gene|NN act|NN tumor|NN growth|NN transformation|NN 
+process|NN integration|NN host|NN genome|NN alteration|NN copy|NN number|NN 
+protein|NN protein|NN host|NN cell|NN 
+cell|NN growth|NN cell|NN death|NN presence|NN damage|NN protein|NN formation|NN complex|NN phosphorylation|NN turn|NN halt|NN cell|NN cycle|NN progression|NN activation|NN 
+protein|NN cell|NN cycle|NN cell|NN growth|NN survival|NN damage|NN 
+inactivation|NN cell|NN division|NN cell|NN growth|NN cell|NN survival|NN characteristics|NN cancer|DS 
+relationship|NN protein|NN protein|NN pathway|NN system|NN protein|NN 
+protein|NN degradation|NN 
+study|NN link|NN range|NN type|NN cell|NN carcinoma|NN skin|NN 
+case|NN study|NN protein|NN virus|NN apoptosis|NN light|NN cancer|DS artist|NN impression|NN cancer|DS 
+case|NN cancer|DS human_papillomavirus_infection|DS type|NN present|NN case|NN 
+type|NN strain|NN present|NN cancer|DS case|NN cancer|DS cancer|DS cancer|DS cancer|DS head|NN neck|NN 
+case|NN death|NN cancer|DS world|NN 
+human_papillomavirus_infection|DS cervix|NN system|NN cancer|DS clearance|NN subsection|NN 
+process|NN cell|NN cancer|DS people|NN time|NN decade|NN infection|NN 
+ne|NN variant|NN variant|NN cancer|DS 
+study|NN link|NN human_papillomavirus_infection|DS cancer|DS 
+percentage|NN cancer|DS risk|NN cancer|DS time|NN men|NN men|NN survey|NN difference|NN human_papillomavirus_infection|DS rate|NN men|NN sex|NN men|NN sex|NN women|NN 
+pap|NN smear|NN screen|NN cancer|DS subpopulation|NN men|NN women|NN sex|NN consensus|NN screen|NN pap|NN smear|NN cancer|DS head|NN neck|NN cancer|DS 
+infection|NN type|NN number|NN head|NN neck|NN cancer|DS association|NN tobacco|NN alcohol|NN use|NN 
+form|NN account|NN cancer|DS mouth|NN throat|NN oropharynx|NN percentage|NN united|NN states|NN brazil|NN sex|NN partner|NN risk|NN type|NN cancer|DS 
+united|NN states|NN number|NN head|NN neck|NN cancer|DS cancer|DS case|NN rate|NN cancer|DS case|NN people|NN rate|NN researcher|NN data|NN increase|NN sex|NN 
+type|NN cancer|DS men|NN women|NN 
+profile|NN head|NN neck|NN cancer|DS disease|NN lung_cancer|DS 
+evidence|NN link|NN tumor|NN tract|NN 
+agency|NN research|NN cancer|DS people|NN lung_cancer|DS form|NN antibody|NN lung_cancer|DS researcher|NN lung_cancer|DS patient|NN people|NN lung|NN disease|NN people|NN lung_cancer|DS type|NN patient|NN lung_cancer|DS patient|NN chance|NN type|NN addition|NN expression|NN protein|NN study|NN presence|NN cancer|DS precursor|NN lesion|NN study|NN brush|NN lung|NN tissue|NN case|NN presence|NN human_papillomavirus_infection|DS subject|NN cell|NN lung_cancer|DS control|NN average|NN frequency|NN lung_cancer|DS americas|NN number|NN lung_cancer|DS sample|NN heterogeneity|NN country|NN region|NN individual|NN 
+case|NN verruciformis|NN individual|NN system|NN 
+virus|NN system|NN overproduction|NN keratin|NN skin|NN cell|NN lesion|NN wart|DS horn|NN cause|NN 
+category|NN 
+cause|NN wart|DS genital|NN 
+type|NN cause|NN wart|DS papillomatosis|NN tumor|NN air|NN passage|NN 
+cause|NN cancer|DS type|NN 
+type|NN cancer|DS 
+cause|NN cancer|DS world|NN 
+united|NN states|NN cause|NN cancer|DS case|NN women|NN men|NN transmission|NN 
+risk|NN factor|NN human_papillomavirus_infection|DS age|NN intercourse|NN partner|NN smoke|NN skin-to-skin|NN contact|NN sex|NN method|NN transmission|NN sex|NN mother|NN baby|NN pregnancy|NN 
+hospital|NN disinfection|NN technique|NN set|NN equipment|NN transducer|NN period|NN communicability|NN lesion|NN 
+lesion|NN 
+type|NN mother|NN child|NN birth|NN appearance|NN disease|NN 
+lack|NN appearance|NN infection|NN virus|NN decade|NN 
+transmission|NN type|NN development|NN papillomatosis|NN 
+rate|NN case|NN children|NN united|NN states|NN rate|NN woman|NN wart|DS time|NN birth|NN risk|NN case|NN 
+infection|NN type|NN cancer|DS type|NN human_papillomavirus_infection|DS attention|NN study|NN 
+human_papillomavirus_infection|DS area|NN activity|NN 
+papilloma|NN subtype|NN mucosa|NN type|NN 
+woman|NN partner|NN year|NN year|NN probability|NN college|NN human_papillomavirus_infection|DS virus|NN area|NN genital|NN thigh|NN area|NN area|NN person|NN skin|NN 
+women|NN cervix|NN region|NN cervix|NN hand|NN 
+study|NN transmission|NN hand|NN genital|NN person|NN partner|NN 
+genital|NN hand|NN person|NN couple|NN month|NN average|NN month|NN 
+couple|NN mans|NN genital|NN hand|NN hand|NN genital|NN genital|NN hand|NN hand|NN hand|NN hand|NN source|NN transmission|NN couple|NN 
+partridge|NN report|NN men|NN fingertip|NN risk|NN rate|NN year|NN genital|NN report|NN fingertip|NN sample|NN women|NN 
+hand|NN contact|NN role|NN transmission|NN 
+fingertip|NN sample|NN women|NN start|NN fingertip|NN study|NN report|NN human_papillomavirus_infection|DS women|NN contact|NN women|NN contact|NN object|NN 
+object|NN example|NN razor|NN transmission|NN route|NN intercourse|NN human_papillomavirus_infection|DS contact|NN way|NN transmission|NN source|NN blood|NN 
+study|NN notion|NN question|NN 
+blood|NN cancer|DS patient|NN group|NN blood|NN sample|NN pediatric|NN patient|NN infection|NN sample|NN blood|NN transfusion|NN 
+transmission|NN mean|NN 
+group|NN cross|NN blood|NN sample|NN donor|NN strain|NN virus|NN sample|NN presence|NN blood|NN virus|NN blood|NN virus|NN blood|NN individual|NN 
+blood|NN concern|NN blood|NN donation|NN organization|NN cross|NN cross|NN society|NN individual|NN blood|NN surgery|NN 
+hospital|NN transmission|NN staff|NN 
+surgeon|NN room|NN subject|NN human_papillomavirus_infection|DS inhalation|NN particle|NN electrocautery|NN laser|NN ablation|NN wart|DS case|NN report|NN laser|NN surgeon|NN papillomatosis|NN laser|NN ablation|NN patient|NN microscopy|NN structure|NN type|NN protein|NN 
+human_papillomavirus_infection|DS cell|NN epithelium|NN tissue|NN virus|NN bind|NN tissue|NN tissue|NN trauma|NN segment|NN basement|NN membrane|NN process|NN hour|NN initiation|NN transcription|NN 
+antibody|NN role|NN basement|NN membrane|NN cell|NN surface|NN 
+lesion|NN proliferation|NN 
+infection|NN cell|NN host|NN virus|NN barrier|NN intercourse|NN skin|NN abrasion|ST 
+human_papillomavirus_infection|DS particle|NN result|NN degeneration|NN cell|NN 
+month|NN temperature|NN host|NN individual|NN wart|DS virus|NN 
+virus|NN genome|NN base|NN pair|NN life|NN cycle|NN differentiation|NN program|NN host|NN 
+tissue|NN micro-abrasions|NN associate|NN receptor|NN alpha|NN entry|NN cell|NN endocytosis|NN type|NN point|NN genome|NN nucleus|NN mechanism|NN copy|NN number|NN genome|NN cell|NN 
+cascade|NN host|NN layer|NN epithelium|NN 
+phylogeny|NN strain|NN migration|NN pattern|NN homo|NN population|NN 
+study|NN host|NN population|NN researcher|NN variant|NN protein|NN crystallography|NN structure|NN type|NN purple|NN peptide|NN motif|NN protein|NN cyan|NN 
+risk|NN type|NN 
+designation|NN protein|NN life|NN cycle|NN designation|NN expression|NN genome|NN frame|NN orf|NN orf|NN control|NN region|NN host|NN cell|NN promoter|NN orf|NN 
+splice|NN protein|NN transcription|NN subject|NN regulation|NN level|NN transcription|NN 
+genome|NN host|NN genome|NN disruption|NN orf|NN repression|NN 
+genome|NN integration|NN host|NN genome|NN increase|NN expression|NN proliferation|NN chance|NN malignancy|NN 
+degree|NN type|NN lesion|NN 
+role|NN cancer|DS 
+protein|NN tumor|NN suppressor|NN protein|NN cell|NN cycle|NN host|NN state|NN amplification|NN genome|NN replication|NN gene|NN expression|NN 
+association|NN host|NN protein|NN activity|NN act|NN degradation|NN 
+act|NN protein|NN 
+retinoblastoma|NN protein|NN bind|NN transcription|NN factor|NN target|NN cell|NN cycle|NN 
+proliferation|NN strain|NN cell|NN line|NN 
+rat|NN cell|NN activation|NN ra|NN 
+layer|NN host|NN epithelium|NN gene|NN protein|NN genome|NN 
+genome|NN capsid|NN event|NN redox|NN gradient|NN tissue|NN layer|NN 
+event|NN stabilize|NN infectivity|NN squame|NN host|NN epithelium|NN study|NN accumulation|NN activation|NN signal|NN cancer|DS period|NN 
+cell|NN infection|NN virus|NN 
+month|NN year|NN lesion|NN 
+time|NN infection|NN disease|NN epidemiologist|NN partner|NN source|NN infection|NN clearance|NN 
+human_papillomavirus_infection|DS people|NN action|NN consequence|NN 
+table|NN data|NN type|NN type|NN cancer|DS 
+clearance|NN rate|NN risk|NN type|NN month|NN test|NN month|NN month|NN month|NN men|NN 
+infection|NN immunity|NN source|NN infection|NN 
+study|NN couple|NN number|NN instance|NN reinfection|NN partner|NN clearance|NN 
+type|NN type|NN 
+type|NN cause|NN wart|DS type|NN lesion|NN cancer|DS 
+health|NN guideline|NN test|NN patient|NN indication|NN pap|NN test|NN result|NN 
+need|NN test|NN 
+cancer|DS institute|NN test|NN type|NN type|NN 
+test|NN type|NN type|NN cause|NN cancer|DS 
+test|NN type|NN 
+test|NN type|NN 
+test|NN human_papillomavirus_infection|DS cell|NN abnormality|NN 
+test|NN human_papillomavirus_infection|DS cell|NN part|NN body|NN 
+test|NN indication|NN test|NN women|NN test|NN result|NN cancer|DS screen|NN combination|NN test|NN women|NN age|NN 
+test|NN approval|NN life|NN technology|NN 
+uptake|NN life|NN test|NN property|NN 
+test|NN capture|NN technology|NN platform|NN method|NN strain|NN sample|NN sequence|NN kit|NN molecule|NN antibody|NN 
+generation|NN type|NN second|NN generation|NN test|NN 
+food|NN drug|NN administration|NN test|NN adjunct|NN test|NN 
+food|NN drug|NN administration|NN cobas|NN test|NN cancer|DS screen|NN test|NN type|NN rest|NN risk|NN type|NN 
+outcome|NN identification|NN pathway|NN cancer|DS information|NN novel|NN marker|NN monitor|NN event|NN smear|NN specimen|NN 
+marker|NN detection|NN lesion|NN risk|NN progression|NN screen|NN triage|NN set|NN 
+detection|NN protein|NN level|NN example|NN marker|NN 
+result|NN marker|NN cell|NN transformation|NN 
+food|NN drug|NN administration|NN assay|NN test|NN strain|NN start|NN cancer|DS mouth|NN test|NN 
+study|NN mouth|NN cell|NN sample|NN people|NN cell|NN carcinoma|NN mouth|NN 
+study|NN mouth|NN cell|NN sample|NN sample|NN transmission|NN test|NN men|NN 
+range|NN test|NN study|NN tool|NN custom|NN analysis|NN update|NN vaccine|NN people|NN clearance|NN rate|NN clearance|NN subsection|NN virology|NN risk|NN disease|NN mortality|NN cancer|DS 
+human_papillomavirus_infection|DS men|NN women|NN symptom|NN herd|NN immunity|NN cancer|DS test|NN test|NN result|NN show|NN safety|NN transmission|NN test|NN result|NN glove|NN transmission|NN infection|NN 
+study|NN men|NN type|NN type|NN cancer|DS finger|NN mouth|NN saliva|NN anus|NN urethra|ST urine|NN semen|NN blood|NN scrotum|NN penis|NN 
+kit|NN section|NN label|NN penis|NN scrotum|NN anus|NN men|NN relationship|NN women|NN virus|NN update|NN study|NN custom|NN update|NN 
+study|NN researcher|NN subject|NN urethra|ST scrotum|NN update|NN sample|NN urethra|ST rate|NN 
+study|NN shaft|NN crease|NN scrotum|NN urethra|ST anus|NN diagnosis|NN dunne|NN shaft|NN crease|NN foreskin|NN 
+study|NN subject|NN genital|NN hour|NN sample|NN urethra|ST scrotum|NN penis|NN study|NN wash|NN gap|NN study|NN hand|NN 
+study|NN skin|NN proportion|NN men|NN skin|NN grit|NN emery|NN paper|NN brush|NN preparation|NN 
+emery|NN paper|NN swab|NN 
+study|NN emery|NN paper|NN swab|NN collection|NN clinician|NN patient|NN clinician|NN update|NN women|NN success|NN tampon|NN swab|NN update|NN 
+study|NN sample|NN fingertip|NN fingernail|NN area|NN update|NN 
+study|NN urine|NN semen|NN blood|NN amount|NN test|NN 
+kind|NN infection|NN test|NN screen|NN united|NN states|NN test|NN government|NN test|NN 
+wart|DS sign|NN check|NN 
+growth|NN result|NN type|NN 
+percent|NN acid|NN vinegar|NN wart|DS neoplasia|NN lesion|NN tissue|NN doctor|NN technique|NN area|NN tract|NN 
+citation|NN time|NN test|NN male|NN research|NN 
+research|NN test|NN antibody|NN presence|NN 
+approach|NN response|NN blood|NN antibody|NN patient|NN reliability|NN test|NN product|NN august|NN test|NN blood|NN test|NN screen|NN purpose|NN 
+vaccine|NN type|NN infection|NN infection|NN age|NN 
+cancer|DS screen|NN test|NN pap|NN cervix|NN acid|NN cancer|DS cell|NN cancer|DS 
+treatment|NN outcome|NN screen|NN number|NN death|NN cancer|DS world|NN 
+method|NN chance|NN infection|NN abstinence|NN vaccination|NN vaccine|NN article|NN vaccine|NN 
+vaccine|NN infection|NN type|NN infection|NN type|NN cause|NN cancer|DS case|NN 
+type|NN cause|NN wart|DS 
+quadrivalent|NN vaccine|NN particle|NN protein|NN 
+potential|NN cancer|DS 
+type|NN cause|NN cancer|DS 
+vaccine|NN benefit|NN women|NN type|NN reason|NN vaccine|NN women|NN sex|NN 
+world|NN health|NN organization|NN position|NN paper|NN vaccination|NN strategy|NN vaccine|NN sector|NN program|NN 
+evidence|NN vaccine|NN lesion|NN women|NN vaccine|NN risk|NN event|NN impact|NN vaccine|NN cancer|DS 
+vaccine|NN shot|NN interval|NN month|NN dose|NN country|NN use|NN use|NN country|NN boy|NN 
+vaccine|NN effect|NN human_papillomavirus_infection|DS lesion|NN girl|NN vaccine|NN 
+study|NN vaccine|NN girl|NN united|NN kingdom|NN netherlands|NN vaccine|NN schedule|NN girl|NN 
+cancer|DS screen|NN recommendation|NN female|NN vaccine|NN 
+recommendation|NN women|NN screen|NN smear|NN test|NN vaccine|NN type|NN cancer|DS 
+men|NN women|NN carrier|NN vaccine|NN men|NN cancer|DS wart|DS wart|DS 
+duration|NN vaccine|NN efficacy|NN 
+vaccine|NN infection|NN strain|NN generation|NN strain|NN cancer|DS 
+center|NN disease|NN control|NN prevention|NN use|NN risk|NN human_papillomavirus_infection|DS infection|NN degree|NN protection|NN disease|NN exposure|NN area|NN skin|NN surface|NN 
+protection|NN skin|NN contact|NN 
+study|NN use|NN persistence|NN spread|NN site|NN individual|NN 
+need|NN update|NN 
+virus|NN disinfectant|NN 
+virus|NN inactivation|NN disinfectant|NN hospital|NN sodium|NN hypochlorite|NN bleach|NN type|NN equipment|NN transducer|NN result|NN difficulty|NN concern|NN possibility|NN virus|NN equipment|NN gynecological|NN equipment|NN equipment|NN health|NN authority|NN use|NN disinfection|NN oxidize|NN 
+level|NN disinfectant|NN bleach|NN label|NN claim|NN 
+hydrogen|NN peroxide|NN solution|NN chlorine|NN dioxide|NN disinfection|NN method|NN 
+treatment|NN wart|DS 
+treatment|NN human_papillomavirus_infection|DS infection|NN level|NN center|NN disease|NN control|NN prevention|NN system|NN year|NN case|NN clearance|NN subsection|NN virology|NN detail|NN expert|NN virus|NN level|NN 
+care|NN health|NN clinics|NN portion|NN 
+addition|NN method|NN phone|NN call|NN mail|NN text|NN message|NN number|NN people|NN care|NN epidemiology|NN 
+women|NN time|NN human_papillomavirus_infection|DS disease|NN world|NN united|NN states|NN prevalence|NN women|NN age|NN type|NN type|NN age|NN year|NN prevalence|NN 
+infection|NN united|NN states|NN men|NN women|NN human_papillomavirus_infection|DS point|NN live|NN health|NN association|NN point|NN lifetime|NN age|NN women|NN strain|NN year|NN human_papillomavirus_infection|DS people|NN age|NN united|NN states|NN population|NN human_papillomavirus_infection|DS infection|NN abnormality|NN infection|NN wart|DS 
+estimate|NN prevalence|NN reason|NN difference|NN study|NN report|NN women|NN infection|NN study|NN report|NN women|NN infection|NN cause|NN discrepancy|NN difference|NN strain|NN 
+study|NN time|NN women|NN type|NN 
+estimate|NN type|NN cancer|DS 
+prevalence|NN type|NN time|NN 
+human_papillomavirus_infection|DS disease|NN 
+average|NN case|NN cancer|DS year|NN period|NN cancer|DS cancer|DS average|NN case|NN year|NN total|NN total|NN cancer|DS study|NN cytology|NN sample|NN female|NN population|NN prevalence|NN type|NN 
+type|NN cancer|DS rate|NN cancer|DS 
+increase|NN rate|NN cancer|DS year|NN 
+wart|DS health|NN protection|NN surveillance|NN 
+wart|DS second|NN sty|NN case|NN wart|DS decrease|NN figure|NN rate|NN male|NN female|NN year|NN age|NN range|NN case|NN male|NN history|NN 
+association|NN human_papillomavirus_infection|DS es|NN skin_cancer|DS verruciformis|NN 
+pasteur|NN institute|NN skin|NN hypothesis|NN virus|NN role|NN cause|NN cancer|DS 
+collaborator|NN cancer|DS 
+cell|NN line|NN genome|NN type|NN research|NN 
+cohort|NN study|NN history|NN human_papillomavirus_infection|DS cancer|DS risk|NN 
+study|NN evidence|NN support|NN extract|NN garlic|NN 

@@ -1,5 +1,5 @@
-encyclopedia colorectal_cancer jump navigation jump search colorectal_cancer name colorectal_cancer colorectal_cancer colorectal_cancer stomach colon rectum diagram tract oncology symptom blood stool change bowel movement weight loss feel time cause age factor disorder factor diet obesity smoke lack activity alcohol use method tissue biopsy sigmoidoscopy colonoscopy prevention screen age treatment surgery radiation therapy chemotherapy therapy survival rate frequency death 
-colorectal_cancer colorectal_cancer colorectal_cancer colorectal_cancer development cancer colon rectum part intestine cancer growth cell ability part body sign symptom blood stool change bowel movement weight loss feel time 
+encyclopedia colorectal_cancer jump navigation jump search colorectal_cancer name colorectal_cancer colorectal_cancer colorectal_cancer stomach colon rectum diagram tract oncology symptom blood stool change bowel movement weight_loss feel time cause age factor disorder factor diet obesity smoke lack activity alcohol use method tissue biopsy sigmoidoscopy colonoscopy prevention screen age treatment surgery radiation therapy chemotherapy therapy survival rate frequency death 
+colorectal_cancer colorectal_cancer colorectal_cancer colorectal_cancer development cancer colon rectum part intestine cancer growth cell ability part body sign symptom blood stool change bowel movement weight_loss feel time 
 colorectal_cancer age factor number case disorder risk factor diet obesity smoke lack activity factor risk meat meat alcohol risk factor bowel disease disease colitis disorder colorectal_cancer polyposis non-polyposis colorectal_cancer case tumor form polyp time 
 colorectal_cancer sample colon sigmoidoscopy colonoscopy image disease screen death colorectal_cancer screen number method start age colonoscopy polyp polyp tumor biopsy 
 aspirin drug risk use purpose side effect 
@@ -8,7 +8,7 @@ sign symptom cause bowel disease genetics field defect diagnosis prevention supp
 sign symptom location appearance example tumor 
 sign symptom colorectal_cancer location tumor bowel body metastasis 
 warn sign constipation blood stool decrease stool thickness loss appetite loss weight nausea vomit year individual colorectal_cancer symptom 
-bleed symptom people age weight loss change person bowel habit cause 
+bleed symptom people age weight_loss change person bowel habit cause 
 greater colorectal_cancer people risk risk factor age male sex intake sugar alcohol meat meat obesity smoke lack exercise case activity risk alcohol drink day drink glass water day decrease risk colorectal_cancer polyp gallolyticus colorectal_cancer strain streptococcus complex people people bovisgallolyticus tumor bovisgallolyticus candidate marker prediction bowel lesion risk population presence antibody antigen antigen marker carcinogenesis colon bowel disease 
 people bowel disease colitis disease risk colorectal_cancer risk person disease severity inflammation risk group prevention aspirin colonoscopy surveillance population development colorectal_cancer diagnosis chance colorectal_cancer people bowel disease account colorectal_cancer case disease colorectal_cancer year year year people colitis cancer precursor cancer colon year genetics 
 family history relative parent risk disease group account case 

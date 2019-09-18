@@ -10,7 +10,7 @@ syndrome organ system member mean
 patient neuropathy combination 
 sign symptom nerve symptom 
 symptom year 
-trouble balance tingle extremity sensation body part dysfunction incontinence loss bladder control mouth eyelid vision change muscle weakness difficulty speech impairment muscle contraction ejaculation male pain 
+trouble balance tingle extremity sensation body part dysfunction incontinence loss bladder control mouth eyelid vision change muscle_weakness difficulty speech impairment muscle contraction ejaculation male pain 
 factor development diabetic_neuropathy disease article 
 blood vessel nerve function nerve blood flow 
 change blood vessel narrow blood vessel 
@@ -78,7 +78,7 @@ review network meta-analysis acid pain neuropathy side effect use sleepiness diz
 inhibitor guideline therapy review meta-analysis trial quality evidence benefit pain side effect dizziness nausea sleepiness inhibitor 
 placebo trial diabetic_neuropathy 
 side effect disability 
-sedation weight gain person control 
+sedation weight_gain person control 
 dosage symptom depression diabetic_neuropathy 
 treatment medication symptom side effect side effect toxicity heart rhythm 
 side effect mouth difficulty sleep sedation dosage neuropathy toxicity symptom dose complication 
@@ -95,7 +95,7 @@ light energy cytochrome oxide cell
 oxide turn result blood flow help nerve cell 
 nutrient blood area feet leg hand regeneration nerve tissue help inflammation pain area 
 therapy dependency pain drug therapy 
-physiotherapy technique symptom diabetic_neuropathy pain feet leg sensation extremity muscle cramp muscle weakness dysfunction foot 
+physiotherapy technique symptom diabetic_neuropathy pain feet leg sensation extremity muscle cramp muscle_weakness dysfunction foot 
 nerve stimulation use current effect frequency stimulation stiffness mobility pain foot ulcer 
 gait train posture train teach patient principle foot complication foot ulcer technique use mobility aid foot splint gait individual limb diabetic_neuropathy prosthesis 
 exercise program therapy muscle spasm atrophy 
