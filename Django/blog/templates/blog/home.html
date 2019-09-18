@@ -1,7 +1,9 @@
 {% extends 'base.html' %}
 <html>
+        
 <body>
 
+    
 
 {% block body %}
 
@@ -38,11 +40,16 @@
 </div>
 
 {% if symptom %}
-<h1>Symptoms : 
+
+
+<h1>
+Symptoms : 
 {% for symp in symptom %}
 {{ symp }} 
 {% endfor %}
 </h1>
+
+
 {% endif %}
 <br>
 <div class="diseasebox">
@@ -85,6 +92,7 @@ None
 
 {% if centroid %}
 
+
 <tr>
 <th colspan="4">Centroid</th>
 </tr>
@@ -92,7 +100,7 @@ None
 
 {% for c, dis in centroid.items %}
 <tr>
-<td colspan="2">
+<td class="cen" colspan="2">
 {% if c in disease %}
 <font color="red">{{ c }}</font>
 {% endif %}
@@ -100,7 +108,7 @@ None
 {{ c }}
 {% endif %}
 </td>
-<td colspan="2">
+<td class="cen" colspan="2">
 {% if c in disease %}
 <font color="red">{{ dis }}</font>
 {% endif %}
@@ -110,6 +118,7 @@ None
 </td>
 </tr>
 {% endfor %}
+
 
 
 </tr>
@@ -122,4 +131,7 @@ None
 
 
 </body>
+
+
+
 </html>
