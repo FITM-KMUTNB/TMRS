@@ -1,0 +1,102 @@
+{% extends 'base.html' %}
+<html>
+<meta charset="utf-8">
+
+<body>
+{% block body %}
+
+<ul>
+		<li>
+				<a class="logohome" href="#home">
+				<img src="/static/image/logo.png" alt="Logo"  style="width:100%">
+			</a>
+	   
+			</li>
+	<li><a href="#news">News</a></li>
+	<li><a href="#contact">Contact</a></li>
+	<li><a href="#about">About</a></li>
+  </ul>
+
+
+<br>
+<center>
+	{% if my_centroid %}
+	<form action ="." method="GET">{% csrf_token %}
+	{{ my_centroid }} Neighbors <input type="number" name="hop" min="1"> Hop
+	<input type="hidden" name="centroid" value= '{{ my_centroid }}'>
+	<button type="submit">Submit</button>
+	</form>
+	{% endif %}
+</center>      
+	
+
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript">
+            
+            var w = 1300;
+		    var h = 600;
+            my_node = {{ my_node|safe }};
+            my_link = {{ my_link|safe }};
+		    var dataset = {
+                nodes:my_node,
+                edges:my_link,
+		    };
+
+		var force = d3.layout.force()
+								.nodes(dataset.nodes)
+								.links(dataset.edges)
+								.size([w, h])
+								.linkDistance([100])
+								.charge([-150])
+								.start();
+
+		var colors = d3.scale.category10();
+		var svg = d3.select("body")
+						.append("svg")
+						.attr("width", w)
+						.attr("height", h);
+		var edges = svg.selectAll("line")
+						.data(dataset.edges)
+						.enter()
+						.append("line")
+						.style("stroke", "#ccc")
+						.style("stroke-width", 1);
+		var nodes = svg.selectAll("circle")
+						.data(dataset.nodes)
+						.enter()
+						.append("circle")
+						.attr("r", 10)
+						.style("fill", function(d, i){
+							return colors(i);
+						})
+						.call(force.drag);
+            
+		var label = svg.selectAll(".mytext")
+						.data(dataset.nodes)
+						.enter()
+						.append("text")
+					    .text(function (d) { return d.name; })
+					    .style("text-anchor", "middle")
+					    .style("fill", "#555")
+					    .style("font-family", "Arial")
+					    .style("font-size", 12);
+		
+		 
+
+		force.on("tick", function(){
+			edges.attr("x1", function(d){ return d.source.x; })
+				 .attr("y1", function(d){ return d.source.y; })
+				 .attr("x2", function(d){ return d.target.x; })
+				 .attr("y2", function(d){ return d.target.y; });
+			nodes.attr("cx", function(d){ return d.x; })
+				 .attr("cy", function(d){ return d.y; });
+			label.attr("x", function(d){ return d.x; })
+    			 .attr("y", function (d) {return d.y - 10; });
+
+			
+		});
+        
+        </script>
+{% endblock %}   
+</body>
+</html>

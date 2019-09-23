@@ -6,7 +6,7 @@
 
 header{
     height: 70px;
-    background-image: url(/static/image/back.jpg); 
+    background-color: #262626;
     position:relative;
     left: 0;
     width:100%;
@@ -16,8 +16,21 @@ header{
     
 }
 
+h1{
+
+  margin: 0;
+    font-size: 60px;
+    font-size: 3.75rem;
+    font-weight: 700;
+    color: #fff;
+
+}
+
+
+
 body{
-  background-image: url(/static/image/background.jpg);
+  background-image: url(/static/image/background1.jpg);
+  background-repeat: no-repeat;
 }
 
 
@@ -31,7 +44,7 @@ body{
 
 #logo{
     font: 48px tahoma;
-    color: rgb(5, 1, 1);
+    color: rgb(252, 252, 252);
     padding-left: 20px;
     padding-top: 5px;
     font-weight: 600;
@@ -100,7 +113,7 @@ body{
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
-    background-color: rgba(0,0,0,.7);
+    background-color: rgba(0, 0, 0, 0.7);
     color: white;
   }
 
@@ -110,15 +123,16 @@ body{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgba(0,0,0,.7);
+  background-color: rgba(0, 108, 255, 0.5);
   padding-right: 550px;
-  padding-left: 550px;
+  padding-left: 400px;
+  height: 110px;
   
 }
 
 li {
   float: left;
-  
+  margin-top: 20px;
 }
 
 li a {
@@ -131,12 +145,23 @@ li a {
   font-weight: 700;
   font-size: 18px;
   vertical-align: baseline;
+  padding-top: 20px;
 }
 
 li a:hover:not(.active) {
-  background-color: #111;
+  background-color: rgba(0, 108, 255, 0.5);
 }
 
+.logohome{
+  display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 5rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
     </style>
 
@@ -154,7 +179,7 @@ li a:hover:not(.active) {
     <title>TMRS</title>
     <center>
       <div id="logo">
-       Thai Medical Recommendation System
+      Medical Recommendation System
       </div>
     </center>
     

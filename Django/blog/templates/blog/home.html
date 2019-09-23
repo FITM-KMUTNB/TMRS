@@ -9,7 +9,14 @@
 
 
 <ul>
-        <li><a class="active" href="#home">Home</a></li>
+    
+        <li>
+            <a class="logohome" href="#home">
+            <img src="/static/image/logo.png" alt="Logo"  style="width:100%">
+        </a>
+   
+        </li>
+
         <li><a href="#news">News</a></li>
         <li><a href="#contact">Contact</a></li>
         <li><a href="#about">About</a></li>
@@ -18,6 +25,8 @@
 
 <center>
 <br><br>
+
+
 
 <div class="container">
     <div class="row">
@@ -39,6 +48,10 @@
 
 </div>
 
+
+
+
+
 {% if symptom %}
 
 
@@ -49,46 +62,49 @@ Symptoms :
 {% endfor %}
 </h1>
 
-
 {% endif %}
+
+
+
 <br>
+
 <div class="diseasebox">
-{% if disease %}
-
-<table id="table">
-<tr>
-<th>Disease</th>
-<th>Average Distance</th>
-<th>Hop Distance</th>
-<th>Document</th>
-</tr>
-
-{% for d, dis in disease.items %}
-<tr>
-<td>
-{{ d }}
-</td>
-<td>
-{{ dis }}
-</td>
-<td>
-{% if diseasehop %}
-{{ diseasehop|get_item:d }}
-{% endif %}
-{% if not diseasehop %}
-None
-{% endif %}
-</td>
-<td>
-<a href="">{{ document|get_item:d }}</a>
-
-</td>
-</tr>
-{% endfor %}
-
-
-{% endif %}
-</div>
+    {% if disease %}
+    
+    <table id="table">
+    <tr>
+    <th>Disease</th>
+    <th>Average Distance</th>
+    <th>Average Hop Distance</th>
+    <th>Document</th>
+    </tr>
+    
+    {% for d, dis in disease.items %}
+    <tr>
+    <td>
+    <a href="/neighbor/?centroid={{ d }}">{{ d }}</a>
+    </td>
+    <td>
+    {{ dis }}
+    </td>
+    <td>
+    {% if diseasehop %}
+    {{ diseasehop|get_item:d }}
+    {% endif %}
+    {% if not diseasehop %}
+    None
+    {% endif %}
+    </td>
+    <td>
+    <a href="/document/?doc={{ document|get_item:d }}">{{ document|get_item:d }}</a>
+    
+    </td>
+    </tr>
+    {% endfor %}
+    
+    
+    {% endif %}
+    </div>
 
 {% if centroid %}
 
