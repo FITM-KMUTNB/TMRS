@@ -11,9 +11,6 @@ path = dir_path+"/Document/corpus221/cleanword/"
 Node = dict()
 centroid = None
 
-print("Compute all shortest path")
-allshortestpath = dict(nx.floyd_warshall(Cooccs, weight='cost'))
-print("Done")
 
 def document(fileResult):
     print("List Text File In Directory")
@@ -57,11 +54,12 @@ def Subgraphcentroid():
     for n in Node:
         nbunch.add(n)
     
+    print(len(nbunch))
     subg = nx.subgraph(Cooccs, nbunch)
     print(len(subg))
 
     final_avg = 999999999.99
-    word_allSP = dict(nx.floyd_warshall(subg, weight='cost'))
+    word_allSP = dict(nx.floyd_warshall(nbunch, weight='cost'))
     for key in word_allSP:
         avg_nodeSP = sum(word_allSP[key].values())/(len(word_allSP[key]))
         if final_avg > avg_nodeSP:
