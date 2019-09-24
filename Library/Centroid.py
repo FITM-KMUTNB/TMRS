@@ -282,6 +282,8 @@ def graph_cluster2(G):
     cluster_area = dict() # cluster id with area., {cluster_id : area}
     cluster_id = 1 # first node, create cluster immediatly.
 
+    fileResult = open("../Result Centroid/cluster.txt", "w") 
+
     for node in G.nodes:
         if node in cluster_node:
             continue
@@ -291,21 +293,35 @@ def graph_cluster2(G):
             cluster_node[node] = cluster_id
             cluster_centroid[cluster_id] = node
             print("Centroid :: ", cluster_centroid[cluster_id])
-            cluster_area[cluster_id] = _cluster_area(cluster_id, cluster_node, None)
-            print("Cluster Area :: ", cluster_area[cluster_id])
             node_sp = nx.single_source_dijkstra_path_length(G, node, weight='cost')
             close_node = sorted(node_sp.items(), key=operator.itemgetter(1))
+            sec_no = 1
+
+            while True:
+                second_node, second_dis = close_node[sec_no]
+                if second_node not in cluster_node:
+                    cluster_node[second_node] = cluster_id
+                    node_distance[second_node] = second_dis
+                    break
+                sec_no += 1
+
+            cluster_area[cluster_id] = _cluster_area(cluster_id, cluster_node, node_distance)
+            print("Cluster Area :: ", cluster_area[cluster_id])
+            
 
             ck_cent = 0
 
             for cn in close_node:
                 c_node, c_dis = cn
-            
+
+                if c_node in cluster_node:
+                    continue
+
                 if c_dis < cluster_area[cluster_id] and c_dis > 0:
                     cluster_node[c_node] = cluster_id
 
                     update_centroid = None
-                    if ck_cent > 10:
+                    if ck_cent > 30:
                         break                
                     update_centroid = _update_centroid(G, cluster_id, cluster_node)
                 
@@ -341,6 +357,7 @@ def graph_cluster2(G):
                     cluster_member.append(n)
             print("Update Area :: ", cluster_area[cluster_id])
             print("Member :: ", len(cluster_member))
+            fileResult.write("Cluster "+str(cluster_id)+"["+str(cluster_centroid[cluster_id])+"]"+str(cluster_member)+"\n") 
             cluster_id += 1
 
     

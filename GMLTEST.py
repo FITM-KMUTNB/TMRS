@@ -20,9 +20,5 @@ maxdistance2 = nx.single_source_dijkstra_path_length(G,'depression', weight='cos
 maxdistance = 0
 maxdistance = min(k for k,v in maxdistance2.items() if v != 0)
 allcentroid = sorted(maxdistance2.items(), key=operator.itemgetter(1))
-
-for node in G.nodes:
-    c = nx.clustering(G, node, weight='cost')
-    print(c)
-    m = nx.single_source_dijkstra_path_length(G,node, weight='cost', cutoff=c)
-    print(m)
+se, dis = allcentroid[1]
+print(se, dis)
