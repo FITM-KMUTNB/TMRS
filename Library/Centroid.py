@@ -281,8 +281,8 @@ def graph_cluster2(G):
     node_distance = dict() # node distance to centroid, {node : distance_to_centroid}
     cluster_area = dict() # cluster id with area., {cluster_id : area}
     cluster_id = 1 # first node, create cluster immediatly.
-
-    fileResult = open("../Result Centroid/cluster.txt", "w") 
+    node_no = 0
+    fileResult = open("../Result Centroid/cluster.txt", "w", encoding="utf-8") 
 
     for node in G.nodes:
         if node in cluster_node:
@@ -357,6 +357,8 @@ def graph_cluster2(G):
                     cluster_member.append(n)
             print("Update Area :: ", cluster_area[cluster_id])
             print("Member :: ", len(cluster_member))
+            node_no = node_no + len(cluster_member)
+            print("Node all :: ", node_no)
             fileResult.write("Cluster "+str(cluster_id)+"["+str(cluster_centroid[cluster_id])+"]"+str(cluster_member)+"\n") 
             cluster_id += 1
 
