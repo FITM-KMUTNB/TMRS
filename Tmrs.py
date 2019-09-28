@@ -211,7 +211,9 @@ def tmrs_graph_add_document_attr():
 
     nx.write_gpickle(G, "Database/Pickle/221tag.gpickle")
 
+def tmrs_graph_clustering():
+    G = nx.read_gpickle("Database/Pickle/221tag.gpickle")
+    print(nx.info(G))
+    ct.graph_cluster(G)
 
-"""G = nx.read_gpickle("Database/Pickle/221clean.gpickle")
-centroid = "dengue_fever"
-disease_neighbors(G, centroid, 10)"""
+tmrs_graph_clustering()

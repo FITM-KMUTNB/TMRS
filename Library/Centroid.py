@@ -155,214 +155,91 @@ def checkgraphnode(G, keywords):
 # Area = Average Distance[cluster] + (3 * Standard Deviation[cluster])
 # Standard Deviation[cluster] = Math.sqrt( (x-average)**2 / n-1 )
 # First Centroid, Average distance = 1, Standard Deviation = 1/2
-
+ 
 def graph_cluster(G):
-    
-    cluster_node = dict() # node with cluster id, {node : cluster_id}
-    cluster_centroid = dict() # cluster id with centroid, {cluster_id : centroid}
-    node_distance = dict() # node distance to centroid, {node : distance_to_centroid}
-    cluster_area = dict() # cluster id with area., {cluster_id : area}
-    cluster_id = 1 # first node, create cluster immediatly.
-    c_update = []
-    node_no = 1
-    for node in G.nodes:
-        
-        print("\n[", node_no,"]Read node :: ", node)
-        # first cluster.
-        if cluster_id == 1:
-            cluster_node[node] = cluster_id
-            cluster_centroid[cluster_id] = node
-
-            # find second member by select node that have shortest distance.
-            node_sp = nx.single_source_dijkstra_path_length(G, node, weight='cost')
-            next_node = 1
-            while True:
-                
-                second_node, dis = sorted(node_sp.items(), key=operator.itemgetter(1))[next_node]
-                # if seconde member already have cluster, find the next one.
-                if second_node not in cluster_node:
-                    cluster_node[second_node] = cluster_id
-                    node_distance[second_node] = dis
-                    break
-                else:
-                    next_node += 1
-
-            cluster_area[cluster_id] = _cluster_area(cluster_id, cluster_node, node_distance)
-            print("Cluster id :: ", cluster_id)
-            print("Cluster area :: ", cluster_area[cluster_id])
-            print("Cluster centroid :: ", cluster_centroid[cluster_id])
-            cluster_id += 1
-
-        # next node find cluster.
-        else:
-            min_distance = 999999999.99
-            temp_cluster = None
-            node_distance = nx.single_source_dijkstra_path_length(G, node, weight='cost')
-            
-            # find cluster.
-            for c_id, cent in cluster_centroid.items():
-                if cent in node_distance:
-                    if node_distance[cent] < cluster_area[c_id]:
-                        if node_distance[cent] < min_distance:
-                            min_distance = node_distance[cent]
-                            temp_cluster = c_id
-            # found cluster.
-            if temp_cluster:
-                print("To cluster id :: ", temp_cluster)
-                print("Cluster area :: ", cluster_area[temp_cluster])
-                print("Distance to centroid :: ", min_distance)
-                print("Cluster centroid :: ", cluster_centroid[temp_cluster])
-                cluster_node[node] = temp_cluster
-                update_centroid = _update_centroid(G, temp_cluster, cluster_node)
-                
-                # if centroid changed.
-                if update_centroid != cluster_centroid[temp_cluster] and update_centroid != None:
-                    
-                    cluster_centroid[temp_cluster] = update_centroid
-                    update_distance = _update_distance_to_centroid(G, temp_cluster, cluster_node, update_centroid)
-
-                    # update node distance to centroid.
-                    for m in update_distance:
-                        node_distance[m] = update_distance[m]
-                    
-                    # delete if centroid in node_distance.
-                    if update_centroid in node_distance:
-                        node_distance.pop(update_centroid)
-
-                    print("New cluster centroid :: ", cluster_centroid[temp_cluster])
-
-                # if centroid no changed.
-                else:
-                    node_distance[node] = min_distance
-
-                if temp_cluster not in c_update:
-                    c_update.append(temp_cluster)
-                    cluster_area[temp_cluster] = _cluster_area(temp_cluster, cluster_node, node_distance)
-                    print("Update cluster area :: ", cluster_area[temp_cluster])
-                if node_no % 10 == 0:
-                    c_update.clear()
-
-                
-            # not found, create new cluster
-            else:
-                
-                cluster_node[node] = cluster_id
-                cluster_centroid[cluster_id] = node
-                # find second member by select node that have shortest distance.
-                node_sp = nx.single_source_dijkstra_path_length(G, node, weight='cost')
-                next_node = 1
-                while True:
-                    
-                   
-                    second_node, dis = sorted(node_sp.items(), key=operator.itemgetter(1))[next_node]
-                    # if seconde member already have cluster, find the next one.
-                    if second_node not in cluster_node:
-                        cluster_node[second_node] = cluster_id
-                        node_distance[second_node] = dis
-                        break
-                    else:
-                        next_node += 1
-
-                cluster_area[cluster_id] = _cluster_area(cluster_id, cluster_node, node_distance)
-                print("Cluster id :: ", cluster_id)
-                print("Cluster area :: ", cluster_area[cluster_id])
-                print("Cluster centroid :: ", cluster_centroid[cluster_id])
-                cluster_id += 1
-        node_no += 1
-
-    sorted_x = sorted(cluster_node.items(), key=operator.itemgetter(1))
-    sorted_y = sorted(cluster_centroid.items())
-    print(sorted_x)
-    print(sorted_y)
-  
-def graph_cluster2(G):
     cluster_node = dict() # node with cluster id, {node : cluster_id}
     cluster_centroid = dict() # cluster id with centroid, {cluster_id : centroid}
     node_distance = dict() # node distance to centroid, {node : distance_to_centroid}
     cluster_area = dict() # cluster id with area., {cluster_id : area}
     cluster_id = 1 # first node, create cluster immediatly.
     node_no = 0
-    fileResult = open("../Result Centroid/cluster.txt", "w", encoding="utf-8") 
+    fileResult = open("Result Centroid/cluster.txt", "w", encoding="utf-8")
 
     for node in G.nodes:
+
         if node in cluster_node:
             continue
+ 
+        cluster_node[node] = cluster_id
+        cluster_centroid[cluster_id] = node
+        cluster_area[cluster_id] = _cluster_area(cluster_id, cluster_node, None)
 
-        else:
-            print("\nCluster ID :: ", cluster_id)
-            cluster_node[node] = cluster_id
-            cluster_centroid[cluster_id] = node
-            print("Centroid :: ", cluster_centroid[cluster_id])
-            node_sp = nx.single_source_dijkstra_path_length(G, node, weight='cost')
-            close_node = sorted(node_sp.items(), key=operator.itemgetter(1))
-            sec_no = 1
-
-            while True:
-                second_node, second_dis = close_node[sec_no]
-                if second_node not in cluster_node:
-                    cluster_node[second_node] = cluster_id
-                    node_distance[second_node] = second_dis
-                    break
-                sec_no += 1
-
-            cluster_area[cluster_id] = _cluster_area(cluster_id, cluster_node, node_distance)
-            print("Cluster Area :: ", cluster_area[cluster_id])
+        while True:
+            node_sp = nx.single_source_dijkstra_path_length(G, 
+                        cluster_centroid[cluster_id], weight='cost', cutoff=cluster_area[cluster_id])
             
-
-            ck_cent = 0
-
-            for cn in close_node:
-                c_node, c_dis = cn
-
-                if c_node in cluster_node:
-                    continue
-
-                if c_dis < cluster_area[cluster_id] and c_dis > 0:
-                    cluster_node[c_node] = cluster_id
-
-                    update_centroid = None
-                    if ck_cent > 30:
-                        break                
-                    update_centroid = _update_centroid(G, cluster_id, cluster_node)
+            # If there are nodes that can enter the cluster.
+            new_member = False
+            if len(node_sp) != 1:
+            
+                for node2 in node_sp:
+                    if node2 not in cluster_node:
+                        cluster_node[node2] = cluster_id
+                        node_distance[node2] = node_sp[node2]
+                        new_member = True
                 
-                    # if centroid changed.
-                    if update_centroid != cluster_centroid[cluster_id] and update_centroid != None:
+                if new_member:
+               
+                    # check cluster centroid again.
+                    new_centroid = _update_centroid(G, cluster_id, cluster_node)
+                    # if centroid have change!
+                    if new_centroid != cluster_centroid[cluster_id] and new_centroid != None:
+                       
+                        cluster_centroid[cluster_id] = new_centroid
+                        update_distance = _update_distance_to_centroid(G, cluster_id, cluster_node, cluster_centroid[cluster_id])
                         
-                        cluster_centroid[cluster_id] = update_centroid
-                        update_distance = _update_distance_to_centroid(G, cluster_id, cluster_node, update_centroid)
+                        # update node distance to new centroid.
+                        for exnode in update_distance:
+                            node_distance[exnode] = update_distance[exnode]
 
-                        # update node distance to centroid.
-                        for m in update_distance:
-                            node_distance[m] = update_distance[m]
-                        
-                        # delete if centroid in node_distance.
-                        if update_centroid in node_distance:
-                            node_distance.pop(update_centroid)
+                        cluster_area[cluster_id] = _cluster_area(cluster_id, cluster_node, node_distance)
+                 
 
-                        print("New cluster centroid :: ", cluster_centroid[cluster_id])
-
-                    # if centroid no changed.
+                    # if centroid not change!
                     else:
-                        node_distance[c_node] = c_dis
-                        ck_cent += 1
+                   
+                        cluster_area[cluster_id] = _cluster_area(cluster_id, cluster_node, node_distance)
 
-                    cluster_area[cluster_id] = _cluster_area(cluster_id, cluster_node, node_distance)
-                    #print("Update Area :: ", cluster_area[cluster_id])
-             
-            cluster_member = []
-           
-            # node in cluster id.
-            for n in cluster_node:
-                if cluster_node[n] == cluster_id:
-                    cluster_member.append(n)
-            print("Update Area :: ", cluster_area[cluster_id])
-            print("Member :: ", len(cluster_member))
-            node_no = node_no + len(cluster_member)
-            print("Node all :: ", node_no)
-            fileResult.write("Cluster "+str(cluster_id)+"["+str(cluster_centroid[cluster_id])+"]"+str(cluster_member)+"\n") 
-            cluster_id += 1
+                                    
+                else:
+                    member = []
+                    for m in cluster_node:
+                        if cluster_node[m] == cluster_id:
+                            member.append(m)
+                    print("\nCluseter no. ", cluster_id)
+                    print("Area :: ", cluster_area[cluster_id])
+                    print("Centroid :: ", cluster_centroid[cluster_id])
+                    print("Member :: ", len(member))
+                    fileResult.write("Cluster "+str(cluster_id)+"["+str(cluster_centroid[cluster_id])+"]"+str(member)+"\n") 
+                    cluster_id += 1
+                    break
 
-    
+            # no more node can enter the cluseter.
+            else:
+                member = []
+                for m in cluster_node:
+                    if cluster_node[m] == cluster_id:
+                        member.append(m)
+                print("\nCluseter no. ", cluster_id)
+                print("Area :: ", cluster_area[cluster_id])
+                print("Centroid :: ", cluster_centroid[cluster_id])
+                print("Member :: ", len(member))
+                fileResult.write("Cluster "+str(cluster_id)+"["+str(cluster_centroid[cluster_id])+"]"+str(member)+"\n") 
+                cluster_id += 1
+                break
+            
+ 
+     
 def _standard_deviation_and_average_distance(c_id, cluster_node, node_distance):
     cluster_member = []
     average_distance = None
@@ -374,7 +251,7 @@ def _standard_deviation_and_average_distance(c_id, cluster_node, node_distance):
 
     # cluster amount == 1
     if len(cluster_member) == 1:
-        distance = 1
+   
         sum_distance = 1
         # average distance  
         average_distance = sum_distance / len(cluster_member)
@@ -428,12 +305,12 @@ def _update_centroid(G, c_id, cluster_node):
     # when cluster have new member, calculate node average distance again to find centroid.
     cluster_member = []
     new_centroid = None
+
     # node in cluster id.
     for node in cluster_node:
         if cluster_node[node] == c_id:
             cluster_member.append(node)
-    #print("Member :: ", len(cluster_member))
-
+    
     # if node member > 2, calulate node average distance
     if len(cluster_member) > 2:
 
@@ -448,7 +325,7 @@ def _update_centroid(G, c_id, cluster_node):
     # if node member < 2
     else:
         new_centroid = None
-    
+   
     return new_centroid
            
 def _update_distance_to_centroid(G, c_id, cluster_node, centroid):
@@ -469,5 +346,75 @@ def _update_distance_to_centroid(G, c_id, cluster_node, centroid):
 
     return update_distance
 
-G = nx.read_gpickle("../Database/Pickle/221tag.gpickle")
-graph_cluster2(G)
+def distance_measure(G, source, target):
+    pair_distance = dict()
+    start_point = []
+    found_target = False
+    distance = 0
+    start_point.append(source)
+
+    # find node neighbors from source to target
+    for point in start_point:
+        neighbor = G.neighbors(point)
+        for n in neighbor:
+            if n not in start_point:
+                start_point.append(n)
+
+            node_pair = (point, n)
+            pair_distance[node_pair] = G[point][n]['cost']
+
+            if n == target:
+                found_target = True
+                break
+        
+        if found_target:
+            break
+    
+    path = []
+    targets = target
+    found_soucre = False
+    # find sum distance from source to target
+    while True:
+        for s, t in pair_distance:
+            print(s,t)
+            if t == targets:
+                if s == source:
+                    path.append(s)
+                path.append(t)
+                targets = s
+                distance += pair_distance[(s,t)]
+            if targets == source:
+                found_soucre = True
+        if found_soucre:
+            break
+    print(path, " : ", distance)
+
+def min_distance_measure(G, u, v):
+    pair_distance = dict()
+    start_point = []
+    found_target = False
+    distance = 0
+    start_point.append(source)
+
+    # find node neighbors from source to target
+    for point in start_point:
+        neighbor = G.neighbors(point)
+        for n in neighbor:
+            if n not in start_point:
+                start_point.append(n)
+
+            node_pair = (point, n)
+            pair_distance[node_pair] = G[point][n]['cost']
+
+            if point == target:
+                found_target = True
+                break
+        
+        if found_target:
+            break
+
+    #print(pair_distance)
+
+#source = 'man'
+#target = 'fever'
+#min_distance_measure(G, source, target)
