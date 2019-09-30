@@ -216,3 +216,4 @@ def tmrs_graph_clustering():
     print(nx.info(G))
     ct.graph_cluster(G)
 
+#tmrs_graph_clustering()

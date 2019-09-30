@@ -179,39 +179,37 @@ def graph_cluster(G):
                         cluster_centroid[cluster_id], weight='cost', cutoff=cluster_area[cluster_id])
             
             # If there are nodes that can enter the cluster.
-            new_member = False
+            add_node = False
             if len(node_sp) != 1:
             
                 for node2 in node_sp:
                     if node2 not in cluster_node:
                         cluster_node[node2] = cluster_id
                         node_distance[node2] = node_sp[node2]
-                        new_member = True
-                
-                if new_member:
-               
-                    # check cluster centroid again.
-                    new_centroid = _update_centroid(G, cluster_id, cluster_node)
-                    # if centroid have change!
-                    if new_centroid != cluster_centroid[cluster_id] and new_centroid != None:
-                       
-                        cluster_centroid[cluster_id] = new_centroid
-                        update_distance = _update_distance_to_centroid(G, cluster_id, cluster_node, cluster_centroid[cluster_id])
+                        add_node = True
+                        # check cluster centroid again.
+                        new_centroid = _update_centroid(G, cluster_id, cluster_node)
+                        # if centroid have change!
+                        if new_centroid != cluster_centroid[cluster_id] and new_centroid != None:
                         
-                        # update node distance to new centroid.
-                        for exnode in update_distance:
-                            node_distance[exnode] = update_distance[exnode]
+                            cluster_centroid[cluster_id] = new_centroid
+                            update_distance = _update_distance_to_centroid(G, cluster_id, cluster_node, cluster_centroid[cluster_id])
+                            
+                            # update node distance to new centroid.
+                            for exnode in update_distance:
+                                if update_distance[exnode] > cluster_area[cluster_id]:
+                                    print("More than area")
+                                node_distance[exnode] = update_distance[exnode]
 
-                        cluster_area[cluster_id] = _cluster_area(cluster_id, cluster_node, node_distance)
-                 
+                            cluster_area[cluster_id] = _cluster_area(cluster_id, cluster_node, node_distance)
+                    
 
-                    # if centroid not change!
-                    else:
-                   
-                        cluster_area[cluster_id] = _cluster_area(cluster_id, cluster_node, node_distance)
+                        # if centroid not change!
+                        else:
+                    
+                            cluster_area[cluster_id] = _cluster_area(cluster_id, cluster_node, node_distance)
 
-                                    
-                else:
+                if not add_node:
                     member = []
                     for m in cluster_node:
                         if cluster_node[m] == cluster_id:
@@ -223,6 +221,14 @@ def graph_cluster(G):
                     fileResult.write("Cluster "+str(cluster_id)+"["+str(cluster_centroid[cluster_id])+"]"+str(member)+"\n") 
                     cluster_id += 1
                     break
+                member = []
+                for m in cluster_node:
+                    if cluster_node[m] == cluster_id:
+                        member.append(m)
+                print("\nCluseter no. ", cluster_id)
+                print("Area :: ", cluster_area[cluster_id])
+                print("Centroid :: ", cluster_centroid[cluster_id])
+                print("Member :: ", len(member))
 
             # no more node can enter the cluseter.
             else:
@@ -292,7 +298,7 @@ def _standard_deviation_and_average_distance(c_id, cluster_node, node_distance):
         
         # standard deviation     
         standard_deviation = math.sqrt(sd / len(cluster_member)) 
-    
+        
     return average_distance, standard_deviation
    
 def _cluster_area(c_id, cluster_node, node_distance):
@@ -347,74 +353,87 @@ def _update_distance_to_centroid(G, c_id, cluster_node, centroid):
     return update_distance
 
 def distance_measure(G, source, target):
-    pair_distance = dict()
-    start_point = []
-    found_target = False
-    distance = 0
-    start_point.append(source)
+    neigbor_distance = dict()
+    neigbor_distance[source] = 0
+    point = []
+    point.append(source)
 
-    # find node neighbors from source to target
-    for point in start_point:
-        neighbor = G.neighbors(point)
-        for n in neighbor:
-            if n not in start_point:
-                start_point.append(n)
-
-            node_pair = (point, n)
-            pair_distance[node_pair] = G[point][n]['cost']
-
-            if n == target:
-                found_target = True
+    for current in point:
+        related_node = nx.neighbors(G, current)
+        for node in related_node:
+            if node not in neigbor_distance:
+                neigbor_distance[node] = neigbor_distance[current] + G[current][node]['cost']
+                point.append(node)
+            
+            if node == target:
                 break
-        
-        if found_target:
-            break
+    #print(nx.dijkstra_path(G, source, target))
+    #print(target, " : ", neigbor_distance[target])
+    return neigbor_distance[target]
+
+
+def spreading_activation_centroid(G, keywords):
+    centroid = ''
+    key_point = [] # node point to activate and find neighbors.
+    activate_round = 1
+    candidate = dict()
     
-    path = []
-    targets = target
-    found_soucre = False
-    # find sum distance from source to target
-    while True:
-        for s, t in pair_distance:
-            print(s,t)
-            if t == targets:
-                if s == source:
-                    path.append(s)
-                path.append(t)
-                targets = s
-                distance += pair_distance[(s,t)]
-            if targets == source:
-                found_soucre = True
-        if found_soucre:
-            break
-    print(path, " : ", distance)
+    node_count = dict() # node count to all keywords
+    node_sum = dict() # node sum distance to all keywords
+    node_distance = [] # distance from node to each keywords
 
-def min_distance_measure(G, u, v):
-    pair_distance = dict()
-    start_point = []
-    found_target = False
-    distance = 0
-    start_point.append(source)
+    for key in keywords:
+            initial = dict()
+            # initail distance 
+            initial[key] = 0
+            node_distance.append(initial)
+            key_point.append([key])
 
-    # find node neighbors from source to target
-    for point in start_point:
-        neighbor = G.neighbors(point)
-        for n in neighbor:
-            if n not in start_point:
-                start_point.append(n)
-
-            node_pair = (point, n)
-            pair_distance[node_pair] = G[point][n]['cost']
-
-            if point == target:
-                found_target = True
-                break
+    while len(candidate) < 500:
+        #print("Activation round : ", activate_round)
+        min_average = 999999
+        centroid = ''
         
-        if found_target:
-            break
+        
 
-    #print(pair_distance)
+        for index in range(len(key_point)):
+            activate_size = 1
+            # initail point.
+            for a in range(activate_size):
+                act_node = key_point[index].pop(0)
+                #print("Activate :: ", act_node)
 
-#source = 'man'
-#target = 'fever'
-#min_distance_measure(G, source, target)
+                # Activate
+                related_node = nx.neighbors(G, act_node)
+
+                # iterate neighbors.
+                for r in related_node:
+                    if r not in key_point[index]:
+                        # append node for further activation.
+                        key_point[index].append(r)
+                        distance_dict = node_distance[index]
+                        
+                        # distance from neightbor to activate node.
+                        distance_dict[r] = distance_dict[act_node] + G[act_node][r]['cost']
+                        if r in node_count:
+                            node_count[r] += 1
+                            node_sum[r] += distance_dict[r]
+                        else:
+                            node_count[r] = 1
+                            node_sum[r] = distance_dict[r]
+                    
+                    if node_count[r] == len(keywords):
+                        candidate[r] = node_sum[r] / len(keywords)
+                        """if min_average > candidate[r]:
+                            min_average = candidate[r]
+                            centroid = r"""
+        #print("Candidate : ", len(candidate))
+        
+        activate_round += 1
+    
+    return dict(sorted(candidate.items(), key=operator.itemgetter(1))) 
+
+
+"""G = nx.read_gpickle("../Database/Pickle/221tag.gpickle")
+keywords = ['confusion', 'indigestion', 'impotence', 'weight_gain', 'amenorrhea' ]
+print(spreading_activation_centroid(G, keywords))"""
