@@ -72,7 +72,7 @@ def disease_neighbors(G, centroid, hop=1):
         for p in neighbors[n]:
             node_name = dict()
             try:
-                if G.node[p]['tag'] == 'ST' or p == centroid:
+                if G.node[p]['tag'] == 'ST' or p == centroid or G.node[p]['tag'] == 'DS':
                     if p not in node_no:
                         node_no[p] = number
                         node_name['name'] = p
@@ -96,6 +96,29 @@ def disease_neighbors(G, centroid, hop=1):
 
     return(node, node_link)
 
+def get_all_graph(G):
+    node = []
+    node_link = []
+    node_no = dict()
+    number = 0
+    
+    for n in G.nodes:
+        node_name = dict()
+        node_name['name'] = n
+        node_no[n] = number
+        number += 1
+        node.append(node_name)
+        if number == 1000:
+            break
+
+    for e in G.edges:
+        if e[0] not in node_no or e[1] not in node_no:
+            continue
+        pair_word = dict()
+        pair_word['source'] = node_no[e[0]]
+        pair_word['target'] = node_no[e[1]]
+        node_link.append(pair_word)
+    return(node, node_link)
 
 def _get_disease_name():
     readpath = "Document/corpus221/Wiki/"

@@ -244,7 +244,100 @@ def graph_cluster(G):
                 cluster_id += 1
                 break
             
- 
+def graph_cluster2(G):
+    node_cluster = dict()
+    cluster_centroid = dict()
+    cluster_area = dict()
+    node_distance = dict() # node distance to centroid.
+    cluster_id = 1 
+    node_no = 1
+    fileResult = open("../Result Centroid/cluster.txt", "w", encoding="utf-8")
+
+    for node in G.nodes:
+        print("\nnode no.", node_no, " :: ", node)
+        node_no += 1
+        # if node_cluster empty, create first cluster.
+        if not node_cluster:
+            node_cluster[node] = cluster_id
+            cluster_centroid[cluster_id] = node
+            node_distance[node] = 0
+            cluster_area[cluster_id] = _cluster_area(cluster_id, node_cluster, None)
+            print("create cluster id ", cluster_id)
+            print("centroid ", cluster_centroid[cluster_id])
+            print("area ", cluster_area[cluster_id])
+            cluster_id += 1
+        
+        else:
+            #print("find cluster..")
+            distance_to_centroid = 999999
+            to_cluster = 0
+            for cluster in cluster_area:
+                try:
+                    distance = G[node][cluster_centroid[cluster]]['cost']
+
+                    if distance < cluster_area[cluster]:
+                        if distance < distance_to_centroid:
+                            distance_to_centroid = distance
+                            to_cluster = cluster
+                
+                except:
+                    pass
+
+            # found cluster can enter to.
+            if to_cluster != 0:
+                print("can enter to cluster id.", to_cluster)
+                node_cluster[node] = to_cluster
+                new_centroid = _update_centroid(G, to_cluster, node_cluster)
+
+                if new_centroid != None and new_centroid != cluster_centroid[to_cluster]:
+                    print("update centroid from \"", cluster_centroid[to_cluster], "\" to \"", new_centroid)
+                    cluster_centroid[to_cluster] = new_centroid
+                    update_distance = update_distance = _update_distance_to_centroid(G, to_cluster, node_cluster, cluster_centroid[to_cluster])
+
+                    check_distance_area = dict()
+                    for cm in update_distance:
+                        node_distance[cm] = update_distance[cm]
+                        check_distance_area[cm] = update_distance[cm]
+
+                    print("area :: ", cluster_area[to_cluster])
+                    cluster_area[to_cluster] = _cluster_area(to_cluster, node_cluster, node_distance)
+                    print("update area :: ", cluster_area[to_cluster])
+
+                    for ckd in check_distance_area:
+                        if check_distance_area[ckd] > cluster_area[to_cluster]:
+                            print(ckd, " Out of Range!!!")
+                else:
+                    node_distance[node] = distance_to_centroid
+                    cluster_area[to_cluster] = _cluster_area(to_cluster, node_cluster, node_distance)
+                    
+                    for cn in node_cluster:
+                        if node_cluster[cn] == to_cluster:
+                            
+                            if node_distance[cn] > cluster_area[to_cluster]:
+                                print(cn, " Out of Range!!!")
+                        
+            # not found any cluster can enter to, create new cluster
+            else:
+                node_cluster[node] = cluster_id
+                cluster_centroid[cluster_id] = node
+                node_distance[node] = 0
+                cluster_area[cluster_id] = _cluster_area(cluster_id, node_cluster, None)
+                print("create cluster id ", cluster_id)
+                print("centroid ", cluster_centroid[cluster_id])
+                print("area ", cluster_area[cluster_id])
+                cluster_id += 1
+
+    min_cluster_id = node_cluster[min(node_cluster, key=node_cluster.get)]
+    sorted_cluster = dict(sorted(node_cluster.items(), key=operator.itemgetter(1)))
+    member = []
+    for node in sorted_cluster:
+        if sorted_cluster[node] > min_cluster_id:
+            min_cluster_id = sorted_cluster[node]
+            fileResult.write("Cluster "+str(min_cluster_id)+"["+str(cluster_centroid[min_cluster_id])+"]"+str(member)+"\n") 
+            member = []
+
+        member.append(node)
+
      
 def _standard_deviation_and_average_distance(c_id, cluster_node, node_distance):
     cluster_member = []
@@ -343,7 +436,10 @@ def _update_distance_to_centroid(G, c_id, cluster_node, centroid):
         if cluster_node[node] == c_id:
             cluster_member.append(node)
 
-    node_distance = nx.single_source_dijkstra_path_length(G, centroid, weight='cost')
+    # create subgraph of cluster.        
+    cluster = nx.subgraph(G, cluster_member)
+    # shortest path from centroid to member of cluster.
+    node_distance = nx.single_source_dijkstra_path_length(cluster, centroid, weight='cost')
     
     # node distance to centroid.
     for target in node_distance:
@@ -434,6 +530,7 @@ def spreading_activation_centroid(G, keywords):
     return dict(sorted(candidate.items(), key=operator.itemgetter(1))) 
 
 
-"""G = nx.read_gpickle("../Database/Pickle/221tag.gpickle")
-keywords = ['confusion', 'indigestion', 'impotence', 'weight_gain', 'amenorrhea' ]
-print(spreading_activation_centroid(G, keywords))"""
+#G = nx.read_gpickle("../Database/Pickle/221tag.gpickle")
+#graph_cluster2(G)
+#keywords = ['confusion', 'indigestion', 'impotence', 'weight_gain', 'amenorrhea' ]
+#print(spreading_activation_centroid(G, keywords))

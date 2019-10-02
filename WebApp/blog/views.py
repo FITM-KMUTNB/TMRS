@@ -67,6 +67,15 @@ def neighbor(request):
         else:
             return render(request, 'blog/home.html')
 
+def show_graph(request):
+    print("show graph")
+    if request.method=='GET':
+        node, link = ts.get_all_graph(Cooccs)
+        context = dict()
+        context['my_node'] = json.dumps(node)
+        context['my_link'] = json.dumps(link)
+        return render(request, 'blog/graph.html', context)
+
 def ReadGraph():
     global Cooccs
     #Read graph from gpickle format
