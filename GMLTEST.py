@@ -26,7 +26,7 @@ print(nx.info(G))
 
 for n in nx.single_source_dijkstra_path(G,'dengue_fever' ,cutoff=1):
     if G.node[n]['tag'] == 'DS' or G.node[n]['tag'] == 'ST':
-        print(n)
+        print(ns)
 
 #node_sp = nx.single_source_dijkstra_path_length(G, 'disease', weight='cost', cutoff=10)
 
