@@ -106,23 +106,23 @@ def disease_neighbors(G, centroid):
     for p in neighbors:
         temp_path = []
         hop = 0
-        for n in neighbors[p]:
-            hop += 1
-            try:
-                if G.node[n]['tag'] == 'ST' or n == centroid or G.node[n]['tag'] == 'DS':
+        try:
+            if G.node[p]['tag'] == 'ST' or G.node[p]['tag'] == 'DS':
+                for n in neighbors[p]:
+                    hop += 1
                     temp_path.append(n)
                     if n not in node_tag:
                         node_tag[n] = G.node[n]['tag']
+                    if G.node[p]['tag'] == 'ST' or G.node[p]['tag'] == 'DS':
                         disease_dis[n] = neighbors_dis[n]
                     if n not in hop_distance:
                         hop_distance[n] = hop - 1 # not count centroid. path ['centroid', 'neighbors']
-            except:
-                pass
-        if len(temp_path) > 1 and temp_path not in path_list:
-            path_list.append(temp_path)
-    
+                    
+                if len(temp_path) > 1 and temp_path not in path_list:
+                    path_list.append(temp_path)
+        except:
+            pass
     return(path_list, hop_distance, node_tag, dict(sorted(disease_dis.items(), key=operator.itemgetter(1))))
-
 
 def get_all_graph(G):
     node = []

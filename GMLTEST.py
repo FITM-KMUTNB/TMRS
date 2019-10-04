@@ -2,8 +2,8 @@ import networkx as nx
 import operator
 import nltk
 
-G = nx.read_gpickle("Database/Pickle/221tag.gpickle")
-print(nx.info(G))
+#G = nx.read_gpickle("Database/Pickle/221tag.gpickle")
+#print(nx.info(G))
 #maxdistance2 = nx.single_source_dijkstra_path_length(G,'disease', weight='cost')
 #print('max2 : ', G.edges['Year', 'Baby']['cost'])
 #first2pairs = {k: cen[k] for k in list(cen.keys())[:10]}
@@ -24,9 +24,8 @@ print(nx.info(G))
 #print(nx.dijkstra_path_length(G, 'man', 'fever', weight='cost'))
 #print(nx.dijkstra_path(G, 'man', 'fever', weight='cost'))
 
-for n in nx.single_source_dijkstra_path(G,'dengue_fever' ,cutoff=1):
-    if G.node[n]['tag'] == 'DS' or G.node[n]['tag'] == 'ST':
-        print(ns)
-
+#print(nx.single_source_dijkstra_path(G,'dengue_fever' ,weight='cost'))
+lists = [['a','b']]
+print(len(lists[0]))
 #node_sp = nx.single_source_dijkstra_path_length(G, 'disease', weight='cost', cutoff=10)
 

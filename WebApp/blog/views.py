@@ -99,16 +99,18 @@ def neighbor(request):
                 for n in range(len(path[p])):
                     node_name = dict()
                     if path[p][n] not in node_id and hop_distance[path[p][n]] <= hop:
-                        node_id[path[p][n]] = number
-                        node_name['name'] = path[p][n]
-                        temp_node.append(node_name)
-                        number += 1
+                        if Cooccs.node[path[p][n]]['tag'] == 'DS' or Cooccs.node[path[p][n]]['tag'] == 'ST':
+                            node_id[path[p][n]] = number
+                            node_name['name'] = path[p][n]
+                            temp_node.append(node_name)
+                            number += 1
 
-                        if node_tag[path[p][n]] == 'DS':
-                            node_color[path[p][n]] = 'Red'
+                            if node_tag[path[p][n]] == 'DS':
+                                node_color[path[p][n]] = 'Red'
 
-                        elif node_tag[path[p][n]] == 'ST':
-                            node_color[path[p][n]] = 'GreenYellow '
+                            elif node_tag[path[p][n]] == 'ST':
+                                node_color[path[p][n]] = 'GreenYellow'
+                        
 
             for p in range(len(path)):
                 for n in range(len(path[p])):
@@ -141,14 +143,17 @@ def neighbor(request):
             first_n = []
             limit = 10 * int(hop)
             for nd in neighbors_dis:
-                if len(first_n) >= limit:
-                    break
+                
                 first_n.append(nd)
 
             for p in range(len(path)):
                 for n in range(len(path[p])):
                     node_name = dict()
-                    if path[p][n] not in node_id and hop_distance[path[p][n]] <= int(hop) and path[p][n] in first_n:
+                    if len(path[p])-1 >= int(hop):
+                        if Cooccs.node[path[p][int(hop)]]['tag'] != 'DS' and Cooccs.node[path[p][int(hop)]]['tag'] != 'ST':
+                            break
+                   
+                    if path[p][n] not in node_id and hop_distance[path[p][n]] <= int(hop):
                         node_id[path[p][n]] = number
                         node_name['name'] = path[p][n]
                         temp_node.append(node_name)
@@ -159,6 +164,8 @@ def neighbor(request):
 
                     elif node_tag[path[p][n]] == 'ST':
                         node_color[path[p][n]] = 'GreenYellow '
+                    else:
+                        node_color[path[p][n]] = 'MidnightBlue'
 
             for p in range(len(path)):
                 for n in range(len(path[p])):
