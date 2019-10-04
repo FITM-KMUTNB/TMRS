@@ -7,7 +7,10 @@ import Tmrs as ts
 import os
 from django.template.defaulttags import register
 import json
+
 Cooccs = None
+
+
 class HomeView(TemplateView):
     template_name = 'blog/home.html'
     
@@ -40,7 +43,7 @@ def document(request):
             return render(request, 'blog/readdoc.html', context)
 
 
-def neighbor(request):
+def neighborold(request):
     if request.method=='GET':
         centroid = request.GET.get('centroid')
         hop = request.GET.get('hop')
@@ -66,6 +69,118 @@ def neighbor(request):
 
         else:
             return render(request, 'blog/home.html')
+
+path = None # for neighbors
+hop_distance = None
+node_tag= None
+neighbors_dis = None
+def neighbor(request):
+    global path
+    global hop_distance
+    global node_tag
+    global neighbors_dis
+
+    if request.method=='GET':
+        centroid = request.GET.get('centroid')
+        hop = request.GET.get('hop')
+        
+        if centroid and not hop:
+                  
+            path, hop_distance, node_tag, neighbors_dis = ts.disease_neighbors(Cooccs, centroid)
+            hop = 1
+            link = []
+            temp_node = []
+            node_id = dict()
+            node_color = dict()
+            number = 0
+            
+
+            for p in range(len(path)):
+                for n in range(len(path[p])):
+                    node_name = dict()
+                    if path[p][n] not in node_id and hop_distance[path[p][n]] <= hop:
+                        node_id[path[p][n]] = number
+                        node_name['name'] = path[p][n]
+                        temp_node.append(node_name)
+                        number += 1
+
+                        if node_tag[path[p][n]] == 'DS':
+                            node_color[path[p][n]] = 'Red'
+
+                        elif node_tag[path[p][n]] == 'ST':
+                            node_color[path[p][n]] = 'GreenYellow '
+
+            for p in range(len(path)):
+                for n in range(len(path[p])):
+                    source_target = dict()
+                    if n+1 >= len(path[p]):
+                        continue
+                    if path[p][n] in node_id and path[p][n+1] in node_id:
+                        source_target['source'] = node_id[path[p][n]]
+                        source_target['target'] = node_id[path[p][n+1]]
+                        if source_target not in link:
+                            link.append(source_target)
+
+            context = dict()
+            context['my_centroid'] = json.dumps(centroid)
+            context['my_node'] = json.dumps(temp_node)
+            context['my_link'] = json.dumps(link)
+            context['my_color'] = json.dumps(node_color)
+            return render(request, 'blog/neighbors.html', context)
+
+        elif centroid and hop:
+            if '"' in centroid:
+                centroid = centroid.strip('"')
+         
+            link = []
+            temp_node = []
+            node_id = dict()
+            node_color = dict()
+            number = 0
+
+            first_n = []
+            limit = 10 * int(hop)
+            for nd in neighbors_dis:
+                if len(first_n) >= limit:
+                    break
+                first_n.append(nd)
+
+            for p in range(len(path)):
+                for n in range(len(path[p])):
+                    node_name = dict()
+                    if path[p][n] not in node_id and hop_distance[path[p][n]] <= int(hop) and path[p][n] in first_n:
+                        node_id[path[p][n]] = number
+                        node_name['name'] = path[p][n]
+                        temp_node.append(node_name)
+                        number += 1
+
+                    if node_tag[path[p][n]] == 'DS':
+                            node_color[path[p][n]] = 'Red'
+
+                    elif node_tag[path[p][n]] == 'ST':
+                        node_color[path[p][n]] = 'GreenYellow '
+
+            for p in range(len(path)):
+                for n in range(len(path[p])):
+                    source_target = dict()
+                    if n+1 >= len(path[p]):
+                        continue
+                    if path[p][n] in node_id and path[p][n+1] in node_id:
+                        source_target['source'] = node_id[path[p][n]]
+                        source_target['target'] = node_id[path[p][n+1]]
+                        if source_target not in link:
+                            link.append(source_target)
+
+            context = dict()
+            context['my_centroid'] = json.dumps(centroid)
+            context['my_node'] = json.dumps(temp_node)
+            context['my_link'] = json.dumps(link)
+            context['my_color'] = json.dumps(node_color)
+            return render(request, 'blog/neighbors.html', context)
+
+        else:
+            return render(request, 'blog/home.html')
+
 
 def show_graph(request):
     print("show graph")

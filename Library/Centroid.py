@@ -49,7 +49,7 @@ def _sorted_hop_distance(G, keywords):
 
     for target in targetcount:
         if targetcount[target] == len(keywords):
-            centroid[target] = targetdistance[target] / len(keywords)  
+            centroid[target] = targetdistance[target] / len(keywords)
 
     centroid = _sorted_hop(centroid, targethop)
 
@@ -123,7 +123,7 @@ def _sorted_average_distance(G, keywords):
 
     return dict(sorted(centroid.items(), key=operator.itemgetter(1)))  
 
-def centroid_neighbors(G, centroid, hop):
+def centroid_neighbors(G, centroid):
     """Find neighbors of centroid node by hop distance. 
 
      Parameters
@@ -140,9 +140,10 @@ def centroid_neighbors(G, centroid, hop):
 
     """
     
-    neighbors = nx.single_source_dijkstra_path(G, centroid, cutoff=hop)
+    neighbors = nx.single_source_dijkstra_path(G, centroid, weight='cost')
+    distance = nx.single_source_dijkstra_path_length(G, centroid, weight='cost')
     
-    return neighbors
+    return neighbors, dict(sorted(distance.items(), key=operator.itemgetter(1)))  
 
 def checkgraphnode(G, keywords):
     keywords = keywords.split()
@@ -485,7 +486,7 @@ def spreading_activation_centroid(G, keywords):
             node_distance.append(initial)
             key_point.append([key])
 
-    while len(candidate) < 500:
+    while len(candidate) < 10:
         #print("Activation round : ", activate_round)
         min_average = 999999
         centroid = ''
@@ -530,7 +531,15 @@ def spreading_activation_centroid(G, keywords):
     return dict(sorted(candidate.items(), key=operator.itemgetter(1))) 
 
 
-#G = nx.read_gpickle("../Database/Pickle/221tag.gpickle")
+"""
+G = nx.read_gpickle("../Database/Pickle/221tag.gpickle")
 #graph_cluster2(G)
-#keywords = ['confusion', 'indigestion', 'impotence', 'weight_gain', 'amenorrhea' ]
-#print(spreading_activation_centroid(G, keywords))
+keywords = ['skin', 'itch', 'headache']
+centroid = spreading_activation_centroid(G, keywords)
+for c in centroid:
+    try:
+        if G.node[c]['tag'] == 'DS':
+            print(c)
+    except:
+        pass
+"""

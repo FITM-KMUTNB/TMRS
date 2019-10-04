@@ -22,7 +22,7 @@ def disease_by_hop(G, keywords):
             if G.node[word]['tag'] == 'DS' or G.node[word]['tag'] == 'DT':
 
                 disease[word] = centroid[word]
-                diseasehop[word] = hop[word]/len(keywords)
+                diseasehop[word] = format(hop[word]/len(keywords), '.2f')
         except:
             pass
     allcentroid = dict(
@@ -56,7 +56,7 @@ def disease_document(G, disease):
     return document
 
 
-def disease_neighbors(G, centroid, hop=1):
+def disease_neighbors_old(G, centroid, hop=1):
 
     neighbors = ct.centroid_neighbors(G, centroid, hop)
     node_no = dict()
@@ -64,7 +64,7 @@ def disease_neighbors(G, centroid, hop=1):
     node_link = []
     path_list = []
     number = 0
-
+    
     # Set node number.
     for n in neighbors:
         temp_path = []
@@ -77,6 +77,7 @@ def disease_neighbors(G, centroid, hop=1):
                         node_no[p] = number
                         node_name['name'] = p
                         node.append(node_name)
+                        
                         number += 1
                     temp_path.append(p)
             except:
@@ -84,7 +85,7 @@ def disease_neighbors(G, centroid, hop=1):
 
         if len(temp_path) > 1 and temp_path not in path_list:
             path_list.append(temp_path)
-
+    
     # Set pair_node list by node using number.
     for path in path_list:
         for link in range(len(path)):
@@ -95,6 +96,33 @@ def disease_neighbors(G, centroid, hop=1):
                 node_link.append(source_target)
 
     return(node, node_link)
+
+def disease_neighbors(G, centroid):
+    neighbors, neighbors_dis = ct.centroid_neighbors(G, centroid)
+    disease_dis = dict()
+    path_list = []
+    hop_distance = dict()
+    node_tag = dict()
+    for p in neighbors:
+        temp_path = []
+        hop = 0
+        for n in neighbors[p]:
+            hop += 1
+            try:
+                if G.node[n]['tag'] == 'ST' or n == centroid or G.node[n]['tag'] == 'DS':
+                    temp_path.append(n)
+                    if n not in node_tag:
+                        node_tag[n] = G.node[n]['tag']
+                        disease_dis[n] = neighbors_dis[n]
+                    if n not in hop_distance:
+                        hop_distance[n] = hop - 1 # not count centroid. path ['centroid', 'neighbors']
+            except:
+                pass
+        if len(temp_path) > 1 and temp_path not in path_list:
+            path_list.append(temp_path)
+    
+    return(path_list, hop_distance, node_tag, dict(sorted(disease_dis.items(), key=operator.itemgetter(1))))
+
 
 def get_all_graph(G):
     node = []
@@ -240,3 +268,6 @@ def tmrs_graph_clustering():
     ct.graph_cluster(G)
 
 #tmrs_graph_clustering()
+"""G = nx.read_gpickle('Database/Pickle/221tag.gpickle')
+centroid = 'dengue_fever'
+disease_neighbors(G, centroid)"""

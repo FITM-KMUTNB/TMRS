@@ -19,10 +19,11 @@
     <script src="https://d3js.org/d3.v3.min.js"></script>
     <script type="text/javascript">
             
-            var w = 1300;
-		    var h = 600;
+            var w = 1400;
+		    var h = 800;
             my_node = {{ my_node|safe }};
             my_link = {{ my_link|safe }};
+			my_color = {{ my_color|safe }};
 		    var dataset = {
                 nodes:my_node,
                 edges:my_link,
@@ -35,7 +36,28 @@
 								.linkDistance([100])
 								.charge([-150])
 								.start();
+								var node_drag = d3.behavior.drag()
+        .on("dragstart", dragstart)
+        .on("drag", dragmove)
+        .on("dragend", dragend);
 
+		function dragstart(d, i) {
+			force.stop() // stops the force auto positioning before you start dragging
+		}
+
+		function dragmove(d, i) {
+			d.px += d3.event.dx;
+			d.py += d3.event.dy;
+			d.x += d3.event.dx;
+			d.y += d3.event.dy; 
+			tick(); // this is the key to make it work together with updating both px,py,x,y on d !
+		}
+
+		function dragend(d, i) {
+			d.fixed = true; // of course set the node to fixed so the force doesn't include the node in its auto positioning stuff
+			tick();
+			force.resume();
+		}
 		var colors = d3.scale.category10();
 		var svg = d3.select("body")
 						.append("svg")
@@ -52,10 +74,10 @@
 						.enter()
 						.append("circle")
 						.attr("r", 10)
-						.style("fill", function(d, i){
-							return colors(i);
+						.style("fill", function (d) {
+    						return my_color[d.name];
 						})
-						.call(force.drag);
+						.call(node_drag);
             
 		var label = svg.selectAll(".mytext")
 						.data(dataset.nodes)
@@ -67,20 +89,19 @@
 					    .style("font-family", "Arial")
 					    .style("font-size", 12);
 		
-		 
-
-		force.on("tick", function(){
-			edges.attr("x1", function(d){ return d.source.x; })
-				 .attr("y1", function(d){ return d.source.y; })
-				 .attr("x2", function(d){ return d.target.x; })
-				 .attr("y2", function(d){ return d.target.y; });
-			nodes.attr("cx", function(d){ return d.x; })
-				 .attr("cy", function(d){ return d.y; });
+		
+		force.on("tick", tick);
+		function tick(){
+			edges.attr("x1", function(d) { return d.source.x; })
+				.attr("y1", function(d) { return d.source.y; })
+				.attr("x2", function(d) { return d.target.x; })
+				.attr("y2", function(d) { return d.target.y; });
+			nodes.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 			label.attr("x", function(d){ return d.x; })
     			 .attr("y", function (d) {return d.y - 10; });
 
 			
-		});
+		};
         
         </script>
 {% endblock %}   
