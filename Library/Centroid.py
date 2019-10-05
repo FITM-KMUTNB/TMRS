@@ -543,3 +543,9 @@ for c in centroid:
     except:
         pass
 """
+"""G = nx.read_gpickle("../Database/Pickle/221tag.gpickle")
+keywords = ["ataxia", "anorexia", "nausea" ,"dyspnea" ,"claudication"]
+centroid = spreading_activation_centroid(G, keywords)
+for c in centroid:
+    if G.node[c]['tag'] == 'DS':
+        print(c, ' , Dis:', centroid[c]) """

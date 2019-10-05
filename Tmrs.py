@@ -124,6 +124,21 @@ def disease_neighbors(G, centroid):
             pass
     return(path_list, hop_distance, node_tag, dict(sorted(disease_dis.items(), key=operator.itemgetter(1))))
 
+def disease_related(G, centroid):
+
+    distance = nx.single_source_dijkstra_path_length(G, centroid, weight='cost')
+    path = nx.single_source_dijkstra_path(G, centroid, weight='cost')
+    hop = dict()
+  
+    for p in path:
+        
+        if p == centroid:
+            continue
+        
+        hop[p] = len(path[p]) - 1 
+    
+    return(distance, path, hop)
+
 def get_all_graph(G):
     node = []
     node_link = []
@@ -270,4 +285,4 @@ def tmrs_graph_clustering():
 #tmrs_graph_clustering()
 """G = nx.read_gpickle('Database/Pickle/221tag.gpickle')
 centroid = 'dengue_fever'
-disease_neighbors(G, centroid)"""
+disease_related(G, centroid)"""
