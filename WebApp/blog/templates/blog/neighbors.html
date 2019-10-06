@@ -2,8 +2,9 @@
 <html>
 <meta charset="utf-8">
 
-<body>
+
 {% block body %}
+<body style="background-color:rgb(255, 251, 251);">
 <br>
 <center>
 	{% if my_centroid %}
@@ -67,16 +68,27 @@
 						.data(dataset.edges)
 						.enter()
 						.append("line")
-						.style("stroke", "#ccc")
-						.style("stroke-width", 1);
+						.style("stroke", " #bcc1bb ")
+						.style("stroke-width", function (d) {
+							console.log(d.weight); 
+    						return d.weight;
+						});
+						
 		var nodes = svg.selectAll("circle")
 						.data(dataset.nodes)
 						.enter()
 						.append("circle")
-						.attr("r", 10)
+						.attr("r", function (d) {
+    						return d.size;
+						})
+						.style("stroke", "white")
+						.style("stroke-width", 3)
+						.style("stroke-opacity", .2)
 						.style("fill", function (d) {
     						return my_color[d.name];
 						})
+						.style("fill-opacity", .9)
+						
 						.call(node_drag);
             
 		var label = svg.selectAll(".mytext")
@@ -85,7 +97,7 @@
 						.append("text")
 					    .text(function (d) { return d.name; })
 					    .style("text-anchor", "middle")
-					    .style("fill", "#555")
+					    .style("fill", "black")
 					    .style("font-family", "Arial")
 					    .style("font-size", 12);
 		
@@ -96,14 +108,17 @@
 				.attr("y1", function(d) { return d.source.y; })
 				.attr("x2", function(d) { return d.target.x; })
 				.attr("y2", function(d) { return d.target.y; });
-			nodes.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+			nodes.attr("transform", function(d) { 
+				console.log("translate(" + d.x + "," + d.y + ")");
+				return "translate(" + d.x + "," + d.y + ")"; });
 			label.attr("x", function(d){ return d.x; })
-    			 .attr("y", function (d) {return d.y - 10; });
+    			 .attr("y", function (d) {return d.y - d.size; });
 
 			
 		};
         
-        </script>
-{% endblock %}   
+		</script>
 </body>
+{% endblock %}   
+
 </html>
