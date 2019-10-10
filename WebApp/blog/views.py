@@ -7,6 +7,9 @@ import Tmrs as ts
 import os
 from django.template.defaulttags import register
 import json
+import plotly.graph_objs as go
+import plotly.offline as opy
+import random
 
 Cooccs = None
 
@@ -270,6 +273,309 @@ def neighbor(request):
             return render(request, 'blog/neighbors.html', context)
         else:
             return render(request, 'blog/home.html')
+
+def d3neighbor(request):
+    global get_distance
+    global get_path
+    global get_hop
+    global current_centroid
+
+    if request.method == 'GET':
+        centroid = request.GET.get('centroid')
+        if '"' in centroid:
+            centroid = centroid.strip('"')
+
+        hop = request.GET.get('hop')
+        print("Recieve : ", centroid)
+
+        if not get_distance or current_centroid != centroid:
+            current_centroid = centroid
+            print("compute : graph")
+            get_distance, get_path, get_hop = ts.disease_related(Cooccs, centroid)
+            
+        if centroid and not hop or int(hop) == 1:
+            print("compute : first hop")
+            
+            node = [] # [{'name':node1}, {'name':node2}]
+            link = [] # [{'source':index_n, 'target':index_n}, ..]
+            color = dict()
+            node_index = dict() # node index number.
+            end_point = [] 
+            index = 0
+            limit_disease = 10
+            disease_count = 0
+            # iterate node sorted by distance. and store node member within hop 
+            # and have end point is disease or symptom.
+            for n in get_distance:
+                
+                
+                # centroid or initial node.
+                if n == centroid:
+                    node.append({'name':centroid, 'size':20})
+                    node_index[centroid] = index
+                    color[centroid] = '#ee2727'#red
+                    index += 1
+                    #print(n, ':', Cooccs.node[n]['occur'])
+                # related to centroid.
+                elif get_hop[n] <= 2:
+                    
+                    # if end node is disease or symptom.
+                    if Cooccs.node[n]['tag'] == 'DS' or Cooccs.node[n]['tag'] == 'ST':
+                        #print(n, ':', Cooccs.node[n]['occur'])
+                        end_point.append(n)
+                        # store node in this path.
+                        for p in get_path[n]:
+                            
+                            if p not in node_index:
+                                node_fre = Cooccs.node[p]['occur']
+                                node_size = 0
+                                if node_fre <= 100:
+                                    node_size = 10
+                                elif node_fre > 100 and node_fre <= 500:
+                                    node_size = 15
+                                elif node_fre > 500:
+                                    node_size = 20
+                                node.append({'name':p, 'size':node_size})
+                                node_index[p] = index
+                                index += 1
+
+                                #node color
+                                if Cooccs.node[p]['tag'] == 'DS':
+                                    color[p] = 'Red'
+                                elif Cooccs.node[p]['tag'] == 'ST':
+                                    color[p] = '#f7ff00'#yellow
+                                else:
+                                    color[p] = '#0061ff'#blue
+                                                        
+
+                        if Cooccs.node[n]['tag'] == 'DS':
+                            disease_count += 1 # disease count
+                        if disease_count == limit_disease:
+                            break
+            index = 0
+            node_index = dict() # node index number.
+            end_point = [] 
+            node2 = []
+            for n in node:
+                if n['name'] == centroid:
+                    node2.append(n)
+                    node_index[n['name']] = index
+                    index += 1
+                elif get_hop[n['name']] == 1:
+                    end_point.append(n['name'])
+                    node2.append(n)
+                    node_index[n['name']] = index
+                    index += 1
+
+            # create link from initial to end point.
+            #print("End point :", end_point)
+            for p in end_point:
+                
+                #print(get_path[p])
+                link_cost = get_distance[p]
+                #print(link_cost)
+                for sp in range(len(get_path[p])):
+                    # path to end point
+                    temp_link = dict()
+                    if sp+1 >= len(get_path[p]) or sp+1 >= 2:
+                        break
+                    
+                    temp_link['source'] = node_index[get_path[p][sp]]
+                    temp_link['target'] = node_index[get_path[p][sp+1]]
+
+                    
+                    init_scale = 5 * 2
+                    if link_cost <= init_scale:
+                        temp_link['weight'] = 6
+                    elif link_cost > init_scale and link_cost <= init_scale + 5:
+                        temp_link['weight'] = 3
+                    elif link_cost > init_scale + 5:
+                        temp_link['weight'] = 1
+                    if temp_link not in link:
+                        link.append(temp_link)
+
+            context = dict()
+            context['my_centroid'] = centroid
+            context['graph'] = plot_3dgraph(node2, link, color, centroid)
+            return render(request, 'blog/d3graph.html', context)
+            
+        if centroid and hop and int(hop) > 1:
+            print("compute : ", hop," hop")
+            node = [] # [{'name':node1}, {'name':node2}]
+            link = [] # [{'source':index_n, 'target':index_n}, ..]
+            color = dict()
+            node_index = dict() # node index number.
+            end_point = [] 
+            index = 0
+            limit_disease = 5 * int(hop)
+            disease_count = 0
+            # iterate node sorted by distance. and store node member within hop 
+            # and have end point is disease or symptom.
+            for n in get_distance:
+                
+                
+                # centroid or initial node.
+                if n == centroid:
+                    node.append({'name':centroid, 'size':20})
+                    node_index[centroid] = index
+                    color[centroid] = '#ee2727'
+                    index += 1
+                    #print(n, ':', Cooccs.node[n]['occur'])
+                # related to centroid.
+                elif get_hop[n] <= int(hop):
+                    
+                    # if end node is disease or symptom.
+                    if Cooccs.node[n]['tag'] == 'DS' or Cooccs.node[n]['tag'] == 'ST':
+                        #print(n, ':', Cooccs.node[n]['occur'])
+                        end_point.append(n)
+                        # store node in this path.
+                        for p in get_path[n]:
+                            
+                            if p not in node_index:
+                                node_fre = Cooccs.node[p]['occur']
+                                node_size = 0
+                                if node_fre <= 100:
+                                    node_size = 10
+                                elif node_fre > 100 and node_fre <= 500:
+                                    node_size = 15
+                                elif node_fre > 500:
+                                    node_size = 20
+                                node.append({'name':p, 'size':node_size})
+                                node_index[p] = index
+                                index += 1
+
+                                #node color
+                                if Cooccs.node[p]['tag'] == 'DS':
+                                    color[p] = '#ee2727'
+                                elif Cooccs.node[p]['tag'] == 'ST':
+                                    color[p] = '#f7ff00'
+                                else:
+                                    color[p] = '#0061ff'
+                                                        
+
+                        if Cooccs.node[n]['tag'] == 'DS':
+                            disease_count += 1 # disease count
+                        if disease_count == limit_disease:
+                            break
+
+
+            # create link from initial to end point.
+            #print("End point :", end_point)
+            for p in end_point:
+                
+                print(get_path[p])
+                link_cost = get_distance[p]
+                #print(link_cost)
+                for sp in range(len(get_path[p])):
+                    # path to end point
+                    temp_link = dict()
+                    if sp+1 >= len(get_path[p]):
+                        break
+                    
+                    temp_link['source'] = node_index[get_path[p][sp]]
+                    temp_link['target'] = node_index[get_path[p][sp+1]]
+
+                    
+                    init_scale = 5 * 2
+                    if link_cost <= init_scale:
+                        temp_link['weight'] = 6
+                    elif link_cost > init_scale and link_cost <= init_scale + 5:
+                        temp_link['weight'] = 3
+                    elif link_cost > init_scale + 5:
+                        temp_link['weight'] = 1
+                    if temp_link not in link:
+                        link.append(temp_link)
+                      
+            context = dict()
+            context['my_centroid'] = centroid
+            context['graph'] = plot_3dgraph(node, link, color, centroid)
+            return render(request, 'blog/d3graph.html', context)
+        else:
+            return render(request, 'blog/home.html')
+
+
+def plot_3dgraph(node, link, color, centroid):
+    node_pos = {}
+    node_size = []
+    node_color = []
+    name = []
+    x_node = []
+    y_node = []
+    z_node = []
+    
+    for n in node:
+        coordinate = []
+        name.append(n['name'])
+        node_size.append(n['size']*2)
+        node_color.append(color[n['name']])
+        for i in range(3):
+            randnum = random.randint(10, 800)
+            coordinate.append(randnum)
+
+        node_pos[n['name']] = coordinate
+        x_node.append(coordinate[0])
+        y_node.append(coordinate[1])
+        z_node.append(coordinate[2])
+
+    x_link = []
+    y_link = []
+    z_link = []
+    link_size = []
+    for p in link:
+        source_name = node[p['source']]['name']
+        target_name = node[p['target']]['name']
+        x_link += [node_pos[source_name][0], node_pos[target_name][0], None]
+        y_link += [node_pos[source_name][1], node_pos[target_name][1], None]
+        z_link += [node_pos[source_name][2], node_pos[target_name][2], None]
+        link_size.append(p['weight'])
+
+    trace1= go.Scatter3d(
+                x = x_link, y = y_link,
+                z = z_link,
+                mode = 'lines'
+            )
+
+    trace2= go.Scatter3d(
+                x = x_node, y = y_node,
+                z = z_node,
+                mode='markers',
+                marker=dict(symbol='circle',
+                size=node_size,
+                color= node_color
+                
+                ),
+                text=name,
+                hoverinfo='text'
+            )
+    axis=dict(
+                showbackground=False,
+                showline=False,
+                zeroline=False,
+                showgrid=False,
+                showticklabels=False,
+                title=''
+                )
+
+    layout = go.Layout(
+                title=centroid,
+                width=1300,
+                height=600,
+                showlegend=False,
+                scene=dict(
+                xaxis=dict(axis),
+                yaxis=dict(axis),
+                zaxis=dict(axis),
+                ),
+                margin=dict(
+                    t=100
+                ),
+                hovermode='closest',
+                )
+
+    data = [trace1,trace2]
+    fig = go.Figure(data = data, layout=layout)
+
+    return opy.plot(fig, auto_open=False, output_type='div')
 
 
 def show_graph(request):

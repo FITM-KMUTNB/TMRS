@@ -8,6 +8,7 @@ urlpatterns = [
     url(r'^document/$', views.document, name='document'),
     url(r'^neighbor/$', views.neighbor, name='neighbor'),
     url(r'^show_graph/$', views.show_graph, name='show_graph'),
+    url(r'^d3neighbor/$', views.d3neighbor, name='d3neighbor'),
 ]
 
 urlpatterns += staticfiles_urlpatterns()

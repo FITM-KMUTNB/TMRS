@@ -8,12 +8,12 @@ largest_component = max(nx.connected_components(Main_G), key=len)
 G = Main_G.subgraph(largest_component)
 print(nx.info(G))
 
-fileResult = open("Result Centroid/symptomcd2.txt", "w") 
+fileResult = open("Result Centroid/symptomcd.txt", "w") 
 
 def randomsymptom():
 
     allsymptom = _get_symptom() # Get all symptom from graph
-    tuple_size = 10000
+    tuple_size = 100000
     symptomset = dict()
     duplicate_check = []
     symptomset_size = 5
@@ -54,22 +54,15 @@ def _get_symptom():
 
 def centroid(symptom_set):
     keywords = []
-    disease = dict()
+ 
 
     for key in symptom_set:
         keywords.append(key)
     
     centroid = ctd.spreading_activation_centroid(G, keywords)
 
-    for word in centroid:
-        try:
-            if G.node[word]['tag'] == 'DS':
-                disease[word] = centroid[word]
-                break
-        except:
-            pass
     
-    return disease
+    return centroid
 
 def spreading_activation(symptom_set):
     neighbor_count = dict()

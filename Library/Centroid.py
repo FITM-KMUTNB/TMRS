@@ -520,7 +520,8 @@ def spreading_activation_centroid(G, keywords):
                             node_sum[r] = distance_dict[r]
                     
                     if node_count[r] == len(keywords):
-                        candidate[r] = node_sum[r] / len(keywords)
+                        if G.node[r]['tag'] == 'DS':
+                            candidate[r] = node_sum[r] / len(keywords)
                         """if min_average > candidate[r]:
                             min_average = candidate[r]
                             centroid = r"""
