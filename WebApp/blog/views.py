@@ -68,57 +68,109 @@ def neighbor(request):
             
         if centroid and not hop or int(hop) == 1:
             print("compute : first hop")
-            h1_path = nx.single_source_dijkstra_path(Cooccs, centroid, cutoff=1)
-            node = []
-            link = []
+            
+            node = [] # [{'name':node1}, {'name':node2}]
+            link = [] # [{'source':index_n, 'target':index_n}, ..]
             color = dict()
-            limit_symptom = 5
-            symptum_count = 0
-            id = 0
-            for p in get_distance:
-                temp_node = dict()
-                if p in h1_path:
-                    temp_link = dict()
-                    if Cooccs.node[p]['tag'] == 'ST' or p == centroid:
-                        node_fre = Cooccs.node[p]['occur']
-                        node_size = 0
-                        if node_fre <= 100:
-                            node_size = 10
-                        elif node_fre > 100 and node_fre <= 500:
-                            node_size = 15
-                        elif node_fre > 500:
-                            node_size = 20
-
-                        temp_node['name'] = p
-                        temp_node['size'] = node_size
-                        node.append(temp_node)
-                        
-                        if p != centroid:
-                        
-                            color[p] = 'GreenYellow'
+            node_index = dict() # node index number.
+            end_point = [] 
+            index = 0
+            limit_disease = 10
+            disease_count = 0
+            # iterate node sorted by distance. and store node member within hop 
+            # and have end point is disease or symptom.
+            for n in get_distance:
+                
+                
+                # centroid or initial node.
+                if n == centroid:
+                    node.append({'name':centroid, 'size':20})
+                    node_index[centroid] = index
+                    color[centroid] = 'Red'
+                    index += 1
+                    print(n, ':', Cooccs.node[n]['occur'])
+                # related to centroid.
+                elif get_hop[n] <= 2:
+                    
+                    # if end node is disease or symptom.
+                    if Cooccs.node[n]['tag'] == 'DS' or Cooccs.node[n]['tag'] == 'ST':
+                        print(n, ':', Cooccs.node[n]['occur'])
+                        end_point.append(n)
+                        # store node in this path.
+                        for p in get_path[n]:
                             
-                            id += 1
-                            temp_link['source'] = 0
-                            temp_link['target'] = id
-                            link_cost = get_distance[p]
-                            print(p, ":", link_cost)
-                            if link_cost < 20:
-                                temp_link['weight'] = 6
-                            elif link_cost > 20 and link_cost < 69 :
-                                temp_link['weight'] = 3
-                            elif link_cost > 69:
-                                temp_link['weight'] = 1
-                            link.append(temp_link)
-                        else:
-                            color[p] = 'Red'
-                        
-                        if symptum_count == limit_symptom:
+                            if p not in node_index:
+                                node_fre = Cooccs.node[p]['occur']
+                                node_size = 0
+                                if node_fre <= 100:
+                                    node_size = 10
+                                elif node_fre > 100 and node_fre <= 500:
+                                    node_size = 15
+                                elif node_fre > 500:
+                                    node_size = 20
+                                node.append({'name':p, 'size':node_size})
+                                node_index[p] = index
+                                index += 1
+
+                                #node color
+                                if Cooccs.node[p]['tag'] == 'DS':
+                                    color[p] = 'Red'
+                                elif Cooccs.node[p]['tag'] == 'ST':
+                                    color[p] = 'GreenYellow'
+                                else:
+                                    color[p] = '#0061ff'
+                                                        
+
+                        if Cooccs.node[n]['tag'] == 'DS':
+                            disease_count += 1 # disease count
+                        if disease_count == limit_disease:
                             break
-                        symptum_count += 1
+            index = 0
+            node_index = dict() # node index number.
+            end_point = [] 
+            node2 = []
+            for n in node:
+                if n['name'] == centroid:
+                    node2.append(n)
+                    node_index[n['name']] = index
+                    index += 1
+                elif get_hop[n['name']] == 1:
+                    end_point.append(n['name'])
+                    node2.append(n)
+                    node_index[n['name']] = index
+                    index += 1
+
+            # create link from initial to end point.
+            print("End point :", end_point)
+            for p in end_point:
+                
+                print(get_path[p])
+                link_cost = get_distance[p]
+                print(link_cost)
+                for sp in range(len(get_path[p])):
+                    # path to end point
+                    temp_link = dict()
+                    if sp+1 >= len(get_path[p]) or sp+1 >= 2:
+                        break
+                    
+                    temp_link['source'] = node_index[get_path[p][sp]]
+                    temp_link['target'] = node_index[get_path[p][sp+1]]
+
+                    
+                    init_scale = 5 * 2
+                    if link_cost <= init_scale:
+                        temp_link['weight'] = 6
+                    elif link_cost > init_scale and link_cost <= init_scale + 5:
+                        temp_link['weight'] = 3
+                    elif link_cost > init_scale + 5:
+                        temp_link['weight'] = 1
+                    if temp_link not in link:
+                        link.append(temp_link)
+
          
             context = dict()
             context['my_centroid'] = json.dumps(centroid)
-            context['my_node'] = json.dumps(node)
+            context['my_node'] = json.dumps(node2)
             context['my_link'] = json.dumps(link)
             context['my_color'] = json.dumps(color)
             return render(request, 'blog/neighbors.html', context)
