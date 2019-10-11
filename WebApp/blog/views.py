@@ -521,21 +521,31 @@ def plot_3dgraph(node, link, color, centroid):
     y_link = []
     z_link = []
     link_size = []
+  
     for p in link:
         source_name = node[p['source']]['name']
         target_name = node[p['target']]['name']
-        x_link += [node_pos[source_name][0], node_pos[target_name][0], None]
-        y_link += [node_pos[source_name][1], node_pos[target_name][1], None]
-        z_link += [node_pos[source_name][2], node_pos[target_name][2], None]
+        x = [node_pos[source_name][0], node_pos[target_name][0], None]
+        y = [node_pos[source_name][1], node_pos[target_name][1], None]
+        z = [node_pos[source_name][2], node_pos[target_name][2], None]
+        x_link.append(x)
+        y_link.append(y)
+        z_link.append(z)
         link_size.append(p['weight'])
-
-    trace1= go.Scatter3d(
-                x = x_link, y = y_link,
-                z = z_link,
-                mode = 'lines'
-            )
-
-    trace2= go.Scatter3d(
+  
+     
+    print(x_link)
+    print(y_link)
+    print(z_link)
+    traces={}
+    for i in range(0, len(x_link)):
+        traces['trace_' + str(i)]=go.Scatter3d(x = x_link[i], 
+                                            y = y_link[i],
+                                            z = z_link[i],
+                                            mode='lines',
+                                            line=dict(color='#0061ff',width=link_size[i]))
+   
+    traces['node']= go.Scatter3d(
                 x = x_node, y = y_node,
                 z = z_node,
                 mode='markers',
@@ -547,6 +557,7 @@ def plot_3dgraph(node, link, color, centroid):
                 text=name,
                 hoverinfo='text'
             )
+    
     axis=dict(
                 showbackground=False,
                 showline=False,
@@ -571,8 +582,8 @@ def plot_3dgraph(node, link, color, centroid):
                 ),
                 hovermode='closest',
                 )
-
-    data = [trace1,trace2]
+    data=list(traces.values())
+  
     fig = go.Figure(data = data, layout=layout)
 
     return opy.plot(fig, auto_open=False, output_type='div')

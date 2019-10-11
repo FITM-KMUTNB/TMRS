@@ -96,6 +96,7 @@ def spreading_activation_centroid(G, keywords):
 result = spreading_activation_centroid(G, keywords)
 
 print(result)"""
-
-for i in range(3):
-    print(i)
+x_link = [463, 542, None, 463, 610, None, 463, 604, None, 463, 322, None, 463, 308, None, 463, 94, None, 463, 107, None]
+for i in range(0,len(x_link),3):
+    x = x_link[:3]
+    print(x_link[:3])

@@ -50,7 +50,9 @@
 {% for d, dis in disease.items %}
 <tr>
 <td>
-<a href="/neighbor/?centroid={{ d }}">{{ d }}</a>
+{{ d }}
+&nbsp;    
+<a href="/neighbor/?centroid={{ d }}">2D</a>
 <a href="/d3neighbor/?centroid={{ d }}">3D</a>
 </td>
 <td>
