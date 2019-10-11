@@ -548,13 +548,14 @@ def plot_3dgraph(node, link, color, centroid):
     traces['node']= go.Scatter3d(
                 x = x_node, y = y_node,
                 z = z_node,
-                mode='markers',
+                mode='markers+text',
                 marker=dict(symbol='circle',
                 size=node_size,
                 color= node_color
                 
                 ),
                 text=name,
+                textposition="top center",
                 hoverinfo='text'
             )
     
