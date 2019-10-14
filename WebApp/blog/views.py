@@ -13,12 +13,12 @@ import random
 
 Cooccs = None
 keywords = None
-
+first_centorid = None
 class HomeView(TemplateView):
     template_name = 'blog/home.html'
     
     def post(self, request):
-        global centroid
+        global first_centorid
         global keywords
         #Get keyword from webpage
         query = request.POST.get("query")
@@ -32,7 +32,7 @@ class HomeView(TemplateView):
       
         #Limit five value in dictionary
         top5disease = {k: disease[k] for k in list(disease.keys())[:10]}
-      
+        first_centorid = list(top5disease)[0]
         context = {'symptom' : query, 'disease' : top5disease, 'diseasehop' : hop, 'centroid' : centroid, 'document' : document}
         return render(request, self.template_name, context)
 
@@ -50,8 +50,8 @@ def document(request):
 
 def show_graph_sc(request):
     if request.method == 'GET':
-        centroid = request.GET.get('centroid')
-        
+        centroid = first_centorid
+        nb = dict()
         path = {}
         node = []
         node_id = dict()
@@ -89,7 +89,19 @@ def show_graph_sc(request):
                         else:
                             color[sn] = '#0061ff'
 
-   
+                        node_connected = nx.neighbors(Cooccs, sn)
+                        for nc in node_connected:
+                            if nc in nb:
+                                nb[nc] += 1
+                            else:
+                                nb[nc] = 1
+        number = 0
+        for nbb in nb:
+            if nb[nbb] == 5:
+                if Cooccs.node[nbb]['tag'] == 'DS' or Cooccs.node[nbb]['tag'] == 'ST':
+                    print(nbb)
+                    number += 1
+        print(number)
         # Add link [{'source':0, 'target':1}, {'source':1, 'target':2}]
         for p in path:
             for sp in range(len(path[p])):
@@ -111,6 +123,8 @@ def show_graph_sc(request):
                 if temp_link not in link:
                     link.append(temp_link)
 
+                        
+                        
         context = dict()
         context['my_centroid'] = json.dumps(centroid)
         context['keywords'] = json.dumps(keywords)
@@ -265,7 +279,7 @@ def neighbor(request):
             # iterate node sorted by distance. and store node member within hop 
             # and have end point is disease or symptom.
             for n in get_distance:
-                
+      
                 
                 # centroid or initial node.
                 if n == centroid:
@@ -311,7 +325,40 @@ def neighbor(request):
                         if disease_count == limit_disease:
                             break
 
+            for n in get_distance:
+                # centroid or initial node.
+                if n == centroid:
+                    pass
+                # related to centroid.
+                elif get_hop[n] <= int(hop):
+                    # if end node is disease or symptom.
+                    if n in keywords and n not in end_point:
+                        print(n, ':', Cooccs.node[n]['occur'])
+                        end_point.append(n)
+                        # store node in this path.
+                        for p in get_path[n]:
+                                
+                            if p not in node_index:
+                                node_fre = Cooccs.node[p]['occur']
+                                node_size = 0
+                                if node_fre <= 100:
+                                    node_size = 10
+                                elif node_fre > 100 and node_fre <= 500:
+                                    node_size = 15
+                                elif node_fre > 500:
+                                    node_size = 20
+                                node.append({'name':p, 'size':node_size})
+                                node_index[p] = index
+                                index += 1
 
+                                #node color
+                                if Cooccs.node[p]['tag'] == 'DS':
+                                    color[p] = 'Red'
+                                elif Cooccs.node[p]['tag'] == 'ST':
+                                    color[p] = 'GreenYellow'
+                                else:
+                                    color[p] = '#0061ff'
+                    
             # create link from initial to end point.
             print("End point :", end_point)
             for p in end_point:
