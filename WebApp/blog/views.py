@@ -12,24 +12,27 @@ import plotly.offline as opy
 import random
 
 Cooccs = None
-
+keywords = None
 
 class HomeView(TemplateView):
     template_name = 'blog/home.html'
     
     def post(self, request):
+        global centroid
+        global keywords
         #Get keyword from webpage
         query = request.POST.get("query")
        
         print("Receive : "+query)
         query = checkgraphnode(Cooccs, query)
-
+        keywords = query
         #Find disease that proximity to keywords
         disease, centroid, hop = ts.disease(Cooccs, query)
         document = ts.disease_document(Cooccs, disease)
       
         #Limit five value in dictionary
         top5disease = {k: disease[k] for k in list(disease.keys())[:10]}
+      
         context = {'symptom' : query, 'disease' : top5disease, 'diseasehop' : hop, 'centroid' : centroid, 'document' : document}
         return render(request, self.template_name, context)
 
@@ -44,6 +47,77 @@ def document(request):
            
             context = {'docname':doc, 'read':text_file.readlines()}
             return render(request, 'blog/readdoc.html', context)
+
+def show_graph_sc(request):
+    if request.method == 'GET':
+        centroid = request.GET.get('centroid')
+        
+        path = {}
+        node = []
+        node_id = dict()
+        link = []
+        color = dict()
+        id = 0
+        distance, symptom = nx.single_source_dijkstra(Cooccs, centroid, weight='cost')
+     
+        # Add node [{'name':'node1'},{'name':'node2'}]
+        for n in symptom:
+            if n in keywords:
+                path[n] = symptom[n]
+                for sn in path[n]:
+                    temp_node = dict()
+                    temp_node['name'] = sn
+                    node_fre = Cooccs.node[sn]['occur']
+                    node_size = 0
+                    if node_fre <= 100:
+                        node_size = 10
+                    elif node_fre > 100 and node_fre <= 500:
+                        node_size = 15
+                    elif node_fre > 500:
+                        node_size = 20
+                    temp_node['size'] = node_size
+                    if temp_node not in node:
+                        
+                        node.append(temp_node)
+                        node_id[sn] = id
+                        id += 1
+
+                        if Cooccs.node[sn]['tag'] == 'DS' or sn == centroid:
+                            color[sn] = 'Red'
+                        elif Cooccs.node[sn]['tag'] == 'ST':
+                            color[sn] = 'GreenYellow'
+                        else:
+                            color[sn] = '#0061ff'
+
+   
+        # Add link [{'source':0, 'target':1}, {'source':1, 'target':2}]
+        for p in path:
+            for sp in range(len(path[p])):
+                if sp + 1 >= len(path[p]):
+                    break
+
+                temp_link = dict()
+                temp_link['source'] = node_id[path[p][sp]]
+                temp_link['target'] = node_id[path[p][sp+1]]
+
+                link_cost = Cooccs[path[p][sp]][path[p][sp+1]]['cost']
+                init_scale = 5 * 2
+                if link_cost <= init_scale:
+                    temp_link['weight'] = 6
+                elif link_cost > init_scale and link_cost <= init_scale + 5:
+                    temp_link['weight'] = 3
+                elif link_cost > init_scale + 5:
+                    temp_link['weight'] = 1
+                if temp_link not in link:
+                    link.append(temp_link)
+
+        context = dict()
+        context['my_centroid'] = json.dumps(centroid)
+        context['keywords'] = json.dumps(keywords)
+        context['my_node'] = json.dumps(node)
+        context['my_link'] = json.dumps(link)
+        context['my_color'] = json.dumps(color)
+        return render(request, 'blog/graph.html', context)
 
 get_distance = None
 get_path = None

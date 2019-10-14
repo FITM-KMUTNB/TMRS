@@ -498,7 +498,7 @@ def spreading_activation_centroid(G, keywords):
             # initail point.
             for a in range(activate_size):
                 act_node = key_point[index].pop(0)
-                #print("Activate :: ", act_node)
+                print("Activate [", index,"]:: ", act_node)
 
                 # Activate
                 related_node = nx.neighbors(G, act_node)
@@ -545,7 +545,7 @@ for c in centroid:
         pass
 """
 """G = nx.read_gpickle("../Database/Pickle/221tag.gpickle")
-keywords = ["ataxia", "anorexia", "nausea" ,"dyspnea" ,"claudication"]
+keywords = ['skin', 'itch', 'headache']
 centroid = spreading_activation_centroid(G, keywords)
 for c in centroid:
     if G.node[c]['tag'] == 'DS':
