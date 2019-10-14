@@ -26,8 +26,6 @@
 </div>
 
 
-
-<a href="/show_graph">Show Graph</a>
 {% if symptom %}
 <h4>Symptoms : 
 {% for symp in symptom %}
@@ -50,7 +48,7 @@
 {% for d, dis in disease.items %}
 <tr>
 <td>
-{{ d }}
+<a href="/show_graph/?centroid={{ d }}">{{ d }}</a>
 &nbsp;    
 <a href="/neighbor/?centroid={{ d }}">2D</a>
 <a href="/d3neighbor/?centroid={{ d }}">3D</a>
