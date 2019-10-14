@@ -185,7 +185,7 @@ def show_graph_sc(request):
                         if blue_count == 3:
                             break
     
-        # Add link [{'source':0, 'target':1}, {'source':1, 'target':2}]
+        # Add link. [{'source':0, 'target':1}, {'source':1, 'target':2}]
         for p in path:
             for sp in range(len(path[p])):
                 if sp + 1 >= len(path[p]):
