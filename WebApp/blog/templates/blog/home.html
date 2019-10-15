@@ -27,13 +27,14 @@
 
 
 
-<a href="/show_graph">Show Graph</a>
+
 {% if symptom %}
 <h4>Symptoms : 
 {% for symp in symptom %}
 {{ symp }} 
 {% endfor %}
 </h4>
+<a href="/show_graph">Show Graph</a>
 {% endif %}
 
 <div class="diseasebox">

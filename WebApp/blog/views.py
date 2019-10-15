@@ -116,74 +116,202 @@ def show_graph_sc(request):
 
         for sn in temp_nodeid:                
             distance, node_connected = nx.single_source_dijkstra(Cooccs, sn, weight='cost')
+          
             blue_count = 0
-            for np in node_connected:
-                
-                if len(node_connected[np]) == 2 and np not in node_id:
-            
-                    if Cooccs.node[np]['tag'] == 'DS' or Cooccs.node[np]['tag'] == 'ST':
-                        temp_path = []
-                        temp_path = [sn, np]
-                        path[np] = temp_path
-                        temp_node = dict()
-                        temp_node['name'] = np
-                        node_fre = Cooccs.node[np]['occur']
-                        node_size = 0
-                        if node_fre <= 100:
-                            node_size = 10
-                        elif node_fre > 100 and node_fre <= 500:
-                            node_size = 15
-                        elif node_fre > 500:
-                            node_size = 20
-                        temp_node['size'] = node_size
-                        
-                        node.append(temp_node)
-                        node_id[np] = id
-                        id += 1
-
-                        if Cooccs.node[np]['tag'] == 'DS':
-                            color[np] = 'Red'
-                        elif Cooccs.node[np]['tag'] == 'ST':
-                            color[np] = 'GreenYellow'
-                        else:
-                            olor[np] = '#0061ff'
-
-
+            dt_lim = 10
+            dt_no = 0
             for np in distance:
+            
+                if len(node_connected[np]) < 2:
+                    continue
+                seconde = node_connected[np][1]
                 
-                if len(node_connected[np]) == 2 and np not in node_id:
-                 
-                    if Cooccs.node[np]['tag'] == 'NN':
-                        temp_path = []
-                        temp_path = [sn, np]
-                        path[np] = temp_path
-                        temp_node = dict()
-                        temp_node['name'] = np
-                        node_fre = Cooccs.node[np]['occur']
-                        node_size = 0
-                        if node_fre <= 100:
-                            node_size = 10
-                        elif node_fre > 100 and node_fre <= 500:
-                            node_size = 15
-                        elif node_fre > 500:
-                            node_size = 20
-                        temp_node['size'] = node_size
-                      
-                        node.append(temp_node)
-                        node_id[np] = id
-                        id += 1
-                        blue_count += 1
+                if sn == centroid:
+                    
+                    if len(node_connected[np]) > 3:
+                        continue
+                    if Cooccs.node[np]['tag'] == 'DS':
+                        if np not in node_id:
+                            dt_no += 1
+                    for subn in range(len(node_connected[np])):
+                        mem_ct = node_connected[np][subn]
+                        if Cooccs.node[np]['tag'] == 'DS' and dt_no <= dt_lim:
+                            
+                            if subn + 1 >= len(node_connected[np]):
+                                break
+                            
+                          
+                            if mem_ct not in node_id:
+                                
+                                #source node
+                                temp_node = dict()
+                                temp_node['name'] = mem_ct
+                                node_fre = Cooccs.node[mem_ct]['occur']
+                                node_size = 0
+                                if node_fre <= 100:
+                                    node_size = 10
+                                elif node_fre > 100 and node_fre <= 500:
+                                    node_size = 15
+                                elif node_fre > 500:
+                                    node_size = 20
+                                temp_node['size'] = node_size
+                                
+                                node.append(temp_node)
+                                node_id[mem_ct] = id
+                                id += 1
 
-                        if Cooccs.node[np]['tag'] == 'DS':
-                            color[np] = 'Red'
-                        elif Cooccs.node[np]['tag'] == 'ST':
-                            color[np] = 'GreenYellow'
-                        else:
-                            color[np] = '#0061ff'
-                                             
+                                if Cooccs.node[mem_ct]['tag'] == 'DS':
+                                    color[mem_ct] = 'Red'
+                                elif Cooccs.node[mem_ct]['tag'] == 'ST':
+                                    color[mem_ct] = 'GreenYellow'
+                                else:
+                                    color[mem_ct] = '#0061ff'
 
-                        if blue_count == 3:
-                            break
+                            #target node
+                            nex_ct = node_connected[np][subn+1]
+                            if nex_ct not in node_id:
+                                temp_node = dict()
+                                temp_node['name'] = nex_ct
+                                node_fre = Cooccs.node[nex_ct]['occur']
+                                node_size = 0
+                                if node_fre <= 100:
+                                    node_size = 10
+                                elif node_fre > 100 and node_fre <= 500:
+                                    node_size = 15
+                                elif node_fre > 500:
+                                    node_size = 20
+                                temp_node['size'] = node_size
+                                
+                                node.append(temp_node)
+                                node_id[nex_ct] = id
+                                id += 1
+
+                                if Cooccs.node[nex_ct]['tag'] == 'DS':
+                                    color[nex_ct] = 'Red'
+                                elif Cooccs.node[nex_ct]['tag'] == 'ST':
+                                    color[nex_ct] = 'GreenYellow'
+                                else:
+                                    color[nex_ct] = '#0061ff'
+
+                            temp_path = []
+                            temp_path = [mem_ct, nex_ct]
+                            path[nex_ct] = temp_path
+
+                        if Cooccs.node[np]['tag'] == 'ST':
+                            if subn + 1 >= len(node_connected[np]):
+                                break
+                            
+                            if mem_ct not in node_id:
+                                
+                                #source node
+                                temp_node = dict()
+                                temp_node['name'] = mem_ct
+                                node_fre = Cooccs.node[mem_ct]['occur']
+                                node_size = 0
+                                if node_fre <= 100:
+                                    node_size = 10
+                                elif node_fre > 100 and node_fre <= 500:
+                                    node_size = 15
+                                elif node_fre > 500:
+                                    node_size = 20
+                                temp_node['size'] = node_size
+                                
+                                node.append(temp_node)
+                                node_id[mem_ct] = id
+                                id += 1
+
+                                if Cooccs.node[mem_ct]['tag'] == 'DS':
+                                    color[mem_ct] = 'Red'
+                                elif Cooccs.node[mem_ct]['tag'] == 'ST':
+                                    color[mem_ct] = 'GreenYellow'
+                                else:
+                                    color[mem_ct] = '#0061ff'
+
+                            #target node
+                            nex_ct = node_connected[np][subn+1]
+                            if nex_ct not in node_id:
+                                temp_node = dict()
+                                temp_node['name'] = nex_ct
+                                node_fre = Cooccs.node[nex_ct]['occur']
+                                node_size = 0
+                                if node_fre <= 100:
+                                    node_size = 10
+                                elif node_fre > 100 and node_fre <= 500:
+                                    node_size = 15
+                                elif node_fre > 500:
+                                    node_size = 20
+                                temp_node['size'] = node_size
+                                
+                                node.append(temp_node)
+                                node_id[nex_ct] = id
+                                id += 1
+
+                                if Cooccs.node[nex_ct]['tag'] == 'DS':
+                                    color[nex_ct] = 'Red'
+                                elif Cooccs.node[nex_ct]['tag'] == 'ST':
+                                    color[nex_ct] = 'GreenYellow'
+                                else:
+                                    color[nex_ct] = '#0061ff'
+
+                            temp_path = []
+                            temp_path = [mem_ct, nex_ct]
+                            path[nex_ct] = temp_path
+                            
+
+                else:
+                    if seconde not in node_id:
+                        
+                        if Cooccs.node[seconde]['tag'] == 'DS' or Cooccs.node[seconde]['tag'] == 'ST':
+                            
+                            temp_path = []
+                            temp_path = [sn, seconde]
+                            path[seconde] = temp_path
+                            temp_node = dict()
+                            temp_node['name'] = seconde
+                            node_fre = Cooccs.node[seconde]['occur']
+                            node_size = 0
+                            if node_fre <= 100:
+                                node_size = 10
+                            elif node_fre > 100 and node_fre <= 500:
+                                node_size = 15
+                            elif node_fre > 500:
+                                node_size = 20
+                            temp_node['size'] = node_size
+                            
+                            node.append(temp_node)
+                            node_id[seconde] = id
+                            id += 1
+
+                            if Cooccs.node[seconde]['tag'] == 'DS':
+                                color[seconde] = 'Red'
+                            elif Cooccs.node[seconde]['tag'] == 'ST':
+                                color[seconde] = 'GreenYellow'
+                            else:
+                                color[seconde] = '#0061ff'
+
+                        if Cooccs.node[seconde]['tag'] == 'NN' and blue_count != 3:
+                            temp_path = []
+                            temp_path = [sn, seconde]
+                            path[seconde] = temp_path
+                            temp_node = dict()
+                            temp_node['name'] = seconde
+                            node_fre = Cooccs.node[seconde]['occur']
+                            node_size = 0
+                            if node_fre <= 100:
+                                node_size = 10
+                            elif node_fre > 100 and node_fre <= 500:
+                                node_size = 15
+                            elif node_fre > 500:
+                                node_size = 20
+                            temp_node['size'] = node_size
+                        
+                            node.append(temp_node)
+                            node_id[seconde] = id
+                            id += 1
+                            blue_count += 1
+
+                            color[seconde] = '#0061ff'
+                
     
         # Add link. [{'source':0, 'target':1}, {'source':1, 'target':2}]
         for p in path:
@@ -265,7 +393,7 @@ def neighbor(request):
                 elif get_hop[n] <= 2:
                     
                     # if end node is disease or symptom.
-                    if Cooccs.node[n]['tag'] == 'DS' or Cooccs.node[n]['tag'] == 'ST':
+                    if Cooccs.node[n]['tag'] == 'DS' and disease_count < limit_disease:
                         print(n, ':', Cooccs.node[n]['occur'])
                         end_point.append(n)
                         # store node in this path.
@@ -295,8 +423,32 @@ def neighbor(request):
 
                         if Cooccs.node[n]['tag'] == 'DS':
                             disease_count += 1 # disease count
-                        if disease_count == limit_disease:
-                            break
+                    
+                    if Cooccs.node[n]['tag'] == 'ST':
+                        end_point.append(n)
+                        # store node in this path.
+                        for p in get_path[n]:
+                            
+                            if p not in node_index:
+                                node_fre = Cooccs.node[p]['occur']
+                                node_size = 0
+                                if node_fre <= 100:
+                                    node_size = 10
+                                elif node_fre > 100 and node_fre <= 500:
+                                    node_size = 15
+                                elif node_fre > 500:
+                                    node_size = 20
+                                node.append({'name':p, 'size':node_size})
+                                node_index[p] = index
+                                index += 1
+
+                                #node color
+                                if Cooccs.node[p]['tag'] == 'DS':
+                                    color[p] = 'Red'
+                                elif Cooccs.node[p]['tag'] == 'ST':
+                                    color[p] = 'GreenYellow'
+                                else:
+                                    color[p] = '#0061ff'
             index = 0
             node_index = dict() # node index number.
             end_point = [] 
@@ -372,8 +524,8 @@ def neighbor(request):
                 # related to centroid.
                 elif get_hop[n] <= int(hop):
                     
-                    # if end node is disease or symptom.
-                    if Cooccs.node[n]['tag'] == 'DS' or Cooccs.node[n]['tag'] == 'ST':
+                   # if end node is disease or symptom.
+                    if Cooccs.node[n]['tag'] == 'DS' and disease_count < limit_disease:
                         print(n, ':', Cooccs.node[n]['occur'])
                         end_point.append(n)
                         # store node in this path.
@@ -403,8 +555,32 @@ def neighbor(request):
 
                         if Cooccs.node[n]['tag'] == 'DS':
                             disease_count += 1 # disease count
-                        if disease_count == limit_disease:
-                            break
+                    
+                    if Cooccs.node[n]['tag'] == 'ST':
+                        end_point.append(n)
+                        # store node in this path.
+                        for p in get_path[n]:
+                            
+                            if p not in node_index:
+                                node_fre = Cooccs.node[p]['occur']
+                                node_size = 0
+                                if node_fre <= 100:
+                                    node_size = 10
+                                elif node_fre > 100 and node_fre <= 500:
+                                    node_size = 15
+                                elif node_fre > 500:
+                                    node_size = 20
+                                node.append({'name':p, 'size':node_size})
+                                node_index[p] = index
+                                index += 1
+
+                                #node color
+                                if Cooccs.node[p]['tag'] == 'DS':
+                                    color[p] = 'Red'
+                                elif Cooccs.node[p]['tag'] == 'ST':
+                                    color[p] = 'GreenYellow'
+                                else:
+                                    color[p] = '#0061ff'
 
             for n in get_distance:
                 # centroid or initial node.
