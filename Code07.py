@@ -97,5 +97,6 @@ G = nx.read_gpickle("Database/Pickle/221tag.gpickle")
 keywords = ['skin', 'itch', 'headache']
 centroid = spreading_activation_centroid(G, keywords)
 
-print(centroid)
+for c in list(centroid)[:10]:
+    print(c)
   
