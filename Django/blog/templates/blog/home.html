@@ -8,19 +8,6 @@
 {% block body %}
 
 
-<ul>
-    
-        <li>
-            <a class="logohome" href="#home">
-            <img src="/static/image/logo.png" alt="Logo"  style="width:100%">
-        </a>
-   
-        </li>
-
-        <li><a href="#news">News</a></li>
-        <li><a href="#contact">Contact</a></li>
-        <li><a href="#about">About</a></li>
-      </ul>
 
 
 <center>
@@ -82,7 +69,10 @@ Symptoms :
     {% for d, dis in disease.items %}
     <tr>
     <td>
-    <a href="/neighbor/?centroid={{ d }}">{{ d }}</a>
+        {{ d }}
+        &nbsp;    
+        <a href="/neighbor/?centroid={{ d }}">2D</a>
+        <a href="/d3neighbor/?centroid={{ d }}">3D</a>
     </td>
     <td>
     {{ dis }}
