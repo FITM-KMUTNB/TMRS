@@ -2,7 +2,7 @@ import networkx as nx
 import operator
 import nltk
 
-G = nx.read_gpickle("Database/Pickle/221tag.gpickle")
+G = nx.read_gpickle("Database/Pickle/man.gpickle")
 print(nx.info(G))
 #maxdistance2 = nx.single_source_dijkstra_path_length(G,'disease', weight='cost')
 #print('max2 : ', G.edges['Year', 'Baby']['cost'])
@@ -29,74 +29,41 @@ print(nx.info(G))
 #node_sp = nx.single_source_dijkstra_path_length(G, 'disease', weight='cost', cutoff=10)
 
 
-def spreading_activation_centroid(G, keywords):
-    centroid = ''
-    key_point = [] # node point to activate and find neighbors.
-    activate_round = 1
-    candidate = dict()
+x = [1, 2, 3, 4]
+
+def addition(array):
+    if len(array) == 0:
+        return 0
+    else:
+        return array[0] + addition(array[1:])
+
+x = [[1,2], [[3], 4, [5,6]], [7,[8]]]
+def addition2(array):
+    total = 0
+   
+    for num in array:
+        print(num)
+        if type(num) != list:
+            total += num
+        else:
+            total += addition2(num)
+    print('total:', total)
+    return total
+
+#addition2(x)
+
+
+min_average = 999999.999
+centroid = ''
+for n in G.nodes:
+    sp_distance = nx.single_source_dijkstra_path_length(G, n, weight='cost')
+    sum_distance = 0
+
+    for dis in sp_distance:
+        sum_distance += sp_distance[dis]
     
-    node_count = dict() # node count to all keywords
-    node_sum = dict() # node sum distance to all keywords
-    node_distance = [] # distance from node to each keywords
-
-    for key in keywords:
-            initial = dict()
-            # initail distance 
-            initial[key] = 0
-            node_distance.append(initial)
-            key_point.append([key])
-
-    while len(candidate) < 10:
-        #print("Activation round : ", activate_round)
-        min_average = 999999
-        centroid = ''
-              
-
-        for index in range(len(key_point)):
-            activate_size = 1
-            # initail point.
-            for a in range(activate_size):
-                act_node = key_point[index].pop(0)
-                #print("Activate :: ", act_node)
-
-                # Activate
-                related_node = nx.neighbors(G, act_node)
-
-                # iterate neighbors.
-                for r in related_node:
-                    if r not in key_point[index]:
-                        # append node for next activation.
-                        key_point[index].append(r)
-                        distance_dict = node_distance[index]
-                        
-                        # distance from neightbor to activate node.
-                        distance_dict[r] = distance_dict[act_node] + G[act_node][r]['cost']
-                        if r in node_count:
-                            node_count[r] += 1
-                            node_sum[r] += distance_dict[r]
-                        else:
-                            node_count[r] = 1
-                            node_sum[r] = distance_dict[r]
-                    
-                    if node_count[r] == len(keywords):
-                        if G.node[r]['tag'] == 'DS':
-                            print(r, node_count[r])
-                            candidate[r] = node_sum[r] / len(keywords)
-                            print(candidate[r])
-                        """if min_average > candidate[r]:
-                            min_average = candidate[r]
-                            centroid = r"""
-        #print("Candidate : ", len(candidate))
-       
-        activate_round += 1
-    
-    return dict(sorted(candidate.items(), key=operator.itemgetter(1))) 
-
-"""keywords = ["headache", "infertility", "nausea", "miscarriage", "edema"]
-result = spreading_activation_centroid(G, keywords)
-
-print(result)"""
-x_link = [463, 542, None, 463, 610, None, 463, 604, None, 463, 322, None, 463, 308, None, 463, 94, None, 463, 107, None]
-for i in range(0,len(x_link),3):
-    x = x_link[:3]
-    print(x_link[:3])
+    average = sum_distance / len(sp_distance)
+    if min_average > average:
+        min_average = average
+        centroid = n
+print(centroid)

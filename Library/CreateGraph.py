@@ -149,7 +149,7 @@ def _calculate_link_dice(wordlink, countab):
 
 
 def _calculate_link_cost():
-
+    global link_cost
     for wordpair in link_count:
         dice = _calculate_link_dice(wordpair, link_count[wordpair])
         cost = 1/(dice+0.01)

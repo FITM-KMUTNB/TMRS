@@ -35,11 +35,11 @@ def spreading_activation_centroid(G, keywords):
     candidate = []
     current_hop = 0
     node_count = dict()
+    node_distance = []
 
     for key in keywords:
         activate_list.append([key])
-
-    
+               
     while len(candidate) <= 0:
         for circle in activate_list:
 
@@ -52,19 +52,18 @@ def spreading_activation_centroid(G, keywords):
                     if neighbors not in circle:
                         circle.append(neighbors)
                         node_count[neighbors] += 1
+
+                    if node_count[neighbors] == len(keywords):
+                        candidate.append(neighbors)
             
                 else:
                     circle.append(neighbors)
                     node_count[neighbors] = 1
-        
-        for node in node_count:
-            if node_count[node] == len(keywords):
-                candidate.append(node)
+
         current_hop += 1
- 
+   
     print(candidate)       
-    
-    
+     
 
 # Example
 keywords = ['I', 'A', 'E']

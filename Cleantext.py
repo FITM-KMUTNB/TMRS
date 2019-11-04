@@ -69,5 +69,5 @@ def WordTags():
         replaceu = removen.lower().replace(" ", "_")
         DiseaseName.append(replaceu)
       
-WordTags()
-dir()
+#WordTags()
+#dir()
