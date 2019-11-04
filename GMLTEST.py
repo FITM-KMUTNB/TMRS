@@ -2,7 +2,7 @@ import networkx as nx
 import operator
 import nltk
 
-G = nx.read_gpickle("Database/Pickle/man.gpickle")
+G = nx.read_gpickle("Database/Pickle/221tag.gpickle")
 print(nx.info(G))
 #maxdistance2 = nx.single_source_dijkstra_path_length(G,'disease', weight='cost')
 #print('max2 : ', G.edges['Year', 'Baby']['cost'])
@@ -51,19 +51,6 @@ def addition2(array):
     return total
 
 #addition2(x)
-
-
-min_average = 999999.999
-centroid = ''
-for n in G.nodes:
-    sp_distance = nx.single_source_dijkstra_path_length(G, n, weight='cost')
-    sum_distance = 0
-
-    for dis in sp_distance:
-        sum_distance += sp_distance[dis]
-    
-    average = sum_distance / len(sp_distance)
-    if min_average > average:
-        min_average = average
-        centroid = n
-print(centroid)
+n = nx.neighbors(G, 'trunk')
+for b in n:
+    print(b, " : ", G.nodes[b]['occur'])
