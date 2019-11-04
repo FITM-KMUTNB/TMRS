@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+<html>
+<meta charset="utf-8">
+
+
+{% block body %}
+<body style="background-color:rgb(255, 251, 251);">
+<br>
+<center>
+	{% if my_centroid %}
+	<form action ="." method="GET">{% csrf_token %}
+	{{ my_centroid }} Neighbors <input type="number" name="hop" min="1"> Hop
+	<input type="hidden" name="centroid" value= '{{ my_centroid }}'>
+	<button type="submit">Submit</button>
+	</form>
+	{% endif %}
+</center>      
+	
+{% if graph %}
+<br>
+<center>
+<div style="width:1200;height:500">
+{{ graph|safe }}
+</div>
+</center>
+{% endif %}
+    
+</body>
+{% endblock %}   
+
+</html>
