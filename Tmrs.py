@@ -9,8 +9,61 @@ import os
 def disease(G, keywords):
     # Return disease proximity to keywords
 
-    return disease_by_hop(G, keywords)
+    return disease_hop_activate(G, keywords)
 
+def disease_hop_activate(G, keywords):
+    activate_list = []
+    candidate = dict()
+    disease = dict()
+    current_hop = 0
+    node_count = dict()
+    node_distance = []
+    sum_distance = dict()
+
+    for key in keywords:
+        activate_list.append([key])
+        node_distance.append({key : 0})
+               
+    while len(disease) <= 5:
+        for circle in range(len(activate_list)):
+            activate_node = activate_list[circle][current_hop]
+            
+            for neighbors in nx.neighbors(G, activate_node):
+                if neighbors in keywords:
+                    continue
+
+                # distance from initial point.
+                if neighbors not in node_distance[circle]:
+                    
+                    node_distance[circle][neighbors] = node_distance[circle][activate_node] + G[activate_node][neighbors]['cost']
+
+                    # sum distance to all keywords.
+                    if neighbors in sum_distance:
+                        sum_distance[neighbors] += node_distance[circle][neighbors]
+                    else:
+                        sum_distance[neighbors] = node_distance[circle][neighbors]
+                
+                # check intersect
+                if neighbors in node_count:
+
+                    if neighbors not in activate_list[circle]:
+                        activate_list[circle].append(neighbors)
+                        node_count[neighbors] += 1
+                    
+                    # if found node intersect, calculate average distance.
+                    if node_count[neighbors] == len(keywords):
+                        candidate[neighbors] = sum_distance[neighbors] / len(keywords)
+                        if G.node[neighbors]['tag'] == 'DS':
+                            disease[neighbors] = sum_distance[neighbors] / len(keywords)
+            
+                else:
+                    activate_list[circle].append(neighbors)
+                    node_count[neighbors] = 1
+                     
+
+        current_hop += 1
+    
+    return dict(sorted(disease.items(), key=operator.itemgetter(1))), dict(sorted(candidate.items(), key=operator.itemgetter(1)))    
 
 def disease_by_hop(G, keywords):
     disease = dict()
@@ -281,8 +334,8 @@ def tmrs_graph_clustering():
     G = nx.read_gpickle("Database/Pickle/221tag.gpickle")
     print(nx.info(G))
     ct.graph_cluster(G)
-
-#tmrs_graph_clustering()
-"""G = nx.read_gpickle('Database/Pickle/221tag.gpickle')
-centroid = 'dengue_fever'
-disease_related(G, centroid)"""
+"""
+G = nx.read_gpickle("Database/Pickle/221tag.gpickle")
+keywords = ['skin', 'headache', 'itch']
+disease, centroid = disease_hop_activate(G, keywords)
+"""

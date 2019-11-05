@@ -234,16 +234,61 @@ def spreading_activation_centroid(G, keywords):
     
     return dict(sorted(candidate.items(), key=operator.itemgetter(1))) 
 
+def hop_activate_centroid(G, keywords):
+    activate_list = []
+    candidate = dict()
+    current_hop = 0
+    node_count = dict()
+    node_distance = []
+    sum_distance = dict()
+
+    for key in keywords:
+        activate_list.append([key])
+        node_distance.append({key : 0})
+               
+    while len(candidate) <= 0:
+        for circle in range(len(activate_list)):
+            activate_node = activate_list[circle][current_hop]
+            
+            for neighbors in nx.neighbors(G, activate_node):
+                if neighbors in keywords:
+                    continue
+
+                # distance from initial point.
+                if neighbors not in node_distance[circle]:
+                    
+                    node_distance[circle][neighbors] = node_distance[circle][activate_node] + G[activate_node][neighbors]['cost']
+
+                    # sum distance to all keywords.
+                    if neighbors in sum_distance:
+                        sum_distance[neighbors] += node_distance[circle][neighbors]
+                    else:
+                        sum_distance[neighbors] = node_distance[circle][neighbors]
+                
+                # check intersect
+                if neighbors in node_count:
+
+                    if neighbors not in activate_list[circle]:
+                        activate_list[circle].append(neighbors)
+                        node_count[neighbors] += 1
+                    
+                    # if found node intersect, calculate average distance.
+                    if node_count[neighbors] == len(keywords):
+                        candidate[neighbors] = sum_distance[neighbors] / len(keywords)
+            
+                else:
+                    activate_list[circle].append(neighbors)
+                    node_count[neighbors] = 1
+        current_hop += 1
+    
+    return dict(sorted(candidate.items(), key=operator.itemgetter(1)))   
 
 """
 G = nx.read_gpickle("../Database/Pickle/221tag.gpickle")
 #graph_cluster2(G)
 keywords = ['skin', 'itch', 'headache']
-centroid = spreading_activation_centroid(G, keywords)
+centroid = hop_activate_centroid(G, keywords)
 for c in centroid:
-    try:
-        if G.node[c]['tag'] == 'DS':
-            print(c)
-    except:
-        pass
-"""
+    print(c, " : ", centroid[c])
+"""   
+

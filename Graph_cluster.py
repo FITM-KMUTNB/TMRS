@@ -153,10 +153,10 @@ def graph_cluster():
             cluster_ct[c_id] = node
             cluster_area[c_id] = _cluster_area(cluster[c_id])
 
-            print("Create New cluster id : ", c_id)
-            print("member : ", len(cluster[c_id]))
-            print("area : ", cluster_area[c_id])
-            print("centroid : ", cluster_ct[c_id])
+            #print("Create New cluster id : ", c_id)
+            #print("member : ", len(cluster[c_id]))
+            #print("area : ", cluster_area[c_id])
+            #print("centroid : ", cluster_ct[c_id])
 
             c_id += 1
 
@@ -174,10 +174,10 @@ def graph_cluster():
                 cluster_ct[c_id] = node
                 cluster_area[c_id] = _cluster_area(cluster[c_id])
 
-                print("Create New cluster id : ", c_id)
-                print("member : ", len(cluster[c_id]))
-                print("area : ", cluster_area[c_id])
-                print("centroid : ", cluster_ct[c_id])
+                #print("Create New cluster id : ", c_id)
+                #print("member : ", len(cluster[c_id]))
+                #print("area : ", cluster_area[c_id])
+                #print("centroid : ", cluster_ct[c_id])
 
                 c_id += 1
    
@@ -215,8 +215,8 @@ def _add_to_exist_clsuter(node):
                         found_cluster = True
     # Found existing cluster that node could be enter.
     if final_cluster != 0:
-        print("To Existing Cluster : ", final_cluster)
-        print("distance : ", min_distance)
+        #print("To Existing Cluster : ", final_cluster)
+        #print("distance : ", min_distance)
         if node not in has_cluster:
             has_cluster.add(node)
         # add node to cluster.
@@ -237,7 +237,7 @@ def _add_to_exist_clsuter(node):
         # check node distance to centroid, if out of range will find new cluster.
         for n_distance in cluster[final_cluster].copy():
             if cluster[final_cluster][n_distance] > cluster_area[final_cluster]:
-                print("Over lenght!!")
+                #print("Over lenght!!")
                 # find new cluster.
                 
                 cluster[final_cluster].pop(n_distance)
@@ -248,16 +248,16 @@ def _add_to_exist_clsuter(node):
                     cluster_ct[c_id] = node
                     cluster_area[c_id] = _cluster_area(cluster[c_id])
 
-                    print("Create New cluster id : ", c_id)
-                    print("member : ", len(cluster[c_id]))
-                    print("area : ", cluster_area[c_id])
-                    print("centroid : ", cluster_ct[c_id])
+                    #print("Create New cluster id : ", c_id)
+                    #print("member : ", len(cluster[c_id]))
+                    #print("area : ", cluster_area[c_id])
+                    #print("centroid : ", cluster_ct[c_id])
 
                     c_id += 1
     
-        print("member : ", len(cluster[final_cluster]))
-        print("area : ", cluster_area[final_cluster])
-        print("centroid : ", cluster_ct[final_cluster])
+        #print("member : ", len(cluster[final_cluster]))
+        #print("area : ", cluster_area[final_cluster])
+        #print("centroid : ", cluster_ct[final_cluster])
 
     return found_cluster
 
@@ -373,6 +373,7 @@ def _write_graph_to_gpickle_format(g_file):
 
     print(nx.info(G))
     nx.write_gpickle(G, g_file)
+
 
 def clustering():
     path = "Document/corpus221/cleantag/"
