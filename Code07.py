@@ -39,29 +39,39 @@ def spreading_activation_centroid(G, keywords):
 
     for key in keywords:
         activate_list.append([key])
+        node_distance.append({key : 0})
                
     while len(candidate) <= 0:
-        for circle in activate_list:
-
-            for neighbors in nx.neighbors(G, circle[current_hop]):
+        for circle in range(len(activate_list)):
+            activate_node = activate_list[circle][current_hop]
+            
+            for neighbors in nx.neighbors(G, activate_node):
                 if neighbors in keywords:
                     continue
 
+                # distance from initial point.
+                if neighbors not in node_distance[circle]:
+                    
+                    node_distance[circle][neighbors] = node_distance[circle][activate_node] + 1
+                
+                # check intersect
                 if neighbors in node_count:
 
-                    if neighbors not in circle:
-                        circle.append(neighbors)
+                    if neighbors not in activate_list[circle]:
+                        activate_list[circle].append(neighbors)
                         node_count[neighbors] += 1
 
                     if node_count[neighbors] == len(keywords):
                         candidate.append(neighbors)
             
                 else:
-                    circle.append(neighbors)
+                    activate_list[circle].append(neighbors)
                     node_count[neighbors] = 1
+          
+            
 
         current_hop += 1
-   
+    
     print(candidate)       
      
 

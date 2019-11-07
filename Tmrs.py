@@ -24,7 +24,7 @@ def disease_hop_activate(G, keywords):
         activate_list.append([key])
         node_distance.append({key : 0})
                
-    while len(disease) <= 5:
+    while len(disease) <= 10:
         for circle in range(len(activate_list)):
             activate_node = activate_list[circle][current_hop]
             
