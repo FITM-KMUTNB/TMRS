@@ -297,7 +297,7 @@ def disease_text_tag():
 
 def create_tmrs_graph():
     input_text_dir = "Document/corpus221/cleantag/"
-    g_file = "Database/Pickle/221tag.gpickle"
+    g_file = "Database/Pickle/221d.gpickle"
     ct.create_graph(input_text_dir, g_file)
 
 
@@ -334,8 +334,23 @@ def tmrs_graph_clustering():
     G = nx.read_gpickle("Database/Pickle/221tag.gpickle")
     print(nx.info(G))
     ct.graph_cluster(G)
-"""
-G = nx.read_gpickle("Database/Pickle/221tag.gpickle")
-keywords = ['skin', 'headache', 'itch']
-disease, centroid = disease_hop_activate(G, keywords)
-"""
+
+def tmrs_graph_add_pdf_attr():
+    text_disease_dir = "Document/corpus221/PDF/"
+    disease_doc = dict()
+
+    os.chdir(text_disease_dir)
+    for file in glob.glob("*.pdf"):
+        disease_name = file.lower().replace(".pdf", "")
+        if disease_name not in disease_doc:
+            if disease_name == "hiv_aids":
+                disease_doc["hiv/aids"] = file
+            else:
+                disease_doc[disease_name] = file
+    os.chdir('../../..')
+    G = nx.read_gpickle("Database/Pickle/221d.gpickle")
+ 
+    for node in G.nodes:
+        if node in disease_doc:
+            nx.set_node_attributes(G, {node: {'document': disease_doc[node]}})
+    nx.write_gpickle(G, "Database/Pickle/221d.gpickle")

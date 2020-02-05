@@ -1,7 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plot
 import operator
-
+from collections import defaultdict
 G = nx.Graph()
 
 G.add_edges_from([('A', 'B'), ('A', 'M'), ('A', 'L'), ('B', 'C'), ('B', 'D'),
@@ -74,8 +74,73 @@ def spreading_activation_centroid(G, keywords):
     
     print(candidate)       
      
+def disease_hop_activate(keywords):
+    activate_list = []
+    candidate = dict()
+    disease = dict()
+    current_hop = 0
+    node_count = dict()
+    node_distance = []
+    sum_distance = dict()
+    
+    path = []
+    for key in keywords:
+        activate_list.append([key])
+        node_distance.append({key : 0})
+        path.append({key:[key]})
+        
+    while len(disease) <= 1:
+        
+        for circle in range(len(activate_list)):
+            activate_node = activate_list[circle][current_hop]
+            
+            for neighbor in nx.neighbors(G, activate_node):
+                if neighbor in keywords:
+                    continue
 
+                # distance from initial point.
+                if neighbor not in node_distance[circle]:
+                    
+                    node_distance[circle][neighbor] = node_distance[circle][activate_node] + 1
+                    
+                    prev_path = path[circle][activate_node]
+                  
+                    current_path = prev_path + [neighbor]
+                  
+                    path[circle][neighbor] = current_path
+                    print(path)
+                    # sum distance to all keywords.
+                    if neighbor in sum_distance:
+                        sum_distance[neighbor] += node_distance[circle][neighbor]
+                    else:
+                        sum_distance[neighbor] = node_distance[circle][neighbor]
+
+                
+                # check intersect
+                if neighbor in node_count:
+
+                    if neighbor not in activate_list[circle]:
+                        activate_list[circle].append(neighbor)
+                        node_count[neighbor] += 1
+                    
+                    # if found node intersect, calculate average distance.
+                    if node_count[neighbor] == len(keywords):
+                        candidate[neighbor] = sum_distance[neighbor] / len(keywords)
+                        disease[neighbor] = float(format(sum_distance[neighbor] / len(keywords) , '.4f'))
+            
+                else:
+                    activate_list[circle].append(neighbor)
+                    node_count[neighbor] = 1
+                     
+
+        current_hop += 1
+    print(candidate)
+    return dict(sorted(disease.items(), key=operator.itemgetter(1))), dict(sorted(candidate.items(), key=operator.itemgetter(1)))
 # Example
 keywords = ['I', 'A', 'E']
-spreading_activation_centroid(G, keywords)
+disease_hop_activate(keywords)
 
+dict1 = [{'a':['b']}]
+prev = dict1[0]['a']
+current = prev + ['c']
+#print(dict1)

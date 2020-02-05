@@ -26,9 +26,9 @@
 							.charge([-150])
 							.start();
 							var node_drag = d3.behavior.drag()
-	.on("dragstart", dragstart)
-	.on("drag", dragmove)
-	.on("dragend", dragend);
+											.on("dragstart", dragstart)
+											.on("drag", dragmove)
+											.on("dragend", dragend);
 
 	function dragstart(d, i) {
 		force.stop() // stops the force auto positioning before you start dragging

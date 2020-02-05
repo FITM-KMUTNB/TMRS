@@ -44,7 +44,7 @@
 <tr>
 <th>Disease</th>
 <th>Average Distance</th>
-<th>Average Hop Distance</th>
+<!--<th>Average Hop Distance</th>-->
 <th>Document</th>
 </tr>
 
@@ -52,13 +52,17 @@
 <tr>
 <td>
 {{ d }}
-&nbsp;    
+&nbsp; 
+ <!--   
 <a href="/neighbor/?centroid={{ d }}">2D</a>
+
 <a href="/d3neighbor/?centroid={{ d }}">3D</a>
+-->
 </td>
 <td>
 {{ dis }}
 </td>
+<!--
 <td>
 {% if diseasehop %}
 {{ diseasehop|get_item:d }}
@@ -67,6 +71,7 @@
 None
 {% endif %}
 </td>
+-->
 <td>
 <a href="/document/?doc={{ document|get_item:d }}">{{ document|get_item:d }}</a>
 
